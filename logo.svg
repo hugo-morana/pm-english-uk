@@ -1,14 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <rect width="512" height="512" fill="#2a211d"/>
+  <rect width="512" height="512" fill="#1f2a44"/>
   <!-- sol -->
-  <rect x="0" y="430" width="512" height="82" fill="#3a2e27"/>
-  <!-- drapeau italien sur mât -->
+  <rect x="0" y="430" width="512" height="82" fill="#2b3a5c"/>
+  <!-- Union Jack sur mât -->
   <line x1="256" y1="52" x2="256" y2="150" stroke="#c9a24a" stroke-width="8" stroke-linecap="round"/>
-  <g transform="translate(260 56)">
-    <rect x="0" y="0" width="34" height="58" fill="#009246"/>
-    <rect x="34" y="0" width="34" height="58" fill="#f4f1ea"/>
-    <rect x="68" y="0" width="34" height="58" fill="#ce2b37"/>
-  </g>
+  <svg x="260" y="56" width="104" height="58" viewBox="0 0 60 30" preserveAspectRatio="none">
+    <clipPath id="t"><path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/></clipPath>
+    <path d="M0,0 v30 h60 v-30 z" fill="#012169"/>
+    <path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/>
+    <path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#t)" stroke="#C8102E" stroke-width="4"/>
+    <path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/>
+    <path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/>
+  </svg>
   <!-- cerveau en coupole -->
   <g>
     <path d="M122 246 C110 196 150 150 200 156 C214 132 250 126 256 150 C262 126 298 132 312 156 C362 150 402 196 390 246 Z" fill="#e58fb2"/>
@@ -28,7 +31,7 @@
     <rect x="114" y="282" width="50" height="10"/><rect x="182" y="282" width="50" height="10"/><rect x="280" y="282" width="50" height="10"/><rect x="348" y="282" width="50" height="10"/>
   </g>
   <!-- porte -->
-  <path d="M234 408 V340 A22 22 0 0 1 278 340 V408 Z" fill="#9c3d22"/>
+  <path d="M234 408 V340 A22 22 0 0 1 278 340 V408 Z" fill="#a3202b"/>
   <!-- marches -->
   <rect x="86" y="408" width="340" height="12" fill="#e6d6bc"/>
   <rect x="72" y="420" width="368" height="12" fill="#d8c7a8"/>
