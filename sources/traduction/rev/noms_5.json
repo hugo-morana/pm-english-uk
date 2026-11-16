@@ -1,0 +1,133 @@
+{
+ "fix": {
+  "10": {
+   "eim": "a really bad idea"
+  },
+  "27": {
+   "eim": "Calm"
+  },
+  "45": {
+   "eim": "operation"
+  },
+  "55": {
+   "eim": "time"
+  },
+  "67": {
+   "eit": "My ear's hurting.",
+   "eim": "ear"
+  },
+  "71": {
+   "eim": "future"
+  },
+  "75": {
+   "eit": "An investigation has been launched."
+  },
+  "94": {
+   "eim": "head start"
+  },
+  "96": {
+   "eim": "emergency services"
+  }
+ },
+ "li": {
+  "0": "Une explosion des EFFETS spéciaux souffle le plateau et projette le technicien sur la pelouse, aux pieds de l'arbitre qui ROULE.",
+  "1": "Le parchemin des RÈGLES se déroule jusqu'au West End et s'enroule autour du mannequin à la ROBE rouge.",
+  "2": "La ROBE rouge glisse du mannequin et vole jusqu'à l'Old Bailey, où elle couvre les DIX SCIES du juge.",
+  "3": "Le maillet du juge rebondit sur les DIX SCIES et coupe le FIL à LINGE où pend le CŒUR qui bat.",
+  "4": "Le CŒUR tombe du FIL à LINGE dans la forêt de Sherwood, droit dans le pot de MIEL d'ANNIE.",
+  "5": "L'ANIMAL de Sherwood avale le MIEL et s'envole, accroché à l'aile de l'avion en plein VOL.",
+  "6": "Le passager lance sa FLÛTE par le hublot ; elle tombe dans le brouillard de Whitechapel sur le TUEUR à gages.",
+  "7": "Le TUEUR s'enfuit à travers champs jusqu'à la croisée de chemins, où la BÊTE à cornes lui barre la route.",
+  "8": "La BÊTE à cornes suit le sentier jusqu'à la fête du village et pose le PRIX sur la tête de la JOLIE FILLE.",
+  "9": "La JOLIE FILLE lance son PRIX par la fenêtre du B&B, dans la partie de BADMINTON au RIZ.",
+  "10": "Le volant de BADMINTON file hors du B&B et atterrit dans un verre de gin sur le comptoir du BAR si BAS.",
+  "11": "Le comptoir du BAR glisse jusqu'à la SALLE À MANGER du manoir, où le DAIM et le NAIN trinquent au RHUM.",
+  "12": "Le NAIN lance une pêche par la fenêtre du manoir ; elle tombe dans la main du SKINHEAD de l'East End.",
+  "13": "Le SKINHEAD jette la PELURE de pêche dans le grand verre de VIN que WAYNE lève au pub.",
+  "14": "WAYNE renverse son VIN rouge sur l'IMAGE encadrée de la National Gallery, réveillant le CHAT tigré.",
+  "15": "Le PIC-vert s'envole de l'IMAGE et se pose sur le bonnet d'un garde de la COMPAGNIE en route vers le CAMP.",
+  "16": "Un PANIER de pique-nique tombe du CAMP et roule jusqu'à Big Ben, sous les pieds du HÉROS en cape.",
+  "17": "Le HÉROS lance son burin à HIÉROGLYPHES vers la caserne de Wellington, où le LIEUTENANT le rattrape.",
+  "18": "Le LIEUTENANT agite son drapeau au grand F et le plante sous l'enseigne lumineuse « CLUB » de Soho.",
+  "19": "La file du CLUB fait CLAP-CLAP si fort que des CHOUX verts tombent dans les CHAUSSURES de la dame du black cab.",
+  "20": "La dame lance ses CHAUSSURES pleines de CHOUX sur la table du COMITÉ, renversant les tasses À MI-THÉ.",
+  "21": "Le thé renversé du COMITÉ coule jusqu'au BANC devant la BANQUE d'Angleterre et trempe les billets du gentleman.",
+  "22": "Les billets trempés s'envolent jusqu'aux Cotswolds et se posent sur les bouchons de LIÈGE de la mare du VILLAGE.",
+  "23": "Un bouchon de LIÈGE de la mare saute dans le salon de thé et tombe dans le SAC À MAIN de la lady.",
+  "24": "La lady lance sa BAGUE, qui roule jusqu'à la tour de verre de la grande SOCIÉTÉ de la City.",
+  "25": "Les employés de la SOCIÉTÉ montent leur CAMP sur un toit de la City, sur le plan du PROJET du PRO DJ.",
+  "26": "Le PRO DJ lance un vinyle qui ricoche jusqu'au lac CALME du Lake District et heurte l'arbre à CAMES.",
+  "27": "L'arbre à CAMES flotte du lac jusqu'à King's Cross et cogne le panneau « i » d'INFORMATION.",
+  "28": "MES CHAÎNES fondues coulent hors de King's Cross jusqu'à Ascot, sous les RAIES géantes de la COURSE.",
+  "29": "Une RAIE géante s'envole d'Ascot et se plaque contre la fenêtre de l'APPARTEMENT en marbre que l'agent FLATTE.",
+  "30": "L'agent immobilier saute de l'APPARTEMENT dans le train pour Brighton, juste devant le contrôleur TCHÈQUE.",
+  "31": "Le contrôleur TCHÈQUE poinçonne une CAPE et la jette par la fenêtre sur les bottes de paille de la ferme du Devon.",
+  "32": "Un DÉ roule des bottes de paille jusqu'au quai désert, sur la valise poussiéreuse du voyageur qui souffle « FIOU ! ».",
+  "33": "Le voyageur, lassé, lance sa valise dans la forêt de Sherwood, droit sur la cible « J'AIME » de l'archer.",
+  "34": "La flèche de l'archer file jusqu'à la Tour de Londres et coupe le lingot en deux entre les HARFANGS.",
+  "35": "Un HARFANG emporte sa MOITIÉ de lingot jusqu'au labo d'Oxford et la lâche dans l'éprouvette de l'EXPÉRIENCE.",
+  "36": "L'esprit SPIRITE de l'éprouvette s'envole vers la Tamise et plonge dans la CALE de la péniche, sur le pinceau qui COLORE.",
+  "37": "Le pinceau qui COLORE éclabousse de rouge la vieille RADIO du cottage, d'où sort le poisson RAIE.",
+  "38": "Le poisson RAIE sort de la RADIO et nage jusqu'au bord de la Tamise, où il bâille au discours du BEAU gentleman.",
+  "39": "Le BEAU gentleman se réveille de son ENNUI et file à Paddington, où il heurte le voyageur au BILLET froissé.",
+  "40": "Le BILLET froissé s'envole jusqu'aux thermes de BATH et tombe dans le BAIN du BAGNARD.",
+  "41": "Le BAGNARD tire de son BAIN un POISSON que le pêcheur de Whitby emballe aussitôt dans une FICHE.",
+  "42": "Le pêcheur lance le POISSON dans sa FICHE jusqu'à Hyde Park, où il se coince dans les branches de l'ARBRE blanc.",
+  "43": "Une feuille triée par l'ARBRE tombe sur le fil du funambule qui joue au RISK au-dessus de la Tamise.",
+  "44": "Le funambule tombe de son fil dans un hôpital londonien, en pleine OPÉRATION du chirurgien qui chante.",
+  "45": "La CHAÎNE en or du chirurgien s'envole jusqu'au MILIEU de la scène du Royal Albert Hall, au cou de la mezzo-soprano.",
+  "46": "La mezzo-soprano lance un bouquet qui atterrit dans la main de la statue de la LIBERTÉ, à la place de la frite.",
+  "47": "La frite de la LIBERTÉ tombe dans la MACHINE à café de Soho, qui siffle comme une locomotive.",
+  "48": "La vapeur de la MACHINE à café propulse une tasse jusqu'à Harley Street, contre la DENT énorme du dentiste.",
+  "49": "Le dentiste lance la DENT énorme, qui frappe le NEZ cassé du bagarreur à la sortie du pub.",
+  "50": "Le bagarreur pris de NAUSÉE titube jusqu'à l'hôpital du NHS et s'écroule sur le patient qui grimace de DOULEUR.",
+  "51": "Le patient en DOULEUR rejette sa couverture écossaise sur les marches de Buckingham, sur l'ESCARPIN de Cendrillon.",
+  "52": "Le gros CHOU vert roule de la CHAUSSURE jusqu'à Pinewood, sous le clap qui crie ACTION !",
+  "53": "La HACHE du bûcheron s'envole jusqu'aux falaises de Douvres et fend la FAILLE où luttent les deux combattants.",
+  "54": "Un des lutteurs du COMBAT est projeté dans le salon de Kensington, contre l'horloge d'ÉPOQUE victorienne.",
+  "55": "La danseuse THAÏE s'envole de sa révérence jusqu'au PAYS DES RÊVES, sur les nuages de la DREAM TEAM.",
+  "56": "La balle de cricket de la DREAM TEAM tombe des nuages dans la boue de la FERME du Yorkshire.",
+  "57": "La FEMME en bottes lance une pelletée de fatras qui brise le bocal du CERVEAU au Science Museum.",
+  "58": "La CERVELLE s'échappe du bocal et roule jusqu'à Stonehenge, sous la PIERRE des ROLLING STONES.",
+  "59": "Le chanteur lance la PIERRE, qui traverse le toit du théâtre du Globe et aplatit le rouleau à PÂTE du RÔLE.",
+  "60": "L'acteur du Globe lance son rouleau à PÂTE jusqu'à Gatwick, sur le museau du chien qui renifle la DROGUE.",
+  "61": "Le douanier qui DRAGUE se cache derrière la statue de Piétà, à côté du voleur qui supplie « MERCI ! ».",
+  "62": "Le voleur à genoux est traîné à l'Old Bailey, sous le marteau du JUGE qui tape sur l'air de « DJADJA ».",
+  "63": "Le marteau du JUGE s'envole et frappe la mèche de la BOMBE que le BONHOMME de neige essaie de souffler.",
+  "64": "La BOMBE explose et projette des morceaux de plan sur Londres, découpé en QUARTIERS où chante la diva.",
+  "65": "L'ARIA de la diva fait trembler la table de RÉUNION de la City, où l'on se passe la MIE de pain.",
+  "66": "La cuillère qui TINTE s'envole de la RÉUNION et rebondit dans l'OREILLE géante au pied de Big Ben.",
+  "67": "Les coups de Big Ben font fuir de l'OREILLE un OISEAU qui file picorer le BEURRE du scone.",
+  "68": "L'OISEAU emporte le scone beurré jusqu'au château écossais et le lâche sur la tête de ma TANTE qui HANTE.",
+  "69": "Ma TANTE fantôme flotte hors du château et glisse le long d'une SENTE de Kew jusqu'au CENTRE de la cible.",
+  "70": "Une flèche plantée au CENTRE de la cible rebondit jusqu'à Brighton et brise la boule de cristal de la voyante.",
+  "71": "Le FIOUL renversé par la voyante coule jusqu'à Southampton sous le bateau du DÉPART couvert de DIX PATCHS.",
+  "72": "Un des DIX PATCHS s'envole du bateau et se colle sur la plaque de rue de l'ADRESSE plantée dans la rizière.",
+  "73": "La plaque de l'ADRESSE tombe dans la salle d'attente du médecin, sur les genoux du PATIENT qui chante.",
+  "74": "Le PATIENT tend sa feuille de soins à l'indic de Scotland Yard, qui tire UN VESTIGE pour l'ENQUÊTE.",
+  "75": "La GAIE CHAÎNE fleurie de l'ENQUÊTE s'enroule autour des verres de NECTAR au bord de la Tamise.",
+  "76": "Les feux d'artifice de l'ANNÉE PROCHAINE éclatent dans l'orage du MAUVAIS RÊVE, sur la DREAM TEAM.",
+  "77": "Le volant de BADMINTON du MAUVAIS RÊVE vole jusqu'à Cambridge et tombe dans l'éprouvette de TEST.",
+  "78": "Le chercheur verse son éprouvette de TEST dans la THÉIÈRE fumante, faisant chanter TITI le canari.",
+  "79": "TITI s'envole de la THÉIÈRE et picore les GRAINES que sème la GRAND-MÈRE en habit de nonne.",
+  "80": "Le VENT arrache les GRAINES des mains de la GRAND-MÈRE et les emporte jusqu'au moulin de WINDSOR.",
+  "81": "Une pale du moulin de WINDSOR s'envole jusqu'au 10 Downing Street et frappe le pupitre du ministre qui GOUVERNE.",
+  "82": "Le ministre lance ses bonbons à la MENTHE au garde royal en POSITION, qui ne bouge pas d'un cil.",
+  "83": "La lourde CHAÎNE du garde roule jusqu'à la BASE de la RAF et brise une des SIX BAIES vitrées.",
+  "84": "Par la baie brisée de la BASE, une fusée éclairante s'envole et allume le réverbère : « HOP ! », ESPOIR.",
+  "85": "Le réverbère de l'ESPOIR tombe dans la COUR de l'école, sur les PLAIDS écossais des écoliers.",
+  "86": "Un écolier lance son GROS ROND de craie dans le pub, sur la MAIN GAUCHE du joueur de poker.",
+  "87": "Les cartes HANTÉES s'envolent de la MAIN GAUCHE et tombent sous le SALE TEMPS, sur le DÉ géant et HORRIBLE.",
+  "88": "Le DÉ HORRIBLE roule sous la pluie jusqu'à la gare et s'écrase sur les bottes de paille couvertes de la CAPE.",
+  "89": "La fumée des bottes de paille brûlantes file à Victoria et fait tourner le sablier géant des QUELQUES HEURES.",
+  "90": "Le sablier géant tombe du quai de Victoria et roule jusqu'au petit MAGASIN de CHOPES de Covent Garden.",
+  "91": "Le marchand lance une CHOPE pleine sur la carte de MEMBRE tartinée de BEURRE du gentlemen's club.",
+  "92": "La carte de MEMBRE beurrée glisse jusqu'au cottage du Kent et tombe dans la casserole de mon COUSIN.",
+  "93": "Mon COUSIN lance ses épices de KAZAN dans la cabine du train de King's Cross, sur la STAR du rock.",
+  "94": "La STAR du rock pousse la manette si fort qu'une PIÈCE de puzzle s'envole jusque sous le tapis du salon.",
+  "95": "La PIÈCE de puzzle de PISE glisse sous les roues de l'ambulance des SECOURS qui ÉMERGE du brouillard.",
+  "96": "L'ambulance des SECOURS fonce sur le plateau de Pinewood et renverse le RAT assis sur la CAMÉRA.",
+  "97": "La CAMÉRA roule hors de son rail jusqu'au métro, juste sous la CAMÉRA DE SURVEILLANCE et ses deux SCIES.",
+  "98": "Les deux SCIES lâchent leur THÉ, qui coule jusqu'au Loch Ness et réveille le MONSTRE vert."
+ }
+}

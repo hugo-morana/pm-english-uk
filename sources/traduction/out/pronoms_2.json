@@ -1,0 +1,371 @@
+{
+ "niches": [
+  {
+   "n": 0,
+   "it": "yours",
+   "eit": "It's your key, it's yours.",
+   "eim": "yours",
+   "api": "/jɔːz/",
+   "pr": "IOOZ",
+   "mc": "YORK",
+   "sc": "Dans une rue de YORK, une main te tend une clé : « C'est LA TIENNE, tu l'as en main. »",
+   "de": "yours ≈ « York(s) » ; la clé dans ta main = la tienne",
+   "fo": "yours = le tien, la tienne, le vôtre… (invariable) ; jamais d'apostrophe"
+  },
+  {
+   "n": 1,
+   "it": "anyone",
+   "eit": "Anyone can come.",
+   "eim": "Anyone",
+   "api": "/ˈeniwʌn/",
+   "pr": "È-ni-ouane",
+   "mc": "ET NI UN",
+   "sc": "Un inconnu, n'importe qui — QUICONQUE — entre dans un pub de quartier… ET NI UN ne paie sa pinte.",
+   "de": "anyone ≈ « et ni un » ; l'inconnu qui entre = quiconque",
+   "fo": "anyone / anybody = n'importe qui ; dans les questions et négations = quelqu'un, personne"
+  },
+  {
+   "n": 2,
+   "it": "oneself / himself",
+   "eit": "Every man for himself.",
+   "eim": "himself",
+   "api": "/hɪmˈself/",
+   "pr": "him-SÈLF",
+   "mc": "SELF",
+   "sc": "Un miroir de pub montre SOI-même ; devant le comptoir du SELF, c'est chacun pour SOI.",
+   "de": "self ≈ « self » ; le miroir = soi",
+   "fo": "Every man for himself = chacun pour soi ; oneself (soutenu) : to look after oneself",
+   "px": [
+    "That goes without saying."
+   ]
+  },
+  {
+   "n": 3,
+   "it": "yourself",
+   "eit": "Do it yourself.",
+   "eim": "yourself",
+   "api": "/jɔːˈself/",
+   "pr": "ioo-SÈLF",
+   "mc": "YO ! SELF",
+   "sc": "Un majordome tend la laisse et un steak à son maître : « Nourrissez le chien VOUS-MÊME, Monsieur », puis file au SELF avec un « YO ! ».",
+   "de": "yourself ≈ « yo, self » ; le majordome qui rend la laisse = vous-même",
+   "fo": "yourself (une personne, tu ou vous) / yourselves (plusieurs) ; DIY = do it yourself = bricolage"
+  },
+  {
+   "n": 4,
+   "it": "herself",
+   "eit": "She did it herself.",
+   "eim": "herself",
+   "api": "/hɜːˈself/",
+   "pr": "heu-SÈLF",
+   "mc": "HEURE",
+   "sc": "Du lait versé sur un steak, servi à l'HEURE du thé : elle l'a fait ELLE-MÊME.",
+   "de": "herself ≈ « heure-self » ; le steak au lait = elle-même",
+   "fo": "réfléchi (she hurt herself) ou insistance (she did it herself) ; by herself = toute seule",
+   "px": [
+    "She insisted on paying the bill herself."
+   ]
+  },
+  {
+   "n": 5,
+   "it": "theirs",
+   "eit": "It's theirs.",
+   "eim": "theirs",
+   "api": "/ðeəz/",
+   "pr": "THÈEZ",
+   "mc": "DES AIRS",
+   "sc": "Deux jumeaux brandissent leur lingot d'or devant la Banque d'Angleterre en se donnant DES AIRS : « C'est LE LEUR ! »",
+   "de": "theirs ≈ « des airs » ; les jumeaux et leur lingot = le leur",
+   "fo": "theirs = le leur, la leur, les leurs (invariable) ; their = leur (déterminant)",
+   "px": [
+    "Their son's had another accident.",
+    "Their son's got into debt.",
+    "Their daughter's a sales assistant in a clothes shop.",
+    "They've buried their ideal of social justice.",
+    "Their application for benefits has been turned down.",
+    "Their house is for sale."
+   ]
+  },
+  {
+   "n": 6,
+   "it": "some",
+   "fr": "les uns, les unes",
+   "eit": "Some laugh, others cry.",
+   "eim": "Some",
+   "api": "/sʌm/",
+   "pr": "SAM",
+   "mc": "SOMME",
+   "sc": "Dans un parc de Londres, LES UNS, bras dessus bras dessous, rient ; les autres font un petit SOMME en pleurant.",
+   "de": "some ≈ « somme » ; les uns unis = les uns",
+   "fo": "some… others… = les uns… les autres… ; some people = certains"
+  },
+  {
+   "n": 7,
+   "it": "each",
+   "eit": "Each of them has her own idea.",
+   "eim": "Each of them",
+   "api": "/iːtʃ/",
+   "pr": "IITCH",
+   "mc": "HITCHCOCK",
+   "sc": "Un oignon pour CHACUNE des dames attablées dans un salon anglais, servi par HITCHCOCK en personne.",
+   "de": "each ≈ « (H)itch(cock) » ; un oignon pour chacune = chacune",
+   "fo": "each = chacun, chacune (invariable) ; each of them ; everyone = tout le monde"
+  },
+  {
+   "n": 8,
+   "it": "which ones",
+   "fr": "lesquels, lesquelles",
+   "eit": "Which ones do you prefer?",
+   "eim": "Which ones",
+   "api": "/wɪtʃ wʌnz/",
+   "pr": "OUITCH-OUANZ",
+   "mc": "QUICHE",
+   "sc": "Sur un quai de gare anglaise, un porteur montre des valises en forme de QUICHE : LESQUELLES sont à vous ?",
+   "de": "which ≈ « (q)uiche » ; les valises sur le quai = lesquels, lesquelles",
+   "fo": "which ones = lesquels / lesquelles (invariable) ; which one = lequel / laquelle"
+  },
+  {
+   "n": 9,
+   "it": "his / hers",
+   "eit": "It's not my fault, it's hers.",
+   "eim": "hers",
+   "api": "/hɜːz/",
+   "pr": "HEUZ",
+   "mc": "HEURE",
+   "sc": "Une Anglaise compte ses sous dans SA bourse à elle — LA SIENNE — sous l'HEURE de Big Ben.",
+   "de": "hers ≈ « heure(s) » ; la bourse à elle = la sienne",
+   "fo": "hers = le sien, la sienne (à elle) ; his = le sien (à lui) ; its (chose) n'est presque jamais pronom"
+  },
+  {
+   "n": 10,
+   "it": "in which case sb does sth",
+   "itd": "in which case [sb] [v] [sth]",
+   "ito": "in which case S V C",
+   "eit": "It might rain, in which case we'll stay in.",
+   "eim": "in which case we'll stay in",
+   "api": "/ɪn wɪtʃ ˈkeɪs/",
+   "pr": "in-OUITCH-KÉÏS",
+   "mc": "CAISSE",
+   "sc": "Sous la pluie de Londres, une grande CAISSE s'ouvre, AUQUEL CAS on entre s'y abriter.",
+   "de": "case ≈ « caisse » ; la case qui s'ouvre = auquel cas",
+   "fo": "in which case = auquel cas ; in that case = dans ce cas ; in case = au cas où"
+  },
+  {
+   "n": 11,
+   "it": "those (ones)",
+   "eit": "I don't want those ones.",
+   "eim": "those ones",
+   "api": "/ðəʊz/",
+   "pr": "THEOUZ",
+   "mc": "DOSE",
+   "sc": "Sur le quai de Victoria, des lits empilés au loin : CEUX-LÀ, couverts d'une bonne DOSE de poussière.",
+   "de": "those ≈ « dose » ; les lits au loin = ceux-là",
+   "fo": "those = ceux-là, celles-là ; these = ceux-ci ; those ones (UK, familier)"
+  },
+  {
+   "n": 12,
+   "drop": true
+  },
+  {
+   "n": 13,
+   "it": "ourselves",
+   "eit": "We did it ourselves.",
+   "eim": "ourselves",
+   "api": "/aʊəˈselvz/",
+   "pr": "aoue-SÈLVZ",
+   "mc": "AOÛT",
+   "sc": "Des noix sur un steak grillé en plein mois d'AOÛT dans un jardin anglais : on l'a fait NOUS-MÊMES.",
+   "de": "ourselves ≈ « août-selves » ; le steak aux noix = nous-mêmes",
+   "fo": "by ourselves = tout seuls"
+  },
+  {
+   "n": 14,
+   "it": "themselves",
+   "eit": "They built it themselves.",
+   "eim": "themselves",
+   "api": "/ðəmˈselvz/",
+   "pr": "them-SÈLVZ",
+   "mc": "THÈME",
+   "sc": "Un lot rond de steaks pour un pique-nique sur le THÈME royal : ils l'ont fait EUX-MÊMES.",
+   "de": "themselves ≈ « thème-selves » ; le lot de steaks = eux-mêmes",
+   "fo": "themselves (masc. et fém.) ; by themselves = tout seuls"
+  },
+  {
+   "n": 15,
+   "it": "a few",
+   "fr": "quelques-uns, quelques-unes",
+   "eit": "A few of them came.",
+   "eim": "A few",
+   "api": "/ə ˈfjuː/",
+   "pr": "e-FIOU",
+   "mc": "FOU",
+   "sc": "QUELQUES-UNS tendent le cou au-dessus de la foule de Wimbledon : des FOUS de tennis.",
+   "de": "few ≈ « fiou / fou » ; les quelques cous tendus = quelques-uns",
+   "fo": "a few = quelques-uns (dénombrable) ; few = peu ; some of them"
+  },
+  {
+   "n": 16,
+   "it": "yourself / oneself",
+   "eit": "You have to do it yourself.",
+   "eim": "yourself",
+   "api": "/jɔːˈself/",
+   "pr": "ioo-SÈLF",
+   "mc": "SELF",
+   "sc": "Un seau de steak sur le comptoir d'un SELF londonien : on le cuit SOI-MÊME.",
+   "de": "(your)self ≈ « self » ; le seau de steak à cuire = soi-même",
+   "fo": "sens général : you (= on) + yourself ; soutenu : one must do it oneself"
+  },
+  {
+   "n": 17,
+   "it": "which one",
+   "eit": "Which one do you prefer?",
+   "eim": "Which one",
+   "api": "/wɪtʃ wʌn/",
+   "pr": "OUITCH-OUANE",
+   "mc": "QUICHE",
+   "sc": "À un concours agricole anglais, un jury compare deux pommes et une QUICHE : « LEQUEL ? »",
+   "de": "which ≈ « (q)uiche » ; le jury qui compare = lequel ?",
+   "fo": "which one? = lequel / laquelle ? ; which = quel"
+  },
+  {
+   "n": 18,
+   "it": "yourselves",
+   "eit": "Do it yourselves.",
+   "eim": "yourselves",
+   "api": "/jɔːˈselvz/",
+   "pr": "ioo-SÈLVZ",
+   "mc": "YO ! SELVES",
+   "sc": "Sur la voie ferrée, près d'une gare anglaise, une bande d'amis grille ses steaks : « Faites-le VOUS-MÊMES ! », lance l'un d'eux d'un « YO ! ».",
+   "de": "yourselves ≈ « yo, selves » ; la bande d'amis = vous-mêmes (pluriel)",
+   "fo": "yourselves (plusieurs personnes) ≠ yourself (une seule)"
+  },
+  {
+   "n": 19,
+   "it": "these (ones)",
+   "eit": "These are better.",
+   "eim": "These",
+   "api": "/ðiːz/",
+   "pr": "THIIZ",
+   "mc": "THÈSE",
+   "sc": "Sur un bureau d'Oxford, des questions sur CEUX-CI : des copies de THÈSE, toutes meilleures.",
+   "de": "these ≈ « thèse » ; les copies sous la main = ceux-ci",
+   "fo": "these = ceux-ci, celles-ci ; those = ceux-là ; these ones (UK, familier)"
+  },
+  {
+   "n": 20,
+   "it": "others",
+   "eit": "You have to respect others.",
+   "eim": "others",
+   "api": "/ˈʌðəz/",
+   "pr": "A-thez",
+   "mc": "HÂTEZ",
+   "sc": "Un musicien à l'alto trie les partitions pour AUTRUI dans un salon anglais : « HÂTEZ-vous ! »",
+   "de": "others ≈ « hâtez » ; l'alto qui trie pour les autres = autrui",
+   "fo": "others / other people = autrui ; the others = les autres"
+  },
+  {
+   "n": 21,
+   "drop": true
+  },
+  {
+   "n": 22,
+   "drop": true
+  },
+  {
+   "n": 23,
+   "it": "some people",
+   "eit": "Some people think he's lying.",
+   "eim": "Some people",
+   "api": "/sʌm ˈpiːpəl/",
+   "pr": "SAM-PII-pel",
+   "mc": "SOMME PIPEAU",
+   "sc": "Dans une alcôve de pub, un nid : D'AUCUNS disent que c'est vrai, d'autres que c'est du PIPEAU.",
+   "de": "some people ≈ « somme pipeau » ; les rumeurs de l'alcôve = d'aucuns",
+   "fo": "some people = certains ; d'aucuns est soutenu, some people est neutre"
+  },
+  {
+   "n": 24,
+   "it": "from which",
+   "eit": "The bridge from which you can see the sea.",
+   "eim": "from which",
+   "api": "/frəm wɪtʃ/",
+   "pr": "frem-OUITCH",
+   "mc": "FROMAGE",
+   "sc": "Des touristes accoudés à la rambarde d'une jetée de Brighton DUQUEL on voit la mer, un FROMAGE à la main.",
+   "de": "from which ≈ « from(age) » ; la jetée d'où l'on voit la mer = duquel",
+   "fo": "à l'oral, préposition en fin : the bridge you can see the sea from"
+  },
+  {
+   "n": 25,
+   "it": "from which",
+   "eit": "The balcony from which he's speaking.",
+   "eim": "from which",
+   "api": "/frəm wɪtʃ/",
+   "pr": "frem-OUITCH",
+   "mc": "FROMAGE",
+   "sc": "Un ferry quitte un quai de Douvres chargé de FROMAGE français : c'est le quai D'OÙ partent tous les bateaux.",
+   "de": "from which ≈ « from(age) » ; le quai d'où partent les bateaux = d'où",
+   "fo": "à l'oral : the balcony he's speaking from ; where… from : where does he come from? = d'où vient-il ?"
+  },
+  {
+   "n": 26,
+   "it": "that … (+ prép.)",
+   "eit": "The book that I'm talking about is out of print.",
+   "eim": "that I'm talking about",
+   "api": "/ðæt/",
+   "pr": "THAT",
+   "mc": "JATTE",
+   "sc": "Au zoo de Londres, un koala dort dans une JATTE accrochée à une branche : c'est celui DONT elle parle sans arrêt.",
+   "de": "that ≈ « jatte » ; le koala dont on parle = dont",
+   "fo": "dont = that / which / who + préposition en fin ; possession : whose (the man whose son…) ; out of print = épuisé"
+  },
+  {
+   "n": 27,
+   "it": "who … (+ prép.)",
+   "eit": "The friends who I'm talking about.",
+   "eim": "who I'm talking about",
+   "api": "/huː/",
+   "pr": "HOU",
+   "mc": "HOUX",
+   "sc": "Les quais de Liverpool DESQUELS partent les trains sont ornés de couronnes de HOUX.",
+   "de": "who ≈ « houx » ; les quais desquels partent les trains = desquels",
+   "fo": "personnes : who (whom, soutenu) + préposition en fin ; souvent omis : the friends I'm talking about"
+  },
+  {
+   "n": 28,
+   "it": "which … from",
+   "eit": "The towns which I come from.",
+   "eim": "which I come from",
+   "api": "/wɪtʃ/",
+   "pr": "OUITCH",
+   "mc": "QUICHE",
+   "sc": "Sur les jetées de Brighton DESQUELLES on pêche, un pêcheur grignote une QUICHE.",
+   "de": "which ≈ « (q)uiche » ; les jetées desquelles on pêche = desquelles",
+   "fo": "choses : which + préposition en fin ; souvent omis : the towns I come from"
+  },
+  {
+   "n": 29,
+   "it": "one of them",
+   "eit": "One of them knows.",
+   "eim": "One of them",
+   "api": "/ˈwʌn əv ðəm/",
+   "pr": "OUANE-ev-them",
+   "mc": "WANDA",
+   "sc": "QUELQU'UNE tend le cou au-dessus d'une haie anglaise : c'est WANDA, la commère du village.",
+   "de": "one ≈ « Wan(da) » ; la dame qui tend le cou = quelqu'une",
+   "fo": "one of them = l'un(e) d'entre eux / elles ; someone = quelqu'un"
+  },
+  {
+   "n": 30,
+   "it": "in whose name",
+   "eit": "The king, in whose name he speaks.",
+   "eim": "in whose name",
+   "api": "/ɪn huːz ˈneɪm/",
+   "pr": "in-HOUZ-NÉÏM",
+   "mc": "OUZO",
+   "sc": "Un koala couronné trône sur sa branche à Buckingham : c'est le roi AU NOM DUQUEL parle son héraut, un verre d'OUZO à la main.",
+   "de": "whose ≈ « ouz(o) » ; le héraut du roi = au nom duquel",
+   "fo": "whose = dont, duquel (possession) ; ≠ who's (= who is)"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "fix": {
+  "8": {
+   "eit": "She's breastfeeding.",
+   "eim": "breast"
+  },
+  "11": {
+   "eim": "The whole world"
+  },
+  "20": {
+   "eim": "The halt to"
+  },
+  "25": {
+   "eim": "metres"
+  },
+  "54": {
+   "eim": "dear friend"
+  },
+  "66": {
+   "eim": "court"
+  },
+  "67": {
+   "eim": "ring"
+  },
+  "72": {
+   "eim": "sign"
+  },
+  "90": {
+   "eim": "the real world"
+  },
+  "92": {
+   "eit": "The traffic lights are on red.",
+   "eim": "traffic lights"
+  }
+ },
+ "li": {
+  "0": "Le SINGE jette la robe à paillettes du CAÏD dans la malle de René, au milieu des ÉTOFFES de Portobello.",
+  "1": "René lance une brassée d'ÉTOFFES qui s'envole jusqu'à la PLAGE de Brighton et coiffe les bois de la BICHE.",
+  "2": "La BICHE de la PLAGE galope jusqu'à Big Ben et fait tomber l'aiguille de ma MONTRE qui retarde.",
+  "3": "Ma MONTRE glisse du poignet et tombe dans la cabine rouge, sur le sémaphore du CYGNE.",
+  "4": "Le CYGNE lance son SIGNAL si fort qu'il s'envole jusqu'au STADE de Wembley, dans le studio de l'ÉTUDE.",
+  "5": "L'étudiant de l'ÉTUDE lance ses notes jusqu'à la City, sur le contrat de la CONDITION de KENNY.",
+  "6": "La CHIENNE de KENNY emporte le contrat jusqu'à Oxford et le glisse entre les feuilles de la PAGE dix.",
+  "7": "La fiche de PAYE s'échappe de la PAGE et file jusqu'au ferry de BREST, où la mère allaite au SEIN.",
+  "8": "La tasse de thé tombe du bastingage dans un flat londonien et renverse la pile de SÉRIES qui touche SIRIUS.",
+  "9": "Un coffret de SÉRIES tombe de la pile jusqu'au pub, droit dans la CIBLE de GUY.",
+  "10": "La fléchette de GUY rebondit sur la CIBLE et perce le globe de la HOLLANDE et de DISNEY WORLD.",
+  "11": "Le globe du MONDE ENTIER roule jusqu'à la boîte aux lettres rouge et écrase le saladier de LAITUES.",
+  "12": "Le facteur lance ses LETTRES sur l'impériale du bus, où les STARS regardent les ÉTOILES.",
+  "13": "Une ÉTOILE filante tombe dans la cabine téléphonique rouge, sur l'agenda qui déborde de NUMÉROS.",
+  "14": "Les NUMÉROS dégoulinent du trottoir jusque dans le black cab, aux pieds de l'artisan au MÉTIER en tablier.",
+  "15": "L'artisan saute du cab et accroche le NOMBRE géant 12 sur la façade du théâtre du West End.",
+  "16": "Le NOMBRE géant tombe de la façade dans la salle de bal, où le fantôme de la PRÉSENCE crie « ATTENDS, DANSE ! ».",
+  "17": "Le fantôme danse jusqu'à Cambridge et réveille NOS LIGES qui dorment sur les livres de la CONNAISSANCE.",
+  "18": "Un des LIGES en armure lance un livre à Piccadilly, sur la CHAÎNE en or du cambiste du CHANGEMENT.",
+  "19": "La CHAÎNE du cambiste s'envole jusqu'au chantier, où le bobby crie « HALTE ! » : ARRÊT des travaux.",
+  "20": "Une pelleteuse figée de L'ARRÊT bascule sur le quai et redresse l'échelle de CARRIÈRE vers la « CORÉE ».",
+  "21": "Au sommet de l'échelle de CARRIÈRE, on entre par la fenêtre de la tour de Windsor où dort la PRINCESSE.",
+  "22": "Le PRINCE ronfle si fort qu'il souffle jusqu'à l'Albert Hall sur la LENTE main du pianiste au TALENT.",
+  "23": "Le pianiste au TALENT lance sa partition devant le cottage, où l'hôte accueille ses INVITÉS d'un GESTE.",
+  "24": "Le GESTE de l'hôte déroule le mètre ruban de 2 MÈTRES le long du garde à bonnet en poil d'ours.",
+  "25": "La MITE grignote le ruban jusqu'à la Tour de Londres et tombe dans la soupe SALÉE de la CELLULE.",
+  "26": "Le prisonnier de la CELLULE lance son SEL sur la boîte du MÉDECIN qui tend le MÉDICAMENT.",
+  "27": "Le MÉDECIN fait tomber son MÉDICAMENT dans les VERRES DE VIN du pub, remplis de GLACE AU VIN.",
+  "28": "Une boule de GLACE AU VIN roule jusqu'à Oxford Street et renverse la pyramide de COCA LIGHT sous les LUMIÈRES.",
+  "29": "Une canette de COCA LIGHT tombe à la maternité, dans le foulard de BOY-scout du bébé GARÇON.",
+  "30": "Le bébé GARÇON lance son masque dans les CULTURES de blé, sur la CROUPE du cheval.",
+  "31": "Le cheval se relève et emporte sur sa CROUPE le TABLEAU au PAIN qui TINTE de la National Gallery.",
+  "32": "Le PAIN qui TINTE du TABLEAU vole jusqu'au col roulé Union Jack du dandy et le serre au COU.",
+  "33": "Le dandy au COU serré pousse le gentleman CHIC, qui tend sa JOUE balafrée à la main gantée.",
+  "34": "La main gantée de la JOUE attrape un POULET rôti sur le comptoir, sous le nez du marin qui CHIQUE.",
+  "35": "Le marin crache son tabac sur la ROBE DE SOIRÉE qu'YVES DRESSE au gala de Covent Garden.",
+  "36": "Une paillette de la ROBE DE SOIRÉE s'envole jusqu'au MI6 et s'incruste dans le tableur des DONNÉES.",
+  "37": "Le coffre-fort des DONNÉES s'ouvre et projette une DATE jusqu'à Hyde Park, dans l'OMBRE de la CHAISE longue.",
+  "38": "La CHAISE longue de l'OMBRE glisse sous le chêne séculaire, au milieu des CENT CHÉRIS du SIÈCLE.",
+  "39": "Un des CENT CHÉRIS lance une pièce qui roule PAR HASARD jusqu'au dé du casino de Mayfair.",
+  "40": "Le dé du HASARD roule jusqu'au terminus des THERMES de Bath et se colle au panneau du TERME technique.",
+  "41": "Le panneau du TERME tombe derrière la bibliothèque du manoir et ouvre le PASSAGE secret de l'enfant PAS SAGE.",
+  "42": "L'enfant PAS SAGE sort du PASSAGE à Hyde Park Corner et renverse la caisse de l'orateur du DISCOURS.",
+  "43": "L'orateur du DISCOURS lance son PITCH dans la classe, où le professeur tend la craie de la LEÇON.",
+  "44": "La craie de la LEÇON roule jusqu'aux quais de la Tamise et trace la silhouette autour du CADAVRE en BODY rose.",
+  "45": "Le BODY rose du CADAVRE s'envole jusqu'au manoir HANTÉ et s'accroche à la veste rouge du chasseur de la CHASSE.",
+  "46": "Le cor de CHASSE sonne jusqu'à Whitechapel et fait hurler le loup : un CRI dans la nuit.",
+  "47": "Le CRI du loup traverse Londres et fait sursauter le roi sur son trône à Buckingham : Votre MAJESTÉ !",
+  "48": "Le garde qui s'incline devant la MAJESTÉ tombe sur la vieille Mini du MEC qui montre la MARQUE.",
+  "49": "Le MEC lance le logo de la MARQUE dans la cabine rouge, sur l'imperméable de l'AGENT SPÉCIAL.",
+  "50": "L'AGENT SPÉCIAL crie « EH, GENS ! » et se fait aspirer dans le HALL de King's Cross par le TROU NOIR.",
+  "51": "Le TROU NOIR recrache les valises devant les grilles frappées d'une couronne, AUX PORTES de la ville.",
+  "52": "Le soldat qui fait le GUET aux PORTES ferme les grilles, et les policiers bouclent les ROUTES derrière.",
+  "53": "Le voleur qui RÔDE sur les ROUTES vole un FRIAND et le tend au CHER AMI du salon de thé.",
+  "54": "Le CHER AMI tend son FRIAND au vieux kiosquier du Strand, qui tape l'épaule de MON VIEUX.",
+  "55": "MAÏTÉ lance un OS par-dessus le comptoir, qui atterrit dans le jardin devant la BONNE en tablier.",
+  "56": "Le chien lâche son OS au marché de Smithfield, aux pieds du Minotaure du MYTHE qui dévore la VIANDE.",
+  "57": "Le Minotaure lance un morceau de VIANDE jusqu'à Oxford, sur la brosse à DENTS de l'ÉTUDIANT STUDIEUX.",
+  "58": "L'ÉTUDIANT lance sa robe noire sur le sentier du Lake District, sur les CHAUSSURES DE MARCHE du KING.",
+  "59": "Le KING glisse dans ses BOTTES et tombe dans la Tamise, où le portefeuille PERDU file vers l'OUEST.",
+  "60": "Le portefeuille PERDU remonte jusqu'aux Highlands et frappe l'alpiniste plein de VOLONTÉ : « OUILLE ! ».",
+  "61": "L'alpiniste de la VOLONTÉ tombe dans la salle des machines de Big Ben, sur le pendule en MOUVEMENT.",
+  "62": "Le pendule en MOUVEMENT envoie l'horloger jusqu'au 10 Downing Street, sur le MINI-STEAK du MINISTRE.",
+  "63": "Le MINISTRE jette son MINI-STEAK au pub, sur le tonneau que l'haltérophile soulève avec EFFORT.",
+  "64": "L'haltérophile lance le tonneau de l'EFFORT dans le PAQUET ficelé qui couvre la PARCELLE.",
+  "65": "Le PAQUET énorme roule jusqu'à l'Old Bailey et écrase la CÔTE de bœuf du TRIBUNAL.",
+  "66": "Le juge du TRIBUNAL lance sa CÔTE de bœuf sur le RING de boxe, où sonne le COUP DE FIL.",
+  "67": "Le vieux téléphone du RING s'envole jusqu'au manoir écossais, dans les GANTS blancs du majordome au FUSIL.",
+  "68": "Le FUSIL du majordome tire à l'aube sur la lande, entre les deux TÉMOINS du duel.",
+  "69": "Les pistolets des TÉMOINS tirent dans la brume, où la femme s'arrête : ENTENDS-TU DES VOIX ?",
+  "70": "Les VOIX qui chuchotent « VOICI ! » mènent jusqu'aux MAISONS de Notting Hill, où l'on trinque à l'OUZO.",
+  "71": "Un verre d'OUZO des MAISONS s'envole jusqu'au bateau-mouche de la SEINE, dans les mains du guide en langue des SIGNES.",
+  "72": "Le guide fait un SIGNE qui arrête un bus rouge, d'où descend le POPE devant le PAPE.",
+  "73": "Le PAPE bénit la pile de dossiers sous laquelle PLOIE le NAIN de l'agence du CHÔMAGE.",
+  "74": "Le NAIN lance ses dossiers du CHÔMAGE vers le London Eye, qui chassent les sept nuages du COUCHER DE SOLEIL.",
+  "75": "Le soleil couchant tombe à Heathrow sur la VALISE qu'on jette dans la SOUTE comme une CAISSE.",
+  "76": "La VALISE éclate en tombant dans le pré du Devon, sur les bottes de CAOUTCHOUC de la VACHE.",
+  "77": "La VACHE renverse son seau de lait sur le BILLET du chef de gare qui porte la RESPONSABILITÉ.",
+  "78": "Le chef de gare lance son BILLET sur la une du Times, qui affiche le TITRE « TAILLE T ».",
+  "79": "Le Times au TITRE s'envole et se pose sur l'épaule de CONSTANCE, à côté de l'ange de sa CONSCIENCE.",
+  "80": "L'ange de la CONSCIENCE glisse la FÈVE de la galette dans le scone, en guise de FAVEUR.",
+  "81": "La FÈVE de la FAVEUR roule sur Oxford Street et fait trébucher deux passants l'un CONTRE l'autre : RENCONTRE !",
+  "82": "Les parapluies emmêlés de la RENCONTRE s'envolent jusqu'à l'USINE, sur la sacoche du FACTEUR qui jette du RIZ.",
+  "83": "Le RIZ du FACTEUR s'envole jusqu'à Buckingham et tombe dans la tasse de thé de la GENTE dame du SERGENT.",
+  "84": "Le SERGENT aboie si fort que le PRÊTRE de l'église voisine renverse son eau bénite en priant.",
+  "85": "L'eau bénite du PRÊTRE coule sur la route de campagne et fait déraper le vélo à toute VITESSE.",
+  "86": "Le cycliste SPEED percute la vieille Austin et tombe dans le COFFRE, tassé du BOUT du pied.",
+  "87": "Une valise jaillit du COFFRE jusqu'à Douvres et pince la carte d'IDENTITÉ du voyageur : « AÏE ! ».",
+  "88": "Le douanier de l'IDENTITÉ jette la carte dans la mare de l'hôpital, où les PATIENTS PÊCHENT.",
+  "89": "Un PATIENT pêche le globe couronné du MONDE RÉEL et le fait rouler jusqu'à Trafalgar Square.",
+  "90": "Le globe du MONDE RÉEL roule jusqu'au flat de Camden et arrache le casque du gamer : la VRAIE VIE !",
+  "91": "Le gamer de la VRAIE VIE lance son casque à Piccadilly, droit dans le FEU qui passe au rouge.",
+  "92": "Un bus bloqué au FEU klaxonne et fait sursauter le PASSANT de Covent Garden, qui lance « Je PASSE, BYE ! ».",
+  "93": "Le PASSANT pointe du doigt le bureau, où la MACHINE À CAFÉ siffle avant de tomber en panne.",
+  "94": "La vapeur de la MACHINE À CAFÉ souffle sur la cheminée du cottage et soulève la COUVERTURE de l'enfant.",
+  "95": "La COUVERTURE écossaise s'envole sous la PLUIE de Londres et retombe sur la pioche de la REINE.",
+  "96": "La REINE creuse une flaque à coups de pioche, où la CHEMISE fait sa CHUTE à Whitehall.",
+  "97": "La CHEMISE froissée sort de la flaque et s'accroche au mur où le COLLÈGUE malade COLLE l'affiche de la LIGUE.",
+  "98": "Le COLLÈGUE éternue si fort que l'affiche de la LIGUE s'envole jusqu'à Leicester Square, aux pieds de l'acteur du SUCCÈS."
+ }
+}

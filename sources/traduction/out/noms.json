@@ -1,0 +1,1651 @@
+{
+ "niches": [
+  {
+   "n": 0,
+   "it": "thing",
+   "eit": "That's the funniest thing all evening.",
+   "eim": "thing",
+   "api": "/θɪŋ/",
+   "pr": "THING",
+   "mc": "singe",
+   "sc": "Un SINGE coiffé d'un bonnet en poil d'ours secoue une CHOSE mystérieuse, un paquet marqué « ? », devant Buckingham Palace.",
+   "de": "thing ≈ singe ; le paquet « ? » = une chose",
+   "fo": "pl. things ; stuff = des choses, des trucs (indénombrable)"
+  },
+  {
+   "n": 1,
+   "it": "man",
+   "eit": "I know that man.",
+   "eim": "man",
+   "api": "/mæn/",
+   "pr": "MÈNN",
+   "mc": "manne",
+   "sc": "Un HOMME moustachu en chapeau melon reçoit sous la pluie de Londres la MANNE céleste qui lui tombe sur la tête.",
+   "de": "man ≈ manne ; le bonhomme moustachu = l'homme",
+   "fo": "pl. irrégulier men ; aussi « l'être humain » (mankind)",
+   "co": [
+    "young man",
+    "old man",
+    "businessman",
+    "best man"
+   ]
+  },
+  {
+   "n": 2,
+   "it": "time",
+   "eit": "I haven't got time, sorry.",
+   "eim": "time",
+   "api": "/taɪm/",
+   "pr": "TAÏM",
+   "mc": "« (je) t'aime »",
+   "sc": "Big Ben, l'horloge géante du TEMPS, bat la mesure et sonne « je T'AIME » à chaque coup.",
+   "de": "time ≈ « t'aime » ; l'horloge géante = le temps",
+   "fo": "indénombrable (temps) ; a time = une fois ; la météo = the weather",
+   "px": [
+    "Have you got a sec?",
+    "It came with time."
+   ],
+   "co": [
+    "to waste time",
+    "to spend time",
+    "free time",
+    "a waste of time"
+   ]
+  },
+  {
+   "n": 3,
+   "it": "life",
+   "eit": "That's life!",
+   "eim": "life",
+   "api": "/laɪf/",
+   "pr": "LAÏF",
+   "mc": "l'if (arbre)",
+   "sc": "Une bougie de VIE brûle au pied d'un vieil IF millénaire, dans un cimetière de village anglais.",
+   "de": "life ≈ « l'if » ; la bougie de vie = la vie",
+   "fo": "pl. lives /laɪvz/ ; to live /lɪv/ = vivre",
+   "px": [
+    "What do you do for a living?",
+    "Not on your life!",
+    "No way!"
+   ],
+   "co": [
+    "to save sb's life",
+    "the rest of my life",
+    "a new life",
+    "private life"
+   ]
+  },
+  {
+   "n": 4,
+   "it": "day",
+   "eit": "One day, I'll take you to Rome.",
+   "eim": "day",
+   "api": "/deɪ/",
+   "pr": "DÉÏ",
+   "mc": "dé",
+   "sc": "Le soleil du JOUR se lève en pleine chambre de cottage et vient éclairer un DÉ géant posé sur l'oreiller.",
+   "de": "day ≈ dé ; le soleil qui se lève = le jour",
+   "fo": "pl. days ; today = aujourd'hui ; every day = tous les jours",
+   "px": [
+    "I'm only here for a day."
+   ],
+   "co": [
+    "a couple of days",
+    "the last few days",
+    "a day off"
+   ]
+  },
+  {
+   "n": 5,
+   "it": "woman",
+   "eit": "That woman is amazing.",
+   "eim": "woman",
+   "api": "/ˈwʊmən/",
+   "pr": "OU-men",
+   "mc": "« où mène… ? »",
+   "sc": "Une FEMME élégante distribue les cartes dans un club londonien et demande : « OÙ MÈNE ce couloir ? »",
+   "de": "woman ≈ « où mène » ; la dame qui donne les cartes = la femme",
+   "fo": "pl. irrégulier women /ˈwɪmɪn/ (« OUI-mine ») ; épouse = wife",
+   "px": [
+    "She's let her cleaner go."
+   ],
+   "co": [
+    "a young woman",
+    "an old woman",
+    "a businesswoman"
+   ]
+  },
+  {
+   "n": 6,
+   "fr": "les ans (year, pluriel)",
+   "it": "years",
+   "eit": "At least two years.",
+   "eim": "years",
+   "api": "/jɪəz/",
+   "pr": "YIEZ",
+   "mc": "→ year",
+   "sc": "Forme accordée de « year » (l'an / l'année) : pluriel.",
+   "de": "years ≈ « → year »",
+   "fo": "pluriel régulier : year → years"
+  },
+  {
+   "n": 7,
+   "fr": "les choses (thing, pluriel)",
+   "it": "things",
+   "eit": "The more things change, the more they stay the same, don't they?",
+   "eim": "things",
+   "api": "/θɪŋz/",
+   "pr": "THINGZ",
+   "mc": "→ thing",
+   "sc": "Forme accordée de « thing » (la chose) : pluriel.",
+   "de": "things ≈ « → thing »",
+   "fo": "pluriel régulier : thing → things"
+  },
+  {
+   "n": 8,
+   "it": "time",
+   "eit": "I've told you a hundred times!",
+   "eim": "times",
+   "api": "/taɪm/",
+   "pr": "TAÏM",
+   "mc": "« (je) t'aime »",
+   "sc": "Un compteur « ×1, ×2, ×3 » compte chaque FOIS qu'un amoureux crie « je T'AIME » sous un balcon anglais.",
+   "de": "time ≈ « t'aime » ; le compteur ×1 ×2 = la fois ; même mot que « le temps »",
+   "fo": "once = une fois, twice = deux fois, three times = trois fois…",
+   "px": [
+    "Just this once.",
+    "I'm telling you for the umpteenth time."
+   ],
+   "co": [
+    "the last time",
+    "next time",
+    "a couple of times"
+   ]
+  },
+  {
+   "n": 9,
+   "it": "need",
+   "eit": "I need a coffee.",
+   "eim": "need",
+   "api": "/niːd/",
+   "pr": "NIID",
+   "mc": "nid",
+   "sc": "Dans son NID, sous la pluie fine d'un jardin anglais, un oisillon a BESOIN d'un bisou et tend le bec vers sa mère.",
+   "de": "need ≈ nid ; celui qui réclame un bisou = le besoin",
+   "fo": "to need = avoir besoin de (verbe le plus courant) ; there's no need = pas besoin",
+   "co": [
+    "in need of help",
+    "to need money"
+   ]
+  },
+  {
+   "n": 10,
+   "it": "deal / agreement",
+   "eit": "Right, we're agreed – it's a deal.",
+   "eim": "deal",
+   "api": "/diːl/",
+   "pr": "DIIL",
+   "mc": "dealer (de cartes)",
+   "sc": "Au comptoir d'un pub, deux mains se serrent : ACCORD conclu, sous l'œil du DEALER qui distribue les cartes.",
+   "de": "deal ≈ « dealer » ; les mains serrées = l'accord",
+   "fo": "agreement = accord (formel) ; It's a deal! = Marché conclu ! ; to agree = être d'accord"
+  },
+  {
+   "n": 11,
+   "it": "God",
+   "eit": "God, it's boiling!",
+   "eim": "God",
+   "api": "/ɡɒd/",
+   "pr": "GOD",
+   "mc": "godet",
+   "sc": "Un DIEU barbu, assis sur un nuage au-dessus de Big Ben, renverse un GODET d'eau : voilà la pluie anglaise.",
+   "de": "God ≈ godet ; le barbu sur le nuage = Dieu",
+   "fo": "majuscule pour le Dieu unique ; a god = un dieu ; Oh my God! = Mon Dieu !",
+   "px": [
+    "He looks as if butter wouldn't melt in his mouth."
+   ]
+  },
+  {
+   "n": 12,
+   "it": "father",
+   "eit": "My father rings me every evening.",
+   "eim": "father",
+   "api": "/ˈfɑːðə/",
+   "pr": "FAA-the",
+   "mc": "phare",
+   "sc": "Un PÈRE moustachu tient la lanterne d'un PHARE de Cornouailles pour ramener ses enfants au port.",
+   "de": "father ≈ « phare » ; le père qui guide = le père",
+   "fo": "dad = papa ; to ring sb (UK) = appeler qn",
+   "co": [
+    "my father's house",
+    "like father, like son"
+   ]
+  },
+  {
+   "n": 13,
+   "it": "girl",
+   "eit": "She's a really nice girl.",
+   "eim": "girl",
+   "api": "/ɡɜːl/",
+   "pr": "GHEUL",
+   "mc": "gueule",
+   "sc": "Une jeune FILLE en robe pousse un coup de GUEULE en voyant un rat filer sur le quai de la Tamise.",
+   "de": "girl ≈ « gueule » ; la jeune fille en robe = la fille",
+   "fo": "fille (enfant de) = daughter ; girlfriend = petite amie",
+   "co": [
+    "a pretty girl",
+    "a little girl"
+   ]
+  },
+  {
+   "n": 14,
+   "it": "world",
+   "eit": "It's a small world!",
+   "eim": "world",
+   "api": "/wɜːld/",
+   "pr": "OUEULD",
+   "mc": "« Ouh ! » hurle-t-il",
+   "sc": "Le MONDE entier, un globe terrestre, est retransmis sur mille écrans dans un pub, et un supporter « OUH ! » HURLE devant.",
+   "de": "world ≈ « ouh, hurle » ; le globe en mondovision = le monde",
+   "fo": "tout le monde (chacun) = everybody / everyone",
+   "co": [
+    "the whole world",
+    "the end of the world",
+    "the real world",
+    "the rest of the world"
+   ]
+  },
+  {
+   "n": 15,
+   "it": "east",
+   "eit": "The sun rises in the east.",
+   "eim": "the east",
+   "api": "/iːst/",
+   "pr": "IIST",
+   "mc": "Istanbul",
+   "sc": "Une boussole pointe vers l'EST, vers ISTANBUL, où le soleil se lève au bout des rails de l'Orient-Express parti de Londres.",
+   "de": "east ≈ « Ist(anbul) » ; la boussole vers le soleil levant = l'est",
+   "fo": "in the east = à l'est ; eastern = oriental ; the East End (Londres)"
+  },
+  {
+   "n": 16,
+   "it": "friend",
+   "eit": "He's my best friend.",
+   "eim": "friend",
+   "api": "/frend/",
+   "pr": "FRÈNND",
+   "mc": "frein",
+   "sc": "Sur une route de campagne anglaise, un AMI te tend la main à mi-côte et serre le FREIN de ton vélo pour te sauver.",
+   "de": "friend ≈ « frein » ; celui qui tend la main = l'ami",
+   "fo": "boyfriend / girlfriend = petit(e) ami(e) ; mate (UK, fam.) = pote",
+   "px": [
+    "He's gone round to a friend's.",
+    "She's got loads of friends.",
+    "Her friends advised her to be careful."
+   ],
+   "co": [
+    "best friend",
+    "an old friend",
+    "a close friend"
+   ]
+  },
+  {
+   "n": 17,
+   "it": "gentleman",
+   "eit": "The gentleman over there is waiting for you.",
+   "eim": "gentleman",
+   "api": "/ˈdʒentlmən/",
+   "pr": "DJENN-tel-men",
+   "mc": "gentil mannequin",
+   "sc": "Un MONSIEUR en chapeau melon fait signe depuis le rez-de-chaussée d'une maison de Londres : un vrai GENTIL MANNEQUIN tiré à quatre épingles.",
+   "de": "gentleman ≈ « gentil man(nequin) » ; le monsieur en chapeau = le monsieur",
+   "fo": "pl. gentlemen ; pour s'adresser à lui : sir ; Mr Smith = M. Smith"
+  },
+  {
+   "n": 18,
+   "it": "child",
+   "eit": "The child's finally asleep.",
+   "eim": "child",
+   "api": "/tʃaɪld/",
+   "pr": "TCHAÏLD",
+   "mc": "thé tchaï",
+   "sc": "Un ENFANT joufflu tape sur un tambour, puis s'endort devant sa tasse de thé TCHAÏ de 17 h.",
+   "de": "child ≈ « tchaï(ld) » ; le bambin au tambour = l'enfant",
+   "fo": "pl. irrégulier children /ˈtʃɪldrən/ ; kid (fam.)"
+  },
+  {
+   "n": 19,
+   "it": "mother",
+   "eit": "Your mother rang.",
+   "eim": "mother",
+   "api": "/ˈmʌðə/",
+   "pr": "MA-the",
+   "mc": "« mazette ! »",
+   "sc": "Une MÈRE berce son bébé en agitant un petit Union Jack et s'écrie « MAZETTE ! » en voyant comme il a grandi.",
+   "de": "mother ≈ « mazette » ; la mère qui berce = la mère",
+   "fo": "mum (UK) / mom (US) = maman ; to ring (UK) = appeler"
+  },
+  {
+   "n": 20,
+   "it": "the time",
+   "eit": "Have you got the time, please?",
+   "eim": "the time",
+   "api": "/ðə taɪm/",
+   "pr": "the TAÏM",
+   "mc": "« (je) t'aime »",
+   "sc": "Une montre en OR au poignet d'un gentleman donne l'HEURE ; au dos, gravé : « je T'AIME ».",
+   "de": "time ≈ « t'aime » ; la montre en or = l'heure ; Have you got the time? = T'as l'heure ?",
+   "fo": "une heure (durée) = an hour /ˈaʊə/ (h muet) ; What time is it? = Quelle heure est-il ?",
+   "px": [
+    "I've been waiting for you for an hour already.",
+    "It's time.",
+    "The bus is due at two."
+   ],
+   "co": [
+    "a couple of hours"
+   ]
+  },
+  {
+   "n": 21,
+   "it": "people",
+   "eit": "People are nice round here.",
+   "eim": "People",
+   "api": "/ˈpiːpl/",
+   "pr": "PII-pel",
+   "mc": "pipelette",
+   "sc": "Une foule de GENS tous gentils — et vraies PIPELETTES — fait sagement la queue devant un bus rouge à impériale.",
+   "de": "people ≈ « pipe(lette) » ; la foule = les gens",
+   "fo": "toujours pluriel : people are… ; a person = une personne"
+  },
+  {
+   "n": 22,
+   "it": "home",
+   "eit": "I'm going home.",
+   "eim": "home",
+   "api": "/həʊm/",
+   "pr": "HÉOM",
+   "mc": "heaume",
+   "sc": "Une MAISON au toit de chaume, un cottage, porte un HEAUME de chevalier en guise de cheminée.",
+   "de": "home ≈ « heaume » ; la case au toit de paille = la maison",
+   "fo": "house = la maison (bâtiment) ; home = chez soi ; to go home (sans to) ; at home = à la maison",
+   "co": [
+    "to go home",
+    "to come home",
+    "to take sb home",
+    "to get home"
+   ]
+  },
+  {
+   "n": 23,
+   "it": "year",
+   "eit": "Next year, we're going to Italy.",
+   "eim": "year",
+   "api": "/jɪə/",
+   "pr": "YIE",
+   "mc": "yeux",
+   "sc": "Les douze pages d'un calendrier de l'ANNÉE sont enfilées sur un gros anneau doré, et chaque page ouvre de grands YEUX aux douze coups de Big Ben.",
+   "de": "year ≈ « yeux » ; le calendrier sur l'anneau = l'année",
+   "fo": "next year = l'année prochaine ; last year = l'année dernière"
+  },
+  {
+   "n": 24,
+   "it": "year",
+   "eit": "I go away twice a year.",
+   "eim": "a year",
+   "api": "/jɪə/",
+   "pr": "YIE",
+   "mc": "yeux",
+   "sc": "À chaque anniversaire, on enfile une bougie de plus sur un gros anneau doré, une par AN, et la reine écarquille les YEUX devant le gâteau.",
+   "de": "year ≈ « yeux » ; une bougie par an = l'an",
+   "fo": "par an = a year / per year ; I'm twenty (years old) = j'ai vingt ans"
+  },
+  {
+   "n": 25,
+   "it": "evening",
+   "eit": "In the evenings, I'm knackered.",
+   "eim": "evenings",
+   "api": "/ˈiːvnɪŋ/",
+   "pr": "IIV-ning",
+   "mc": "Yvonne",
+   "sc": "Ce SOIR, ce sera la fête : au coucher du soleil sur la Tamise, YVONNE sert le thé sur une péniche.",
+   "de": "evening ≈ « Yv(onne)-ning » ; le coucher de soleil = le soir",
+   "fo": "Good evening = bonsoir ; this evening / tonight = ce soir ; knackered (UK, fam.) = crevé",
+   "co": [
+    "good evening",
+    "this evening",
+    "all evening"
+   ]
+  },
+  {
+   "n": 26,
+   "it": "name",
+   "eit": "What's your name?",
+   "eim": "name",
+   "api": "/neɪm/",
+   "pr": "NÉÏM",
+   "mc": "naine",
+   "sc": "Une NAINE porte un badge « Je m'appelle… » et crie son NOM dans un pub bondé.",
+   "de": "name ≈ « naine » ; le badge « Je m'appelle… » = le nom",
+   "fo": "first name = prénom ; surname = nom de famille ; My name is… = Je m'appelle…",
+   "co": [
+    "a false name",
+    "first name",
+    "to call sb names"
+   ]
+  },
+  {
+   "n": 27,
+   "it": "night",
+   "eit": "Goodnight, see you tomorrow!",
+   "eim": "night",
+   "api": "/naɪt/",
+   "pr": "NAÏT",
+   "mc": "« ça naît »",
+   "sc": "La lune écrit une note de musique sur le ciel de la NUIT, au-dessus de Big Ben, pendant qu'un bébé NAÎT à minuit.",
+   "de": "night ≈ « (ça) naît » ; la lune et sa note = la nuit",
+   "fo": "Goodnight = bonne nuit ; tonight = ce soir / cette nuit ; at night = la nuit",
+   "px": [
+    "I spent the night in a youth hostel."
+   ],
+   "co": [
+    "goodnight",
+    "to spend the night",
+    "the night shift",
+    "in the middle of the night"
+   ]
+  },
+  {
+   "n": 28,
+   "it": "problem",
+   "eit": "No problem!",
+   "eim": "problem",
+   "api": "/ˈprɒbləm/",
+   "pr": "PRO-blem",
+   "mc": "problème blême",
+   "sc": "Une équation insoluble au tableau, un vrai PROBLÈME, qu'un écolier anglais en uniforme fixe, BLÊME.",
+   "de": "problem ≈ « problème » ; accent sur PRO",
+   "fo": "No problem! / No worries! (fam.)",
+   "co": [
+    "to cause problems",
+    "a big problem",
+    "no problem"
+   ]
+  },
+  {
+   "n": 29,
+   "fr": "les personnes (person, pluriel)",
+   "it": "people",
+   "eit": "These terrorists have injured at least ten people. – Thanks.",
+   "eim": "people",
+   "api": "/ˈpiːpl/",
+   "pr": "PII-pel",
+   "mc": "→ person",
+   "sc": "Forme accordée de « person » (la personne) : pluriel irrégulier people.",
+   "de": "people ≈ « → person »",
+   "fo": "pluriel irrégulier : person → people (persons : langue juridique)"
+  },
+  {
+   "n": 30,
+   "it": "mum",
+   "eit": "Mum, I'm hungry!",
+   "eim": "Mum",
+   "api": "/mʌm/",
+   "pr": "MAMM",
+   "mc": "« mam' ! »",
+   "sc": "Une MAMAN serre son enfant dans ses bras sous un parapluie et l'enfant crie « MAM' ! ».",
+   "de": "mum ≈ « mam' » ; la maman qui serre son enfant = maman",
+   "fo": "UK mum / US mom ; mummy (langage enfantin) ; mother = mère (neutre)"
+  },
+  {
+   "n": 31,
+   "it": "to be scared",
+   "eit": "I'm scared of the dark.",
+   "eim": "scared",
+   "api": "/skeəd/",
+   "pr": "SKÉD",
+   "mc": "squelette",
+   "sc": "Dans un vieux château écossais, un fantôme fait PEUR à un SQUELETTE qui en claque des dents.",
+   "de": "scared ≈ « squé(lette) » ; le fantôme = la peur",
+   "fo": "la peur (nom) = fear /fɪə/ ; to be scared of / afraid of = avoir peur de",
+   "px": [
+    "You don't scare me.",
+    "He was shaking with fear."
+   ]
+  },
+  {
+   "n": 32,
+   "it": "money",
+   "eit": "I haven't got any money on me.",
+   "eim": "money",
+   "api": "/ˈmʌni/",
+   "pr": "MA-ni",
+   "mc": "manie",
+   "sc": "Un client a la MANIE d'enfourner des liasses d'ARGENT à l'effigie du roi dans les vitrines de soldes d'Oxford Street.",
+   "de": "money ≈ « manie » ; les billets en vitrine = l'argent",
+   "fo": "indénombrable : money is… ; l'argent (métal) = silver",
+   "px": [
+    "Where's the money gone?",
+    "Have you got any money?",
+    "All he's after is power and money."
+   ],
+   "co": [
+    "to take the money",
+    "to need money",
+    "to spend money",
+    "to make money"
+   ]
+  },
+  {
+   "n": 33,
+   "it": "to be right",
+   "eit": "You're right!",
+   "eim": "right",
+   "api": "/raɪt/",
+   "pr": "RAÏT",
+   "mc": "il raille",
+   "sc": "Dans une salle d'Oxford, un professeur a RAISON, la rage au nez : il pointe le tableau et RAILLE l'élève qui s'est trompé.",
+   "de": "right ≈ « raille » ; le prof qui pointe le tableau = avoir raison",
+   "fo": "avoir raison = to be right ; une raison (motif) = a reason ; right = aussi « droite »",
+   "px": [
+    "For what reason?",
+    "Thinking about it, he's right.",
+    "Why do you always take his side?"
+   ],
+   "co": [
+    "quite right",
+    "absolutely right",
+    "to get it right"
+   ]
+  },
+  {
+   "n": 34,
+   "drop": true
+  },
+  {
+   "n": 35,
+   "it": "to look (+ adj.)",
+   "eit": "You look tired.",
+   "eim": "look",
+   "api": "/lʊk/",
+   "pr": "LOUK",
+   "mc": "look",
+   "sc": "Un ventilateur souffle de l'AIR sur un dandy de Carnaby Street qui soigne son LOOK : il a l'air tout droit sorti d'un défilé.",
+   "de": "look ≈ « look » ; to look tired = avoir l'air fatigué",
+   "fo": "look + adj. (You look tired) ; look like + nom ; l'air qu'on respire = air /eə/",
+   "px": [
+    "Car traffic pollutes the air.",
+    "There's a fight brewing.",
+    "He looks naive, but he's nobody's fool.",
+    "The pudding looks delicious."
+   ],
+   "co": [
+    "to look tired",
+    "to look like sb",
+    "to look good",
+    "to have a look"
+   ]
+  },
+  {
+   "n": 36,
+   "it": "hand",
+   "eit": "Wash your hands!",
+   "eim": "hands",
+   "api": "/hænd/",
+   "pr": "HÈNND",
+   "mc": "henné",
+   "sc": "La MAIN géante gantée de blanc d'un garde royal, qui serre toutes les autres mains, est décorée au HENNÉ.",
+   "de": "hand ≈ « henné » ; la main gantée = la main",
+   "fo": "pl. hands ; left / right hand ; to give sb a hand = donner un coup de main",
+   "co": [
+    "to give sb a hand",
+    "to raise your hand",
+    "to hold hands",
+    "on the other hand"
+   ]
+  },
+  {
+   "n": 37,
+   "it": "death",
+   "eit": "She's afraid of death.",
+   "eim": "death",
+   "api": "/deθ/",
+   "pr": "DÈTH",
+   "mc": "dette",
+   "sc": "Dans le brouillard de Londres, la faucheuse brandit sa faux : la MORT vient réclamer sa DETTE.",
+   "de": "death ≈ « dette » ; la faucheuse = la mort",
+   "fo": "dead = mort (adj.) ; to die = mourir",
+   "co": [
+    "to sentence sb to death",
+    "the cause of death",
+    "the death penalty",
+    "death row"
+   ]
+  },
+  {
+   "n": 38,
+   "it": "moment",
+   "eit": "This isn't the moment, alright?",
+   "eim": "moment",
+   "api": "/ˈməʊmənt/",
+   "pr": "MÉO-ment",
+   "mc": "« les mômes mentent »",
+   "sc": "Un chronomètre figé à l'heure du thé marque le MOMENT précis où les MÔMES MENTENT : « C'est pas nous ! »",
+   "de": "moment ≈ « mômes ment(ent) » ; le chronomètre figé = le moment",
+   "fo": "Just a moment! = Un instant ! ; at the moment = en ce moment",
+   "px": [
+    "He cancelled his visit at the last minute."
+   ],
+   "co": [
+    "the right moment",
+    "wait a moment",
+    "a bad moment",
+    "a difficult moment"
+   ]
+  },
+  {
+   "n": 39,
+   "it": "fact",
+   "eit": "It's a fact.",
+   "eim": "fact",
+   "api": "/fækt/",
+   "pr": "FÈKT",
+   "mc": "facteur",
+   "sc": "Un FACTEUR de la Royal Mail brandit un journal : un FAIT divers fait la une.",
+   "de": "fact ≈ « fact(eur) » ; le fait divers = le fait",
+   "fo": "in fact = en fait ; the fact that = le fait que"
+  },
+  {
+   "n": 40,
+   "it": "square",
+   "eit": "A statue in the square.",
+   "eim": "square",
+   "api": "/skweə/",
+   "pr": "SKOUÈ",
+   "mc": "square",
+   "sc": "Une statue au milieu d'une PLACE pleine de pigeons, Trafalgar Square, aussi bien rangée qu'un SQUARE parisien.",
+   "de": "square ≈ « square » ; la place du village = la place",
+   "fo": "aussi « carré » ; un square (jardin) = a park / gardens"
+  },
+  {
+   "n": 41,
+   "it": "son",
+   "eit": "His son's ten.",
+   "eim": "son",
+   "api": "/sʌn/",
+   "pr": "SANN",
+   "mc": "il sonne",
+   "sc": "Un FILS et son parrain arrivent devant un cottage, et le gamin SONNE à la porte pour réveiller tout le monde.",
+   "de": "son ≈ « (il) sonne » ; le fils et son parrain = le fils",
+   "fo": "se prononce comme sun (soleil) ; fille (enfant de) = daughter",
+   "co": [
+    "an only son",
+    "father and son"
+   ]
+  },
+  {
+   "n": 42,
+   "it": "head",
+   "eit": "I've got a headache.",
+   "eim": "head",
+   "api": "/hed/",
+   "pr": "HÈD",
+   "mc": "« (à l')aide ! »",
+   "sc": "Dans une salle d'examen d'Oxford, une TÊTE passe un test, crayon entre les dents, et souffle « À L'AIDE ! ».",
+   "de": "head ≈ « (h)aide » ; la tête qui passe un test = la tête",
+   "fo": "headache = mal de tête ; h soufflé",
+   "px": [
+    "It makes no sense at all.",
+    "Don't get worked up about what other people say.",
+    "He doesn't know which way to turn."
+   ],
+   "co": [
+    "to lose your head",
+    "to shake your head",
+    "to hit your head",
+    "to nod your head"
+   ]
+  },
+  {
+   "n": 43,
+   "it": "knock / blow",
+   "eit": "He took a knock on the head.",
+   "eim": "knock",
+   "api": "/nɒk/",
+   "pr": "NOK",
+   "mc": "knock-out",
+   "sc": "Un COUP de poing envoie un boxeur KNOCK-OUT au tapis d'un ring londonien, et un pot de fleurs s'envole jusqu'au plafond.",
+   "de": "knock ≈ « knock(-out) » ; le coup de poing = le coup",
+   "fo": "k muet ; to knock = frapper (à la porte) ; coup de feu = shot ; blow (plus soutenu)",
+   "co": [
+    "a knock on the head",
+    "a knock at the door",
+    "to take a knock"
+   ]
+  },
+  {
+   "n": 44,
+   "it": "car",
+   "eit": "Shall we take the car?",
+   "eim": "car",
+   "api": "/kɑː/",
+   "pr": "KAA",
+   "mc": "car (autocar)",
+   "sc": "Une VOITURE-machine fumante se gare à côté d'un CAR à impériale rouge.",
+   "de": "car ≈ « car » ; la voiture-machine = la voiture",
+   "fo": "car park (UK) = parking ; petrol = essence ; motorway = autoroute",
+   "px": [
+    "My car broke down on the motorway."
+   ],
+   "co": [
+    "to get in the car",
+    "to get out of the car",
+    "to steal a car",
+    "car keys"
+   ]
+  },
+  {
+   "n": 45,
+   "it": "question",
+   "eit": "I've got a question.",
+   "eim": "question",
+   "api": "/ˈkwestʃən/",
+   "pr": "KOUÈS-tchen",
+   "mc": "« quès-tchienne »",
+   "sc": "Un point d'interrogation géant porté sur le dos : une QUESTION que pose une chienne (« QUÈS-TCHIENNE ? ») devant le 10 Downing Street.",
+   "de": "question ≈ « question », prononcé « kouès-tchen »",
+   "fo": "to ask a question = poser une question",
+   "px": [
+    "You're getting on my nerves with all your questions.",
+    "He's pretending he didn't hear the question."
+   ],
+   "co": [
+    "to answer the question",
+    "a couple of questions",
+    "to ask a question"
+   ]
+  },
+  {
+   "n": 46,
+   "it": "bargain",
+   "eit": "That's a bargain!",
+   "eim": "bargain",
+   "api": "/ˈbɑːɡɪn/",
+   "pr": "BAA-ghin",
+   "mc": "bar à Guinness",
+   "sc": "Une mallette d'AFFAIRES posée sur le comptoir d'un BAR où la GUINNESS est à moitié prix : bonne affaire !",
+   "de": "bargain ≈ « bar-Guinn(ess) » ; la mallette = l'affaire",
+   "fo": "to bargain = marchander ; business = les affaires ; deal = marché, accord",
+   "px": [
+    "Business is business."
+   ],
+   "co": [
+    "a real bargain",
+    "a bargain price",
+    "to drive a hard bargain"
+   ]
+  },
+  {
+   "n": 47,
+   "it": "thing",
+   "eit": "What's that thing?",
+   "eim": "thing",
+   "api": "/θɪŋ/",
+   "pr": "THING",
+   "mc": "singe",
+   "sc": "Au marché de Portobello Road, un SINGE tire un TRUC informe emballé dans une robe de soirée.",
+   "de": "thing ≈ singe ; le truc emballé = le truc",
+   "fo": "thingy (fam.) = machin, truc ; stuff = des trucs (indénombrable)",
+   "co": [
+    "that sort of thing",
+    "something like that",
+    "good stuff"
+   ]
+  },
+  {
+   "n": 48,
+   "drop": true
+  },
+  {
+   "n": 49,
+   "fr": "des fois (time, pluriel ; = parfois)",
+   "it": "sometimes",
+   "eit": "Sometimes it's really rubbish doing the right thing.",
+   "eim": "Sometimes",
+   "api": "/ˈsʌmtaɪmz/",
+   "pr": "SAMM-taïmz",
+   "mc": "→ time",
+   "sc": "« Des fois » = sometimes, littéralement « quelques fois » : some + times (pluriel de time).",
+   "de": "sometimes ≈ « some + times » ; → time",
+   "fo": "times = pluriel de time (fois) ; des fois / parfois = sometimes"
+  },
+  {
+   "n": 50,
+   "it": "idea",
+   "eit": "Good idea!",
+   "eim": "idea",
+   "api": "/aɪˈdɪə/",
+   "pr": "aï-DIE",
+   "mc": "« Aïe, dis ! »",
+   "sc": "Une ampoule s'allume au-dessus d'une tête : IDÉE ! « AÏE, DIS ! », crie son propriétaire en se brûlant sur un réverbère londonien.",
+   "de": "idea ≈ « aïe, dis(-a) » ; l'ampoule qui s'allume = l'idée",
+   "fo": "accent sur la 2e syllabe : i-DEA ; I've no idea = j'en ai aucune idée",
+   "px": [
+    "That gives me an idea.",
+    "But how did you come up with that idea?",
+    "I've only got a vague idea.",
+    "You'd better get that idea out of your head."
+   ],
+   "co": [
+    "a good idea",
+    "no idea",
+    "a better idea",
+    "a terrible idea"
+   ]
+  },
+  {
+   "n": 51,
+   "it": "family",
+   "eit": "The whole family's here.",
+   "eim": "family",
+   "api": "/ˈfæməli/",
+   "pr": "FÈ-me-li",
+   "mc": "fameux lit",
+   "sc": "Sur la cheminée d'un cottage, une photo de FAMILLE : tout le monde serré dans un FAMEUX LIT à baldaquin.",
+   "de": "family ≈ « fameux lit » ; la photo sur la cheminée = la famille",
+   "fo": "pl. families ; family + verbe sing. ou pl. en UK (the family are…)",
+   "px": [
+    "Already one family in two has a computer."
+   ],
+   "co": [
+    "the whole family",
+    "family life",
+    "to start a family"
+   ]
+  },
+  {
+   "n": 52,
+   "it": "love",
+   "eit": "She's the love of my life.",
+   "eim": "love",
+   "api": "/lʌv/",
+   "pr": "LAV",
+   "mc": "lave",
+   "sc": "Sous la pluie fine de Londres, un cœur d'AMOUR rouge vif crache de la LAVE brûlante comme un volcan.",
+   "de": "love ≈ « lave » ; le cœur = l'amour",
+   "fo": "to love = aimer ; love (UK, fam.) = « mon chou » (Thanks, love) ; to fall in love = tomber amoureux",
+   "co": [
+    "to fall in love",
+    "the love of my life",
+    "love at first sight"
+   ]
+  },
+  {
+   "n": 53,
+   "it": "luck",
+   "eit": "Lucky you!",
+   "eim": "Luck",
+   "api": "/lʌk/",
+   "pr": "LAK",
+   "mc": "lac",
+   "sc": "Un trèfle à quatre feuilles porte-CHANCE flotte sur un LAC écossais… et attire Nessie.",
+   "de": "luck ≈ « lac » ; le trèfle à quatre feuilles = la chance",
+   "fo": "lucky = chanceux ; Lucky you! = T'as de la chance ! ; faux ami : a chance = une occasion, une probabilité",
+   "px": [
+    "He was lucky.",
+    "Give me another chance."
+   ],
+   "co": [
+    "good luck",
+    "bad luck",
+    "to be in luck"
+   ]
+  },
+  {
+   "n": 54,
+   "it": "minute",
+   "eit": "Hang on a minute!",
+   "eim": "minute",
+   "api": "/ˈmɪnɪt/",
+   "pr": "MI-nit",
+   "mc": "minette",
+   "sc": "Au salon de thé, une MINETTE renverse d'un coup de patte un sablier d'une MINUTE.",
+   "de": "minute ≈ « minette » ; le sablier = la minute",
+   "fo": "attention : minute (adj.) /maɪˈnjuːt/ = minuscule ; Hang on a minute! = Attends une minute !",
+   "px": [
+    "They should be here any minute now."
+   ],
+   "co": [
+    "wait a minute",
+    "at the last minute",
+    "in a minute"
+   ]
+  },
+  {
+   "n": 55,
+   "it": "bloke",
+   "eit": "Who's that bloke?",
+   "eim": "bloke",
+   "api": "/bləʊk/",
+   "pr": "BLÉOK",
+   "mc": "bloc",
+   "sc": "Un MEC en casquette plate, accoudé au comptoir d'un pub, carré comme un BLOC de béton.",
+   "de": "bloke ≈ « bloc » ; le gars en casquette = le mec",
+   "fo": "bloke (UK, fam.) ; guy = mec (UK et US) ; chap (UK, un peu vieilli)"
+  },
+  {
+   "n": 56,
+   "it": "eye",
+   "eit": "I've got something in my eye.",
+   "eim": "eye",
+   "api": "/aɪ/",
+   "pr": "AÏ",
+   "mc": "« Aïe ! »",
+   "sc": "Un ŒIL géant regarde par la vitrine d'un kiosque à journaux de Londres et crie « AÏE ! » : une poussière dedans.",
+   "de": "eye ≈ « aïe » ; l'œil géant = l'œil",
+   "fo": "pl. eyes ; to keep an eye on = avoir à l'œil",
+   "px": [
+    "You'd better keep an eye on him."
+   ],
+   "co": [
+    "to keep an eye on",
+    "to close your eyes",
+    "in the blink of an eye"
+   ]
+  },
+  {
+   "n": 57,
+   "it": "brother",
+   "eit": "My brother's late, as usual.",
+   "eim": "brother",
+   "api": "/ˈbrʌðə/",
+   "pr": "BRA-the",
+   "mc": "brasseur",
+   "sc": "Deux FRÈRES fraternels s'embrassent chez un BRASSEUR, pinte de bière brune à la main, dans un pub de Londres.",
+   "de": "brother ≈ « bras(seur) » ; les deux frères qui s'embrassent = le frère",
+   "fo": "sister = sœur ; bro (fam.) ; brother-in-law = beau-frère",
+   "px": [
+    "His brother studied at the University of Glasgow.",
+    "I must have mixed him up with his brother."
+   ]
+  },
+  {
+   "n": 58,
+   "it": "story",
+   "eit": "Tell me a story.",
+   "eim": "story",
+   "api": "/ˈstɔːri/",
+   "pr": "STOO-ri",
+   "mc": "store",
+   "sc": "Dans une nursery anglaise, un livre de contes s'ouvre et projette son HISTOIRE sur le STORE baissé, comme sur un écran.",
+   "de": "story ≈ « store » ; le livre de contes = l'histoire",
+   "fo": "history = l'Histoire (le passé) ; story = le récit",
+   "px": [
+    "He claims it's a true story.",
+    "It was an uneventful stay."
+   ],
+   "co": [
+    "to tell a story",
+    "a true story",
+    "a long story",
+    "a bedtime story"
+   ]
+  },
+  {
+   "n": 59,
+   "fr": "les hommes (man, pluriel)",
+   "it": "men",
+   "eit": "The men at the new house are going to love you, Fanny.",
+   "eim": "men",
+   "api": "/men/",
+   "pr": "MÈNN",
+   "mc": "→ man",
+   "sc": "Forme accordée de « man » (l'homme) : pluriel irrégulier men.",
+   "de": "men ≈ « → man »",
+   "fo": "pluriel irrégulier : man → men"
+  },
+  {
+   "n": 60,
+   "it": "the right moment",
+   "eit": "Just at the right moment.",
+   "eim": "the right moment",
+   "api": "/ðə ˌraɪt ˈməʊmənt/",
+   "pr": "the RAÏT MÉO-ment",
+   "mc": "right + moment",
+   "sc": "On réunit « right » (il raille) et « moment » (les mômes mentent) : le bon moment.",
+   "de": "the right moment ≈ « right + moment »",
+   "fo": "at the right moment / at the right time ; just in time = juste à temps"
+  },
+  {
+   "n": 61,
+   "it": "dad",
+   "eit": "Dad'll be here in ten minutes.",
+   "eim": "Dad",
+   "api": "/dæd/",
+   "pr": "DÈD",
+   "mc": "dada",
+   "sc": "Un PAPA porte son enfant sur les épaules le long de la Tamise, et le petit crie « Hue, DADA ! ».",
+   "de": "dad ≈ « dada » ; le père qui porte l'enfant = papa",
+   "fo": "daddy (langage enfantin) ; father = père (neutre) ; le pape = the Pope"
+  },
+  {
+   "n": 62,
+   "it": "person",
+   "eit": "She's a brilliant person.",
+   "eim": "person",
+   "api": "/ˈpɜːsn/",
+   "pr": "PEUR-sen",
+   "mc": "peur + sonne",
+   "sc": "Au théâtre du Globe, un personnage enlève son masque : derrière, une vraie PERSONNE qui a PEUR et SONNE la cloche.",
+   "de": "person ≈ « peur-sonne » ; le masque qui tombe = la personne",
+   "fo": "pl. people ; personne (négation) = nobody / not … anyone",
+   "px": [
+    "Nobody made you do it.",
+    "I don't owe my success to anyone.",
+    "Don't tell anyone.",
+    "Nobody knows what's become of him.",
+    "Whatever he says, nobody wants to believe him.",
+    "I'm begging you not to tell anyone."
+   ],
+   "co": [
+    "a nice person",
+    "the only person",
+    "in person"
+   ]
+  },
+  {
+   "n": 63,
+   "it": "door",
+   "eit": "Shut the door, please.",
+   "eim": "door",
+   "api": "/dɔː/",
+   "pr": "DOO",
+   "mc": "dos",
+   "sc": "La PORTE rouge d'une maison de Londres tient en porte-à-faux sur un seul gond et vient battre dans ton DOS.",
+   "de": "door ≈ « dos » ; la porte battante = la porte",
+   "fo": "to shut / close the door ; doorbell = sonnette ; next door = à côté",
+   "px": [
+    "He'll pay his debts – I can vouch for him."
+   ],
+   "co": [
+    "to open the door",
+    "to knock on the door",
+    "the front door",
+    "next door"
+   ]
+  },
+  {
+   "n": 64,
+   "fr": "les amis (friend, pluriel)",
+   "it": "friends",
+   "eit": "Where are my friends?",
+   "eim": "friends",
+   "api": "/frendz/",
+   "pr": "FRÈNDZ",
+   "mc": "→ friend",
+   "sc": "Forme accordée de « friend » (l'ami) : pluriel.",
+   "de": "friends ≈ « → friend »",
+   "fo": "pluriel régulier : friend → friends"
+  },
+  {
+   "n": 65,
+   "fr": "les jours (day, pluriel ; tous les jours = every day)",
+   "it": "every day",
+   "eit": "That's why I come every day.",
+   "eim": "every day",
+   "api": "/ˌevri ˈdeɪ/",
+   "pr": "È-vri DÉÏ",
+   "mc": "→ day",
+   "sc": "« Tous les jours » = every day : après every, day reste au singulier.",
+   "de": "every day ≈ « every + → day »",
+   "fo": "every + singulier : every day ; everyday (en un mot) = quotidien (adj.)"
+  },
+  {
+   "n": 66,
+   "it": "blood",
+   "eit": "There's blood on your shirt!",
+   "eim": "blood",
+   "api": "/blʌd/",
+   "pr": "BLAD",
+   "mc": "Vlad (l'Empaleur)",
+   "sc": "Du SANG gai danse sur la chemise de VLAD l'Empaleur, en vacances dans un pub de Whitby, la ville de Dracula.",
+   "de": "blood ≈ « (V)lad » ; le sang = le sang",
+   "fo": "oo prononcé « a » ; to bleed (bled, bled) = saigner ; bloody (UK, fam.) = sacré, foutu",
+   "px": [
+    "It made my blood run cold."
+   ],
+   "co": [
+    "blood test",
+    "to give blood",
+    "in cold blood"
+   ]
+  },
+  {
+   "n": 67,
+   "it": "character",
+   "eit": "He's a bit of an odd character.",
+   "eim": "character",
+   "api": "/ˈkærəktə/",
+   "pr": "KÈ-rek-te",
+   "mc": "caractère",
+   "sc": "Un TYPE en casquette, très typé, au CARACTÈRE bien trempé, montre un badge « TYPE » à un bobby.",
+   "de": "character ≈ « caractère » ; le type typé = le type",
+   "fo": "aussi « personnage » ; type = genre, sorte (He's not my type) ; bloke / guy = mec",
+   "co": [
+    "an odd character",
+    "a real character",
+    "the main character"
+   ]
+  },
+  {
+   "n": 68,
+   "it": "a lot of people",
+   "eit": "There are a lot of people.",
+   "eim": "a lot of people",
+   "api": "/ə ˈlɒt əv ˈpiːpl/",
+   "pr": "e-LOT ev PII-pel",
+   "mc": "lot + people",
+   "sc": "On réunit « lot » (un gros lot) et « people » (pipelette) : beaucoup de gens.",
+   "de": "a lot of people ≈ « lot + people »",
+   "fo": "lots of / loads of (UK, fam.) ; many people (plus soutenu)"
+  },
+  {
+   "n": 69,
+   "it": "week",
+   "eit": "See you next week.",
+   "eim": "week",
+   "api": "/wiːk/",
+   "pr": "OUIIK",
+   "mc": "week-end",
+   "sc": "Les sept jours de la SEMAINE défilent sur un calendrier qui se termine par un WEEK-END à la mer, à Brighton.",
+   "de": "week ≈ « week(-end) » ; les sept jours = la semaine",
+   "fo": "at the weekend (UK) = le week-end ; a fortnight (UK) = quinze jours",
+   "px": [
+    "I'm going to stay here for a week."
+   ],
+   "co": [
+    "next week",
+    "last week",
+    "a week off"
+   ]
+  },
+  {
+   "n": 70,
+   "it": "work",
+   "eit": "I've got too much work.",
+   "eim": "work",
+   "api": "/wɜːk/",
+   "pr": "OUEURK",
+   "mc": "« Ouh, beurk ! »",
+   "sc": "Un ouvrier TRAVAILLE dur à frotter des montagnes de linge au lavoir, sous la pluie de Manchester, en grommelant « OUH, BEURK ! ».",
+   "de": "work ≈ « ouh, (b)eurk » ; l'ouvrier au lavoir = le travail",
+   "fo": "indénombrable : too much work ; a job = un emploi ; to work = travailler"
+  },
+  {
+   "n": 71,
+   "it": "work",
+   "eit": "I cycle to work.",
+   "eim": "work",
+   "api": "/wɜːk/",
+   "pr": "OUEURK",
+   "mc": "« Ouh, beurk ! »",
+   "sc": "Au-dessus d'un vieux lavoir qui déborde, un ouvrier en bleu boulonne des tuyaux : quel BOULOT ! « OUH, BEURK ! », lâche-t-il avant de filer à vélo.",
+   "de": "work ≈ « ouh, (b)eurk » ; l'ouvrier qui boulonne = le boulot",
+   "fo": "job = un boulot, un emploi ; to go to work = aller au boulot"
+  },
+  {
+   "n": 72,
+   "it": "boy",
+   "eit": "He's a really funny boy.",
+   "eim": "boy",
+   "api": "/bɔɪ/",
+   "pr": "BOÏ",
+   "mc": "boy-scout",
+   "sc": "Un GARÇON en culotte courte — un BOY-SCOUT anglais — regarde son rat apprivoisé grignoter sa casquette.",
+   "de": "boy ≈ « boy(-scout) » ; le gamin en culotte courte = le garçon",
+   "fo": "pl. boys ; boyfriend = petit ami ; un garçon (de café) = a waiter"
+  },
+  {
+   "n": 73,
+   "it": "lad",
+   "eit": "He's a nice lad.",
+   "eim": "lad",
+   "api": "/læd/",
+   "pr": "LÈD",
+   "mc": "laid",
+   "sc": "Un grand GARS en blouson de cuir — pas LAID du tout — lève sa pinte au comptoir d'un pub.",
+   "de": "lad ≈ « laid » ; le gars en blouson = le gars",
+   "fo": "lad (UK, fam.) ; the lads = les potes ; guy, bloke = mec"
+  },
+  {
+   "n": 74,
+   "it": "month",
+   "eit": "Next month, I'm moving house.",
+   "eim": "month",
+   "api": "/mʌnθ/",
+   "pr": "MANTH",
+   "mc": "menthe",
+   "sc": "Sur un calendrier MENSUEL où l'on est à ses aises, chaque page du MOIS sent la MENTHE du thé.",
+   "de": "month ≈ « menthe » ; le calendrier mensuel = le mois",
+   "fo": "pl. months /mʌnθs/ ; to move house (UK) = déménager",
+   "co": [
+    "next month",
+    "last month",
+    "a couple of months"
+   ]
+  },
+  {
+   "n": 75,
+   "it": "city",
+   "eit": "I love this city.",
+   "eim": "city",
+   "api": "/ˈsɪti/",
+   "pr": "SI-ti",
+   "mc": "cité",
+   "sc": "Les rues de la VILLE — la City de Londres — s'étendent comme une CITÉ de gratte-ciel autour de la cathédrale Saint-Paul.",
+   "de": "city ≈ « cité » ; les rues = la ville",
+   "fo": "town = ville (petite ou moyenne) ; city = grande ville ; the City = quartier financier de Londres",
+   "co": [
+    "the city centre",
+    "a big city",
+    "a capital city",
+    "town and city"
+   ]
+  },
+  {
+   "n": 76,
+   "it": "case",
+   "eit": "In that case, let's go.",
+   "eim": "case",
+   "api": "/keɪs/",
+   "pr": "KÉÏS",
+   "mc": "caisse",
+   "sc": "À Scotland Yard, un dossier « CAS n° 1 » est rangé dans une CAISSE de thé.",
+   "de": "case ≈ « caisse » ; le dossier « cas n° 1 » = le cas",
+   "fo": "in that case = dans ce cas ; just in case = au cas où ; aussi « valise » (suitcase)",
+   "px": [
+    "You should take more notice of what people tell you."
+   ]
+  },
+  {
+   "n": 77,
+   "it": "ache",
+   "eit": "I've got backache.",
+   "eim": "backache",
+   "api": "/eɪk/",
+   "pr": "ÉÏK",
+   "mc": "« Eh, qu'… ! »",
+   "sc": "À Victoria Station, une malle trop lourde tombe sur le pied d'un voyageur : quel MAL ! « EH, QU'ça fait mal ! », hurle-t-il.",
+   "de": "ache ≈ « eh, qu'… » ; la malle sur le pied = le mal",
+   "fo": "backache, headache, toothache, stomach ache ; to hurt = faire mal ; sore throat = mal de gorge",
+   "px": [
+    "I've got a headache.",
+    "It really hurts here.",
+    "I don't think I've done anything wrong.",
+    "I'm finding it hard to give it up.",
+    "He wouldn't hurt a fly.",
+    "I've got a sore throat.",
+    "He went to a lot of trouble for you."
+   ],
+   "co": [
+    "headache",
+    "backache",
+    "toothache",
+    "stomach ache"
+   ]
+  },
+  {
+   "n": 78,
+   "it": "website / site",
+   "eit": "Who made this website?",
+   "eim": "website",
+   "api": "/ˈwebsaɪt/",
+   "pr": "OUEB-saït",
+   "mc": "web + site",
+   "sc": "Dans un cybercafé de Soho, un SITE web s'allume sur l'écran, pris dans une toile d'araignée : le WEB.",
+   "de": "website ≈ « web + site » ; l'écran qui s'allume = le site",
+   "fo": "site = site, aussi chantier (building site) ; online = en ligne"
+  },
+  {
+   "n": 79,
+   "it": "seat",
+   "eit": "There's a seat left next to me.",
+   "eim": "seat",
+   "api": "/siːt/",
+   "pr": "SIIT",
+   "mc": "(as)siette",
+   "sc": "Dans un bus rouge à impériale, une PLACE libre est marquée par une ASSIETTE posée sur le siège.",
+   "de": "seat ≈ « (as)siette » ; la place réservée = la place (siège)",
+   "fo": "place (endroit) = place ; If I were you = À ta place ; Is this seat taken? = Cette place est prise ?",
+   "px": [
+    "If I were you, I wouldn't hesitate.",
+    "If I were you, I wouldn't do it.",
+    "I wouldn't want to be in his shoes.",
+    "If I were you, I'd keep out of it.",
+    "Is this seat taken?",
+    "I wouldn't want to be in your shoes.",
+    "Are there any seats left in the circle?"
+   ],
+   "co": [
+    "to take a seat",
+    "a window seat",
+    "a front seat",
+    "the back seat"
+   ]
+  },
+  {
+   "n": 80,
+   "it": "side",
+   "eit": "Stand on this side.",
+   "eim": "side",
+   "api": "/saɪd/",
+   "pr": "SAÏD",
+   "mc": "Saïd",
+   "sc": "Au marché de Camden, SAÏD pousse latéralement un CÔTÉ d'un cube géant.",
+   "de": "side ≈ « Saïd » ; le flanc du cube = le côté",
+   "fo": "on this side = de ce côté ; next to = à côté de ; on my side = de mon côté",
+   "co": [
+    "the other side",
+    "on both sides",
+    "side by side",
+    "to take sides"
+   ]
+  },
+  {
+   "n": 81,
+   "it": "police",
+   "eit": "Call the police!",
+   "eim": "police",
+   "api": "/pəˈliːs/",
+   "pr": "pe-LIIS",
+   "mc": "pelisse",
+   "sc": "Une voiture de POLICE s'arrête et un bobby en PELISSE de fourrure en descend.",
+   "de": "police ≈ « pelisse » ; la voiture de police = la police",
+   "fo": "verbe au pluriel : the police are… ; police officer = policier ; 999 = numéro d'urgence UK",
+   "px": [
+    "The police investigation came to nothing."
+   ],
+   "co": [
+    "to call the police",
+    "a police officer",
+    "the police station"
+   ]
+  },
+  {
+   "n": 82,
+   "fr": "les minutes (minute, pluriel)",
+   "it": "minutes",
+   "eit": "I did it in five minutes in the dark.",
+   "eim": "minutes",
+   "api": "/ˈmɪnɪts/",
+   "pr": "MI-nits",
+   "mc": "→ minute",
+   "sc": "Forme accordée de « minute » (la minute) : pluriel.",
+   "de": "minutes ≈ « → minute »",
+   "fo": "pluriel régulier : minute → minutes"
+  },
+  {
+   "n": 83,
+   "fr": "les heures (hour, pluriel ; à l'horloge : quatre heures et demie = half past four)",
+   "it": "half past",
+   "eit": "On the 16th of October, at half past four in the morning.",
+   "eim": "half past four",
+   "api": "/ˌhɑːf ˈpɑːst/",
+   "pr": "HAAF PAAST",
+   "mc": "→ hour",
+   "sc": "« Quatre heures et demie » = half past four : le mot « heures » disparaît, on dit « la moitié passé quatre ».",
+   "de": "half past four ≈ « moitié + passé + quatre » ; → hour",
+   "fo": "4 h = four o'clock ; 4 h 30 = half past four ; 4 h 15 = quarter past four ; hours = heures (durée)"
+  },
+  {
+   "n": 84,
+   "it": "madam",
+   "eit": "Hello, madam, what can I get you?",
+   "eim": "madam",
+   "api": "/ˈmædəm/",
+   "pr": "MÈ-dem",
+   "mc": "madame",
+   "sc": "MADAME, en chapeau à fleurs, s'approche du comptoir d'un grand magasin de Londres : « Yes, MADAM? »",
+   "de": "madam ≈ « madame » (accent sur MA) ; la dame au chapeau = madame",
+   "fo": "à un homme : sir ; Mrs + nom = Madame X ; ma'am (la reine, US)"
+  },
+  {
+   "n": 85,
+   "it": "the rest of the world",
+   "eit": "We owe it to the rest of the world, Ned.",
+   "eim": "the rest of the world",
+   "api": "/ðə ˌrest əv ðə ˈwɜːld/",
+   "pr": "the RÈST ev the OUEULD",
+   "mc": "rest + world",
+   "sc": "On réunit « rest » (le reste) et « world » (« Ouh ! » hurle-t-il) : le reste du monde.",
+   "de": "the rest of the world ≈ « rest + world »",
+   "fo": "the rest of = le reste de ; to owe = devoir (une dette)"
+  },
+  {
+   "n": 86,
+   "it": "water",
+   "eit": "Do you want some water?",
+   "eim": "water",
+   "api": "/ˈwɔːtə/",
+   "pr": "OUO-te",
+   "mc": "ouate",
+   "sc": "Dans une cuisine anglaise, un aquarium déborde d'EAU sur le carrelage ; on éponge avec des boules de OUATE.",
+   "de": "water ≈ « ouate » ; l'aquarium qui déborde = l'eau",
+   "fo": "indénombrable : some water ; still / sparkling = plate / gazeuse ; tap water = eau du robinet",
+   "px": [
+    "She was left high and dry.",
+    "Still or sparkling?"
+   ],
+   "co": [
+    "a glass of water",
+    "tap water",
+    "hot water",
+    "still water"
+   ]
+  },
+  {
+   "n": 87,
+   "it": "ground",
+   "eit": "The phone's fallen on the ground.",
+   "eim": "ground",
+   "api": "/ɡraʊnd/",
+   "pr": "GRAOUND",
+   "mc": "grand",
+   "sc": "Une motte de TERRE brune s'écrase sur le GRAND gazon d'un terrain de cricket.",
+   "de": "ground ≈ « grand » ; la motte = la terre",
+   "fo": "par terre = on the ground / on the floor (à l'intérieur) ; la Terre (planète) = the Earth ; soil = terre (jardin)"
+  },
+  {
+   "n": 88,
+   "it": "word",
+   "eit": "I didn't understand a word.",
+   "eim": "word",
+   "api": "/wɜːd/",
+   "pr": "OUEURD",
+   "mc": "Word (logiciel)",
+   "sc": "Dans un bureau londonien, un MOT sort d'une bouche en bulle de BD et s'imprime tout seul dans un document WORD.",
+   "de": "word ≈ « Word » ; la bulle de BD = le mot",
+   "fo": "password = mot de passe ; in other words = autrement dit",
+   "px": [
+    "What does this word mean?",
+    "I'll take him at his word.",
+    "He always finds the right word.",
+    "He always wants to have the last word.",
+    "I've forgotten my password.",
+    "You've only got to say the word and she'll come back."
+   ],
+   "co": [
+    "to have a word with sb",
+    "in other words",
+    "the last word",
+    "to keep your word"
+   ]
+  },
+  {
+   "n": 89,
+   "fr": "les mains (hand, pluriel)",
+   "it": "hands",
+   "eit": "Someone's got very soft hands.",
+   "eim": "hands",
+   "api": "/hændz/",
+   "pr": "HÈNNDZ",
+   "mc": "→ hand",
+   "sc": "Forme accordée de « hand » (la main) : pluriel.",
+   "de": "hands ≈ « → hand »",
+   "fo": "pluriel régulier : hand → hands"
+  },
+  {
+   "n": 90,
+   "it": "bedroom",
+   "eit": "Your bedroom's a tip!",
+   "eim": "bedroom",
+   "api": "/ˈbedruːm/",
+   "pr": "BÈD-roum",
+   "mc": "baie de Rhum",
+   "sc": "Une caméra filme une CHAMBRE en bazar dont la fenêtre donne sur la BAIE DE RHUM, en Écosse.",
+   "de": "bedroom ≈ « baie de Rhum » (bed = lit, room = pièce) ; la chambre filmée = la chambre",
+   "fo": "room = pièce, chambre (d'hôtel) ; a tip (UK, fam.) = un vrai bazar",
+   "px": [
+    "She rents out a room to a student."
+   ],
+   "co": [
+    "a double room",
+    "a single room",
+    "the spare room"
+   ]
+  },
+  {
+   "n": 91,
+   "it": "morning",
+   "eit": "In the mornings, I have a coffee.",
+   "eim": "mornings",
+   "api": "/ˈmɔːnɪŋ/",
+   "pr": "MOO-ning",
+   "mc": "morne",
+   "sc": "Un réveil sonne au MATIN sous un ciel MORNE et gris de Londres.",
+   "de": "morning ≈ « morne » ; le réveil qui sonne = le matin",
+   "fo": "Good morning = bonjour (le matin) ; in the morning = le matin ; this morning = ce matin",
+   "px": [
+    "From morning till night.",
+    "He works from morning till night.",
+    "He slaves away from morning till night to feed his family."
+   ],
+   "co": [
+    "good morning",
+    "this morning",
+    "tomorrow morning",
+    "in the morning"
+   ]
+  },
+  {
+   "n": 92,
+   "it": "the rest of my life",
+   "eit": "Maybe not for the rest of your life.",
+   "eim": "the rest of your life",
+   "api": "/ðə ˌrest əv maɪ ˈlaɪf/",
+   "pr": "the RÈST ev maï LAÏF",
+   "mc": "rest + life",
+   "sc": "On réunit « rest » (le reste) et « life » (l'if) : le reste de ma vie.",
+   "de": "the rest of my life ≈ « rest + life »",
+   "fo": "for the rest of my / your life = pour le reste de ma / ta vie"
+  },
+  {
+   "n": 93,
+   "it": "a good reason",
+   "eit": "He must have a good reason.",
+   "eim": "a good reason",
+   "api": "/ə ˌɡʊd ˈriːzn/",
+   "pr": "e GOUD RII-zen",
+   "mc": "good + reason",
+   "sc": "On réunit « good » (goudron) et « reason » (raisin) : une bonne raison.",
+   "de": "a good reason ≈ « good + reason »",
+   "fo": "to have one's reasons = avoir ses raisons ; for good reason = à juste titre"
+  },
+  {
+   "n": 94,
+   "fr": "les dollars (dollar, pluriel)",
+   "it": "dollars",
+   "eit": "That's why it's worth 53 dollars.",
+   "eim": "dollars",
+   "api": "/ˈdɒləz/",
+   "pr": "DO-lez",
+   "mc": "→ dollar",
+   "sc": "Forme accordée de « dollar » (le dollar) : pluriel.",
+   "de": "dollars ≈ « → dollar »",
+   "fo": "pluriel régulier : dollar → dollars ; pound(s) = livre(s) sterling"
+  },
+  {
+   "n": 95,
+   "it": "share",
+   "eit": "Do you want my share?",
+   "eim": "share",
+   "api": "/ʃeə/",
+   "pr": "CHÈ",
+   "mc": "« ma chère »",
+   "sc": "À l'heure du thé, une énorme PART de gâteau glisse dans mon assiette : « Ma CHÈRE, voici ta part ! », dit la duchesse.",
+   "de": "share ≈ « chère » ; la part de gâteau = la part",
+   "fo": "to share = partager ; Do you want mine? (plus courant)"
+  },
+  {
+   "n": 96,
+   "it": "part",
+   "eit": "Part of the film is shot in Rome.",
+   "eim": "Part",
+   "api": "/pɑːt/",
+   "pr": "PAAT",
+   "mc": "pâte (à modeler)",
+   "sc": "Dans un puzzle géant des îles Britanniques, il manque une PARTIE : un enfant l'a remplacée par de la PÂTE à modeler.",
+   "de": "part ≈ « pâte » ; le morceau de puzzle = la partie",
+   "fo": "part of = une partie de ; une partie (de jeu) = a game ; film (UK) / movie (US)"
+  },
+  {
+   "n": 97,
+   "it": "train",
+   "eit": "My train leaves at eight.",
+   "eim": "train",
+   "api": "/treɪn/",
+   "pr": "TRÉÏN",
+   "mc": "traîne",
+   "sc": "À King's Cross, un TRAIN-traîneau démarre, et une mariée laisse sa longue TRAÎNE flotter derrière la locomotive.",
+   "de": "train ≈ « traîne » ; le train-traîneau = le train",
+   "fo": "to train = s'entraîner, former ; to catch / miss the train = prendre / rater le train",
+   "co": [
+    "to catch the train",
+    "to miss the train",
+    "by train",
+    "the last train"
+   ]
+  },
+  {
+   "n": 98,
+   "it": "sort",
+   "eit": "It's not my sort of thing.",
+   "eim": "sort",
+   "api": "/sɔːt/",
+   "pr": "SOOT",
+   "mc": "sotte",
+   "sc": "Une étiquette « GENRE » se colle au front d'une SOTTE, qui la lit à l'envers devant un bus rouge.",
+   "de": "sort ≈ « sotte » ; l'étiquette « genre » = le genre",
+   "fo": "kind / type = genre ; He's not my type = c'est pas mon genre (personne)",
+   "px": [
+    "Is this the first time you've been to this sort of event?"
+   ],
+   "co": [
+    "that sort of thing",
+    "all sorts of",
+    "a different sort of"
+   ]
+  },
+  {
+   "n": 99,
+   "it": "the only person",
+   "eit": "The only person who likes me.",
+   "eim": "the only person",
+   "api": "/ði ˌəʊnli ˈpɜːsn/",
+   "pr": "thi ÉON-li PEUR-sen",
+   "mc": "only + person",
+   "sc": "On réunit « only » (on lit) et « person » (peur + sonne) : la seule personne.",
+   "de": "the only person ≈ « only + person »",
+   "fo": "the only one = le seul ; the only person who… = la seule personne qui…"
+  }
+ ]
+}

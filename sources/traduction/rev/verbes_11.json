@@ -1,0 +1,261 @@
+{
+ "fix": {
+  "1": {
+   "eim": "look like"
+  },
+  "5": {
+   "eim": "dominating"
+  },
+  "6": {
+   "eit": "You — shut it."
+  },
+  "11": {
+   "eim": "saving up",
+   "api": "/ˌseɪv ˈʌp/"
+  },
+  "12": {
+   "eim": "pay|back"
+  },
+  "13": {
+   "eim": "isolate"
+  },
+  "14": {
+   "eim": "ruined"
+  },
+  "15": {
+   "it": "breakfast",
+   "api": "/ˈbrekfəst/"
+  },
+  "17": {
+   "eim": "Make the most of"
+  },
+  "18": {
+   "eim": "enjoys"
+  },
+  "19": {
+   "eim": "tracked down"
+  },
+  "20": {
+   "eim": "traced"
+  },
+  "22": {
+   "eim": "doubt"
+  },
+  "24": {
+   "eim": "imitates"
+  },
+  "26": {
+   "eim": "took|away"
+  },
+  "29": {
+   "eim": "dropped"
+  },
+  "32": {
+   "eim": "looks after"
+  },
+  "33": {
+   "eim": "learnt my lesson"
+  },
+  "37": {
+   "eim": "investigating"
+  },
+  "39": {
+   "eim": "Draw"
+  },
+  "40": {
+   "eim": "cheer|up"
+  },
+  "41": {
+   "eim": "pick|up"
+  },
+  "43": {
+   "eim": "despises"
+  },
+  "44": {
+   "eim": "Cut"
+  },
+  "48": {
+   "eim": "tackle"
+  },
+  "50": {
+   "it": "tax",
+   "api": "/tæks/"
+  },
+  "53": {
+   "eim": "made"
+  },
+  "54": {
+   "eim": "warning|about"
+  },
+  "56": {
+   "eim": "stick your nose into"
+  },
+  "57": {
+   "eim": "drag|into"
+  },
+  "58": {
+   "it": "murder",
+   "api": "/ˈmɜːdə/"
+  },
+  "59": {
+   "eim": "interested in"
+  },
+  "61": {
+   "it": "to remain",
+   "eim": "remains"
+  },
+  "62": {
+   "eim": "Stop"
+  },
+  "64": {
+   "eim": "Take|back to"
+  },
+  "69": {
+   "eim": "stroking"
+  },
+  "71": {
+   "eim": "lend"
+  },
+  "73": {
+   "it": "to provide sth",
+   "eim": "provide"
+  },
+  "74": {
+   "eim": "stopped"
+  },
+  "77": {
+   "eim": "Hang|on"
+  },
+  "80": {
+   "eim": "trusting|with"
+  },
+  "81": {
+   "eim": "Put|on"
+  },
+  "83": {
+   "eim": "Make sure"
+  },
+  "84": {
+   "eim": "swapped|for"
+  },
+  "87": {
+   "eim": "claims"
+  },
+  "90": {
+   "eim": "Give"
+  },
+  "94": {
+   "eim": "making|life a misery"
+  },
+  "95": {
+   "eim": "Cook"
+  },
+  "96": {
+   "eim": "Wipe"
+  },
+  "98": {
+   "eim": "Press"
+  }
+ },
+ "li": {
+  "0": "L'acrobate SUSPENDU lâche son trapèze et atterrit dans la boulangerie de LUC, le nez dans le petit pain qui RESSEMBLE à sa mie.",
+  "1": "LUC lance son petit pain sur le camion du DÉMÉNAGEMENT, et tout le MOUVEMENT des cartons s'arrête.",
+  "2": "Un carton tombe du camion et éclate dans le bar de Mayfair, droit dans le shaker que le barman AGITE avec le CHÈQUE.",
+  "3": "Le CHÈQUE froissé jaillit du shaker et se colle sur la noix de COCO géante où les fermiers COOPÈRENT en chantant l'OPÉRA.",
+  "4": "La noix de COCO roule jusqu'à Wimbledon et renverse tous les DOMINOS, sauf le géant qui DOMINE, bien NET.",
+  "5": "Le DOMINO géant tombe au pub et cloue le couvercle du bocal sur la bouche du bavard : « CHUT ! », il LA FERME.",
+  "6": "Le bocal roule jusqu'au théâtre du West End ; le spectateur qui lance « QUOI, HÉ ? » le reçoit et SE TAIT.",
+  "7": "Le spectateur jette son programme dans le central téléphonique, où le collègue CONNECTE les câbles en sirotant son NECTAR.",
+  "8": "Le NECTAR renversé coule jusqu'au Globe et trempe le manuscrit de l'ACTE I que l'acteur JOUE.",
+  "9": "L'acteur lance son manuscrit à Ascot, où il fait tomber le chapeau en TECK que le gentleman ÔTE.",
+  "10": "Le chapeau en TECK atterrit sur la tirelire-bus rouge de l'avare qui ÉCONOMISE la SÈVE.",
+  "11": "L'avare tend sa tirelire au banquier de la City, qui REMBOURSE en glissant les pièces dans le BEC du pélican.",
+  "12": "Le pélican s'envole avec les pièces jusqu'à l'île des Hébrides, où le naufragé ISOLÉ crie « AÏE ! C'est SALÉ ! ».",
+  "13": "Le naufragé lance une bouteille d'eau de mer jusqu'au banc de Manchester, où la pluie ABÎME le livre jusqu'à la RUINE.",
+  "14": "Le livre en RUINE sert à colmater la BRÈCHE du B&B, où le MEC PRÉPARE LE PETIT-DÉJEUNER.",
+  "15": "Le MEC renverse son jus d'orange par la BRÈCHE : la flaque s'étend sous le mur que le bulldozer ABAT lors de la NOCTURNE.",
+  "16": "Une brique du mur ABATTU vole jusqu'à la piste, où le MEC à MOUSTACHE PROFITE DE la descente en godille.",
+  "17": "Le MEC à MOUSTACHE double en godille le skieur de 90 ans qui hurle sa JOIE en JOUISSANT de sa santé.",
+  "18": "Le skieur dévale jusqu'aux Highlands et laisse des traces que le chien policier suit pendant la TRAQUE d'AOÛT.",
+  "19": "Le chien policier mord la TRESSE de câbles de Scotland Yard, et le point rouge clignote sur l'écran.",
+  "20": "La TRESSE de câbles s'emmêle dans la nappe que quelqu'un ÉTEND sur le STAND de Borough : « HIC ! ».",
+  "21": "La nappe s'envole jusqu'au pub et recouvre le journal d'AOÛT du sceptique qui DOUTE de tout.",
+  "22": "Le sceptique jette son journal dans la CAVE fraîche de l'hôpital, sur le bol de RIZ du malade qui SE RÉTABLIT.",
+  "23": "Le perroquet IMITE le malade, pique un grain de RIZ et réclame son THÉ en criant « Tea, please! ».",
+  "24": "Le perroquet s'envole et pose son THÉ sur le turban qui TROUBLE le sultan, au bord de la TRAPPE.",
+  "25": "Le sultan tombe dans la TRAPPE, atterrit sur le brancard en TECK et l'ambulance l'EMMÈNE : « AH, OUAIS ! ».",
+  "26": "L'ambulance fonce dans le pub et ouvre une BRÈCHE dans le mur, où quelqu'un CASSE des spaghettis.",
+  "27": "La BRÈCHE s'élargit, et la tour voisine S'ÉCROULE et roule le long de la Tamise.",
+  "28": "Un bloc de la tour ÉCROULÉE roule dans le lycée et heurte l'élève qui lâche son cahier comme un DROP.",
+  "29": "Le cahier lâché vole jusqu'au salon de Chelsea et se pose sur le clavier PRATIQUE du pianiste qui S'EXERCE.",
+  "30": "Le clavier pliant glisse par la fenêtre et FLOTTE à côté du galet sur la FLOTTE grise de la Tamise.",
+  "31": "Le galet rebondit jusqu'au jardin du cottage, où LUC ENTRETIENT ses rosiers comme à un AFTER.",
+  "32": "LUC lance une rose par la fenêtre de l'école victorienne, sur l'élève qui RETIENT LA LEÇON quand le maître crie « L'HEURE ! ».",
+  "33": "L'élève libéré court au loch et s'empêtre dans le DRAP d'AOÛT du nageur qui SE NOIE.",
+  "34": "Le DRAP d'AOÛT trempé est essoré au-dessus de la pinte du pub, où l'homme NOIE son chagrin sous l'écume.",
+  "35": "L'homme NOYÉ de chagrin s'embarque pour l'ÎLE de vacances, où le touriste FOL TOMBE MALADE.",
+  "36": "Le touriste FOL tend son lit de B&B au détective en deerstalker, qui y trouve la dague et UN VESTIGE GAI.",
+  "37": "Le détective jette UN VESTIGE dans l'abbaye, où le moine RENONCE À son or sous la branche de GUI.",
+  "38": "L'or du moine roule jusqu'à Lord's et trace un sillon sur la pelouse où le géomètre TRACE sa ligne : DRÔLE de terrain !",
+  "39": "La craie du géomètre dessine le bonhomme triste, qui se redresse sur un air de RAP : « TCHIN ! ».",
+  "40": "La pinte du bonhomme tombe sur le vieil homme, que le pompier RELÈVE : « PIC ! HOP ! ».",
+  "41": "Le pompier pose le vieil homme sur le banc de Hyde Park, entre les deux vieux qui BAVARDENT avec TCHATCHE.",
+  "42": "Les deux vieux tendent leur tabac au snob de Camden, qui le MÉPRISE autant que les DIX ÉPICES.",
+  "43": "Le snob jette les DIX ÉPICES sur le tissu que le tailleur de Savile Row DÉCOUPE en QUAT' morceaux.",
+  "44": "Un morceau de tissu s'envole au pied de Big Ben et sert de voile aux deux fidèles qui SE FIANCENT.",
+  "45": "La bague des FIANCÉS tombe dans le bus rouge et raye la vitre que le chanteur FROTTE en chantant.",
+  "46": "Les lettres de SCRABBLE frottées tombent dans la vieille radio du pub qui DIFFUSE sa chanson CHAUDE.",
+  "47": "La radio saute du comptoir et roule sur le gazon de Twickenham, où l'orateur l'ABORDE d'un TACLE.",
+  "48": "Le TACLE de l'orateur projette un rouleau de SCOTCH contre la porte du cottage, où le chat GRATTE.",
+  "49": "Le chat s'enfuit, patte scotchée, et renverse la tasse étiquetée TAXE du contribuable qui PAYE SES IMPÔTS.",
+  "50": "Les pièces de la TAXE roulent jusqu'à Downing Street et frappent la PIQUE du sbire qui JETTE UN COUP D'ŒIL par la serrure.",
+  "51": "Le sbire lance sa PIQUE sur la piste de White City, et le sprinteur GASPILLE son avance en filant vers l'OUEST.",
+  "52": "Le sprinteur fonce sous le chapeau du magicien qui EFFECTUE son tour, d'où sort le MEC au billet de 20 livres.",
+  "53": "Le MEC lance son billet par-dessus les falaises de Douvres et se colle au panneau qui AVERTIT DU DANGER : « OUH, NON ! ».",
+  "54": "Le panneau du DANGER tombe sur le bureau d'Eton, où le professeur CORRIGE au stylo rouge le RECTO des copies.",
+  "55": "Le stylo rouge vole jusqu'à Brick Lane et plonge dans la marmite de l'HINDOU, où le curieux colle son nez au STICK.",
+  "56": "Le curieux, nez collé, est entraîné dans le pub enfumé par le séducteur qui le DRAGUE chez l'HINDOU.",
+  "57": "Le séducteur sort une dague de sa veste et la tend au procureur de l'Old Bailey, qui ACCUSE DE MEURTRE le suspect.",
+  "58": "La dague tombe dans le STADE où le banquier compte les INTÉRÊTS auxquels il S'INTÉRESSE.",
+  "59": "Les pièces des INTÉRÊTS s'envolent jusqu'au pont de Westminster, où l'amoureux PROMET la lune à la MISS.",
+  "60": "La MISS s'enfuit sous l'averse, où la dame au rimmel intact DEMEURE belle avec son sac de RIZ sur la tête.",
+  "61": "Le sac de RIZ tombe devant le panneau STOP rouge, où le fermier STOPPE son tracteur au milieu des moutons.",
+  "62": "Les moutons s'enfuient dans la PLAINE du Norfolk et piétinent le grand plan que l'ingénieur PLANIFIE.",
+  "63": "Le plan s'envole jusqu'à la Tour de Londres, où le corbeau le tend du BEC au reporter qui RAPPORTE le livre en TECK.",
+  "64": "Le reporter laisse tomber le livre en TECK dans le WOK du comptable qui CALCULE en plein mois d'AOÛT.",
+  "65": "La calculette jaillit du WOK sur la pelouse de Wembley, où l'arbitre SIFFLE et jette du SEL.",
+  "66": "L'arbitre lance sa salière dans la grotte du Yorkshire, où l'explorateur EXPLORE en avalant une SPORE : « HIC ! ».",
+  "67": "L'explorateur sort de la grotte au sommet des falaises de Douvres et PRÉCIPITE un rocher sur la RUCHE.",
+  "68": "Les abeilles de la RUCHE fuient jusqu'au marché de Portobello et se posent sur le chat du TROC qu'une main CARESSE.",
+  "69": "Le chat bondit sur une voiture qui heurte le BLOC de béton et EXPLOSE : « HOP ! » au-dessus de Piccadilly.",
+  "70": "Le saltimbanque projeté retombe sur la LANDE écossaise, aux pieds du banquier qui PRÊTE au berger.",
+  "71": "Le berger dépense le prêt au bowling, où les ouvriers qui FONT GRÈVE l'accueillent d'un STRIKE.",
+  "72": "La boule du STRIKE roule jusqu'au PRÉ VIDE du Sussex, que le magasin FOURNIT en fournitures.",
+  "73": "Une fourniture vole jusqu'au panneau STOP, où le vieux lord CESSE DE FUMER et écrase sa pipe.",
+  "74": "La pipe écrasée dérive dans la flaque jusqu'à la Manche, sur le radeau du naufragé qui DÉSESPÈRE avec DIX PAIRES de chaussettes.",
+  "75": "Le naufragé lance une chaussette par le hublot de l'hôpital, sur le patient qui SUBIT UNE OPÉRATION en écoutant l'OPÉRA.",
+  "76": "La CHAÎNE du patient se défait et sert à ACCROCHER le grand tableau au mur du HANGAR.",
+  "77": "Le tableau du HANGAR tombe et UN CLOU vole jusqu'au mur du B&B, fixant le prix TOUT INCLUS.",
+  "78": "Le full English INCLUS est chargé dans le cortège de camions qui AVANCE vers CAMELOT.",
+  "79": "Le cortège arrive à CAMELOT et dépose ses camions dans la salle des coffres du TRUST, où l'on CONFIE un secret.",
+  "80": "Le secret CONFIÉ tombe dans le chas de l'aiguille que la couturière ENFILE pour le POU d'une TONNE.",
+  "81": "Le POU d'une TONNE bondit jusqu'au stade olympique et défonce le mur, laissant la BRÈCHE où le sprinteur BAT LE RECORD.",
+  "82": "Le sprinteur traverse la BRÈCHE et file à Mayfair, où la gardienne qui VEILLE refoule le MEC au CHOU.",
+  "83": "Le MEC lance son CHOU à la cantine, droit dans le bol de SOUPE où les enfants ÉCHANGENT leurs cartes.",
+  "84": "La SOUPE éclabousse jusqu'à la plage de Brighton et trempe le SHORT du baigneur à qui le courage FAIT DÉFAUT.",
+  "85": "Le baigneur en SHORT tire la corde du store, qui SE BAISSE en ROULANT et trempe dans la carafe de jus.",
+  "86": "Le store BAISSÉ se déroule jusqu'à Speakers' Corner et sert d'estrade au menteur qui PRÉTEND et CLAME que la Terre est plate.",
+  "87": "Le menteur lance une boule de bowling qui fait le STRIKE des pilotes qui SE METTENT EN GRÈVE : « GO ! ».",
+  "88": "La boule du STRIKE roule sur la SENTE de campagne et heurte l'émetteur qui ÉMET ses ondes en AOÛT.",
+  "89": "Les ondes de l'émetteur font vibrer la GUIVRE d'or que le roi ACCORDE au marchand sous les voûtes de Westminster.",
+  "90": "La GUIVRE d'or s'envole dans les nuages de Hyde Park, où l'enfant SE FIGURE un MAGE et un DJINN.",
+  "91": "Le DJINN sort des nuages et remplit les sacs que l'acheteuse SUSPEND partout en DÉPENSANT son ARGENT.",
+  "92": "Un sac trop lourd tombe sur la maison face à l'OUEST, que l'homme démolit en GÂCHANT SA VIE.",
+  "93": "Les débris volent dans la ruine voisine, où le voisin infect jette ses fruits pourris : il POURRIT LA VIE, c'est la MISÈRE.",
+  "94": "Un fruit pourri atterrit sur le poulet que l'on FAIT CUIRE à la broche, et le COUCOU jaillit.",
+  "95": "Le COUCOU fait tomber un CHOU mouillé de l'étagère, qu'on ESSUIE avec le torchon Union Jack : « OUAIP ».",
+  "96": "Le torchon Union Jack s'enroule autour de l'échelle de progrès où l'élève PROGRESSE et le PROUVE.",
+  "97": "L'élève grimpe si haut qu'il tombe dans la cabine rouge et APPUIE SUR le bouton de la vieille PRESSE.",
+  "98": "La PRESSE crache un journal que le corgi attrape, et le dresseur le RÉCOMPENSE d'un bol de RIZ : « OUAH ! »."
+ }
+}

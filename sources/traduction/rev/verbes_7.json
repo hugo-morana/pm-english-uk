@@ -1,0 +1,132 @@
+{
+ "fix": {
+  "0": {
+   "eim": "jumped on"
+  },
+  "9": {
+   "eim": "backing you"
+  },
+  "21": {
+   "eim": "feel at ease"
+  },
+  "22": {
+   "eim": "Close your eyes"
+  },
+  "24": {
+   "eim": "mean"
+  },
+  "25": {
+   "eim": "mean"
+  },
+  "45": {
+   "eim": "Open your mouth"
+  },
+  "73": {
+   "eim": "Throw"
+  },
+  "93": {
+   "eim": "Move your arse"
+  }
+ },
+ "li": {
+  "0": "Le saltimbanque qui me SAUTE DESSUS lance son JAMBON jusqu'à la passerelle de Heathrow, où le passager GUETTE la PLAINE.",
+  "1": "L'avion décolle au-dessus de la PLAINE et son souffle emporte la couronne de la MISS qui RATE le train.",
+  "2": "La couronne de la MISS s'envole jusqu'à Sherwood, sur la tête d'une autre MISS qui RATE la cible.",
+  "3": "La flèche ratée se plante dans la porte de la grange que le fermier CONFIRME : « QU'ON FERME ! »",
+  "4": "Le fermier lance son tampon jusqu'aux falaises de Douvres, où le plongeur SE DÉCIDE À sauter : « MEC, HOP ! »",
+  "5": "Le plongeur saute et traverse le plafond du cottage, parmi les IMAGES où le DJINN fatigué bâille.",
+  "6": "Le DJINN souffle un BRIN de lavande derrière l'oreille du porteur qui APPORTE le verre.",
+  "7": "Le verre du porteur se renverse sur le PLAID sous lequel le joker JOUE AUX CARTES avec les CADETS.",
+  "8": "Le joker lance une carte qui se plante dans le BAC à fleurs où le député APPUIE la proposition.",
+  "9": "Le BAC à fleurs bascule dans le cottage, où le chat roux TIENT COMPAGNIE à la joueuse de QUILLES.",
+  "10": "Une QUILLE roule jusqu'au chef GOTH, qui crie « AVE ! » : IL FAUT QUE TU VIENNES.",
+  "11": "Le chef GOTH pousse DAOUD vers l'armoire, d'où il DESCEND la valise, qui tombe dans le verre de jus.",
+  "12": "Le jus éclabousse l'ARGUS roulé des deux voisins qui SE DISPUTENT la clôture.",
+  "13": "Un voisin jette l'ARGUS sur le quai, où les nouveaux que le dresseur FORME TRAÎNENT près du TRAIN.",
+  "14": "Le TRAIN siffle et fait trembler le chêne que le bûcheron ABAT sur la DUNE, devant KATE.",
+  "15": "Le chêne ABATTU écrase le magnétophone de la BBC dont le greffier tire la CORDE en ENREGISTRANT.",
+  "16": "La CORDE du magnétophone se déroule jusqu'au BLOC de pierre qui BLOQUE la route des Cotswolds.",
+  "17": "Le BLOC dévale vers Londres, et le fugueur HISSE sa CAPE pour lui ÉCHAPPER par les toits.",
+  "18": "La CAPE du fugueur tombe sur l'arche de NOÉ, dont le messager PRÉVIENT le roi, seau de LAIT à la main.",
+  "19": "Le LAIT du seau se renverse sur le fauteuil où le loir S'ENDORT près de la FOLLE en SLIP.",
+  "20": "La FOLLE en SLIP roule dans les coussins du pacha qui EST À L'AISE à Mayfair.",
+  "21": "Le pacha lance un coussin dans le dortoir d'Eton, où la surveillante ordonne : « FERMEZ LES YEUX ! »",
+  "22": "Une paupière CLOSE laisse tomber une larme sur la plume d'oie du scribe qui ÉCRIT UNE LETTRE.",
+  "23": "La LETTRE scellée de cire rouge s'envole jusqu'au panneau « DANGER », qui SIGNIFIE qu'il y a une MINE.",
+  "24": "La MINE explose et projette le dictionnaire Oxford dans les mains du voleur qui cherche ce que VEUT DIRE un mot.",
+  "25": "Le voleur lance le dictionnaire dans le BAC de linge que la lavandière GOBE en REPRENANT LE TRAVAIL.",
+  "26": "Le linge du BAC s'envole sous la pluie, et la mère S'INQUIÈTE : « OUA, mon RIZ ! »",
+  "27": "Le RIZ de la mère s'éparpille dans le brouillard, où l'index géant INDIQUE le chemin au touriste au thé CHAUD.",
+  "28": "L'index géant pointe vers l'ABBAYE du Yorkshire, où le chien OBÉIT à son maître.",
+  "29": "Le chien qui OBÉIT rapporte une PANISSE à l'élève que le maître d'Eton PUNIT au coin.",
+  "30": "L'élève PUNI est traîné à l'Old Bailey, où le juge CONDAMNE le voleur et prononce la SENTENCE.",
+  "31": "Le marteau de la SENTENCE tombe dans le PICK-UP où le glaneur jette ce qu'il RAMASSE.",
+  "32": "Le PICK-UP freine devant Harley Street, où le médecin EXAMINE la radio : « HIC ! »",
+  "33": "Le patient qui fait « HIC ! » propulse la radio jusqu'au port, où la pince de CRABE SAISIT la corde.",
+  "34": "Le CRABE grimpe sur le mobile du touriste qui FILME la relève de la garde.",
+  "35": "Le touriste FILME la cuisine du cottage, où le MEC en tablier PRÉPARE LE DÎNER pour Lulu.",
+  "36": "Le shepherd's pie du MEC s'envole jusqu'à Southampton, où le GOÉLAND se pose au BORD du paquebot.",
+  "37": "Le GOÉLAND fonce sur le rouleau à pâtisserie de la FOLLE qui SUIT LES RÈGLES sur son Segway.",
+  "38": "Le Segway de la FOLLE percute le banc en TECK où le punk SE FOUT DE LA GUEULE du garde.",
+  "39": "Le garde chasse le punk dans la tornade qui ramène le GROS HOMME à l'heure du LIT : il RENTRE TÔT.",
+  "40": "Le GROS HOMME atterrit sur le quai de Victoria, sur le chef COMME BACH SOÛL : « REVENEZ VITE ! »",
+  "41": "La baguette du chef crève le ballon, qui ÉCLATE en pleine BOURSE de Londres : BANG !",
+  "42": "Le BANG fait tomber un blessé dont le pompier RELÈVE la tête comme pour un LIFTING.",
+  "43": "Le pompier porte le blessé jusqu'au cottage, où l'enfant exige qu'on lui RACONTE UNE TELLE HISTOIRE.",
+  "44": "Le dragon de l'HISTOIRE crache du feu sur le patient qui OUVRE LA BOUCHE, débordant de MOUSSE.",
+  "45": "La MOUSSE de dentifrice coule sur le piano du pub de Liverpool, où le scribe RAILLE son SONGE.",
+  "46": "La CHANSON du scribe attire le marchand de Portobello, qui tend sa main propre : « Je te fais une OFFRE ! »",
+  "47": "Le marchand tend son OFFRE à UN FAUNE en costume, qui l'annonce et INFORME le public de la BBC.",
+  "48": "Le FAUNE jette son micro sur la veste en SUÈDE avec laquelle l'avocat CONVAINC le jury.",
+  "49": "L'avocat lance sa veste en SUÈDE sur le chien déguisé en SQUELETTE qui EFFRAIE les enfants.",
+  "50": "Le SQUELETTE s'enfuit jusqu'au balcon de Brighton, où le SINGE CHANTE FAUX avec son THON.",
+  "51": "Le THON glisse des bras du SINGE sur la photo de MISS Angleterre que l'enfant serre : elle lui MANQUE.",
+  "52": "L'enfant accroche la photo de MISS au portemanteau du HANGAR où l'on PEND les vestes.",
+  "53": "Une veste PENDUE tombe sur la cible de fléchettes que le tireur VISE : « J'AIME ça ! »",
+  "54": "La fléchette perce le réservoir qui MANQUE D'essence près du LAC asséché.",
+  "55": "Le réservoir vide roule devant le peintre de la Royal Academy, où le modèle TIENT LA POSE comme pendant un HOLD-UP.",
+  "56": "Le modèle baisse les bras et attrape la pince qui saisit l'idée lumineuse : « Tu PIGES ? »",
+  "57": "L'idée lumineuse éclaire le club de cricket, où NOÉ ROULE le règlement : il CONNAÎT LES RÈGLES.",
+  "58": "NOÉ lance le règlement sur la mezzanine, où le déménageur crie « POUSSEZ-VOUS ! » au chat qui GUETTE.",
+  "59": "Le chat saute de la mezzanine dans le train de Paddington, où le voyageur MONTE DANS le wagon.",
+  "60": "Le voyageur aux bottes salies redescend et MONTE SUR la balance, couvert de la boue de la STEPPE.",
+  "61": "La balance bascule et projette la boue sur le gâteau que les sages GOÛTENT en faisant le TRI.",
+  "62": "Une part de gâteau vole sous le voile que le magicien tire pour RÉVÉLER son secret à la VILLE.",
+  "63": "Le voile du magicien s'envole à Hyde Park, sur la bouteille de KETCHUP du coureur qui RATTRAPE le peloton.",
+  "64": "Le KETCHUP gicle sur le gâteau de RIZ au ZESTE auquel le gourmand RÉSISTE, comme le chêne de la lande.",
+  "65": "Le chêne déraciné tombe dans la FAILLE où le projet du commerçant ÉCHOUE.",
+  "66": "Du fond de la FAILLE pousse la PLANTE géante que le jardinier de Kew PLANTE sous la pluie.",
+  "67": "Une feuille de la PLANTE tombe dans la poêle en TECK où les coureurs de Pancake Day font sauter la PÂTE.",
+  "68": "Une crêpe sautée atterrit dans les cartons de la famille qui DÉMÉNAGE en criant « MOUV' ! »",
+  "69": "Un carton tombe sur la pelouse de Wembley, où l'arbitre ÉLIMINE le joueur pendant qu'INÈS LIME.",
+  "70": "La lime d'INÈS glisse dans l'urne du pub, où l'électeur VOTE : « À la VÔTRE ! »",
+  "71": "Le bulletin s'envole jusqu'au chapeau melon de l'autorité qui répond « ALLÔ ? » : c'est AUTORISÉ.",
+  "72": "Le laissez-passer AUTORISÉ se colle à la lance que le chevalier LANCE TROP loin.",
+  "73": "La lance retombe près du marin qui SALUE sa grand-mère au cornet acoustique : « C'EST ALLÔ ? »",
+  "74": "Le cornet acoustique roule jusqu'à la City, dans la montagne de SEL CHAUD du trader qui VEND À DÉCOUVERT.",
+  "75": "Le SEL CHAUD pleut sur les gâteaux du pub où l'on FÊTE l'anniversaire : « C'EST LIBRE, HÉ ! »",
+  "76": "Un gâteau d'anniversaire glisse jusqu'au buffet du mariage, où le gourmand SE GOINFRE devant le STAFF.",
+  "77": "Le STAFF secoue la NAPPE du buffet, que l'enfant agite pour PROVOQUER le pasteur.",
+  "78": "La NAPPE s'envole dans les rosiers que le facteur TAILLE en RIANT : il PREND SA RETRAITE.",
+  "79": "Le facteur lance son sécateur au footballeur qui PRÉTEND tirer, tandis que le gardien FAIT SEMBLANT DE dormir.",
+  "80": "Le ballon file jusqu'à la Tour de Londres, où l'assassin ASSASSINE le roi À SA SCIE bien NETTE.",
+  "81": "La SCIE de l'assassin fend la fiole du chimiste du West End, qui RÉAGIT et fume à chaque ACTE.",
+  "82": "La fumée glacée de la fiole givre le pied de Big Ben, où le passant en SLIP GLISSE sur le verglas.",
+  "83": "Le passant en SLIP glisse jusqu'au toit, dont on RETIRE la tôle et les mains du gamin DE ses poches.",
+  "84": "Le gamin lance son CAOUTCHOUC dans le hamac qui murmure « RELAX ! » : on SE DÉTEND.",
+  "85": "Le hamac casse et catapulte la STAR de Silverstone, dont la voiture ne DÉMARRE pas.",
+  "86": "La voiture qui ne DÉMARRE pas défonce la POUTRE du pub, où le voleur LÈVE LA MAIN : « HAN ! »",
+  "87": "Le voleur aux MAINS EN L'AIR brise la vitrine d'Oxford Street, où le thermomètre AUGMENTE : « CRISE ! »",
+  "88": "Le thermomètre éclate sur la table que le maître d'hôtel RÉSERVE pour le BOUC.",
+  "89": "Le BOUC charge jusqu'à Twickenham et rejoint les béliers qui S'AFFRONTENT, FESSE contre fesse.",
+  "90": "Un bélier bouscule la girafe qui TOURNE UN FILM pendant que le réalisateur souffle « CHUT ! »",
+  "91": "La girafe lâche la caméra et TOURNE AUTOUR de la théière TERNE, en ROND.",
+  "92": "La théière TERNE roule sous la recrue avachie sur un banc de Hyde Park : « BOUGE TON CUL — MOUV', l'AS ! »",
+  "93": "La recrue fonce sous la DOUCHE de l'hôtel, qui crache de l'eau CHAUDE : « OUAH ! »",
+  "94": "L'eau CHAUDE de la DOUCHE ruisselle jusqu'au BLED de la lande, où un nez SAIGNE.",
+  "95": "Le sang du nez coule dans l'aquarium de Londres, où le glouton AVALE tout SOUS L'EAU.",
+  "96": "Le glouton recrache une arête qui se plante dans l'enseigne de Soho, où la professeure ENSEIGNE l'italien.",
+  "97": "Le T-SHIRT « I ♥ Roma » de la professeure tombe sur la tartine de BEURRE de GUY, à la maternité.",
+  "98": "Un jumeau tout juste NÉ attrape le bocal qui CONTIENT les bonbons que QUENTIN compte."
+ }
+}

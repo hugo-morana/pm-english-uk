@@ -1,0 +1,237 @@
+{
+ "fix": {
+  "0": {
+   "api": "/meɪk/",
+   "eim": "making"
+  },
+  "3": {
+   "eim": "presents"
+  },
+  "4": {
+   "eim": "encourages|to"
+  },
+  "5": {
+   "eim": "blinding"
+  },
+  "7": {
+   "eim": "made up of"
+  },
+  "10": {
+   "eim": "rose up against"
+  },
+  "13": {
+   "eim": "given birth to"
+  },
+  "14": {
+   "eim": "chopping"
+  },
+  "15": {
+   "eim": "managed to"
+  },
+  "17": {
+   "eim": "spoke to"
+  },
+  "20": {
+   "eim": "wander off"
+  },
+  "22": {
+   "eim": "get"
+  },
+  "24": {
+   "eim": "Hammer|into"
+  },
+  "30": {
+   "eim": "dress"
+  },
+  "31": {
+   "eim": "precedes"
+  },
+  "32": {
+   "it": "to swear"
+  },
+  "36": {
+   "eim": "bunks off"
+  },
+  "39": {
+   "eim": "Wrap"
+  },
+  "42": {
+   "eim": "Multiply|by"
+  },
+  "43": {
+   "eim": "suggest"
+  },
+  "45": {
+   "eim": "submitted|to"
+  },
+  "46": {
+   "it": "the sentence is death",
+   "eim": "sentence is death",
+   "api": "/ðə ˈsentəns ɪz ˈdeθ/"
+  },
+  "50": {
+   "eim": "steady"
+  },
+  "57": {
+   "eim": "making up for"
+  },
+  "59": {
+   "eim": "tripped over"
+  },
+  "62": {
+   "eim": "teasing"
+  },
+  "63": {
+   "eim": "is enough to"
+  },
+  "65": {
+   "eim": "comforting"
+  },
+  "72": {
+   "eim": "Be wary of"
+  },
+  "74": {
+   "eim": "admire|for"
+  },
+  "76": {
+   "eim": "united"
+  },
+  "79": {
+   "eim": "criticises|for"
+  },
+  "81": {
+   "eim": "Savour"
+  },
+  "83": {
+   "eim": "polishing"
+  },
+  "84": {
+   "eim": "results in"
+  },
+  "85": {
+   "eim": "opposed to"
+  },
+  "86": {
+   "eim": "charge"
+  },
+  "87": {
+   "eim": "Untie"
+  },
+  "88": {
+   "eim": "claims"
+  },
+  "91": {
+   "eim": "knelt down"
+  },
+  "92": {
+   "eim": "influences"
+  },
+  "95": {
+   "api": "/ˈhɪnt ət/"
+  },
+  "99": {
+   "eim": "hesitate to"
+  }
+ },
+ "li": {
+  "0": "Le sergent à bonnet en poil d'ours pousse le MEC au pas jusqu'au manoir, droit dans la salle où les convives SAPÉS SOUPENT.",
+  "1": "Un convive SAPÉ renverse son chandelier sur Wimbledon, et le feu brûle le POST-it que l'arbitre colle sur sa PAUME.",
+  "2": "Le POST-it s'envole jusqu'au plateau de la BBC et se colle sur le PRIX que l'ANIMATEUR ZEN remet.",
+  "3": "L'ANIMATEUR lance son PRIX au coach du marathon, qui le brandit en hurlant « ENCORE ! » avec RAGE.",
+  "4": "Le coach brandit son PRIX doré, qui reflète le soleil sur la vitre BLINDÉE et AVEUGLE le buveur.",
+  "5": "Le buveur AVEUGLÉ titube jusqu'au cottage et renverse la sauce qui MIJOTE sous le nez de la vache : « SI… MEUH ? ».",
+  "6": "La vache s'enfuit dans le jardin et piétine le compost où la MAID HAPPE ses dix brassées de feuilles.",
+  "7": "La MAID jette ses feuilles sur le transat de Brighton, sur le vacancier ALLONGÉ qui gémit « L'AÏE ! ».",
+  "8": "Le vacancier ALLONGÉ roule dans la Tamise, où la source MURMURE avec les vaches : « MEUH… MEUH… ».",
+  "9": "Les vaches remontent la Tamise jusqu'à la Tour, et le peuple SE SOULÈVE pendant que le barbier RASE le roi.",
+  "10": "Le gamin qui HAPPE la couronne la lance dans le buisson interdit, où l'enfant DÉSOBÉIT et mange les DIX BAIES.",
+  "11": "L'enfant jette les noyaux des BAIES dans la soupe du pub, et le cuisinier qui SALE fait SAUTER sa salière.",
+  "12": "La salière vole jusqu'à la maternité de St Mary's et tombe sur la tartine de BEURRE de la mère qui ACCOUCHE.",
+  "13": "La sage-femme jette le BEURRE par la fenêtre, et il glisse dans la CHOPE du bûcheron qui FEND du bois.",
+  "14": "Le bûcheron lance sa CHOPE si haut qu'elle atterrit au sommet du Ben Nevis, sur le MANÈGE où l'alpiniste PARVIENT.",
+  "15": "Un cheval de bois du MANÈGE dévale jusqu'à Londres, sur la CHAISE du voleur que le bobby POURCHASSE.",
+  "16": "Le voleur jette sa CHAISE à Speakers' Corner, et le cowboy grimpe dessus pour ADRESSER LA PAROLE à la foule.",
+  "17": "Le cowboy tire en l'air et sa balle fait rouler le DÉ du joueur qui OSE tout miser au pub.",
+  "18": "Le DÉ roule sous les toits du pub, jusqu'à la loge où l'étudiant TROUVE UN LOGEMENT pour une FINE SOMME.",
+  "19": "L'étudiant jette ses LIVRES sterling dans la lande du Dartmoor, où WANDA S'ÉCARTE du sentier en criant « OFF ! ».",
+  "20": "WANDA dégringole dans le brouillard jusqu'à la Bourse, où les prix CHUTENT comme une FOLLE dans l'escalier.",
+  "21": "La FOLLE roule jusque sous le pont de la Tamise, où le contrebandier GUETTE et PROCURE une caisse à son client.",
+  "22": "La caisse PROCURÉE glisse jusqu'au marché noir de Camden, où l'homme qui GUETTE la cache pour son HOLD-UP.",
+  "23": "L'homme du HOLD-UP s'enfuit dans le HAMEAU, où le forgeron ENFONCE son clou au marteau.",
+  "24": "Un coup de marteau trop fort fait tomber le clou dans le four où le poulet RÔTI CUIT AU FOUR.",
+  "25": "Le barman sort le poulet RÔTI à la cave et SE COGNE LA TÊTE contre la poutre : BANG !",
+  "26": "Le BANG résonne jusqu'aux falaises de Douvres, où le randonneur APERÇOIT la mer sous un SPOT de soleil.",
+  "27": "Le SPOT de soleil tombe sur le RING de l'East End, où le téléphone rouge SONNE entre deux rounds.",
+  "28": "Le boxeur lance le téléphone jusqu'à Heathrow, où le douanier CONFISQUE la valise de CONFITS sur le SKATE.",
+  "29": "Le SKATE roule jusqu'à Édimbourg, où la mère VÊT son fils et lui DRESSE le col de tartan.",
+  "30": "L'écharpe en tartan s'envole jusqu'à Stonehenge, où l'éclair qui PRÉCÈDE le tonnerre frappe le CID.",
+  "31": "Le CID lance son PRIX foudroyé au tribunal, un SOIR d'orage, où le témoin JURE sur la Bible.",
+  "32": "Le témoin lâche la Bible devant Big Ben, et le basset en imperméable la RENIFLE : « SNIF, SNIF ».",
+  "33": "Le basset vole le CHOU à la crème que le gamin MÂCHE au thé de 17 h.",
+  "34": "Le gamin lance le CHOU au zoo, où le serpent qui DIGÈRE la souris fait faire un GESTE à DAI.",
+  "35": "DAI lance le serpent sur le BANC de Hyde Park, où le collégien qui SÈCHE LES COURS dort, portable sur « OFF ».",
+  "36": "Le portable tombe du BANC dans le métro, où le voleur au STYLE impeccable le DÉROBE avec le sac.",
+  "37": "Le voleur cache le sac dans le B&B, où la logeuse ÉTALE le beurre au SPRAY sur le toast.",
+  "38": "Le SPRAY de beurre gicle sur le papier doré du rappeur qui ENVELOPPE le cadeau en chantant son RAP.",
+  "39": "Le rappeur offre le cadeau au médecin de Harley Street, qui RASSURE sa patiente avec du RIZ À CHAUD.",
+  "40": "Le RIZ À CHAUD est servi à l'ABBAYE, où le chien OBÉIT au moine au premier coup de cloche.",
+  "41": "La cloche de l'ABBAYE fait jaillir les lapins de la MALLE et du TIPI, qui se MULTIPLIENT jusqu'à faire PLIER la malle.",
+  "42": "Les lapins bondissent sur la scène du West End, où le souffleur SUGGÈRE le texte d'un GESTE.",
+  "43": "Le GESTE du souffleur fait vaciller le tableau d'Oxford, et le nom de l'étudiant glisse dans la FAILLE : ÉCHOUÉ.",
+  "44": "De la FAILLE s'échappe une MITE, qui file à Westminster se cacher dans le dossier que le SUBalterne SOUMET.",
+  "45": "La MITE s'envole jusqu'au bonnet noir du juge de l'Old Bailey, qui prononce la SENTENCE de mort pour une DETTE.",
+  "46": "Le condamné jette sa DETTE sur le tapis du casino de Mayfair, où le joueur MET EN PÉRIL sa fortune.",
+  "47": "Le joueur ruiné lance ses jetons dans le cybercafé de Camden, droit sur la souris-bus rouge qui fait « CLIC ».",
+  "48": "La souris-bus file jusqu'au SPA de Bath et se glisse dans l'OUÏE de l'amie qui CHUCHOTE son secret.",
+  "49": "L'amie chuchote son secret au TEDDY du chantier, qui lâche l'échelle qu'il STABILISAIT.",
+  "50": "L'échelle bascule dans le resto de Soho, où le RAT et la BICHE broutent la nappe : ça CRAINT !",
+  "51": "La BICHE renverse le vase MING de la cantine, d'où coule la soupe DÉGUEULASSE.",
+  "52": "La soupe DÉGUEULASSE coule jusqu'au quai de Portsmouth, où NICK glisse dessus en te PIQUANT ton vélo.",
+  "53": "NICK fonce à vélo sur le court de Wimbledon, et le match est SUSPENDU : quel SUSPENSE !",
+  "54": "L'arbitre lance sa raquette dans le bureau de la City, sur le SAC poubelle que le patron tend à l'employé LICENCIÉ.",
+  "55": "L'employé LICENCIÉ jette son SAC dans la salle d'examen de Cambridge, où l'étudiant REPASSE L'EXAMEN et répète son RÉCIT.",
+  "56": "L'étudiant lance sa toge dans la loge du West End, sur l'actrice qui COMPENSE avec son double MAKE-UP.",
+  "57": "L'actrice lance son pot de MAKE-UP au STAND de tir de Blackpool, où le touriste PROLONGE son séjour : « HIC ! ».",
+  "58": "Le touriste tire et fait tomber une pierre dans le champ du Yorkshire, où le promeneur TRÉBUCHE dans les TRIPES.",
+  "59": "Le plat de TRIPES vole jusqu'à la LANDE du Devon, sous la charrue du paysan qui CULTIVE : « OUH, QUE c'est dur ! ».",
+  "60": "La charrue accroche la ROBE de la lady dans le métro, que le pickpocket DÉVALISE.",
+  "61": "Le pickpocket s'enfuit avec la ROBE et renverse la TISANE de la sœur que le gamin TAQUINE.",
+  "62": "La TISANE renversée coule jusqu'à l'arrêt de bus de Manchester, sous les pieds de NAF-NAF dont le sourire SUFFIT.",
+  "63": "NAF-NAF tend un timbre à la reine à l'enfant qui le COLLE et COLLECTIONNE dans son album.",
+  "64": "L'album s'envole jusqu'à l'abribus, où la jeune femme qui CONSOLE son amie s'en sert de mouchoir.",
+  "65": "L'amie consolée lance l'album sur la route de campagne, et la Mini PERCUTE le chêne dans un CRASH.",
+  "66": "Le CRASH projette la Mini dans la cuisine du château, où le chef crie « AVE ! » à ses GOTHS.",
+  "67": "Un GOTH lance sa louche dans le pub, droit dans la bière du pignouf qui PLEURNICHE : « OUIN, OUIN ».",
+  "68": "Le pignouf s'enfuit gravir le Snowdon à la PEINE et y trouve la carte postale de WOERTH : ça VAUT LA PEINE.",
+  "69": "La carte postale s'envole jusqu'au pub, où REX la vole avec l'assiette et écope d'une AMENDE.",
+  "70": "REX paie son AMENDE par chèque au caissier de la City, qui l'ENCAISSE et le CACHE dans son chapeau melon.",
+  "71": "Le chapeau melon s'envole dans le bois anglais, sur l'appât de RIZ dont le renard SE MÉFIE.",
+  "72": "Le renard s'enfuit à Portsmouth et grignote la coque en TECK, ce qui NÉCESSITE encore des semaines de polissage.",
+  "73": "Un copeau de TECK s'envole dans le jardin anglais, où ED ADMIRE l'abeille MAYA face à la guêpe.",
+  "74": "MAYA s'envole à l'église et se pose sur le ruban qui UNIT les mains, juste avant la BRINGUE.",
+  "75": "Pendant la BRINGUE, le ruban s'envole une NUIT jusqu'au confluent écossais, où les deux clans S'UNISSENT : « YOU ! ».",
+  "76": "Un clan en kilt pousse un rugbyman sur le banc du vestiaire de Twickenham, où il FEINT d'être malade.",
+  "77": "Le rugbyman qui FEINT lance son crampon sur la SOUPE que la cheffe SUPERVISE du coin de l'œil.",
+  "78": "La SOUPE renversée coule jusqu'au cinéma de Leicester Square, où le critique pousse un CRI en CRITIQUANT.",
+  "79": "Le CRI du critique fait sursauter LOU le chat, qui MAIGRIT dans son panier de OUATE.",
+  "80": "LOU bondit hors de la OUATE jusqu'au salon de thé, et renverse la SÈVE sur le scone que le gourmet SAVOURE.",
+  "81": "Le gourmet lance son scone au cirque de Blackpool, où le clown le jongle avec les TÉTINES pour DIVERTIR.",
+  "82": "Une TÉTINE vole jusqu'au vestiaire de Scotland Yard et se colle sur la chaussure que l'agent de POLICE CIRE.",
+  "83": "L'agent de POLICE glisse sur sa chaussure cirée jusqu'à la cantine de Leeds, où le RIZ fait des SALTOS.",
+  "84": "Un grain de RIZ en SALTO atterrit à Westminster sur le député qui S'OPPOSE en prenant la POSE.",
+  "85": "Le député lance son discours dans la cabine rouge, où le portable se RECHARGE « en CHARGE ».",
+  "86": "Le portable chargé sonne devant le pub, et UN THAÏ DÉTACHE le chien qui aboie.",
+  "87": "Le chien DÉTACHÉ court à l'Old Bailey et lèche la main de CLEM, qui AFFIRME avoir tout vu.",
+  "88": "CLEM tend sa Bible aux DIX musiciens GRIS du Royal Albert Hall, qui sont EN DÉSACCORD sur l'accord.",
+  "89": "Un musicien lance sa partition à la City, sur le trader en SHORT qui crie « GO ! » en SE METTANT SHORT.",
+  "90": "Le trader en SHORT trébuche sur la tapisserie du NIL, devant laquelle le chevalier S'AGENOUILLE.",
+  "91": "Le chevalier lance son épée sur les écrans de Piccadilly, où la star INFLUENCE la foule aux tasses à ANSE.",
+  "92": "Une tasse à ANSE dorée vole jusqu'à Pinewood, dans le mégaphone du RÉALISATEUR qui crie « en DIRECT ! ».",
+  "93": "Le RÉALISATEUR lance son mégaphone sur le quai de Douvres, où le marin LÈGUE son bateau et MET LES VOILES.",
+  "94": "Le marin s'enfuit dans le salon de thé et renverse la théière que le colonel des INDES tapote en FAISANT ALLUSION.",
+  "95": "La théière roule jusqu'aux thermes de Bath, dans le BAIN où le plongeur COMBINE combinaison et palmes.",
+  "96": "Le plongeur sort du BAIN et ses éclaboussures montent en VAPEUR dans la locomotive où le cuistot CUIT les légumes.",
+  "97": "La VAPEUR de la locomotive arrose les jardins de Kew, où l'arbre CROÎT GROS comme un croissant.",
+  "98": "Un croissant tombe de l'arbre sur le plongeoir de Brighton, où le nageur HÉSITE et réclame son THÉ."
+ }
+}

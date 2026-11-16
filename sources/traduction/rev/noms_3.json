@@ -1,0 +1,133 @@
+{
+ "fix": {
+  "22": {
+   "eim": "better time"
+  },
+  "33": {
+   "eit": "This is murder."
+  },
+  "38": {
+   "eim": "death penalty"
+  },
+  "46": {
+   "fr": "le marché",
+   "it": "market",
+   "eim": "market"
+  },
+  "52": {
+   "eim": "face"
+  },
+  "53": {
+   "eim": "gunshot"
+  },
+  "65": {
+   "eim": "police chief"
+  },
+  "84": {
+   "eim": "night shift"
+  },
+  "95": {
+   "eim": "toughest moment"
+  }
+ },
+ "li": {
+  "0": "MAÏTÉ lance sa chope de bière par-dessus le comptoir ; elle atterrit dans l'attaché-case de l'HOMME D'AFFAIRES de la City.",
+  "1": "La MANNE de billets déborde de l'attaché-case et s'envole jusqu'à Trafalgar Square, où toute la POPULATION saute pour l'attraper.",
+  "2": "La LAIE dégringole du CHÊNE, roule sur le pavé et s'écrase contre la portière d'un taxi noir, faisant claquer la ceinture de SÉCURITÉ.",
+  "3": "La tasse de THÉ glisse du tableau de bord, file par la vitre et éclabousse la flèche « SENS UNIQUE » du mur.",
+  "4": "Un bus rouge qui tourne en rond est éjecté du rond-point et pile au coin de la RUE, devant la plaque « Baker Street ».",
+  "5": "Le policier STRICT verbalise un passant en lui tendant un amende… qui grossit jusqu'à devenir un épais RAPPORT sur un bureau de Westminster.",
+  "6": "Le ministre jette le RAPPORT par la PORTE ; il tombe au fond de la FOSSE, droit dans les bras du forçat.",
+  "7": "Le forçat lance de toute sa FORCE le rapport vers Covent Garden ; il retombe sur une tasse de CAFÉ coiffée d'un chapeau melon.",
+  "8": "Le minuscule chapeau melon s'envole de la tasse de CAFÉ et atterrit sur les BIGOUDIS de la dame coincée dans la cabine rouge.",
+  "9": "La dame aux BIGOUDIS brise enfin la porte de la cabine et tombe dans les bras des PARENTS qui sortent du bureau de poste.",
+  "10": "Les PARENTS lâchent leurs RENTES en pièces qui roulent jusqu'au parvis de Westminster, aux pieds des deux SŒURS sous leurs ombrelles.",
+  "11": "Une ombrelle des SŒURS s'envole et se plante dans le LOURD parchemin du SEIGNEUR en perruque poudrée.",
+  "12": "Sous le poids du parchemin LOURD, la table s'effondre et le calendrier de l'atelier se met à tourner, WEEK-END après WEEK-END.",
+  "13": "Une page du calendrier s'arrache, vole par la fenêtre et vient se coller sur le chapeau melon d'un des MESSIEURS endormis du train de Brighton.",
+  "14": "Le contrôleur GENTIL pousse le dernier monsieur hors du train ; il trébuche jusqu'à la tribune et heurte le micro du PRÉSIDENT.",
+  "15": "Les DENTS du PRÉSIDENT cognent le micro si fort qu'une dent saute et tombe dans la tasse de THÉ au LAIT où trempe la LETTRE.",
+  "16": "La LETTRE trempée s'envole de la tasse et se colle sur le visage du PETIT GARÇON en uniforme de BOY-SCOUT.",
+  "17": "La mini charrette du PETIT GARÇON dévale la pente et s'arrête sous le CUL posé sur le coussin à l'AS de pique.",
+  "18": "Le CUL rebondit et projette l'AS de pique jusqu'à la Tour de Londres, où il soulève une visière : un VISAGE apparaît.",
+  "19": "Le VISAGE de l'armure souffle si fort que la visière s'envole et va heurter la trotteuse de Big Ben, qui claque SEC.",
+  "20": "Le claquement SEC de Big Ben fait tomber une CLÉ dorée de l'horloge, qui se plante dans le clavier devant le 10 Downing Street.",
+  "21": "La CLÉ crie « QUI ? » et s'envole jusqu'au cadran de Big Ben, que consulte le BÊTA amoureux au MEILLEUR MOMENT.",
+  "22": "Le BÊTA lance une rose à sa belle, mais elle file jusqu'à Speakers' Corner et se fait trancher par le SABRE de l'orateur.",
+  "23": "L'orateur danse la GIGUE si fort qu'il glisse, se blesse avec son SABRE et file en ambulance vers l'HÔPITAL victorien.",
+  "24": "De l'ambulance à damier tombe un plateau-repas : un MI-STEAK à moitié mangé que le serveur du pub barre d'un X rouge.",
+  "25": "Le MI-STEAK, lancé avec rage, atterrit dans la cabine rouge, d'où sort un BRAS musclé qui l'attrape au vol.",
+  "26": "Le BRAS lance l'ÂME qui s'envole jusqu'au village, où elle se pose À PIGNON d'une maison à colombages.",
+  "27": "Du PIGNON, un villageois crie son AVIS si fort que le vent de la lande écossaise soulève une chevelure de CHEVEUX roux.",
+  "28": "Les CHEVEUX roux s'envolent dans l'AIR et retombent sur la COUETTE de la CHIENNE qui pose ses QUESTIONS.",
+  "29": "La CHIENNE saute de sa COUETTE et souffle d'un coup toutes les bougies du gâteau d'AUDE : « AH ! »",
+  "30": "AUDE lance une part de gâteau qui s'écrase sur la BOSSE du gros PATRON trônant au fond du pub.",
+  "31": "Le PATRON se frotte la BOSSE et appelle à l'aide : le MÉDECIN en tweed accourt avec sa mallette dans le cottage.",
+  "32": "La mallette du DOCTEUR s'ouvre, un scalpel roule jusqu'à la bibliothèque du manoir, à côté du corps du MEURTRE.",
+  "33": "L'inspecteur qui hurle « MERDE ! » recule contre le miroir du palais, où le MESSAGE au rouge à lèvres apparaît.",
+  "34": "Un des SIÈGES de la reine dégringole du palais et roule jusqu'à la croisée des sentiers, devant la chèvre de CHOISY.",
+  "35": "La chèvre de CHOISY fait son CHOIX, saute sur le CHEMIN et grimpe dans le camion du laitier qui crie « OUAIS ! »",
+  "36": "Une bouteille de lait tombe du camion et roule jusqu'à l'étal de bonbons, où la CAILLE venue d'INDE la picore.",
+  "37": "La CAILLE s'envole avec un jelly baby et le laisse tomber devant le juge, pile sur le point de PENALTY.",
+  "38": "Le débiteur rate son PENALTY : le ballon file jusqu'à Scotland Yard et renverse les sachets de PREUVES sur la table.",
+  "39": "Un sachet de PREUVES contient une pelote de LAINE écossaise qui se déroule et trace une LIGNE droite sur la page.",
+  "40": "La LIGNE de LAINE se prolonge jusqu'aux pavés de Whitechapel et entoure la silhouette à la craie de la VICTIME, VIC.",
+  "41": "L'inspecteur TIM emmène VIC boire un RHUM dans la SALLE de bal pleine à craquer.",
+  "42": "Une bouteille de RHUM tombe de la table du bal et se brise dans un SAC de pièces, au fond duquel brille une BAGUE.",
+  "43": "La BAGUE en diamant jaillit du SAC, file au-dessus de la Tamise et percute une BALLE en plein vol.",
+  "44": "Le BOULET de canon s'écrase devant la Cour et éclabousse l'AVOCAT en perruque qui réclame son LOYER.",
+  "45": "L'AVOCAT jette sa perruque, qui atterrit sur la tête du MARQUIS criant les cours au MARCHÉ de Covent Garden.",
+  "46": "Le MARQUIS lance un chou qui frappe Big Ben et renverse une flaque de LAIT dans ses aiguilles : RETARD général.",
+  "47": "Le LAIT coule de Big Ben et forme une flaque où glisse le PREUX chevalier-détective brandissant LA PREUVE.",
+  "48": "Le PREUX chevalier épingle LA PREUVE sur la veste rouge du vieux colonel, juste à côté de sa médaille d'HONNEUR.",
+  "49": "Le colonel jette son AUNE de mesure par-dessus la haie de Wimbledon ; elle frappe une balle pleine d'EFFET.",
+  "50": "La balle pleine d'EFFET rebondit hors du court et atterrit sur le COSTUME trois-pièces du CLIENT d'Oxford Street.",
+  "51": "Le CLIENT paie avec une pièce d'une livre qui roule, tombe côté FACE et atterrit sur une FESSE au bord de la piscine.",
+  "52": "La pièce rebondit sur la FESSE et frappe le revolver du GANT encore CHAUD : un COUP DE FEU part dans la ruelle.",
+  "53": "La balle du COUP DE FEU traverse la vitre du bureau lambrissé où le consultant donne son CONSEIL juridique.",
+  "54": "Le client porté À DES VICES s'enfuit vers les collines écossaises et se fait arracher son code par les rebelles brandissant leurs ARMES.",
+  "55": "Une PENNE d'aigle s'envole d'un béret et chatouille le nez du chanteur de rue de Camden, dont la VOIX déraille.",
+  "56": "La foule de Camden lance des pièces au chanteur ; l'une d'elles est emportée par la colombe de la PAIX.",
+  "57": "La colombe lâche une autre PIÈCE qui tombe sur le pupitre du MAÎTRE MASTOC du Royal Albert Hall.",
+  "58": "Le MAÎTRE lance sa baguette, qui renverse le COCA LIGHT de la luciole sous le réverbère victorien.",
+  "59": "Le COCA LIGHT coule jusqu'au champ du Kent et tache le ciel gris D'AOÛT que fixe le fermier plein de DOUTE.",
+  "60": "Le fermier jette son panier de pique-nique, qui atterrit sous le sapin de Noël et se transforme en CADEAU Union Jack.",
+  "61": "Le plum-pudding sort du CADEAU, roule jusqu'au quai de Portsmouth et s'accroche à la BITTE d'amarrage avec le BOUT de pain.",
+  "62": "Une mouette emporte le BOUT de pain et le laisse tomber sur l'aile d'un AVION qui décolle au-dessus de la PLAINE.",
+  "63": "L'AVION largue un mouton tout étonné, qui tombe sur la place du village, juste sur la cloche COLLÉE du crieur public.",
+  "64": "La cloche de l'APPEL s'envole et assomme le CHEF DE LA POLICE, qui en lâche sa CHIFFE molle.",
+  "65": "La CHIFFE molle vole jusqu'au balcon du manoir, sur lequel YVONNE écoute la sérénade de la SOIRÉE.",
+  "66": "YVONNE jette une rose au ténor, qui la rate ; elle tombe chez Harrods sur l'étiquette de PRIX branchée sur sa PRISE.",
+  "67": "La théière en or de chez Harrods s'envole et se pose sur le bonnet en poil d'ours du GARDE de Buckingham.",
+  "68": "Le GARDE tend la théière à un cavalier, dont le CHEVAL part en HAUSSE de vitesse sur le Mall.",
+  "69": "Le CHEVAL saute dans la Tamise et atterrit dans le petit BATEAU en forme de BOTTE.",
+  "70": "La BOTTE en caoutchouc chavire et un poisson saute dans le WOK géant posé sur le PLAN DE TRAVAIL du cottage.",
+  "71": "La cuisinière fait sauter le WOK ; une boîte de TRIPES s'envole jusqu'à la valise du voyageur de Victoria Station.",
+  "72": "La valise du voyageur tombe du quai sur le porte-bagages du vélo de mon ONCLE, à côté de l'ANCRE.",
+  "73": "L'ANCRE de mon ONCLE se décroche et file jusqu'à Glastonbury, où elle s'enfonce dans la scène du GROUPE de rock.",
+  "74": "Le guitariste du GROUPE lance son médiator qui atterrit sur la lettre initiale dorée du DÉBUT du livre d'Oxford, brillant comme une STAR.",
+  "75": "La STAR dorée s'échappe du livre et glisse dans la traînée de CRÈME anglaise laissée sur le lieu du CRIME.",
+  "76": "Le criminel glisse sur la CRÈME jusqu'à Liverpool, où GRETA lui tend la main en chantant « HELP ! »",
+  "77": "GRETA lance le passant mouillé dans le parc, où les bénévoles de l'ASSOCIATION l'attrapent avec la SAUCISSE et la CHAÎNE.",
+  "78": "La SAUCISSE s'envole et tombe sur la MAPPEMONDE de l'explorateur, au milieu des petits Union Jacks de la CARTE.",
+  "79": "Un petit Union Jack s'envole de la CARTE et se plante dans le tube à essai de l'EXPÉRIENCE, qui explose.",
+  "80": "L'explosion de l'EXPÉRIENCE arrache l'ÂME du poète voisin, qui s'envole vers le SAULE pleureur.",
+  "81": "Une branche du SAULE s'abat sur le banc du juge, où le code des LOIS prend l'EAU.",
+  "82": "L'EAU ruisselle jusqu'au pub de campagne, où WOODY le pic-vert martèle sa bûche de BOIS.",
+  "83": "WOODY fait voler un éclat de BOIS jusqu'à Sheffield, qui frappe l'horloge du veilleur NAÏF du SERVICE DE NUIT.",
+  "84": "Les CHIFFRES de l'horloge tombent un à un sur la TABLE dressée pour le THÉ, entre les scones.",
+  "85": "La BELLE porcelaine de la TABLE glisse jusqu'à Downing Street et percute le point rouge du plan de SITUATION.",
+  "86": "Le ministre tire si fort sur sa CHAÎNE de montre qu'elle file jusqu'à la SEINE et s'accroche au rideau de la SCÈNE.",
+  "87": "L'acteur en colère lance une théière depuis la SCÈNE ; le majordome l'attrape par l'ANSE : voilà la RÉPONSE !",
+  "88": "Le majordome lance la théière par l'ANSE vers l'enseigne de l'HÔTEL, et elle se pose sur le HAUT-de-forme du portier.",
+  "89": "Le portier de l'HÔTEL soulève son HAUT-de-forme et en fait tomber un voyageur de HONGRIE affamé devant le fish and chips.",
+  "90": "Le voyageur de HONGRIE lance son poisson frit au zoo, où l'animal de l'ESPÈCE rare lui jette un SORT.",
+  "91": "Le SORT ricoche sur la trompe et frappe le bus rouge, qui percute le camion de HACHES : ACCIDENT !",
+  "92": "Une HACHE du camion vole et tranche le fil électrique, qui envoie du COURANT dans les plumes du PAON.",
+  "93": "Le PAON électrisé s'envole jusqu'au perron du cottage et fait tomber la TAFFE du môme qui MENT.",
+  "95": "Le mégot du môme s'envole jusqu'au sommet de la Tour de Londres et brûle les plumes du pigeon aux INFORMATIONS secrètes.",
+  "96": "Le FORT MÉCHANT espion lance le pigeon vers l'écran de l'agent du MI6, où s'affiche le cadenas du MOT DE PASSE.",
+  "97": "Le PASSE-PARTOUT de l'agent s'envole et perce la feuille de PAPIER journal que PÉPÉ froisse.",
+  "98": "PÉPÉ lance sa boule de PAPIER si haut qu'elle se perd dans le CIEL bleu, près du violoncelle en SKAÏ."
+ }
+}

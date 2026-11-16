@@ -1,0 +1,1891 @@
+{
+"room": {
+"id": "verbes_3",
+"fr": "Les verbes · étage 3",
+"it": "I verbi · secondo piano",
+"decor": "atelier d'artisans, étage",
+"fam": "verbes",
+"blocs": null
+},
+"niches": [
+{
+"n": 0,
+"fr": "sortir ensemble",
+"it": "uscire insieme",
+"mc": "uscire + insieme",
+"sc": "On réunit « uscire » (huissier) et « insieme » (« un siège, mé ») : sortir ensemble.",
+"de": "uscire insieme ≈ « uscire + insieme »",
+"efr": "On devrait sortir ensemble un soir.",
+"efm": "ensemble",
+"eit": "Dovremmo uscire tutti insieme una sera.",
+"eim": "uscire tutti insieme",
+"k": "col",
+"th": "famille"
+},
+{
+"n": 1,
+"fr": "préférer",
+"it": "preferire",
+"fo": "preferisco, preferisci",
+"mc": "préférer",
+"sc": "Deux glaces, on préfère la plus grosse.",
+"de": "ressemble ; preferisco (avec -isc-)",
+"efr": "Je préfère rester.",
+"efm": "préfère",
+"eit": "Preferisco restare.",
+"eim": "Preferisco",
+"th": "emotions",
+"px": [
+[
+"Mon plat préféré est le hamburger.",
+"Il mio piatto preferito è l'hamburger."
+]
+]
+},
+{
+"n": 2,
+"fr": "enlever",
+"it": "togliere",
+"fo": "tolgo, togli ; p.p. tolto ; togliti le scarpe = enlève tes chaussures",
+"mc": "toile",
+"sc": "On enlève la toile qui couvre une statue.",
+"de": "togliere = enlever, ôter",
+"efr": "Enlève tes chaussures.",
+"efm": "Enlève",
+"eit": "Togliti le scarpe.",
+"eim": "Togliti",
+"th": "actions",
+"co": [
+"togliere di mezzo",
+"togliere i vestiti",
+"togliere le scarpe",
+"togliere i pantaloni",
+"togliere la corrente"
+]
+},
+{
+"n": 3,
+"fr": "disparaître",
+"it": "sparire",
+"fo": "sparisco, sparisci ; aux. essere ; sparisci ! = dégage !",
+"mc": "disparaître (s-parire)",
+"sc": "Un magicien fait disparaître un lapin.",
+"de": "sparire = disparaître (s- = dis-)",
+"efr": "Il a disparu.",
+"efm": "disparu",
+"eit": "È sparito.",
+"eim": "sparito",
+"th": "autres",
+"px": [
+[
+"Le voleur a disparu dans la foule.",
+"Il ladro è sparito tra la folla."
+]
+]
+},
+{
+"n": 4,
+"fr": "se coucher",
+"it": "andare a letto",
+"fo": "anglais : go to bed",
+"mc": "Andorre + lait",
+"sc": "On va au lit avec un bol de lait.",
+"de": "andare a letto ≈ « Andorre + lait »",
+"efr": "Je vais me coucher.",
+"efm": "me coucher",
+"eit": "Vado a letto.",
+"eim": "Vado a letto",
+"k": "loc",
+"scat": "locutions_verbales",
+"th": "actions",
+"px": [
+[
+"Il est l’heure d’aller se coucher.",
+"È ora di andare a letto."
+],
+[
+"Je ne suis pas habitué à me coucher si tard.",
+"Non sono abituato ad andare a letto così tardi."
+]
+]
+},
+{
+"n": 5,
+"fr": "ressembler",
+"it": "assomigliare",
+"fo": "assomiglio, assomigli ; assomigliare a = ressembler à",
+"mc": "assimiler",
+"sc": "Deux jumeaux assimilés : ils se ressemblent.",
+"de": "assomigliare ≈ « assimiler » ; simile = semblable",
+"efr": "Tu ressembles à ta mère.",
+"efm": "ressembles",
+"eit": "Assomigli a tua madre.",
+"eim": "Assomigli",
+"th": "autres"
+},
+{
+"n": 6,
+"fr": "présenter",
+"it": "presentare",
+"fo": "presento, presenti ; ti presento… = je te présente…",
+"mc": "présenter",
+"sc": "Un animateur présente un invité.",
+"de": "ressemble",
+"efr": "Je te présente Marco.",
+"efm": "présente",
+"eit": "Ti presento Marco.",
+"eim": "presento",
+"th": "autres",
+"px": [
+[
+"Je te présente Klaus, un vieil ami.",
+"Ti presento Klaus, un vecchio amico."
+]
+]
+},
+{
+"n": 7,
+"fr": "ignorer",
+"it": "ignorare",
+"fo": "ignoro, ignori",
+"mc": "ignorer",
+"sc": "Un chat ignore son maître, tête tournée.",
+"de": "ressemble ; gn = « gn »",
+"efr": "Ignore-le.",
+"efm": "Ignore",
+"eit": "Ignoralo.",
+"eim": "Ignoralo",
+"th": "autres",
+"px": [
+[
+"Il a beau jeu de dire qu’il l’ignorait.",
+"Ha buon gioco a dire che non lo sapeva."
+]
+]
+},
+{
+"n": 8,
+"fr": "conduire",
+"it": "guidare",
+"fo": "guido, guidi ; patente di guida = permis de conduire",
+"mc": "guide",
+"sc": "Un guide conduit le car.",
+"de": "guidare = conduire (une voiture), guider",
+"efr": "Tu sais conduire ?",
+"efm": "conduire",
+"eit": "Sai guidare?",
+"eim": "guidare",
+"th": "lieux",
+"px": [
+[
+"Je peux te conduire à la gare.",
+"Ti posso accompagnare alla stazione."
+]
+],
+"co": [
+"guidare un'auto"
+]
+},
+{
+"n": 9,
+"fr": "essayer de faire qc",
+"frd": "essayer de [v inf] [qc]",
+"fro": "essayer de V_inf C",
+"it": "provare a fare qcs",
+"itd": "provare a [v inf] [qcs]",
+"ito": "provare a V_inf C",
+"fo": "anglais : try to do sth",
+"mc": "prouver",
+"sc": "Un sportif essaie de sauter pour prouver qu'il peut.",
+"de": "provare a ≈ « prouver »",
+"efr": "J'essaie de dormir.",
+"efm": "essaie de dormir",
+"eit": "Provo a dormire.",
+"eim": "Provo a dormire",
+"k": "tpl",
+"th": "actions"
+},
+{
+"n": 10,
+"fr": "penser à qn",
+"frd": "penser à [qn]",
+"fro": "penser à C",
+"it": "pensare a qcn",
+"itd": "pensare a [qcn]",
+"ito": "pensare a C",
+"fo": "anglais : think of sth think about sth",
+"mc": "Penseur",
+"sc": "Le Penseur de Rodin pense à sa bien-aimée.",
+"de": "pensare a ≈ « Penseur »",
+"efr": "Je pense à toi.",
+"efm": "pense à toi",
+"eit": "Penso a te.",
+"eim": "Penso a te",
+"k": "tpl",
+"th": "pensee",
+"px": [
+[
+"Fais-moi penser à prendre mes clés.",
+"Ricordami di prendere le chiavi."
+]
+]
+},
+{
+"n": 11,
+"fr": "penser que qn fait qc",
+"frd": "penser que [qn] [v] [qc]",
+"fro": "penser que S V C",
+"it": "pensare che qcn faccia qcs",
+"itd": "pensare che [qcn] [v] [qcs]",
+"ito": "pensare che S V C",
+"fo": "anglais : think that sb does sth think sb does sth",
+"mc": "Penseur",
+"sc": "Le Penseur pense que la Terre est ronde.",
+"de": "pensare che ≈ « Penseur »",
+"efr": "Je pense que c'est vrai.",
+"efm": "pense que c'est vrai",
+"eit": "Penso che sia vero.",
+"eim": "Penso che sia vero",
+"k": "tpl",
+"th": "pensee"
+},
+{
+"n": 12,
+"fr": "arriver à temps",
+"it": "arrivare in tempo",
+"fo": "anglais : arrive in time",
+"mc": "arrivée + tempo",
+"sc": "Un coureur franchit l'arrivée juste à temps.",
+"de": "arrivare in tempo ≈ « arrivée + tempo »",
+"efr": "On est arrivés à temps.",
+"efm": "arrivés à temps",
+"eit": "Siamo arrivati in tempo.",
+"eim": "in tempo",
+"k": "col",
+"th": "temps"
+},
+{
+"n": 13,
+"fr": "trouver une place",
+"it": "trovare un posto",
+"mc": "trovare + posto",
+"sc": "On réunit « trovare » (trouvère) et « posto » (poste) : trouver une place.",
+"de": "trovare un posto ≈ « trovare + posto »",
+"efr": "On trouvera un meilleur endroit demain.",
+"efm": "trouvera",
+"eit": "domani troveremo un posto migliore.",
+"eim": "troveremo un posto",
+"k": "col",
+"th": "lieux"
+},
+{
+"n": 14,
+"fr": "permettre",
+"it": "permettere",
+"fo": "permetto, permetti ; permesso ? = je peux entrer ?",
+"mc": "permettre",
+"sc": "Un garde lève la barrière : permis.",
+"de": "ressemble",
+"efr": "Tu permets ?",
+"efm": "permets",
+"eit": "Permetti?",
+"eim": "Permetti",
+"th": "autres",
+"px": [
+[
+"Je ne peux pas me le permettre.",
+"Non me lo posso permettere."
+],
+[
+"Ils ont voulu voir mon permis de conduire.",
+"Hanno voluto vedere la mia patente."
+]
+]
+},
+{
+"n": 15,
+"fr": "frapper",
+"it": "colpire",
+"fo": "colpisco, colpisci (avec -isc-)",
+"mc": "coup",
+"sc": "Un boxeur frappe : coup !",
+"de": "colpire ≈ coup (il colpo)",
+"efr": "Il m'a frappé.",
+"efm": "frappé",
+"eit": "Mi ha colpito.",
+"eim": "colpito",
+"th": "actions",
+"co": [
+"colpire da un fulmine"
+]
+},
+{
+"n": 16,
+"fr": "avoir envie de faire qc",
+"frd": "avoir envie de [v inf] [qc]",
+"fro": "avoir envie de V_inf C",
+"it": "avere voglia di fare qcs",
+"itd": "avere voglia di [v inf] [qcs]",
+"ito": "avere voglia di V_inf C",
+"fo": "anglais : feel like doing sth want to do sth fancy doing sth be willing to do sth (être disposé)",
+"mc": "voile",
+"sc": "Une voile gonflée d'envie de partir.",
+"de": "avere voglia di ≈ « voile »",
+"efr": "J'ai envie de partir.",
+"efm": "envie de partir",
+"eit": "Ho voglia di partire.",
+"eim": "voglia di partire",
+"k": "tpl",
+"th": "emotions"
+},
+{
+"n": 17,
+"fr": "terminer",
+"it": "terminare",
+"fo": "termino, termini ; finire est plus courant",
+"mc": "terminus",
+"sc": "Un train arrive au terminus : on termine.",
+"de": "ressemble",
+"efr": "J'ai terminé.",
+"efm": "terminé",
+"eit": "Ho terminato.",
+"eim": "terminato",
+"th": "autres",
+"px": [
+[
+"Cela est loin d'être terminé.",
+"È ben lungi dall'essere finito."
+],
+[
+"Reste assis : le film n’est pas encore terminé.",
+"Resta seduto: il film non è ancora finito."
+]
+]
+},
+{
+"n": 18,
+"fr": "pleurer",
+"it": "piangere",
+"fo": "piango, piangi ; p.p. pianto",
+"mc": "piano",
+"sc": "Une pianiste pleure sur son piano.",
+"de": "piangere ≈ plaindre (latin plangere)",
+"efr": "Pleure pas.",
+"efm": "Pleure",
+"eit": "Non piangere.",
+"eim": "piangere",
+"th": "emotions",
+"px": [
+[
+"Arrête de pleurer. Ne pleure pas.",
+"Smetti di piangere."
+]
+]
+},
+{
+"n": 19,
+"fr": "travailler sur qc",
+"frd": "travailler sur [qc]",
+"fro": "travailler sur C",
+"it": "lavorare su qcs",
+"itd": "lavorare su [qcs]",
+"ito": "lavorare su C",
+"fo": "anglais : work on sth",
+"mc": "lavoir",
+"sc": "Un ouvrier travaille sur un lavoir.",
+"de": "vorare su ≈ « lavoir »",
+"efr": "Je travaille sur un projet.",
+"efm": "travaille sur un projet",
+"eit": "Lavoro su un progetto.",
+"eim": "Lavoro su un progetto",
+"k": "tpl",
+"th": "travail"
+},
+{
+"n": 20,
+"fr": "être de retour",
+"it": "essere di ritorno",
+"fo": "anglais : be back",
+"mc": "ritournelle",
+"sc": "Une ritournelle annonce le retour.",
+"de": "essere di ritorno ≈ « ritournelle »",
+"efr": "Je suis de retour !",
+"efm": "de retour",
+"eit": "Sono di ritorno!",
+"eim": "di ritorno",
+"k": "loc",
+"scat": "locutions_verbales",
+"th": "autres"
+},
+{
+"n": 21,
+"fr": "rentrer qqpart",
+"frd": "rentrer [[qqpart]]",
+"fro": "rentrer dans C",
+"it": "entrare da qualche parte",
+"itd": "entrare da [[qualche parte]]",
+"ito": "entrare in C",
+"fo": "anglais : go in sth (de l'extérieur) go into sth (de l'extérieur) come in sth (de l'intérieur) come into sth (de l'intérieur)",
+"mc": "entrer",
+"sc": "Un client rentre dans un magasin.",
+"de": "entrare in ≈ « entrer »",
+"efr": "Rentre dans la maison.",
+"efm": "Rentre dans",
+"eit": "Entra in casa.",
+"eim": "Entra in",
+"k": "tpl",
+"th": "autres"
+},
+{
+"n": 22,
+"fr": "travailler sur",
+"it": "lavorare su",
+"mc": "lavorare",
+"sc": "On réunit « lavorare » (lavoir) : travailler sur.",
+"de": "vorare su ≈ « lavorare »",
+"efr": "Il avait travaillé dur sur un livre.",
+"efm": "travaillé",
+"eit": "Lui stava lavorando su un nuovo libro.",
+"eim": "lavorando su",
+"k": "loc",
+"scat": "locutions_verbales",
+"th": "travail"
+},
+{
+"n": 23,
+"fr": "protéger",
+"it": "proteggere",
+"fo": "proteggo, proteggi ; p.p. protetto",
+"mc": "protéger",
+"sc": "Un bouclier protège un enfant.",
+"de": "ressemble ; accent sur TÈD",
+"efr": "Je vais te protéger.",
+"efm": "protéger",
+"eit": "Ti proteggerò.",
+"eim": "proteggerò",
+"th": "autres"
+},
+{
+"n": 24,
+"fr": "revoir qn",
+"frd": "revoir [qn]",
+"fro": "revoir C",
+"it": "rivedere qcn",
+"itd": "rivedere [qcn]",
+"ito": "rivedere C",
+"fo": "anglais : see sth again (voir qn ou qc à nouveau) review sth (vérifier)",
+"mc": "revoir + vidéo",
+"sc": "Une vidéo rejouée : on revoit un ami.",
+"de": "rivedere ≈ « revoir + vidéo »",
+"efr": "J'aimerais te revoir.",
+"efm": "revoir",
+"eit": "Vorrei rivederti.",
+"eim": "rivederti",
+"k": "tpl",
+"th": "autres",
+"px": [
+[
+"Content de te revoir ! Heureux de te revoir !",
+"Felice di rivederti!"
+],
+[
+"Cela m’a fait un immense plaisir de te revoir.",
+"Mi ha fatto un immenso piacere rivederti."
+]
+]
+},
+{
+"n": 25,
+"fr": "enlever",
+"it": "levare",
+"fo": "levati ! = dégage !",
+"mc": "lever",
+"sc": "On lève un gros rocher du chemin pour l'enlever.",
+"de": "levare ≈ « lever » = enlever",
+"efr": "Enlève tes mains de là !",
+"efm": "Enlève",
+"eit": "Leva le mani da lì!",
+"eim": "Leva",
+"th": "vetements"
+},
+{
+"n": 26,
+"fr": "supposer",
+"it": "supporre",
+"fo": "suppongo, supponi ; p.p. supposto",
+"mc": "support",
+"sc": "Un enquêteur pose sa théorie sur un support : il suppose.",
+"de": "supporre = supposer (porre = poser)",
+"efr": "Je suppose que oui.",
+"efm": "suppose",
+"eit": "Suppongo di sì.",
+"eim": "Suppongo",
+"th": "pensee",
+"px": [
+[
+"On peut le supposer.",
+"Lo si può supporre."
+]
+]
+},
+{
+"n": 27,
+"fr": "réveiller",
+"it": "svegliare",
+"fo": "sveglio, svegli ; svegliati ! = réveille-toi !",
+"mc": "éveil",
+"sc": "Un réveil sonne : éveil général.",
+"de": "svegliare ≈ éveiller ; sveglia = réveil",
+"efr": "Réveille-toi !",
+"efm": "Réveille",
+"eit": "Svegliati!",
+"eim": "Svegliati",
+"th": "corps",
+"co": [
+"svegliare la mattina"
+]
+},
+{
+"n": 28,
+"fr": "courir",
+"it": "correre",
+"fo": "corro, corri ; p.p. corso",
+"mc": "course, corridor",
+"sc": "Un coureur court dans un corridor.",
+"de": "correre ≈ courir, coureur",
+"efr": "Cours !",
+"efm": "Cours",
+"eit": "Corri!",
+"eim": "Corri",
+"th": "lieux",
+"px": [
+[
+"J’ai couru aussi vite que j’ai pu.",
+"Ho corso più veloce che ho potuto."
+]
+],
+"co": [
+"correre il rischio",
+"correre dietro"
+]
+},
+{
+"n": 29,
+"fr": "chanter",
+"it": "cantare",
+"fo": "canto, canti ; cantante = chanteur",
+"mc": "cantatrice",
+"sc": "Une cantatrice chante un air d'opéra.",
+"de": "cantare ≈ cantique, cantatrice",
+"efr": "Elle chante super bien.",
+"efm": "chante",
+"eit": "Canta benissimo.",
+"eim": "Canta",
+"th": "loisirs",
+"co": [
+"cantare una canzone"
+]
+},
+{
+"n": 30,
+"fr": "devoir qc à qn",
+"frd": "devoir [qc] à [qn]",
+"fro": "devoir C à C2",
+"it": "dovere qcs a qcn",
+"itd": "dovere [qcs] a [qcn]",
+"ito": "dovere C a C2",
+"fo": "anglais : owe sb sth owe sth to sb",
+"mc": "dos vert",
+"sc": "Un débiteur au dos vert doit de l'argent à un ami.",
+"de": "dovere a ≈ « dos vert »",
+"efr": "Je te dois dix euros.",
+"efm": "te dois dix",
+"eit": "Ti devo dieci euro.",
+"eim": "Ti devo dieci",
+"k": "tpl",
+"th": "pensee"
+},
+{
+"n": 31,
+"fr": "rendre qc à qn",
+"frd": "rendre [qc] à [qn]",
+"fro": "rendre C à C2",
+"it": "restituire qcs a qcn",
+"itd": "restituire [qcs] a [qcn]",
+"ito": "restituire C a C2",
+"fo": "anglais : give sth back to sb",
+"mc": "restituer",
+"sc": "Une main restitue un livre.",
+"de": "restituire a ≈ « restituer »",
+"efr": "Rends-moi mon livre.",
+"efm": "Rends-moi mon livre",
+"eit": "Restituiscimi il libro.",
+"eim": "Restituiscimi il libro",
+"k": "tpl",
+"th": "actions"
+},
+{
+"n": 32,
+"fr": "en venir au fait",
+"it": "arrivare al punto",
+"mc": "arrivare + punto",
+"sc": "Un orateur bavard arrive enfin au gros point rouge sur sa carte : il en vient au fait.",
+"de": "arrivare al punto ≈ « arrivare + punto »",
+"efr": "Venons-en au fait.",
+"efm": "Venons-en au fait",
+"eit": "Arriviamo al punto.",
+"eim": "Arriviamo al punto",
+"k": "col",
+"th": "lieux"
+},
+{
+"n": 33,
+"fr": "en arriver là",
+"it": "arrivare a questo punto",
+"mc": "arrivare + punto",
+"sc": "Un coureur épuisé s'arrête au bord d'une falaise : comment en est-on arrivé là ?",
+"de": "arrivare al punto ≈ « arrivare + punto »",
+"efr": "Comment en est-on arrivés là ?",
+"efm": "arrivés là",
+"eit": "Come siamo arrivati a questo punto?",
+"eim": "arrivati a questo punto",
+"k": "col",
+"th": "lieux"
+},
+{
+"n": 34,
+"fr": "couper",
+"it": "tagliare",
+"fo": "taglio, tagli ; tagliare i capelli = couper les cheveux",
+"mc": "taille",
+"sc": "Un tailleur coupe un tissu.",
+"de": "tagliare ≈ tailler",
+"efr": "Coupe le pain.",
+"efm": "Coupe",
+"eit": "Taglia il pane.",
+"eim": "Taglia",
+"th": "actions",
+"co": [
+"tagliare i capelli",
+"tagliare la gola",
+"tagliare la testa",
+"tagliare di capello",
+"tagliare la corda"
+]
+},
+{
+"n": 35,
+"fr": "remettre",
+"it": "rimettere",
+"fo": "rimetto, rimetti ; p.p. rimesso",
+"mc": "remettre",
+"sc": "Une main remet une bague à son doigt.",
+"de": "ressemble ; ri- = re-",
+"efr": "Remets ça à sa place.",
+"efm": "Remets",
+"eit": "Rimettilo al suo posto.",
+"eim": "Rimettilo",
+"th": "autres",
+"px": [
+[
+"Je ne le mets pas en question. Je ne remets pas ça en question.",
+"Non lo metto in questione."
+]
+],
+"co": [
+"rimettere a posto",
+"rimettere insieme",
+"rimettere in piede"
+]
+},
+{
+"n": 36,
+"fr": "détester",
+"it": "odiare",
+"fo": "odio, odi ; ti odio = je te déteste",
+"mc": "odieux",
+"sc": "Un personnage odieux : tout le monde le déteste.",
+"de": "odiare ≈ odieux, haïr (odio = haine)",
+"efr": "Je déteste ça.",
+"efm": "déteste",
+"eit": "Odio questo.",
+"eim": "Odio",
+"th": "emotions"
+},
+{
+"n": 37,
+"fr": "entendre dire que qn fait qc",
+"frd": "entendre dire que [qn] [v] [qc]",
+"fro": "entendre dire que S V C",
+"it": "sentire dire che qcn fa qcs",
+"itd": "sentire dire che [qcn] [v] [qcs]",
+"ito": "sentire dire che S V C",
+"fo": "anglais : hear sb does sth hear that sb does sth hear it said sb does sth hear it said that sb does sth hear sb say sb does sth hear sb say sb does sth hear people say sb does sth hear people say that sb does sth",
+"mc": "sentinelle",
+"sc": "Une sentinelle entend dire qu'on arrive.",
+"de": "sentire dire che ≈ « sentinelle »",
+"efr": "J'ai entendu dire qu'il part.",
+"efm": "entendu dire qu'il part",
+"eit": "Ho sentito dire che parte.",
+"eim": "sentito dire che parte",
+"k": "tpl",
+"th": "actions"
+},
+{
+"n": 38,
+"fr": "réussir",
+"it": "riuscire",
+"fo": "riesco, riesci ; aux. essere ; riuscire a = arriver à",
+"mc": "ressortir (ri + uscire)",
+"sc": "Un candidat ressort de l'examen, diplôme en main : il a réussi.",
+"de": "riuscire = réussir (ri + uscire « sortir »)",
+"efr": "J'y arrive pas.",
+"efm": "arrive",
+"eit": "Non ci riesco.",
+"eim": "riesco",
+"th": "pensee",
+"px": [
+[
+"Il est prêt à tout pour réussir.",
+"È pronto a tutto pur di riuscire."
+]
+]
+},
+{
+"n": 39,
+"fr": "refuser",
+"it": "rifiutare",
+"fo": "rifiuto, rifiuti",
+"mc": "refus",
+"sc": "Un tampon « REFUSÉ » s'abat.",
+"de": "rifiutare = refuser ; rifiuti = déchets",
+"efr": "Il a refusé.",
+"efm": "refusé",
+"eit": "Ha rifiutato.",
+"eim": "rifiutato",
+"th": "autres",
+"px": [
+[
+"Il refuse toute modification.",
+"Rifiuta qualsiasi modifica."
+]
+],
+"co": [
+"rifiutare l'offerta"
+]
+},
+{
+"n": 40,
+"fr": "découvrir",
+"it": "scoprire",
+"fo": "scopro, scopri ; p.p. scoperto",
+"mc": "découvrir (s + coprire)",
+"sc": "Un explorateur retire la bâche : il découvre un temple.",
+"de": "scoprire = découvrir (coprire = couvrir)",
+"efr": "J'ai découvert la vérité.",
+"efm": "découvert",
+"eit": "Ho scoperto la verità.",
+"eim": "scoperto",
+"th": "autres",
+"co": [
+"scoprire la verità"
+]
+},
+{
+"n": 41,
+"fr": "payer qc à qn",
+"frd": "payer [qc] à [qn]",
+"fro": "payer C à C2",
+"it": "pagare qcs a qcn",
+"itd": "pagare [qcs] a [qcn]",
+"ito": "pagare C a C2",
+"fo": "anglais : pay for sth",
+"mc": "pagaie",
+"sc": "Un rameur paie avec sa pagaie.",
+"de": "pagare a ≈ « pagaie »",
+"efr": "Je te paie un café.",
+"efm": "te paie un café",
+"eit": "Ti pago un caffè.",
+"eim": "Ti pago un caffè",
+"k": "tpl",
+"th": "travail"
+},
+{
+"n": 42,
+"fr": "montrer qc à qn",
+"frd": "montrer [qc] à [qn]",
+"fro": "montrer C à C2",
+"it": "mostrare qcs a qcn",
+"itd": "mostrare [qcs] a [qcn]",
+"ito": "mostrare C a C2",
+"fo": "anglais : show sb sth show sth to sb",
+"mc": "monstre",
+"sc": "Un monstre montre ses dents.",
+"de": "mostrare a ≈ « monstre »",
+"efr": "Montre-moi ta photo.",
+"efm": "Montre-moi ta photo",
+"eit": "Mostrami la foto.",
+"eim": "Mostrami la foto",
+"k": "tpl",
+"th": "actions"
+},
+{
+"n": 43,
+"fr": "lever",
+"it": "alzare",
+"fo": "alzo, alzi ; alzati ! = lève-toi !",
+"mc": "altitude",
+"sc": "Un haltérophile lève une barre en altitude.",
+"de": "alzare ≈ altitude, hausser ; alzarsi = se lever",
+"efr": "Lève-toi !",
+"efm": "Lève",
+"eit": "Alzati!",
+"eim": "Alzati",
+"th": "actions",
+"co": [
+"alzare la mano",
+"alzare la voce",
+"alzare in piede",
+"alzare il volume",
+"alzare un dito",
+"alzare lo sguardo"
+]
+},
+{
+"n": 44,
+"fr": "casser",
+"it": "rompere",
+"fo": "rompo, rompi ; p.p. rotto ; rotto = cassé",
+"mc": "rompre",
+"sc": "Un vase tombe et se rompt.",
+"de": "rompere = rompre, casser",
+"efr": "J'ai cassé mon téléphone.",
+"efm": "cassé",
+"eit": "Ho rotto il telefono.",
+"eim": "rotto",
+"th": "actions",
+"co": [
+"rompere le palli",
+"rompere il culo",
+"rompere i coglioni",
+"rompere le scatole",
+"rompere il collo",
+"rompere il vetro"
+]
+},
+{
+"n": 45,
+"fr": "mettre de côté",
+"it": "mettere da parte",
+"mc": "mettere + parte",
+"sc": "On réunit « mettere » (mettre) et « parte » (part) : mettre de côté.",
+"de": "mettere da parte ≈ « mettere + parte »",
+"efr": "Voulez-vous bien rester sur le côté?",
+"efm": "côté",
+"eit": "Siate gentili, mettetevi da una parte, per favore.",
+"eim": "mettetevi da una parte",
+"k": "col",
+"th": "actions"
+},
+{
+"n": 46,
+"fr": "vérifier",
+"it": "controllare",
+"fo": "controllo, controlli",
+"mc": "contrôler",
+"sc": "Un contrôleur vérifie un billet.",
+"de": "controllare = vérifier, contrôler",
+"efr": "Je vais vérifier.",
+"efm": "vérifier",
+"eit": "Vado a controllare.",
+"eim": "controllare",
+"th": "actions"
+},
+{
+"n": 47,
+"fr": "se tromper",
+"it": "sbagliare",
+"fo": "sbaglio, sbagli ; hai sbagliato = tu t'es trompé",
+"mc": "bâiller",
+"sc": "Un élève bâille et se trompe à l'examen.",
+"de": "sbagliare = se tromper ; sbaglio = erreur",
+"efr": "Je me suis trompé.",
+"efm": "trompé",
+"eit": "Ho sbagliato.",
+"eim": "sbagliato",
+"th": "pensee",
+"px": [
+[
+"Je crois que vous vous trompez.",
+"Credo che si sbagli."
+],
+[
+"Cette fois je ne me suis pas trompé.",
+"Questa volta non ho sbagliato."
+],
+[
+"Corrigez-moi si je me trompe.",
+"Correggetemi se sbaglio."
+],
+[
+"Arrêtez-moi si je me trompe.",
+"Fermatemi se sbaglio."
+]
+]
+},
+{
+"n": 48,
+"fr": "jurer",
+"it": "giurare",
+"fo": "giuro, giuri ; te lo giuro = je te le jure",
+"mc": "jurer, jury",
+"sc": "Un témoin jure devant le jury, main levée.",
+"de": "giurare ≈ jurer, jury",
+"efr": "Je te le jure !",
+"efm": "jure",
+"eit": "Te lo giuro!",
+"eim": "giuro",
+"th": "communication",
+"px": [
+[
+"Ce n’est pas moi, je le jure.",
+"Non sono stato io, lo giuro."
+]
+],
+"co": [
+"giurare su"
+]
+},
+{
+"n": 49,
+"fr": "intéresser",
+"it": "interessare",
+"fo": "interesso ; mi interessa = ça m'intéresse",
+"mc": "intéresser",
+"sc": "Un auditeur penché en avant : ça l'intéresse.",
+"de": "ressemble",
+"efr": "Ça m'intéresse pas.",
+"efm": "intéresse",
+"eit": "Non mi interessa.",
+"eim": "interessa",
+"th": "autres",
+"px": [
+[
+"Ça m'intéresse pas trop.",
+"Non mi interessa molto."
+],
+[
+"Je ne suis pas intéressé.",
+"Non mi interessa."
+]
+]
+},
+{
+"n": 50,
+"fr": "détruire",
+"it": "distruggere",
+"fo": "distruggo, distruggi ; p.p. distrutto",
+"mc": "détruire",
+"sc": "Un bulldozer détruit un mur.",
+"de": "ressemble ; distrutto = détruit",
+"efr": "Il a tout détruit.",
+"efm": "détruit",
+"eit": "Ha distrutto tutto.",
+"eim": "distrutto",
+"th": "autres"
+},
+{
+"n": 51,
+"fr": "entendre parler de qn",
+"frd": "entendre parler de [qn]",
+"fro": "entendre parler de C",
+"it": "sentire parlare di qcn",
+"itd": "sentire parlare di [qcn]",
+"ito": "sentire parlare di C",
+"fo": "anglais : hear of sth",
+"mc": "sentinelle + parloir",
+"sc": "Une sentinelle au parloir entend parler d'un trésor.",
+"de": "sentire parlare di ≈ « sentinelle + parloir »",
+"efr": "J'ai entendu parler de lui.",
+"efm": "entendu parler de lui",
+"eit": "Ho sentito parlare di lui.",
+"eim": "sentito parlare di lui",
+"k": "tpl",
+"th": "actions"
+},
+{
+"n": 52,
+"fr": "lâcher",
+"it": "mollare",
+"fo": "mollo, molli ; molla ! = lâche !",
+"mc": "mollir, mollo",
+"sc": "Une main lâche une corde trop molle.",
+"de": "mollare = lâcher, laisser tomber (familier)",
+"efr": "Lâche-moi !",
+"efm": "Lâche",
+"eit": "Mollami!",
+"eim": "Mollami",
+"th": "emotions",
+"co": [
+"mollare la presa"
+]
+},
+{
+"n": 53,
+"fr": "amuser",
+"it": "divertire",
+"fo": "diverto, diverti ; divertiti ! = amuse-toi bien !",
+"mc": "divertir",
+"sc": "Un clown divertit les enfants.",
+"de": "divertire = amuser ; divertirsi = s'amuser",
+"efr": "Amuse-toi bien !",
+"efm": "Amuse",
+"eit": "Divertiti!",
+"eim": "Divertiti",
+"th": "emotions"
+},
+{
+"n": 54,
+"fr": "maintenir qc",
+"frd": "maintenir [qc]",
+"fro": "maintenir C",
+"it": "mantenere qcs",
+"itd": "mantenere [qcs]",
+"ito": "mantenere C",
+"fo": "anglais : keep sth hold sth",
+"mc": "maintenir",
+"sc": "Une main tient une porte : maintenir.",
+"de": "mantenere ≈ « maintenir »",
+"efr": "Maintiens la porte.",
+"efm": "Maintiens la porte",
+"eit": "Mantieni la porta.",
+"eim": "Mantieni la porta",
+"k": "tpl",
+"th": "corps"
+},
+{
+"n": 55,
+"fr": "mettre la main sur",
+"it": "mettere le mani su",
+"mc": "mettere + mani",
+"sc": "On réunit « mettere » (mettre) et « mani » : mettre la main sur.",
+"de": "mettere le mani su ≈ « mettere + mani »",
+"efr": "Mettez votre main en l'air.",
+"efm": "main",
+"eit": "Mettete le mani in alto, per favore.",
+"eim": "Mettete le mani",
+"k": "col",
+"th": "corps"
+},
+{
+"n": 56,
+"fr": "attendre un moment",
+"it": "aspettare un momento",
+"mc": "aspettare + momento",
+"sc": "On réunit « aspettare » (aspic) et « momento » (mémento) : attendre un moment.",
+"de": "aspettare un momento ≈ « aspettare + momento »",
+"efr": "Hé, attendez !",
+"efm": "attendez",
+"eit": "Senta! Aspetti un momento.",
+"eim": "Aspetti un momento",
+"k": "col",
+"th": "temps"
+},
+{
+"n": 57,
+"fr": "mettre fin (à)",
+"it": "mettere fine",
+"mc": "mettere + fine",
+"sc": "On réunit « mettere » (mettre) et « fine » (fine) : mettre fin (à).",
+"de": "mettere fine ≈ « mettere + fine »",
+"efr": "Qu'on en finisse.",
+"efm": "mettre fin (à)",
+"eit": "Metterò fine a tutto questo.",
+"eim": "Metterò fine",
+"k": "col",
+"th": "temps"
+},
+{
+"n": 58,
+"fr": "reconnaître",
+"it": "riconoscere",
+"fo": "riconosco, riconosci ; p.p. riconosciuto",
+"mc": "reconnaître (ri + conoscere)",
+"sc": "Un témoin reconnaît le suspect sur une photo.",
+"de": "riconoscere = reconnaître",
+"efr": "Je t'ai pas reconnu !",
+"efm": "reconnu",
+"eit": "Non ti ho riconosciuto!",
+"eim": "riconosciuto",
+"th": "autres",
+"px": [
+[
+"Elle se ferait plutôt hacher menu que de le reconnaître.",
+"Si farebbe piuttosto tagliare a pezzi che ammetterlo."
+]
+]
+},
+{
+"n": 59,
+"fr": "vivre ensemble",
+"it": "vivere insieme",
+"mc": "vivere + insieme",
+"sc": "On réunit « vivere » (vivre) et « insieme » (« un siège, mé ») : vivre ensemble.",
+"de": "vivere insieme ≈ « vivere + insieme »",
+"efr": "C'est agréable de vivre ensemble.",
+"efm": "vivre",
+"eit": "È bello vivere insieme.",
+"eim": "vivere insieme",
+"k": "col",
+"th": "famille"
+},
+{
+"n": 60,
+"fr": "exister",
+"it": "esistere",
+"fo": "esisto, esisti ; aux. essere",
+"mc": "exister",
+"sc": "Un fantôme se demande s'il existe.",
+"de": "ressemble ; accent sur ZIS",
+"efr": "Ça existe pas.",
+"efm": "existe",
+"eit": "Non esiste.",
+"eim": "esiste",
+"th": "autres"
+},
+{
+"n": 61,
+"fr": "danser",
+"it": "ballare",
+"fo": "ballo, balli ; ballo = danse, bal",
+"mc": "bal",
+"sc": "Un couple danse au bal.",
+"de": "ballare ≈ bal, ballet",
+"efr": "Tu danses ?",
+"efm": "danses",
+"eit": "Balli?",
+"eim": "Balli",
+"th": "loisirs"
+},
+{
+"n": 62,
+"fr": "perdre du temps à faire qc",
+"frd": "perdre du temps à [v inf] [qc]",
+"fro": "perdre du temps à V_inf C",
+"it": "perdere tempo a fare qcs",
+"itd": "perdere tempo a [v inf] [qcs]",
+"ito": "perdere tempo a V_inf C",
+"fo": "anglais : waste time doing sth",
+"mc": "perdre + tempo",
+"sc": "Un sablier se vide : on perd du temps à chercher.",
+"de": "perdere tempo a ≈ « perdre + tempo »",
+"efr": "Je perds du temps à chercher.",
+"efm": "perds du temps à chercher",
+"eit": "Perdo tempo a cercare.",
+"eim": "Perdo tempo a cercare",
+"k": "tpl",
+"th": "temps"
+},
+{
+"n": 63,
+"fr": "appeler la police",
+"it": "chiamare la polizia",
+"mc": "chiamare + polizia",
+"sc": "On réunit « chiamare » (« qui a marre ? ») et « polizia » (police) : appeler la police.",
+"de": "chiamare la polizia ≈ « chiamare + polizia »",
+"efr": "Appelez la police !",
+"efm": "Appelez",
+"eit": "Chiamiamo la polizia!",
+"eim": "Chiamiamo la polizia",
+"k": "col",
+"th": "communication"
+},
+{
+"n": 64,
+"fr": "réfléchir",
+"it": "riflettere",
+"fo": "rifletto, rifletti ; p.p. riflettuto ; pensarci = y réfléchir",
+"mc": "reflet",
+"sc": "Un penseur réfléchit devant son reflet.",
+"de": "riflettere = réfléchir (aussi la lumière)",
+"efr": "Laisse-moi réfléchir.",
+"efm": "réfléchir",
+"eit": "Fammi riflettere.",
+"eim": "riflettere",
+"th": "pensee",
+"px": [
+[
+"Tu peux encore y réfléchir.",
+"Puoi pensarci ancora."
+]
+]
+},
+{
+"n": 65,
+"fr": "empêcher",
+"it": "impedire",
+"fo": "impedisco, impedisci (avec -isc-)",
+"mc": "pied + interdire",
+"sc": "Un pied posé en travers de la porte empêche de passer.",
+"de": "impedire ≈ empêcher (« entraver les pieds »)",
+"efr": "Rien ne m'empêche de venir.",
+"efm": "empêche",
+"eit": "Niente mi impedisce di venire.",
+"eim": "impedisce",
+"th": "autres",
+"px": [
+[
+"Je n'ai même pas essayé de l'en empêcher.",
+"Non ho nemmeno provato a impedirglielo."
+],
+[
+"Ça ne m’empêche pas de dormir.",
+"Non mi toglie il sonno."
+]
+]
+},
+{
+"n": 66,
+"fr": "déranger",
+"it": "disturbare",
+"fo": "disturbo, disturbi ; scusa il disturbo = désolé de déranger",
+"mc": "déranger, perturber",
+"sc": "Un panneau « Ne pas déranger » sur une porte.",
+"de": "disturbare ≈ perturber, déranger",
+"efr": "Je te dérange ?",
+"efm": "dérange",
+"eit": "Ti disturbo?",
+"eim": "disturbo",
+"th": "autres",
+"px": [
+[
+"Si cela ne te dérange pas.",
+"Solo se non ti da fastidio."
+]
+]
+},
+{
+"n": 67,
+"fr": "abandonner",
+"it": "abbandonare",
+"fo": "abbandono, abbandoni",
+"mc": "abandonner",
+"sc": "Une valise abandonnée sur un quai.",
+"de": "ressemble ; double b",
+"efr": "N'abandonne pas !",
+"efm": "abandonne",
+"eit": "Non abbandonare!",
+"eim": "abbandonare",
+"th": "autres",
+"co": [
+"abbandonare la nave"
+]
+},
+{
+"n": 68,
+"fr": "avoir des nouvelles de qn",
+"frd": "avoir des nouvelles de [qn]",
+"fro": "avoir des nouvelles de C",
+"it": "avere notizie di qcn",
+"itd": "avere notizie di [qcn]",
+"ito": "avere notizie di C",
+"fo": "anglais : hear from sth",
+"mc": "notice",
+"sc": "Une lettre-notice : on a des nouvelles.",
+"de": "avere notizie di ≈ « notice »",
+"efr": "T'as des nouvelles de Marco ?",
+"efm": "des nouvelles de Marco",
+"eit": "Hai notizie di Marco?",
+"eim": "notizie di Marco",
+"k": "tpl",
+"th": "communication"
+},
+{
+"n": 69,
+"fr": "perdre son temps",
+"it": "perdere tempo",
+"fo": "anglais : waste time",
+"mc": "perdre + tempo",
+"sc": "Un métronome perdu : on perd son temps.",
+"de": "perdere tempo ≈ « perdre + tempo »",
+"efr": "Tu perds ton temps.",
+"efm": "perds ton temps",
+"eit": "Perdi tempo.",
+"eim": "Perdi tempo",
+"k": "col",
+"th": "temps"
+},
+{
+"n": 70,
+"fr": "arriver à l'heure",
+"it": "arrivare puntuale",
+"fo": "anglais : arrive on time",
+"mc": "ponctuel",
+"sc": "Un train ponctuel arrive à l'heure.",
+"de": "arrivare puntuale ≈ « ponctuel »",
+"efr": "Le train est arrivé à l'heure.",
+"efm": "arrivé à l'heure",
+"eit": "Il treno è arrivato puntuale.",
+"eim": "puntuale",
+"k": "loc",
+"scat": "locutions_verbales",
+"th": "temps"
+},
+{
+"n": 71,
+"fr": "reprendre",
+"it": "riprendere",
+"fo": "riprendo, riprendi ; p.p. ripreso",
+"mc": "reprendre (ri + prendere)",
+"sc": "Une main reprend la valise oubliée.",
+"de": "riprendere = reprendre ; aussi filmer",
+"efr": "On reprend demain.",
+"efm": "reprend",
+"eit": "Riprendiamo domani.",
+"eim": "Riprendiamo",
+"th": "autres",
+"co": [
+"riprendere conoscenza"
+]
+},
+{
+"n": 72,
+"fr": "commencer à faire qc",
+"frd": "commencer à [v inf] [qc]",
+"fro": "commencer à V_inf C",
+"it": "cominciare a fare qcs",
+"itd": "cominciare a [v inf] [qcs]",
+"ito": "cominciare a V_inf C",
+"fo": "anglais : start doing sth begin doing sth",
+"mc": "« comment ça ? »",
+"sc": "Au départ, un coureur demande « comment ça commence ? ».",
+"de": "cominciare a ≈ « « comment ça ? » »",
+"efr": "Il commence à pleuvoir.",
+"efm": "commence à pleuvoir",
+"eit": "Comincia a piovere.",
+"eim": "Comincia a piovere",
+"k": "tpl",
+"th": "temps"
+},
+{
+"n": 73,
+"fr": "sauver la vie",
+"it": "salvare la vita",
+"mc": "salvare + vita",
+"sc": "On réunit « salvare » (salvateur) et « vita » (vitamine) : sauver la vie.",
+"de": "salvare la vita ≈ « salvare + vita »",
+"efr": "Non, j'ai sauvé sa vie.",
+"efm": "sauvé",
+"eit": "No, le ho salvato la vita.",
+"eim": "salvato la vita",
+"k": "col",
+"th": "corps"
+},
+{
+"n": 74,
+"fr": "entrer dans la maison",
+"it": "entrare in casa",
+"mc": "entrare + casa",
+"sc": "On réunit « entrare » (entrer) et « casa » (case) : entrer dans la maison.",
+"de": "entrare in casa ≈ « entrare + casa »",
+"efr": "C'est un scandale d'entrer chez les gens comme ça.",
+"efm": "entrer",
+"eit": "che oltraggio entrare in casa altrui.",
+"eim": "entrare in casa",
+"k": "col",
+"th": "maison"
+},
+{
+"n": 75,
+"fr": "sauter",
+"it": "saltare",
+"fo": "salto, salti ; salto = saut",
+"mc": "saltimbanque",
+"sc": "Un saltimbanque saute très haut.",
+"de": "saltare ≈ saut, saltimbanque",
+"efr": "Saute !",
+"efm": "Saute",
+"eit": "Salta!",
+"eim": "Salta",
+"th": "actions",
+"px": [
+[
+"Je ne peux pas me décider à sauter le pas.",
+"Non riesco a decidermi a fare il grande passo."
+]
+],
+"co": [
+"saltare fuori",
+"saltare in aria",
+"saltare addosso",
+"saltare in menta",
+"saltare giù",
+"saltare alle conclusioni"
+]
+},
+{
+"n": 76,
+"fr": "rire",
+"it": "ridere",
+"fo": "rido, ridi ; p.p. riso ; ridere di = se moquer de",
+"mc": "ridicule",
+"sc": "Un clown ridicule fait rire tout le monde.",
+"de": "ridere ≈ ridicule",
+"efr": "Me fais pas rire !",
+"efm": "rire",
+"eit": "Non farmi ridere!",
+"eim": "ridere",
+"th": "emotions",
+"px": [
+[
+"Tu vas rire : moi aussi je l'ai fait.",
+"Ti verrà da ridere ma l'ho fatto anch'io."
+],
+[
+"Pourquoi ris tu ? Pourquoi tu ris ? Pourquoi tu rigoles ?",
+"Perché ridi?"
+],
+[
+"Tu les as fait se tordre de rire.",
+"Li hai fatti morire dal ridere."
+],
+[
+"On était pliés de rire.",
+"Eravamo piegati dal ridere."
+],
+[
+"Il a dit cela ? Sans rire !",
+"Ha detto questo? Ma dai!"
+],
+[
+"Il en faut peu pour la faire rire.",
+"Basta poco per farla ridere."
+]
+]
+},
+{
+"n": 77,
+"fr": "remercier",
+"it": "ringraziare",
+"fo": "ringrazio, ringrazi ; ti ringrazio = je te remercie",
+"mc": "grâce (grazie)",
+"sc": "Une foule lance des « grazie » : on remercie.",
+"de": "ringraziare = remercier (grazie = merci)",
+"efr": "Je te remercie.",
+"efm": "remercie",
+"eit": "Ti ringrazio.",
+"eim": "ringrazio",
+"th": "communication",
+"px": [
+[
+"Je te remercie pour tout ce que tu as fait pour moi.",
+"Ti ringrazio per tutto quello che hai fatto per me."
+]
+]
+},
+{
+"n": 78,
+"fr": "prévenir",
+"it": "avvisare",
+"fo": "avviso, avvisi ; avvisami = préviens-moi",
+"mc": "avis",
+"sc": "Un panneau « AVIS » prévient du danger.",
+"de": "avvisare ≈ aviser, avis",
+"efr": "Préviens-moi.",
+"efm": "Préviens",
+"eit": "Avvisami.",
+"eim": "Avvisami",
+"th": "communication",
+"px": [
+[
+"Mieux vaut prévenir que guérir.",
+"Meglio prevenire che curare."
+]
+]
+},
+{
+"n": 79,
+"fr": "pousser",
+"it": "spingere",
+"fo": "spingo, spingi ; p.p. spinto",
+"mc": "spinnaker",
+"sc": "Le vent pousse le spinnaker d'un voilier.",
+"de": "spingere = pousser ; spinta = poussée",
+"efr": "Pousse !",
+"efm": "Pousse",
+"eit": "Spingi!",
+"eim": "Spingi",
+"th": "actions",
+"px": [
+[
+"Nous avons tous poussé des cris de joie.",
+"Abbiamo tutti gridato di gioia."
+]
+]
+},
+{
+"n": 80,
+"fr": "inviter",
+"it": "invitare",
+"fo": "invito, inviti ; invito = invitation",
+"mc": "inviter",
+"sc": "Une carte d'invitation dorée.",
+"de": "ressemble",
+"efr": "Je t'invite.",
+"efm": "invite",
+"eit": "Ti invito io.",
+"eim": "invito",
+"th": "famille",
+"px": [
+[
+"J'ai invité un ami à manger.",
+"Ho invitato un amico a pranzo. (à déjeuner)"
+]
+],
+"co": [
+"invitare a cena",
+"invitare alla festa"
+]
+},
+{
+"n": 81,
+"fr": "embrasser",
+"it": "baciare",
+"fo": "bacio, baci ; baciami = embrasse-moi",
+"mc": "bas-chat",
+"sc": "Un chat s'abaisse pour embrasser un chaton.",
+"de": "baciare = embrasser ; bacio = baiser",
+"efr": "Embrasse-moi.",
+"efm": "Embrasse",
+"eit": "Baciami.",
+"eim": "Baciami",
+"th": "famille"
+},
+{
+"n": 82,
+"fr": "assurer",
+"it": "assicurare",
+"fo": "assicuro, assicuri ; ti assicuro = je t'assure",
+"mc": "assurer",
+"sc": "Un assureur tend une police d'assurance.",
+"de": "assicurare = assurer ; sicuro = sûr",
+"efr": "Je t'assure que c'est vrai.",
+"efm": "assure",
+"eit": "Ti assicuro che è vero.",
+"eim": "assicuro",
+"th": "autres",
+"px": [
+[
+"Je peux te l'assurer.",
+"Te lo posso assicurare. Te lo posso garantire."
+],
+[
+"Vous faites fausse route, je vous assure.",
+"Siete sulla strada sbagliata, ve lo assicuro."
+]
+]
+},
+{
+"n": 83,
+"fr": "faire revenir",
+"it": "far rosolare",
+"fo": "anglais : brown sth",
+"mc": "rose + sole",
+"sc": "Une sole dorée rose dans la poêle : faire revenir.",
+"de": "far rosolare ≈ « rose + sole »",
+"efr": "Fais revenir les oignons.",
+"efm": "Fais revenir",
+"eit": "Fai rosolare le cipolle.",
+"eim": "rosolare",
+"k": "loc",
+"scat": "locutions_verbales",
+"th": "lieux"
+},
+{
+"n": 84,
+"fr": "sauver le monde",
+"it": "salvare il mondo",
+"mc": "salvare + mondo",
+"sc": "On réunit « salvare » (salvateur) et « mondo » (mondovision) : sauver le monde.",
+"de": "salvare il mondo ≈ « salvare + mondo »",
+"efr": "Sauvez le monde !",
+"efm": "Sauvez",
+"eit": "Salva il mondo. Salva il mondo.",
+"eim": "Salva il mondo",
+"k": "col",
+"th": "lieux"
+},
+{
+"n": 85,
+"fr": "calmer",
+"it": "calmare",
+"fo": "calmo, calmi ; calmati ! = calme-toi !",
+"mc": "calme",
+"sc": "Un moine calme une foule agitée.",
+"de": "ressemble",
+"efr": "Calme-toi !",
+"efm": "Calme",
+"eit": "Calmati!",
+"eim": "Calmati",
+"th": "emotions"
+},
+{
+"n": 86,
+"fr": "attraper",
+"it": "acchiappare",
+"fo": "acchiappo, acchiappi ; prendere aussi",
+"mc": "« a capté »",
+"sc": "Un chat attrape une souris : il a capté.",
+"de": "acchiappare = attraper (familier)",
+"efr": "Attrape !",
+"efm": "Attrape",
+"eit": "Acchiappa!",
+"eim": "Acchiappa",
+"th": "actions",
+"px": [
+[
+"Hier j'ai attrape un rhume.",
+"Ieri ho preso un raffreddore."
+]
+]
+},
+{
+"n": 87,
+"fr": "être en rapport avec qc",
+"frd": "être en rapport avec [qc]",
+"fro": "être en rapport avec C",
+"it": "riguardare qcs",
+"itd": "riguardare [qcs]",
+"ito": "riguardare C",
+"fo": "anglais : be in touch with sth be in contact with sth",
+"mc": "regarder",
+"sc": "Un détective regarde : ça a rapport avec l'affaire.",
+"de": "riguardare ≈ « regarder »",
+"efr": "Ça n'a pas de rapport avec ça.",
+"efm": "rapport avec ça",
+"eit": "Non riguarda questo.",
+"eim": "riguarda questo",
+"k": "tpl",
+"th": "autres"
+},
+{
+"n": 88,
+"fr": "sortir de prison",
+"it": "uscire di prigione",
+"mc": "uscire + prigione",
+"sc": "On réunit « uscire » (huissier) et « prigione » (prison) : sortir de prison.",
+"de": "uscire di prigione ≈ « uscire + prigione »",
+"efr": "On doit le sortir de prison.",
+"efm": "prison",
+"eit": "Dobbiamo farlo uscire di prigione.",
+"eim": "uscire di prigione",
+"k": "col",
+"th": "lieux"
+},
+{
+"n": 89,
+"fr": "craindre",
+"it": "temere",
+"fo": "temo, temi ; temo di sì = je crains que oui",
+"mc": "téméraire",
+"sc": "Un téméraire ne craint rien.",
+"de": "temere = craindre (timide, timoré)",
+"efr": "Je crains le pire.",
+"efm": "crains",
+"eit": "Temo il peggio.",
+"eim": "Temo",
+"th": "emotions",
+"px": [
+[
+"Je crains qu’il ne soit pas à la hauteur de la tâche.",
+"Temo che non sia all'altezza del compito."
+],
+[
+"Je crains qu’il ne t’ait menti.",
+"Temo che ti abbia mentito."
+]
+]
+},
+{
+"n": 90,
+"fr": "arranger",
+"it": "sistemare",
+"fo": "sistemo, sistemi ; tutto sistemato = tout est arrangé",
+"mc": "système",
+"sc": "Un technicien arrange le système.",
+"de": "sistemare = arranger, ranger, régler",
+"efr": "Je vais arranger ça.",
+"efm": "arranger",
+"eit": "Sistemerò tutto.",
+"eim": "Sistemerò",
+"th": "autres",
+"co": [
+"sistemare la faccenda"
+]
+},
+{
+"n": 91,
+"fr": "approcher",
+"it": "avvicinarsi",
+"fo": "avvicinati = approche-toi",
+"mc": "voisin",
+"sc": "Un voisin s'approche de la clôture.",
+"de": "avvicinarsi ≈ « se faire voisin » (vicino = proche)",
+"efr": "Approche-toi.",
+"efm": "Approche",
+"eit": "Avvicinati.",
+"eim": "Avvicinati",
+"th": "autres"
+},
+{
+"n": 92,
+"fr": "épouser qn",
+"frd": "épouser [qn]",
+"fro": "épouser C",
+"it": "sposare qcn",
+"itd": "sposare [qcn]",
+"ito": "sposare C",
+"fo": "anglais : marry sth",
+"mc": "épouser",
+"sc": "Deux mariés sous le riz : épouser.",
+"de": "sposare ≈ « épouser »",
+"efr": "Il va l'épouser.",
+"efm": "épouser",
+"eit": "La sposerà.",
+"eim": "sposerà",
+"k": "tpl",
+"th": "famille",
+"px": [
+[
+"Il a épousé une enfant du pays.",
+"Ha sposato una ragazza del posto."
+]
+]
+},
+{
+"n": 93,
+"fr": "avoir du retard",
+"it": "essere in ritardo",
+"mc": "retard",
+"sc": "Une horloge qui retarde : on a du retard.",
+"de": "essere in ritardo ≈ « retard »",
+"efr": "J'ai du retard.",
+"efm": "du retard",
+"eit": "Sono in ritardo.",
+"eim": "in ritardo",
+"k": "loc",
+"scat": "locutions_verbales",
+"th": "temps"
+},
+{
+"n": 94,
+"fr": "travailler ensemble",
+"it": "lavorare insieme",
+"mc": "lavorare + insieme",
+"sc": "On réunit « lavorare » (lavoir) et « insieme » (« un siège, mé ») : travailler ensemble.",
+"de": "vorare insieme ≈ « lavorare + insieme »",
+"efr": "Nous devons travailler ensemble.",
+"efm": "travailler",
+"eit": "Dobbiamo lavorare insieme.",
+"eim": "lavorare insieme",
+"k": "col",
+"th": "famille"
+},
+{
+"n": 95,
+"fr": "prendre un café",
+"it": "bere un caffè",
+"mc": "bere + caffè",
+"sc": "On réunit « bere » (bière) et « caffè » (café) : prendre un café.",
+"de": "bere un caffè ≈ « bere + caffè »",
+"efr": "Viens prendre un café.",
+"efm": "prendre",
+"eit": "Dai. Entra a bere un caffè.",
+"eim": "bere un caffè",
+"k": "col",
+"th": "nourriture"
+},
+{
+"n": 96,
+"fr": "battre (qn)",
+"frd": "battre ([qn])",
+"it": "picchiare",
+"mc": "piquer",
+"sc": "Un pic-vert bat un tronc à coups de bec, sans relâche.",
+"de": "picchiare ≈ « piquer »",
+"efr": "Son père le battait.",
+"efm": "battait",
+"eit": "Suo padre lo picchiava.",
+"eim": "picchiava",
+"th": "actions"
+},
+{
+"n": 97,
+"fr": "rêver",
+"it": "sognare",
+"fo": "sogno, sogni ; sognare di = rêver de",
+"mc": "songe",
+"sc": "Un dormeur rêve, un songe au-dessus de lui.",
+"de": "sognare ≈ songer ; sogno = rêve",
+"efr": "J'ai rêvé de toi.",
+"efm": "rêvé",
+"eit": "Ti ho sognato.",
+"eim": "sognato",
+"th": "pensee",
+"px": [
+[
+"Tu peux toujours rêver. Tu peux toujours courir.",
+"Puoi sempre sognare."
+]
+]
+},
+{
+"n": 98,
+"fr": "paraître",
+"it": "parere",
+"fo": "pare che = il paraît que ; mi pare = il me semble",
+"mc": "paraître",
+"sc": "Un acteur paraît sur scène.",
+"de": "parere = paraître, sembler ; il parere = l'avis",
+"efr": "Il paraît qu'il est malade.",
+"efm": "paraît",
+"eit": "Pare che sia malato.",
+"eim": "Pare",
+"th": "autres",
+"px": [
+[
+"Cela semble faisable. Ça me paraît faisable.",
+"Mi sembra fattibile."
+],
+[
+"Cela paraît plutôt suspect.",
+"Mi sembra piuttosto sospetto."
+]
+]
+},
+{
+"n": 99,
+"fr": "obtenir",
+"it": "ottenere",
+"fo": "ottengo, ottieni ; p.p. ottenuto",
+"mc": "obtenir",
+"sc": "Une main obtient un trophée.",
+"de": "ressemble ; tenere = tenir",
+"efr": "J'ai obtenu le poste.",
+"efm": "obtenu",
+"eit": "Ho ottenuto il posto.",
+"eim": "ottenuto",
+"th": "autres",
+"px": [
+[
+"Il a fait des pieds et des mains pour obtenir ce job.",
+"Ha fatto carte false per ottenere questo lavoro."
+]
+],
+"co": [
+"ottenere informazione",
+"ottenere risultato"
+]
+}
+]
+}

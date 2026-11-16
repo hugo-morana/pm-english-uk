@@ -1,0 +1,2018 @@
+{
+"room": {
+"id": "adjectifs_2",
+"fr": "Les adjectifs qualificatifs · étage 2",
+"it": "Gli aggettivi · primo piano",
+"decor": "galerie de peinture, étage",
+"fam": "adjectifs",
+"blocs": null
+},
+"niches": [
+{
+"n": 0,
+"fr": "jeune",
+"it": "giovane",
+"fo": "m. et f. ; i giovani = les jeunes",
+"mc": "jouvence",
+"sc": "Un vieillard boit à la fontaine de jouvence et redevient jeune.",
+"de": "giovane ≈ jouvence (latin iuvenis)",
+"efr": "Il est jeune.",
+"efm": "jeune",
+"eit": "È giovane.",
+"eim": "giovane",
+"scat": "adjectifs_qualificatifs",
+"th": "corps",
+"px": [
+[
+"Il n’est plus tout jeune.",
+"Non è più giovanissimo."
+]
+],
+"co": [
+"giovane donna"
+]
+},
+{
+"n": 1,
+"fr": "mauvais",
+"it": "cattivo",
+"fo": "f. cattiva",
+"mc": "captif",
+"sc": "Un méchant captif grince des dents derrière les barreaux.",
+"de": "cattivo ≈ captif (latin captivus) ; aussi « méchant »",
+"efr": "C'est pas mauvais.",
+"efm": "mauvais",
+"eit": "Non è cattivo.",
+"eim": "cattivo",
+"scat": "adjectifs_qualificatifs",
+"th": "emotions",
+"co": [
+"cattive notizie",
+"cattiva idea",
+"cattivo umore",
+"cattivo gusto",
+"poliziotto cattivo",
+"lupo cattivo"
+]
+},
+{
+"n": 2,
+"fr": "aucune chose",
+"frd": "aucune [n]",
+"fro": "aucune C",
+"it": "nessuna cosa",
+"itd": "nessuna [n]",
+"ito": "nessuna C",
+"fo": "anglais : no sth sb doesn't does any sth",
+"mc": "nez sous",
+"sc": "Un nez sous la table : aucune odeur.",
+"de": "nessuna ≈ « nez sous »",
+"efr": "Je n'ai aucune idée.",
+"efm": "aucune idée",
+"eit": "Non ho nessuna idea.",
+"eim": "nessuna idea",
+"k": "tpl",
+"scat": "adjectifs_qualificatifs",
+"th": "nombres",
+"px": [
+[
+"Je n'en ai aucune idée.",
+"Non ne ho la minima idea."
+],
+[
+"Elle n'a aucune influence sur lui.",
+"Lei non ha nessun'influenza su di lui."
+],
+[
+"Il n’y a aucune honte à l’avouer.",
+"Non c'è nessuna vergogna ad ammetterlo."
+]
+]
+},
+{
+"n": 3,
+"fr": "seule (solo, féminin)",
+"it": "sola",
+"mc": "→ solo",
+"sc": "Forme accordée de « solo » (seul) : féminin.",
+"de": "sola ≈ « → solo »",
+"efr": "Tu ne devrais pas marcher dehors toute seule.",
+"efm": "seule",
+"eit": "Non dovresti passeggiare da sola, da queste parti.",
+"eim": "sola",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 4,
+"fr": "dernière (ultimo, féminin)",
+"it": "ultima",
+"mc": "→ ultimo",
+"sc": "Forme accordée de « ultimo » (dernier) : féminin.",
+"de": "ultima ≈ « → ultimo »",
+"efr": "Vous savez quoi ? Notre classe d'interne était la dernière à être bonne.",
+"efm": "dernière",
+"eit": "La nostra classe di tirocinanti era l'ultima decente.",
+"eim": "ultima",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 5,
+"fr": "vieux",
+"it": "vecchio",
+"fo": "f. vecchia ; pl. vecchi",
+"mc": "« vé, kiosque »",
+"sc": "Un vieux barbu tient le même kiosque depuis cent ans.",
+"de": "vec-chio ≈ « vé… kio » ; cf. vétuste",
+"efr": "Je suis trop vieux.",
+"efm": "vieux",
+"eit": "Sono troppo vecchio.",
+"eim": "vecchio",
+"scat": "adjectifs_qualificatifs",
+"th": "famille",
+"px": [
+[
+"La visite guidée de la vieille ville m’a beaucoup plu.",
+"La visita guidata della città vecchia mi è piaciuta molto."
+]
+],
+"co": [
+"vecchio amico",
+"vecchia scuola",
+"vecchio stile"
+]
+},
+{
+"n": 6,
+"fr": "chaque",
+"frd": "chaque [n]",
+"it": "ogni",
+"itd": "ogni [n]",
+"fo": "ogni giorno = chaque jour ; ogni tanto = de temps en temps",
+"mc": "oignon",
+"sc": "Chaque oignon de la caisse porte une étiquette.",
+"de": "o-gni ≈ « oignon » ; invariable, toujours suivi du singulier",
+"efr": "Je cours chaque matin.",
+"efm": "chaque matin",
+"eit": "Corro ogni mattina.",
+"eim": "ogni mattina",
+"scat": "adjectifs_indéfinis",
+"th": "nombres"
+},
+{
+"n": 7,
+"fr": "qc non compris",
+"frd": "[qc] non compris",
+"fro": "C non compris",
+"it": "qcs non compreso",
+"itd": "[qcs] non compreso",
+"ito": "C non compreso",
+"fo": "anglais : not including sth",
+"mc": "compresse",
+"sc": "Une compresse non comprise dans le prix.",
+"de": "non compreso ≈ « compresse »",
+"efr": "Service non compris.",
+"efm": "non compris",
+"eit": "Servizio non compreso.",
+"eim": "non compreso",
+"k": "tpl",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 8,
+"fr": "première qc",
+"frd": "première [qc]",
+"fro": "première C",
+"it": "prima qcs",
+"itd": "prima [qcs]",
+"ito": "prima C",
+"fo": "anglais : first sth",
+"mc": "prime",
+"sc": "La première au podium reçoit une prime.",
+"de": "prima ≈ « prime »",
+"efr": "C'est la première fois.",
+"efm": "première fois",
+"eit": "È la prima volta.",
+"eim": "prima volta",
+"k": "tpl",
+"scat": "adjectifs_qualificatifs",
+"th": "nombres"
+},
+{
+"n": 9,
+"fr": "heureux",
+"it": "felice",
+"fo": "m. et f.",
+"mc": "félicité",
+"sc": "Un chat heureux ronronne de félicité.",
+"de": "felice ≈ félicité",
+"efr": "Je suis heureux.",
+"efm": "heureux",
+"eit": "Sono felice.",
+"eim": "felice",
+"scat": "adjectifs_qualificatifs",
+"th": "temps",
+"px": [
+[
+"Tu peux t'estimer heureux.",
+"Puoi ritenerti fortunato."
+],
+[
+"Elle attend un heureux événement.",
+"Aspetta un lieto evento."
+],
+[
+"Je suis très heureux.",
+"Sono molto felice."
+]
+]
+},
+{
+"n": 10,
+"fr": "meilleur",
+"it": "migliore",
+"fo": "m. et f. ; il migliore = le meilleur",
+"mc": "« mi-llion »",
+"sc": "Le meilleur reçoit une médaille et un million.",
+"de": "mi-glio-re ≈ « million » ; cf. améliorer ; meglio = mieux",
+"efr": "T'es le meilleur !",
+"efm": "meilleur",
+"eit": "Sei il migliore!",
+"eim": "migliore",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Elle est dans les meilleures dispositions.",
+"È nelle migliori disposizioni."
+]
+],
+"co": [
+"migliore amico",
+"migliore amica",
+"modo migliore",
+"idea migliore",
+"posto migliore",
+"momento migliore"
+]
+},
+{
+"n": 11,
+"fr": "à point (cuisson)",
+"it": "cotto a puntino",
+"fo": "anglais : medium rare",
+"mc": "cote + pointu",
+"sc": "Un steak cuit à point, piqué d'une pointe.",
+"de": "cotto a puntino ≈ « cote + pointu »",
+"efr": "Je voudrais ma viande à point.",
+"efm": "à point",
+"eit": "Vorrei la carne cotta a puntino.",
+"eim": "a puntino",
+"k": "loc",
+"scat": "locutions_adjectivales",
+"th": "autres"
+},
+{
+"n": 12,
+"fr": "autres (altro, féminin pluriel)",
+"frd": "autres [n] (altro, féminin pluriel)",
+"it": "altre",
+"itd": "altre [n]",
+"mc": "→ altro",
+"sc": "Forme accordée de « altro » (autre) : féminin pluriel.",
+"de": "altre ≈ « → altro »",
+"efr": "Vous pouvez faire ça ou vous avez d'autres questions sur mon vagin ?",
+"efm": "autres questions",
+"eit": "Puoi farlo, o hai altre domande sulla mia vagina?",
+"eim": "altre domande",
+"scat": "adjectifs_qualificatifs",
+"th": "nombres"
+},
+{
+"n": 13,
+"fr": "important",
+"it": "importante",
+"fo": "m. et f.",
+"mc": "important",
+"sc": "Un dossier important, tamponné « URGENT ».",
+"de": "ressemble : importante",
+"efr": "C'est important.",
+"efm": "important",
+"eit": "È importante.",
+"eim": "importante",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Il a fait des progrès importants.",
+"Ha fatto progressi importanti."
+],
+[
+"Tu n’as vraiment rien de plus important à faire ?",
+"Non hai davvero niente di più importante da fare?"
+],
+[
+"Ça n’a peut-être l’air de rien, mais c’est important.",
+"Forse sembra niente, ma è importante."
+]
+]
+},
+{
+"n": 14,
+"fr": "petite (piccolo, féminin)",
+"it": "piccola",
+"mc": "→ piccolo",
+"sc": "Forme accordée de « piccolo » (petit) : féminin.",
+"de": "piccola ≈ « → piccolo »",
+"efr": "petite veillée aux chandelles?",
+"efm": "petite",
+"eit": "Una piccola fiaccolata?",
+"eim": "piccola",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 15,
+"fr": "ces …-là (masc., devant voyelle, s+consonne, z…)",
+"frd": "ces [n]-là (masc., devant voyelle, s+consonne, z…)",
+"it": "quegli",
+"itd": "quegli [n]",
+"fo": "quegli amici, quegli studenti, quegli zii",
+"mc": "cueillir",
+"sc": "Au fond du verger, ces amis-là (quegli amici) cueillent des pommes.",
+"de": "quegli = pluriel de quello / quell' (comme gli)",
+"efr": "Ces étudiants-là sont sympas.",
+"efm": "Ces étudiants-là",
+"eit": "Quegli studenti sono simpatici.",
+"eim": "Quegli studenti",
+"scat": "adjectifs_démonstratifs",
+"th": "grammaire"
+},
+{
+"n": 16,
+"fr": "d'autres (masc. pl.)",
+"frd": "d'autres [n] (masc. pl.)",
+"it": "altri",
+"itd": "altri [n]",
+"fo": "altri libri = d'autres livres ; avec article : gli altri = les autres",
+"mc": "alto (voix)",
+"sc": "Un chœur d'altos réclame d'autres partitions : celles-ci ne leur plaisent pas.",
+"de": "altri = pluriel de altro",
+"efr": "Tu as d'autres doutes ?",
+"efm": "d'autres doutes",
+"eit": "Hai altri dubbi?",
+"eim": "altri dubbi",
+"scat": "adjectifs_qualificatifs",
+"th": "temps"
+},
+{
+"n": 17,
+"fr": "encore de (masc. pl.)",
+"frd": "encore de [n] (masc. pl.)",
+"it": "altri",
+"itd": "altri [n]",
+"fo": "altri biscotti = encore des biscuits",
+"mc": "alto (voix)",
+"sc": "Un chœur d'altos tend ses assiettes vides en chantant : « Encore des biscuits ! ».",
+"de": "altri + nom pluriel sans article = encore des",
+"efr": "Tu veux encore des biscuits ?",
+"efm": "encore des",
+"eit": "Vuoi altri biscotti?",
+"eim": "altri biscotti",
+"scat": "adjectifs_qualificatifs",
+"th": "temps"
+},
+{
+"n": 18,
+"fr": "nouveau",
+"it": "nuovo",
+"fo": "f. nuova ; di nuovo = de nouveau",
+"mc": "nouveau",
+"sc": "Une voiture toute neuve, encore emballée.",
+"de": "nuovo ≈ nouveau (latin novus)",
+"efr": "C'est nouveau ?",
+"efm": "nouveau",
+"eit": "È nuovo?",
+"eim": "nuovo",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Il pleut à nouveau.",
+"Piove di nuovo."
+],
+[
+"Ça fait des mois que je suis sans nouvelles de lui.",
+"Sono mesi che non ho sue notizie."
+]
+],
+"co": [
+"nuova vita"
+]
+},
+{
+"n": 19,
+"fr": "peu de (masc. pl.)",
+"frd": "peu de [n] (masc. pl.)",
+"it": "pochi",
+"itd": "pochi [n]",
+"fo": "pochi soldi, pochi amici",
+"mc": "poke (bowl)",
+"sc": "Un poke bowl presque vide : il reste peu de grains de riz.",
+"de": "pochi = pluriel de poco (le h garde le son k)",
+"efr": "Il a peu d'amis.",
+"efm": "peu d'amis",
+"eit": "Ha pochi amici.",
+"eim": "pochi amici",
+"scat": "adjectifs_qualificatifs",
+"th": "nombres"
+},
+{
+"n": 20,
+"fr": "plein",
+"it": "pieno",
+"fo": "f. piena ; pieno di = plein de",
+"mc": "plein",
+"sc": "Un réservoir plein à ras bord.",
+"de": "pieno ≈ plein (latin plenus)",
+"efr": "C'est plein de monde.",
+"efm": "plein",
+"eit": "È pieno di gente.",
+"eim": "pieno",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"La mort l’a fauché en pleine jeunesse.",
+"La morte l'ha falciato in piena giovinezza."
+]
+],
+"co": [
+"luna piena",
+"stanza piena"
+]
+},
+{
+"n": 21,
+"fr": "possible",
+"it": "possibile",
+"fo": "m. et f.",
+"mc": "possible",
+"sc": "Un panneau où « IMPOSSIBLE » est barré pour ne laisser que « POSSIBLE ».",
+"de": "ressemble ; accent sur SI",
+"efr": "C'est pas possible !",
+"efm": "possible",
+"eit": "Non è possibile!",
+"eim": "possibile",
+"scat": "adjectifs_qualificatifs",
+"th": "pensee",
+"px": [
+[
+"Je n'aurais jamais cru cela possible.",
+"Non l'avrei mai creduto possibile."
+]
+]
+},
+{
+"n": 22,
+"fr": "nos (fém.)",
+"frd": "nos [n] (fém.)",
+"it": "le nostre",
+"itd": "le nostre [n]",
+"fo": "le nostre vacanze, le nostre figlie",
+"mc": "nos trèfles",
+"sc": "Nos filles cherchent des trèfles à quatre feuilles dans le pré.",
+"de": "nostre = pluriel de nostra",
+"efr": "Nos vacances commencent demain.",
+"efm": "Nos vacances",
+"eit": "Le nostre vacanze cominciano domani.",
+"eim": "Le nostre vacanze",
+"scat": "adjectifs_possessifs",
+"th": "grammaire"
+},
+{
+"n": 23,
+"fr": "dur",
+"it": "duro",
+"fo": "f. dura ; è dura = c'est dur",
+"mc": "durer",
+"sc": "Une brique dure comme le roc, qui dure mille ans.",
+"de": "duro ≈ dur, durable",
+"efr": "C'est dur, la vie.",
+"efm": "dur",
+"eit": "È dura, la vita.",
+"eim": "dura",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"co": [
+"duro lavoro",
+"osso duro",
+"giornata dura"
+]
+},
+{
+"n": 24,
+"fr": "nouveaue (nuovo, féminin)",
+"it": "nuova",
+"mc": "→ nuovo",
+"sc": "Forme accordée de « nuovo » (nouveau) : féminin.",
+"de": "nuova ≈ « → nuovo »",
+"efr": "C'est nouveau, ça.",
+"efm": "nouveau",
+"eit": "Questa è nuova. Oh, sì.",
+"eim": "nuova",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 25,
+"fr": "fin, mince",
+"it": "sottile",
+"mc": "subtil",
+"sc": "Un fil si fin et subtil qu'on le voit à peine.",
+"de": "sottile ≈ « subtil »",
+"efr": "Elle a la taille fine.",
+"efm": "fine",
+"eit": "Ha la vita sottile.",
+"eim": "sottile",
+"scat": "adjectifs_qualificatifs",
+"th": "corps"
+},
+{
+"n": 26,
+"fr": "super",
+"it": "fantastico",
+"fo": "f. fantastica ; super existe aussi en familier",
+"mc": "fantastique",
+"sc": "Un feu d'artifice fantastique.",
+"de": "fantastico = super, fantastique",
+"efr": "C'est super !",
+"efm": "super",
+"eit": "È fantastico!",
+"eim": "fantastico",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 27,
+"fr": "tous les (masc., devant voyelle, s+consonne, z…)",
+"frd": "tous les [n] (masc., devant voyelle, s+consonne, z…)",
+"it": "tutti gli",
+"itd": "tutti gli [n]",
+"fo": "tutti gli amici, tutti gli studenti, tutti gli anni",
+"mc": "« tout tilleul »",
+"sc": "Tous les étudiants boivent en même temps une tasse de tilleul.",
+"de": "tutti gli = tutti + gli (devant voyelle, s + consonne, z…)",
+"efr": "Tous les ans, on va à la mer.",
+"efm": "Tous les ans",
+"eit": "Tutti gli anni andiamo al mare.",
+"eim": "Tutti gli anni",
+"scat": "adjectifs_qualificatifs",
+"th": "nombres"
+},
+{
+"n": 28,
+"fr": "gentil",
+"it": "gentile",
+"fo": "m. et f. ; molto gentile = très aimable",
+"mc": "gentil",
+"sc": "Un géant gentil offre des fleurs.",
+"de": "ressemble : gentile",
+"efr": "T'es gentil.",
+"efm": "gentil",
+"eit": "Sei gentile.",
+"eim": "gentile",
+"scat": "adjectifs_qualificatifs",
+"th": "emotions",
+"px": [
+[
+"Vous êtes si gentil.",
+"È così gentile."
+]
+]
+},
+{
+"n": 29,
+"fr": "propre",
+"it": "pulito",
+"fo": "f. pulita",
+"mc": "poli",
+"sc": "Une assiette propre et polie brille.",
+"de": "pulito ≈ poli ; pulire = nettoyer ; propre (à soi) = proprio",
+"efr": "C'est propre, ici.",
+"efm": "propre",
+"eit": "Qui è pulito.",
+"eim": "pulito",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Il l’a fait de sa propre initiative.",
+"L'ha fatto di sua iniziativa."
+]
+],
+"co": [
+"coscienza pulita"
+]
+},
+{
+"n": 30,
+"fr": "n'importe quelle chose",
+"frd": "n'importe quelle [n]",
+"fro": "n'importe quelle C",
+"it": "qualsiasi cosa",
+"itd": "qualsiasi [n]",
+"ito": "qualsiasi C",
+"fo": "anglais : any sth",
+"mc": "« quel siasi »",
+"sc": "Un quel-si-ce-soit : n'importe quelle carte.",
+"de": "qualsiasi ≈ « « quel siasi » »",
+"efr": "Prends n'importe quelle place.",
+"efm": "n'importe quelle place",
+"eit": "Prendi qualsiasi posto.",
+"eim": "qualsiasi posto",
+"k": "tpl",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 31,
+"fr": "cher",
+"it": "caro",
+"fo": "f. cara ; caro mio = mon cher",
+"mc": "carat",
+"sc": "Un diamant de mille carats, très cher.",
+"de": "caro = cher (prix et affection) ; cf. carat",
+"efr": "C'est trop cher.",
+"efm": "cher",
+"eit": "È troppo caro.",
+"eim": "caro",
+"scat": "adjectifs_qualificatifs",
+"th": "travail",
+"co": [
+"caro amico",
+"cari amici"
+]
+},
+{
+"n": 32,
+"fr": "content",
+"it": "contento",
+"fo": "f. contenta",
+"mc": "content",
+"sc": "Un enfant content saute de joie.",
+"de": "ressemble : contento",
+"efr": "Je suis content.",
+"efm": "content",
+"eit": "Sono contento.",
+"eim": "contento",
+"scat": "adjectifs_qualificatifs",
+"th": "emotions",
+"px": [
+[
+"Il n'est jamais content.",
+"Non è mai contento."
+],
+[
+"Tu peux être content.",
+"Puoi essere contento."
+],
+[
+"Je suis content pour toi.",
+"Sono contento per te."
+]
+]
+},
+{
+"n": 33,
+"fr": "joli",
+"it": "carino",
+"fo": "f. carina ; un posto carino = un joli coin",
+"mc": "caresse",
+"sc": "On caresse du doigt un joli vase fleuri posé sur la cheminée.",
+"de": "carino ≈ « caresse » ; cf. caro (cher)",
+"efr": "C'est un joli appartement.",
+"efm": "joli",
+"eit": "È un appartamento carino.",
+"eim": "carino",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 34,
+"fr": "prochain",
+"it": "prossimo",
+"fo": "f. prossima ; la prossima volta",
+"mc": "proximité",
+"sc": "Un panneau « PROCHAIN ARRÊT », à proximité.",
+"de": "prossimo ≈ proximité ; accent sur PROS",
+"efr": "À la prochaine !",
+"efm": "prochaine",
+"eit": "Alla prossima!",
+"eim": "prossima",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Je me réjouis des prochaines vacances à la neige.",
+"Non vedo l'ora delle prossime vacanze sulla neve."
+]
+],
+"co": [
+"prossima volta",
+"prossima settimana",
+"anno prossimo",
+"mese prossimo",
+"prossima mossa",
+"nei prossimi"
+]
+},
+{
+"n": 35,
+"fr": "en cours",
+"it": "in corso",
+"fo": "anglais : underway",
+"mc": "corsaire",
+"sc": "Un corsaire en pleine course : en cours.",
+"de": "n corso ≈ « corsaire »",
+"efr": "Les travaux sont en cours.",
+"efm": "en cours",
+"eit": "I lavori sono in corso.",
+"eim": "in corso",
+"k": "loc",
+"scat": "locutions_adjectivales",
+"th": "pensee"
+},
+{
+"n": 36,
+"fr": "génial",
+"it": "geniale",
+"fo": "m. et f.",
+"mc": "génial",
+"sc": "Un génie sort de sa lampe en applaudissant.",
+"de": "ressemble : geniale",
+"efr": "C'est génial !",
+"efm": "génial",
+"eit": "È geniale!",
+"eim": "geniale",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 37,
+"fr": "cinq",
+"it": "cinque",
+"fo": "invariable",
+"mc": "« tchin ! »",
+"sc": "Cinq pots de miel (05) trinquent : « Tchin ! ».",
+"de": "cin-que ≈ « tchin… » ; cinquanta = 50",
+"efr": "Il est cinq heures.",
+"efm": "cinq",
+"eit": "Sono le cinque.",
+"eim": "cinque",
+"scat": "adjectifs_cardinaux",
+"th": "nombres"
+},
+{
+"n": 38,
+"fr": "facile",
+"it": "facile",
+"fo": "m. et f.",
+"mc": "facile",
+"sc": "Un puzzle de deux pièces : facile.",
+"de": "identique ; accent sur FA",
+"efr": "C'est facile.",
+"efm": "facile",
+"eit": "È facile.",
+"eim": "facile",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Ça n’est pas aussi facile que ça.",
+"Non è così facile."
+]
+],
+"co": [
+"bersaglio facile"
+]
+},
+{
+"n": 39,
+"fr": "difficile",
+"it": "difficile",
+"fo": "m. et f.",
+"mc": "difficile",
+"sc": "Un casse-tête de mille pièces : difficile.",
+"de": "identique ; accent sur FI",
+"efr": "C'est difficile.",
+"efm": "difficile",
+"eit": "È difficile.",
+"eim": "difficile",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Je me trouve devant une tâche difficile.",
+"Mi trovo davanti a un compito difficile."
+]
+],
+"co": [
+"momento difficile",
+"situazione difficile",
+"periodo difficile"
+]
+},
+{
+"n": 40,
+"fr": "quatre",
+"it": "quattro",
+"fo": "in quattro e quattr'otto = en un clin d'œil",
+"mc": "quatuor",
+"sc": "Ton arc (04) tire sur le pupitre d'un quatuor de violonistes.",
+"de": "quattro ≈ quatre, quatuor",
+"efr": "On est quatre.",
+"efm": "quatre",
+"eit": "Siamo in quattro.",
+"eim": "quattro",
+"scat": "adjectifs_cardinaux",
+"th": "nombres",
+"px": [
+[
+"Nous sommes une famille de quatre personnes.",
+"Siamo una famiglia di quattro persone."
+],
+[
+"Il s’est retrouvé les quatre fers en l’air.",
+"È finito a gambe all'aria."
+]
+]
+},
+{
+"n": 41,
+"fr": "bizarre",
+"it": "strano",
+"fo": "f. strana ; che strano ! = c'est bizarre !",
+"mc": "étrange",
+"sc": "Un chat à trois yeux, vraiment bizarre.",
+"de": "strano ≈ étrange (latin extraneus)",
+"efr": "C'est bizarre.",
+"efm": "bizarre",
+"eit": "È strano.",
+"eim": "strano",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 42,
+"fr": "long",
+"it": "lungo",
+"fo": "f. lunga ; pl. lunghi",
+"mc": "longue-vue",
+"sc": "Une longue-vue qui s'allonge sans fin.",
+"de": "lungo ≈ long ; cf. longitude",
+"efr": "C'est long !",
+"efm": "long",
+"eit": "È lungo!",
+"eim": "lungo",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Une grève aussi longue est impensable en Allemagne.",
+"Uno sciopero così lungo è impensabile in Germania."
+],
+[
+"Ils sont amis de longue date.",
+"Sono amici di vecchia data."
+]
+],
+"co": [
+"lunga storia",
+"lungo viaggio",
+"lungo termine",
+"lunga giornata",
+"capelli lunghi",
+"lungo periodo"
+]
+},
+{
+"n": 43,
+"fr": "prochaine (prossimo, féminin)",
+"it": "prossima",
+"mc": "→ prossimo",
+"sc": "Forme accordée de « prossimo » (prochain) : féminin.",
+"de": "prossima ≈ « → prossimo »",
+"efr": "Quelle est ma prochaine action ?",
+"efm": "prochaine",
+"eit": "Cosa faccio? Qual è la prossima mossa?",
+"eim": "prossima",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 44,
+"fr": "différent",
+"it": "diverso",
+"fo": "f. diversa",
+"mc": "divers",
+"sc": "Deux chaussettes différentes, de couleurs diverses.",
+"de": "diverso ≈ divers",
+"efr": "C'est différent.",
+"efm": "différent",
+"eit": "È diverso.",
+"eim": "diverso",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"co": [
+"modo diverso"
+]
+},
+{
+"n": 45,
+"fr": "noir",
+"it": "nero",
+"fo": "f. nera",
+"mc": "Néron",
+"sc": "L'empereur Néron en toge noire.",
+"de": "ne-ro ≈ « Néron »",
+"efr": "Il est tout noir.",
+"efm": "noir",
+"eit": "È tutto nero.",
+"eim": "nero",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"co": [
+"buco nero",
+"mercato nero",
+"magia nera",
+"scatola nera",
+"lista nera",
+"capelli neri"
+]
+},
+{
+"n": 46,
+"fr": "pauvre",
+"it": "povero",
+"fo": "f. povera",
+"mc": "pauvreté",
+"sc": "Un pauvre mendiant tend son chapeau vide.",
+"de": "povero ≈ pauvre (latin pauper) ; poverino ! = le pauvre !",
+"efr": "Le pauvre garçon !",
+"efm": "pauvre",
+"eit": "Povero ragazzo!",
+"eim": "Povero",
+"scat": "adjectifs_qualificatifs",
+"th": "travail",
+"px": [
+[
+"Cet écrivain est issu d’une famille pauvre.",
+"Questo scrittore proviene da una famiglia povera."
+]
+],
+"co": [
+"povero bastardo",
+"povera anima",
+"povera creatura"
+]
+},
+{
+"n": 47,
+"fr": "une sorte de qc",
+"frd": "une sorte de [qc]",
+"fro": "une sorte de C",
+"it": "una sorta di qcs",
+"itd": "una sorta di [qcs]",
+"ito": "una sorta di C",
+"fo": "anglais : a kind of sth a sort of sth",
+"mc": "sorte",
+"sc": "Une sorte de tigre qui sort de sa cage.",
+"de": "a sorta di ≈ « sorte »",
+"efr": "C'est une sorte de jeu.",
+"efm": "une sorte de jeu",
+"eit": "È una sorta di gioco.",
+"eim": "una sorta di gioco",
+"k": "tpl",
+"scat": "adjectifs_qualificatifs",
+"th": "nombres"
+},
+{
+"n": 48,
+"fr": "drôle",
+"it": "divertente",
+"fo": "m. et f.",
+"mc": "divertissant",
+"sc": "Un clown divertissant fait rire toute la salle.",
+"de": "divertente ≈ divertissant ; drôle (bizarre) = strano",
+"efr": "C'est drôle !",
+"efm": "drôle",
+"eit": "È divertente!",
+"eim": "divertente",
+"scat": "adjectifs_qualificatifs",
+"th": "emotions",
+"px": [
+[
+"Tu es trop drôle.",
+"Sei troppo divertente."
+]
+]
+},
+{
+"n": 49,
+"fr": "tel",
+"it": "tale",
+"fo": "pl. tali",
+"mc": "thaler",
+"sc": "Un tel trésor de thalers, jamais vu !",
+"de": "tale ≈ tel (latin talis) ; un tale = un certain type",
+"efr": "J'ai jamais vu une telle chose.",
+"efm": "telle",
+"eit": "Non ho mai visto una cosa tale.",
+"eim": "tale",
+"scat": "adjectifs_indéfinis",
+"th": "nombres",
+"px": [
+[
+"Je ne m'attendais pas à ça. Je ne m'attendais à rien de tel.",
+"Non me l'aspettavo."
+],
+[
+"Je n’ai jamais rien vu de tel.",
+"Non ho mai visto niente del genere."
+]
+]
+},
+{
+"n": 50,
+"fr": "simple",
+"it": "semplice",
+"fo": "m. et f.",
+"mc": "simple",
+"sc": "Un nœud simple sur une ficelle.",
+"de": "ressemble : semplice ; accent sur SÈM",
+"efr": "C'est simple.",
+"efm": "simple",
+"eit": "È semplice.",
+"eim": "semplice",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"co": [
+"soldato semplice"
+]
+},
+{
+"n": 51,
+"fr": "un verre de qc",
+"frd": "un verre de [qc]",
+"fro": "un verre de C",
+"it": "un bicchiere di qcs",
+"itd": "un bicchiere di [qcs]",
+"ito": "un bicchiere di C",
+"fo": "anglais : a glass of sth",
+"mc": "bicyclette",
+"sc": "Un verre sur le guidon d'une bicyclette.",
+"de": "bicchiere di ≈ « bicyclette »",
+"efr": "Un verre d'eau, s'il vous plaît.",
+"efm": "Un verre d'eau",
+"eit": "Un bicchiere d'acqua, per favore.",
+"eim": "Un bicchiere d'acqua",
+"k": "tpl",
+"scat": "adjectifs_qualificatifs",
+"th": "nourriture",
+"px": [
+[
+"Je voudrais boire un verre de lait.",
+"Vorrei bere un bicchiere di latte."
+],
+[
+"Je voudrais un verre de vin rouge.",
+"Vorrei un bicchiere di vino rosso."
+],
+[
+"Je boirais bien un verre de bière.",
+"Berrei volentieri un bicchiere di birra."
+]
+]
+},
+{
+"n": 52,
+"fr": "en verre",
+"it": "di vetro",
+"fo": "anglais : glass",
+"mc": "vitre",
+"sc": "Une vitre : c'est en verre.",
+"de": "di vetro ≈ « vitre »",
+"efr": "La table est en verre.",
+"efm": "en verre",
+"eit": "Il tavolo è di vetro.",
+"eim": "di vetro",
+"k": "loc",
+"scat": "locutions_adjectivales",
+"th": "nourriture"
+},
+{
+"n": 53,
+"fr": "chère (caro, féminin)",
+"it": "cara",
+"mc": "→ caro",
+"sc": "Forme accordée de « caro » (cher) : féminin.",
+"de": "cara ≈ « → caro »",
+"efr": "Ne fléchissez pas dans votre combat, ma chère.",
+"efm": "chère",
+"eit": "Non vacillate con la vostra campagna, mia cara.",
+"eim": "cara",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 54,
+"fr": "million",
+"it": "milione",
+"fo": "pl. milioni",
+"mc": "million",
+"sc": "Un million de confettis tombe du ciel.",
+"de": "ressemble ; un milione di",
+"efr": "Un million d'euros.",
+"efm": "million",
+"eit": "Un milione di euro.",
+"eim": "milione",
+"scat": "adjectifs_cardinaux",
+"th": "nombres"
+},
+{
+"n": 55,
+"fr": "malade",
+"it": "malato",
+"fo": "f. malata",
+"mc": "malade",
+"sc": "Un malade frissonne sous une couverture.",
+"de": "ressemble : malato",
+"efr": "Je suis malade.",
+"efm": "malade",
+"eit": "Sono malato.",
+"eim": "malato",
+"scat": "adjectifs_qualificatifs",
+"th": "corps",
+"px": [
+[
+"Il s'est fait porter malade.",
+"Si è dato ammalato."
+],
+[
+"Ça me rend malade.",
+"Mi fa stare male."
+],
+[
+"Tu n’es pas un peu malade ?",
+"Non sei un po' malato?"
+]
+]
+},
+{
+"n": 56,
+"fr": "sale",
+"it": "sporco",
+"fo": "f. sporca",
+"mc": "« s'porc »",
+"sc": "Un porc couvert de boue : sale.",
+"de": "spor-co ≈ « porc »",
+"efr": "C'est sale !",
+"efm": "sale",
+"eit": "È sporco!",
+"eim": "sporco",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Ne touche pas aux photos, tu as les mains sales.",
+"Non toccare le foto, hai le mani sporche."
+],
+[
+"Quel sale caractère !",
+"Che brutto carattere!"
+]
+],
+"co": [
+"denaro sporco",
+"coscienza sporca",
+"piatti sporchi"
+]
+},
+{
+"n": 57,
+"fr": "grave",
+"it": "grave",
+"fo": "m. et f. ; non è grave = c'est pas grave",
+"mc": "grave",
+"sc": "Une ambulance hurle : c'est grave.",
+"de": "identique, e final prononcé",
+"efr": "C'est pas grave.",
+"efm": "grave",
+"eit": "Non è grave.",
+"eim": "grave",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Cela n'est pas si grave.",
+"Non è così grave."
+]
+],
+"co": [
+"grave pericolo",
+"grave errore",
+"gravi ferite"
+]
+},
+{
+"n": 58,
+"fr": "faux",
+"it": "falso",
+"fo": "f. falsa",
+"mc": "falsifier",
+"sc": "Un faussaire falsifie un billet.",
+"de": "falso ≈ falsifier",
+"efr": "C'est faux !",
+"efm": "faux",
+"eit": "È falso!",
+"eim": "falso",
+"scat": "adjectifs_qualificatifs",
+"th": "pensee",
+"px": [
+[
+"Ta phrase est fausse.",
+"La tua frase è sbagliata."
+],
+[
+"Ce que tu affirmes est faux, et tu le sais.",
+"Quello che affermi è falso, e lo sai."
+]
+],
+"co": [
+"falso allarme",
+"nome falso",
+"documenti falsi",
+"falsa identità",
+"false speranze",
+"passaporti falsi"
+]
+},
+{
+"n": 59,
+"fr": "clair",
+"it": "chiaro",
+"fo": "f. chiara",
+"mc": "clarté",
+"sc": "Un ciel clair, plein de clarté.",
+"de": "chiaro ≈ clair (latin clarus) ; chiaro ? = c'est clair ?",
+"efr": "C'est clair ?",
+"efm": "clair",
+"eit": "È chiaro?",
+"eim": "chiaro",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Que cela soit bien clair !",
+"Che sia ben chiaro!"
+],
+[
+"Je vois clair dans son jeu.",
+"Vedo chiaro nel suo gioco."
+]
+]
+},
+{
+"n": 60,
+"fr": "libre",
+"it": "libero",
+"fo": "f. libera",
+"mc": "libéré",
+"sc": "Un oiseau libéré s'envole de sa cage.",
+"de": "libero ≈ libéré, liberté ; accent sur LI",
+"efr": "T'es libre ce soir ?",
+"efm": "libre",
+"eit": "Sei libero stasera?",
+"eim": "libero",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"co": [
+"via libera",
+"tempo libero",
+"giorno libero",
+"piede libero",
+"serata libera"
+]
+},
+{
+"n": 61,
+"fr": "sûre",
+"it": "sicura",
+"fo": "sicura di sé = sûre d'elle ; la sicurezza = la sécurité",
+"mc": "six cœurs",
+"sc": "Une reine tient six cœurs dans ses mains : elle est sûre d'elle.",
+"de": "sicura = féminin de sicuro",
+"efr": "Tu es sûre ?",
+"efm": "sûre",
+"eit": "Sei sicura?",
+"eim": "sicura",
+"scat": "adjectifs_qualificatifs",
+"th": "pensee"
+},
+{
+"n": 62,
+"fr": "impossible",
+"it": "impossibile",
+"fo": "m. et f.",
+"mc": "impossible",
+"sc": "Un éléphant en équilibre sur une fourmi : impossible.",
+"de": "ressemble ; accent sur SI",
+"efr": "C'est impossible.",
+"efm": "impossible",
+"eit": "È impossibile.",
+"eim": "impossibile",
+"scat": "adjectifs_qualificatifs",
+"th": "pensee"
+},
+{
+"n": 63,
+"fr": "vraie (vero, féminin)",
+"it": "vera",
+"mc": "→ vero",
+"sc": "Forme accordée de « vero » (vrai) : féminin.",
+"de": "vera ≈ « → vero »",
+"efr": "Histoire vraie.",
+"efm": "vraie",
+"eit": "Una... storia vera.",
+"eim": "vera",
+"scat": "adjectifs_qualificatifs",
+"th": "pensee"
+},
+{
+"n": 64,
+"fr": "six",
+"it": "sei",
+"fo": "invariable",
+"mc": "seille",
+"sc": "Ta rose (06) trempe dans une seille remplie de six gousses d'ail.",
+"de": "sei = six (et aussi « tu es »)",
+"efr": "J'ai six ans de plus.",
+"efm": "six",
+"eit": "Ho sei anni di più.",
+"eim": "sei",
+"scat": "adjectifs_cardinaux",
+"th": "nombres",
+"px": [
+[
+"Depuis des années, il s’entraîne six heures par jour.",
+"Da anni si allena sei ore al giorno."
+],
+[
+"Joyce a mis plus de six ans pour écrire Ulysse.",
+"Joyce ha impiegato più di sei anni a scrivere Ulisse."
+]
+]
+},
+{
+"n": 65,
+"fr": "pareil",
+"it": "uguale",
+"fo": "m. et f.",
+"mc": "égal",
+"sc": "Deux jumeaux pareils devant un signe « = ».",
+"de": "uguale ≈ égal (latin aequalis) ; per me è uguale = ça m'est égal",
+"efr": "C'est pareil.",
+"efm": "pareil",
+"eit": "È uguale.",
+"eim": "uguale",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 66,
+"fr": "normal",
+"it": "normale",
+"fo": "m. et f.",
+"mc": "normal",
+"sc": "Un thermomètre affiche 37 : normal.",
+"de": "ressemble",
+"efr": "C'est normal.",
+"efm": "normal",
+"eit": "È normale.",
+"eim": "normale",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"co": [
+"persona normale"
+]
+},
+{
+"n": 67,
+"fr": "sérieux",
+"it": "serio",
+"fo": "f. seria",
+"mc": "sérieux",
+"sc": "Un juge sérieux, sourcils froncés.",
+"de": "ressemble : serio ; sul serio ? = sérieusement ?",
+"efr": "T'es sérieux ?",
+"efm": "sérieux",
+"eit": "Dici sul serio?",
+"eim": "serio",
+"scat": "adjectifs_qualificatifs",
+"th": "emotions",
+"px": [
+[
+"Tu es sérieux ?",
+"Dici sul serio ?"
+],
+[
+"Je n’ai pas pris son avertissement au sérieux.",
+"Non ho preso sul serio il suo avvertimento."
+]
+]
+},
+{
+"n": 68,
+"fr": "une livre de qc",
+"frd": "une livre de [qc]",
+"fro": "une livre de C",
+"it": "una libbra di qcs",
+"itd": "una libbra di [qcs]",
+"ito": "una libbra di C",
+"fo": "anglais : a pound of sth",
+"mc": "libre",
+"sc": "Une livre de beurre, libre sur la balance.",
+"de": "a libbra di ≈ « libre »",
+"efr": "Une livre de beurre.",
+"efm": "Une livre de beurre",
+"eit": "Una libbra di burro.",
+"eim": "Una libbra di burro",
+"k": "tpl",
+"scat": "adjectifs_qualificatifs",
+"th": "maison"
+},
+{
+"n": 69,
+"fr": "prêts (pronto, masculin pluriel)",
+"it": "pronti",
+"mc": "→ pronto",
+"sc": "Forme accordée de « pronto » (prêt) : masculin pluriel.",
+"de": "pronti ≈ « → pronto »",
+"efr": "Que les chevaux soient prêts à l'aube.",
+"efm": "prêts",
+"eit": "Tenete i cavalli pronti per l'alba.",
+"eim": "pronti",
+"scat": "adjectifs_qualificatifs",
+"th": "travail"
+},
+{
+"n": 70,
+"fr": "certains",
+"frd": "certains [n]",
+"it": "certi",
+"itd": "certi [n]",
+"fo": "f. certe ; certi giorni = certains jours",
+"mc": "certifié",
+"sc": "Certains dossiers portent le tampon « CERTIFIÉ ».",
+"de": "certi = certains (pl.) ; certo = sûr",
+"efr": "Certains jours, je suis crevé.",
+"efm": "Certains jours",
+"eit": "Certi giorni sono stanco morto.",
+"eim": "Certi giorni",
+"scat": "adjectifs_indéfinis",
+"th": "nombres"
+},
+{
+"n": 71,
+"fr": "prête (pronto, féminin)",
+"it": "pronta",
+"mc": "→ pronto",
+"sc": "Forme accordée de « pronto » (prêt) : féminin.",
+"de": "pronta ≈ « → pronto »",
+"efr": "Donc, oui. Je suis prête.",
+"efm": "prête",
+"eit": "Quindi sì, sono pronta.",
+"eim": "pronta",
+"scat": "adjectifs_qualificatifs",
+"th": "travail"
+},
+{
+"n": 72,
+"fr": "mignon",
+"it": "carino",
+"fo": "f. carina",
+"mc": "caresse",
+"sc": "Un chaton si mignon qu'on le caresse sans fin.",
+"de": "carino ≈ « caresse » ; cf. caro (cher)",
+"efr": "Elle est mignonne, ta robe.",
+"efm": "mignonne",
+"eit": "È carino, il tuo vestito.",
+"eim": "carino",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 73,
+"fr": "vivant",
+"it": "vivo",
+"fo": "f. viva",
+"mc": "vif",
+"sc": "Un poisson vif et vivant frétille.",
+"de": "vivo ≈ vif, vivant ; viva ! = vive !",
+"efr": "Il est vivant !",
+"efm": "vivant",
+"eit": "È vivo!",
+"eim": "vivo",
+"scat": "adjectifs_qualificatifs",
+"th": "corps"
+},
+{
+"n": 74,
+"fr": "humain",
+"it": "umano",
+"fo": "f. umana",
+"mc": "humain",
+"sc": "Une main humaine tendue.",
+"de": "ressemble : umano (sans h)",
+"efr": "C'est humain.",
+"efm": "humain",
+"eit": "È umano.",
+"eim": "umano",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"co": [
+"razza umana",
+"corpo umano",
+"genere umano",
+"diritti umani",
+"natura umana",
+"carne umana"
+]
+},
+{
+"n": 75,
+"fr": "pas cher",
+"it": "economico",
+"fo": "anglais : cheap inexpensive",
+"mc": "économique",
+"sc": "Un panneau « économique » : pas cher.",
+"de": "economico ≈ « économique »",
+"efr": "C'est pas cher.",
+"efm": "pas cher",
+"eit": "È economico.",
+"eim": "economico",
+"scat": "adjectifs_qualificatifs",
+"th": "travail",
+"px": [
+[
+"Je ne donne pas cher de sa peau.",
+"Non scommetterei un soldo sulla sua pelle."
+]
+],
+"co": [
+"crisi economica"
+]
+},
+{
+"n": 76,
+"fr": "à la carte",
+"it": "alla carta",
+"fo": "anglais : à la carte",
+"mc": "carte",
+"sc": "Une carte de restaurant.",
+"de": "alla carta ≈ « carte »",
+"efr": "On mange à la carte.",
+"efm": "à la carte",
+"eit": "Mangiamo alla carta.",
+"eim": "alla carta",
+"k": "loc",
+"scat": "locutions_adjectivales",
+"th": "lieux"
+},
+{
+"n": 77,
+"fr": "grands (grande, pluriel)",
+"it": "grandi",
+"mc": "→ grande",
+"sc": "Forme accordée de « grande » (grand) : pluriel.",
+"de": "grandi ≈ « → grande »",
+"efr": "Tu vois ? Les grands esprits se rencontrent hein ?",
+"efm": "grands",
+"eit": "Le grandi menti pensano allo stesso modo.",
+"eim": "grandi",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 78,
+"fr": "dix",
+"it": "dieci",
+"fo": "invariable",
+"mc": "« dis, tchi ! »",
+"sc": "Ta tête de mort (10) claque des dents : « Dis, tchi ! ».",
+"de": "die-ci ≈ « dié-tchi » ; cf. décimal",
+"efr": "Dans dix minutes.",
+"efm": "dix",
+"eit": "Fra dieci minuti.",
+"eim": "dieci",
+"scat": "adjectifs_cardinaux",
+"th": "nombres",
+"px": [
+[
+"Mon frère n'a que dix ans.",
+"Mio fratello ha solo dieci anni."
+]
+]
+},
+{
+"n": 79,
+"fr": "certain",
+"it": "certo",
+"fo": "f. certa",
+"mc": "certifié",
+"sc": "Un tampon « CERTIFIÉ » : c'est certain.",
+"de": "certo ≈ certain, certifier ; certo ! = bien sûr !",
+"efr": "J'en suis certain.",
+"efm": "certain",
+"eit": "Ne sono certo.",
+"eim": "certo",
+"scat": "adjectifs_qualificatifs",
+"th": "nombres"
+},
+{
+"n": 80,
+"fr": "peu de (fém. pl.)",
+"frd": "peu de [n] (fém. pl.)",
+"it": "poche",
+"itd": "poche [n]",
+"fo": "poche persone, poche volte",
+"mc": "poche",
+"sc": "Une poche trouée : il ne reste que peu de pièces dedans.",
+"de": "poche = pluriel de poca (le h garde le son k)",
+"efr": "Peu de personnes le savent.",
+"efm": "Peu de personnes",
+"eit": "Poche persone lo sanno.",
+"eim": "Poche persone",
+"scat": "adjectifs_qualificatifs",
+"th": "nombres"
+},
+{
+"n": 81,
+"fr": "tranquille",
+"it": "tranquillo",
+"fo": "f. tranquilla",
+"mc": "tranquille",
+"sc": "Un hamac tranquille au soleil.",
+"de": "ressemble ; stai tranquillo = t'inquiète",
+"efr": "Reste tranquille.",
+"efm": "tranquille",
+"eit": "Stai tranquillo.",
+"eim": "tranquillo",
+"scat": "adjectifs_qualificatifs",
+"th": "emotions"
+},
+{
+"n": 82,
+"fr": "juste (giusto, féminin)",
+"it": "giusta",
+"mc": "→ giusto",
+"sc": "Forme accordée de « giusto » (juste) : féminin.",
+"de": "giusta ≈ « → giusto »",
+"efr": "Conquérir est notre devoir car notre cause est juste.",
+"efm": "juste",
+"eit": "DOBBIAMO CONQUISTARE PERCHÈ LA NOSTRA CAUSA È GIUSTA.",
+"eim": "GIUSTA",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 83,
+"fr": "dangereux",
+"it": "pericoloso",
+"fo": "f. pericolosa",
+"mc": "périlleux",
+"sc": "Un funambule périlleux avance au-dessus des requins.",
+"de": "pericoloso ≈ périlleux (il pericolo = le danger)",
+"efr": "C'est dangereux !",
+"efm": "dangereux",
+"eit": "È pericoloso!",
+"eim": "pericoloso",
+"scat": "adjectifs_qualificatifs",
+"th": "societe",
+"px": [
+[
+"Attention ! Ça peut être dangereux.",
+"Occhio ! può essere pericoloso."
+]
+]
+},
+{
+"n": 84,
+"fr": "pire",
+"it": "peggiore",
+"fo": "m. et f. ; il peggiore = le pire",
+"mc": "péjoratif",
+"sc": "Un panneau « PIRE » planté dans un tas de ruines.",
+"de": "peggiore ≈ péjoratif ; peggio = pire (adverbe)",
+"efr": "C'est le pire jour de ma vie.",
+"efm": "pire",
+"eit": "È il giorno peggiore della mia vita.",
+"eim": "peggiore",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Je m’attends au pire.",
+"Mi aspetto il peggio."
+]
+],
+"co": [
+"incubo peggiore"
+]
+},
+{
+"n": 85,
+"fr": "froid",
+"it": "freddo",
+"fo": "f. fredda",
+"mc": "Freddy",
+"sc": "Freddy grelotte, couvert de givre.",
+"de": "fred-do ≈ « Freddy » ; ho freddo = j'ai froid",
+"efr": "L'eau est froide.",
+"efm": "froide",
+"eit": "L'acqua è fredda.",
+"eim": "fredda",
+"scat": "adjectifs_qualificatifs",
+"th": "temps",
+"px": [
+[
+"Il fait un peu froid dehors.",
+"Fa un po' freddo fuori."
+],
+[
+"J’ai dû attendre des heures durant dehors dans le froid.",
+"Ho dovuto aspettare per ore fuori al freddo."
+]
+],
+"co": [
+"sangue freddo",
+"guerra fredda",
+"tè freddo"
+]
+},
+{
+"n": 86,
+"fr": "amoureux",
+"it": "innamorato",
+"fo": "f. innamorata",
+"mc": "amoureux",
+"sc": "Un amoureux, des cœurs dans les yeux.",
+"de": "in + amore ; innamorarsi = tomber amoureux",
+"efr": "Il est amoureux.",
+"efm": "amoureux",
+"eit": "È innamorato.",
+"eim": "innamorato",
+"scat": "adjectifs_qualificatifs",
+"th": "famille"
+},
+{
+"n": 87,
+"fr": "fort",
+"it": "forte",
+"fo": "m. et f.",
+"mc": "fort",
+"sc": "Un haltérophile soulève un château fort.",
+"de": "ressemble ; forte ! = génial ! (familier)",
+"efr": "Il est fort.",
+"efm": "fort",
+"eit": "È forte.",
+"eim": "forte",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Je ne suis pas sourd; c’est pas la peine de crier si fort.",
+"Non sono sordo; non c'è bisogno di gridare così forte."
+],
+[
+"Il passe pour l’homme le plus fort du parti.",
+"Passa per l'uomo più forte del partito."
+],
+[
+"La raison du plus fort est la meilleure.",
+"La ragione del più forte è sempre la migliore."
+]
+]
+},
+{
+"n": 88,
+"fr": "technique",
+"it": "tecnico",
+"mc": "techno",
+"sc": "Un DJ techno règle un appareil très technique.",
+"de": "tecnico ≈ « techno »",
+"efr": "C'est un terme technique.",
+"efm": "technique",
+"eit": "È un termine tecnico.",
+"eim": "tecnico",
+"scat": "adjectifs_qualificatifs",
+"th": "travail"
+},
+{
+"n": 89,
+"fr": "magnifique",
+"it": "magnifico",
+"fo": "f. magnifica",
+"mc": "magnifique",
+"sc": "Un coucher de soleil magnifique sur la mer.",
+"de": "ressemble ; accent sur GNI",
+"efr": "C'est magnifique !",
+"efm": "magnifique",
+"eit": "È magnifico!",
+"eim": "magnifico",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"px": [
+[
+"Nous avons eu un temps magnifique.",
+"Abbiamo avuto un tempo magnifico."
+]
+]
+},
+{
+"n": 90,
+"fr": "triste",
+"it": "triste",
+"fo": "m. et f.",
+"mc": "triste",
+"sc": "Un clown triste verse une larme.",
+"de": "identique, e final prononcé",
+"efr": "Je suis triste.",
+"efm": "triste",
+"eit": "Sono triste.",
+"eim": "triste",
+"scat": "adjectifs_qualificatifs",
+"th": "emotions",
+"px": [
+[
+"Je suis très triste.",
+"Sono molto triste."
+]
+]
+},
+{
+"n": 91,
+"fr": "spécial",
+"it": "speciale",
+"fo": "m. et f.",
+"mc": "spécial",
+"sc": "Une boîte « ÉDITION SPÉCIALE ».",
+"de": "ressemble",
+"efr": "C'est spécial.",
+"efm": "spécial",
+"eit": "È speciale.",
+"eim": "speciale",
+"scat": "adjectifs_qualificatifs",
+"th": "autres",
+"co": [
+"agente speciale",
+"forze speciali",
+"occasione speciale",
+"effetti speciali",
+"squadra speciale",
+"operazioni speciali"
+]
+},
+{
+"n": 92,
+"fr": "en colère",
+"it": "arrabbiato",
+"fo": "anglais : angry",
+"mc": "rabbin",
+"sc": "Un rabbin rouge de rage : en colère.",
+"de": "arrabbiato ≈ « rabbin »",
+"efr": "Il est en colère.",
+"efm": "en colère",
+"eit": "È arrabbiato.",
+"eim": "arrabbiato",
+"scat": "adjectifs_qualificatifs",
+"th": "emotions",
+"px": [
+[
+"Cela me met en colère.",
+"Questo mi fa arrabbiare."
+]
+]
+},
+{
+"n": 93,
+"fr": "mêmes (stesso, masculin pluriel)",
+"it": "stessi",
+"mc": "→ stesso",
+"sc": "Forme accordée de « stesso » (même) : masculin pluriel.",
+"de": "stessi ≈ « → stesso »",
+"efr": "Les mêmes symptômes dans chaque cas.",
+"efm": "mêmes",
+"eit": "Gli stessi sintomi in ogni caso.",
+"eim": "stessi",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 94,
+"fr": "plein de choses",
+"it": "un sacco di cose",
+"fo": "un sacco di gente = plein de monde ; mi piace un sacco = j'adore",
+"mc": "un sac haut",
+"sc": "Tantine vide un sac haut comme elle : il en sort plein de choses.",
+"de": "sacco = sac ; un sacco di = plein de (familier)",
+"efr": "J'ai plein de choses à faire.",
+"efm": "plein de choses",
+"eit": "Ho un sacco di cose da fare.",
+"eim": "un sacco di cose",
+"k": "tpl",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 95,
+"fr": "plein de livres",
+"it": "tanti libri",
+"fo": "tante cose = plein de choses (fém. pl.)",
+"mc": "tantine",
+"sc": "Tantine ploie sous une pile de livres plus haute que sa tête.",
+"de": "tanti = beaucoup de (masc. pl.) ; libro, pl. libri",
+"efr": "Elle a plein de livres.",
+"efm": "plein de livres",
+"eit": "Ha tanti libri.",
+"eim": "tanti libri",
+"k": "tpl",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 96,
+"fr": "exact",
+"it": "esatto",
+"fo": "f. esatta",
+"mc": "exact",
+"sc": "Une montre à l'heure exacte.",
+"de": "ressemble ; esatto ! = exactement !",
+"efr": "Exact !",
+"efm": "Exact",
+"eit": "Esatto!",
+"eim": "Esatto",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 97,
+"fr": "sympa",
+"it": "simpatico",
+"fo": "f. simpatica ; pl. simpatici",
+"mc": "sympathique",
+"sc": "Un voisin sympathique offre des croissants.",
+"de": "simpatico = sympa ; accent sur PA",
+"efr": "Il est sympa.",
+"efm": "sympa",
+"eit": "È simpatico.",
+"eim": "simpatico",
+"scat": "adjectifs_qualificatifs",
+"th": "emotions"
+},
+{
+"n": 98,
+"fr": "cool",
+"it": "figo",
+"fo": "attention : le féminin figa est vulgaire ; variante forte",
+"mc": "figue",
+"sc": "Un type cool, lunettes noires, croque une figue.",
+"de": "fi-go ≈ « figue » (très familier)",
+"efr": "C'est trop cool !",
+"efm": "cool",
+"eit": "È troppo figo!",
+"eim": "figo",
+"scat": "adjectifs_qualificatifs",
+"th": "autres"
+},
+{
+"n": 99,
+"fr": "de gauche",
+"it": "di sinistra",
+"fo": "anglais : left-wing",
+"mc": "sinistre",
+"sc": "Un parti de gauche à l'air sinistre.",
+"de": "di sinistra ≈ « sinistre »",
+"efr": "Il est de gauche.",
+"efm": "de gauche",
+"eit": "È di sinistra.",
+"eim": "di sinistra",
+"k": "loc",
+"scat": "locutions_adjectivales",
+"th": "lieux"
+}
+]
+}
