@@ -1,0 +1,1492 @@
+{
+ "niches": [
+  {
+   "n": 0,
+   "it": "young",
+   "eit": "He's young.",
+   "eim": "young",
+   "api": "/jʌŋ/",
+   "pr": "YANG",
+   "mc": "yang",
+   "sc": "Un vieillard boit à la FONTAINE DE JOUVENCE de Bath et redevient JEUNE, un médaillon du yin et du YANG au cou.",
+   "de": "young ≈ yang ; le vieillard qui boit à la fontaine de jouvence = jeune",
+   "fo": "younger, youngest ; young people = les jeunes",
+   "px": [
+    "He's not as young as he used to be."
+   ],
+   "co": [
+    "a young woman",
+    "a young man",
+    "young people"
+   ]
+  },
+  {
+   "n": 1,
+   "it": "bad",
+   "eit": "It's not bad.",
+   "eim": "bad",
+   "api": "/bæd/",
+   "pr": "BAD",
+   "mc": "badge",
+   "sc": "Derrière les barreaux de la Tour de Londres, un MÉCHANT captif grince des dents, un BADGE « MAUVAIS » épinglé sur la poitrine.",
+   "de": "bad ≈ bad(ge) ; le méchant captif = mauvais",
+   "fo": "worse, worst ; not bad = pas mal ; badly = mal (adverbe)",
+   "co": [
+    "bad news",
+    "a bad idea",
+    "in a bad mood",
+    "bad taste",
+    "the big bad wolf"
+   ]
+  },
+  {
+   "n": 2,
+   "it": "no sth",
+   "itd": "no [n]",
+   "ito": "no C",
+   "eit": "I've got no idea.",
+   "eim": "no idea",
+   "api": "/nəʊ/",
+   "pr": "NÔ",
+   "mc": "nô",
+   "sc": "Sous la table d'un théâtre NÔ en tournée à Londres, un NEZ renifle : AUCUNE odeur.",
+   "de": "no ≈ nô ; le nez qui ne sent rien = aucun(e)",
+   "fo": "no + nom = aucun ; = not any (I haven't got any idea) ; fam. I haven't got a clue",
+   "px": [
+    "I've got no idea.",
+    "She's got no influence over him.",
+    "There's no shame in admitting it."
+   ]
+  },
+  {
+   "n": 3,
+   "fr": "seule (on your own, féminin)",
+   "it": "on your own",
+   "eit": "You shouldn't walk around outside on your own.",
+   "eim": "on your own",
+   "api": "/ɒn jɔːr ˈəʊn/",
+   "pr": "on ior ÔNN",
+   "mc": "aune",
+   "sc": "Dans une ruelle de Londres sous la pluie, une jeune femme marche TOUTE SEULE, une AUNE de tissu sur l'épaule.",
+   "de": "own ≈ aune ; la femme qui marche seule dans la ruelle = seule",
+   "fo": "pas de féminin : on your own / alone ; lonely = seul (qui souffre de solitude)"
+  },
+  {
+   "n": 4,
+   "fr": "dernière (last, féminin)",
+   "it": "last",
+   "eit": "You know what? Our intern class was the last one to be any good.",
+   "eim": "last",
+   "api": "/lɑːst/",
+   "pr": "LÂST",
+   "mc": "lest",
+   "sc": "À la régate d'Henley, la DERNIÈRE barque arrive bonne DERNIÈRE, alourdie par un sac de LEST.",
+   "de": "last ≈ lest ; la barque arrivée bonne dernière = dernière",
+   "fo": "pas de féminin : last ; last night = hier soir ; the latest = le plus récent"
+  },
+  {
+   "n": 5,
+   "it": "old",
+   "eit": "I'm too old.",
+   "eim": "old",
+   "api": "/əʊld/",
+   "pr": "ÔLD",
+   "mc": "hold-up",
+   "sc": "Un VIEUX barbu tient le même kiosque à journaux de Fleet Street depuis cent ans et subit un HOLD-UP chaque matin.",
+   "de": "old ≈ hold(-up) ; le vieux barbu de son kiosque = vieux",
+   "fo": "older, oldest (elder = aîné) ; how old are you? = quel âge as-tu ?",
+   "px": [
+    "I really enjoyed the guided tour of the old town."
+   ],
+   "co": [
+    "an old friend",
+    "old school",
+    "old-fashioned"
+   ]
+  },
+  {
+   "n": 6,
+   "it": "each",
+   "itd": "each [n]",
+   "eit": "I go for a run each morning.",
+   "eim": "each morning",
+   "api": "/iːtʃ/",
+   "pr": "IITCH",
+   "mc": "niche",
+   "sc": "Au marché de Covent Garden, CHAQUE OIGNON de la caisse porte une étiquette et dort dans sa NICHE.",
+   "de": "each ≈ (n)iche ; les oignons étiquetés un à un = chaque",
+   "fo": "each = chaque (un par un) ; every = chaque, tous les (ensemble)"
+  },
+  {
+   "n": 7,
+   "it": "sth not included",
+   "itd": "[sth] not included",
+   "ito": "C not included",
+   "eit": "Service not included.",
+   "eim": "not included",
+   "api": "/nɒt ɪnˈkluːdɪd/",
+   "pr": "not inn-KLOU-did",
+   "mc": "in-clou",
+   "sc": "Sur l'addition d'un pub, une COMPRESSE NON COMPRISE dans le prix est fixée par un CLOU.",
+   "de": "included ≈ in-clou-ded ; la compresse hors du prix = non compris",
+   "fo": "to include = inclure ; including = y compris ; service charge = le service"
+  },
+  {
+   "n": 8,
+   "it": "the first sth",
+   "itd": "the first [sth]",
+   "ito": "the first C",
+   "eit": "It's the first time.",
+   "eim": "first time",
+   "api": "/fɜːst/",
+   "pr": "FEURST",
+   "mc": "Faust",
+   "sc": "Sur le podium de Wimbledon, la PREMIÈRE reçoit une PRIME des mains du docteur FAUST.",
+   "de": "first ≈ Faust ; la première sur le podium = première",
+   "fo": "first = premier ; at first = au début ; firstly = premièrement"
+  },
+  {
+   "n": 9,
+   "it": "happy",
+   "eit": "I'm happy.",
+   "eim": "happy",
+   "api": "/ˈhæpi/",
+   "pr": "HA-pi",
+   "mc": "happé",
+   "sc": "Dans un cottage, un CHAT HEUREUX ronronne de félicité, HAPPÉ par un rayon de soleil.",
+   "de": "happy ≈ happé ; le chat qui ronronne = heureux",
+   "fo": "happier, happiest ; happiness = le bonheur",
+   "px": [
+    "You can count yourself lucky.",
+    "She's expecting a baby.",
+    "I'm very happy."
+   ]
+  },
+  {
+   "n": 10,
+   "it": "best",
+   "eit": "You're the best!",
+   "eim": "best",
+   "api": "/best/",
+   "pr": "BÈST",
+   "mc": "bête",
+   "sc": "À la foire agricole du Yorkshire, la MEILLEURE BÊTE reçoit une MÉDAILLE et un MILLION de livres.",
+   "de": "best ≈ bê(s)te ; la médaille et le million = le meilleur",
+   "fo": "good, better, best ; best friend = meilleur(e) ami(e)",
+   "px": [
+    "She's in the best frame of mind."
+   ],
+   "co": [
+    "best friend",
+    "the best way",
+    "the best idea",
+    "the best place",
+    "the best time"
+   ]
+  },
+  {
+   "n": 11,
+   "it": "medium",
+   "eit": "I'd like my meat medium.",
+   "eim": "medium",
+   "api": "/ˈmiːdiəm/",
+   "pr": "MII-di-em",
+   "mc": "médium",
+   "sc": "Dans un grill de Mayfair, une MÉDIUM en turban pique d'une pointe un steak CUIT À POINT.",
+   "de": "medium ≈ médium ; le steak piqué d'une pointe = à point",
+   "fo": "rare = saignant ; well done = bien cuit ; medium = aussi « moyen » (taille M)"
+  },
+  {
+   "n": 12,
+   "fr": "autres (other, pluriel)",
+   "frd": "autres [n] (other, pluriel)",
+   "it": "other",
+   "itd": "other [n]",
+   "eit": "Can you do it, or have you got any other questions about my vagina?",
+   "eim": "other questions",
+   "api": "/ˈʌðə/",
+   "pr": "A-the",
+   "mc": "azur",
+   "sc": "Dans une salle de classe d'Eton, des mains se lèvent : D'AUTRES QUESTIONS s'envolent comme des ballons vers un ciel AZUR.",
+   "de": "other ≈ a(zur) ; les mains levées pour d'autres questions = autres",
+   "fo": "invariable : other questions ; another = un(e) autre ; others = les autres (pronom)"
+  },
+  {
+   "n": 13,
+   "it": "important",
+   "eit": "It's important.",
+   "eim": "important",
+   "api": "/ɪmˈpɔːtnt/",
+   "pr": "im-PÔ-tent",
+   "mc": "un pot tentant",
+   "sc": "Sur un bureau de Whitehall, un DOSSIER IMPORTANT tamponné « URGENT » est posé sur UN POT TENTANT de marmelade.",
+   "de": "important ≈ un pô-tant ; le dossier tamponné « URGENT » = important",
+   "fo": "accent sur PÔ ; it doesn't matter = ce n'est pas important",
+   "px": [
+    "He's made significant progress.",
+    "Have you really got nothing more important to do?",
+    "It might not look like much, but it's important."
+   ]
+  },
+  {
+   "n": 14,
+   "fr": "petite (little, féminin)",
+   "it": "little",
+   "eit": "A cosy little candlelit evening?",
+   "eim": "little",
+   "api": "/ˈlɪtl/",
+   "pr": "LI-tel",
+   "mc": "lit + elle",
+   "sc": "Dans une maison de poupée victorienne, une PETITE fille minuscule dort dans un LIT miniature ; ELLE serre une bougie.",
+   "de": "little ≈ lit + elle ; la minuscule fille dans son lit de poupée = petite",
+   "fo": "little (affectif) / small (neutre) ; pas de féminin ; a little = un peu"
+  },
+  {
+   "n": 15,
+   "fr": "ces …-là",
+   "frd": "ces [n]-là",
+   "it": "those",
+   "itd": "those [n]",
+   "eit": "Those students are nice.",
+   "eim": "Those students",
+   "api": "/ðəʊz/",
+   "pr": "THÔZ",
+   "mc": "dose",
+   "sc": "Au fond d'un verger du Kent, CES AMIS-LÀ cueillent des pommes et en avalent une bonne DOSE.",
+   "de": "those ≈ (d)ose ; les amis au fond du verger = ces …-là",
+   "fo": "that → those (pluriel) ; this → these = ces …-ci"
+  },
+  {
+   "n": 16,
+   "drop": true
+  },
+  {
+   "n": 17,
+   "fr": "encore de",
+   "frd": "encore de [n]",
+   "it": "more",
+   "itd": "more [n]",
+   "eit": "Do you want some more biscuits?",
+   "eim": "more",
+   "api": "/mɔː/",
+   "pr": "MÔ",
+   "mc": "Maure",
+   "sc": "Un chœur d'altos tend ses assiettes vides en chantant « ENCORE DES BISCUITS ! » ; un MAURE en turban les ressert de shortbread.",
+   "de": "more ≈ Maure ; les assiettes vides tendues = encore de",
+   "fo": "more = encore de, plus de ; any more? = encore ? ; another one = encore un"
+  },
+  {
+   "n": 18,
+   "it": "new",
+   "eit": "Is that new?",
+   "eim": "new",
+   "api": "/njuː/",
+   "pr": "NIOU",
+   "mc": "gnou",
+   "sc": "Une VOITURE TOUTE NEUVE, encore emballée, sort d'un garage de Mayfair avec un GNOU au volant.",
+   "de": "new ≈ gnou ; la voiture encore emballée = nouveau",
+   "fo": "newer, newest ; news (indénombrable) = les nouvelles ; brand new = tout neuf",
+   "px": [
+    "It's raining again.",
+    "I haven't heard from him for months."
+   ],
+   "co": [
+    "a new life",
+    "brand new",
+    "New Year"
+   ]
+  },
+  {
+   "n": 19,
+   "fr": "peu de (+ pluriel)",
+   "frd": "peu de [n] (+ pluriel)",
+   "it": "not many",
+   "itd": "not many [n]",
+   "eit": "He hasn't got many friends.",
+   "eim": "hasn't got many friends",
+   "api": "/nɒt ˈmeni/",
+   "pr": "not MÈ-ni",
+   "mc": "menu",
+   "sc": "Dans un pub, un POKE BOWL presque vide : il reste PEU DE grains de riz, et le MENU affiché est tout maigre.",
+   "de": "many ≈ men(u) ; le bol presque vide = peu de",
+   "fo": "not many + pluriel ; not much + indénombrable ; few = peu de (plus soutenu)"
+  },
+  {
+   "n": 20,
+   "it": "full",
+   "eit": "It's full of people.",
+   "eim": "full",
+   "api": "/fʊl/",
+   "pr": "FOUL",
+   "mc": "foule",
+   "sc": "Un RÉSERVOIR PLEIN À RAS BORD déborde sur la FOULE massée devant un pub.",
+   "de": "full ≈ foule ; le réservoir à ras bord = plein",
+   "fo": "full of = plein de ; I'm full = je n'ai plus faim ; fam. packed = bondé",
+   "px": [
+    "Death cut him down in the prime of his youth."
+   ],
+   "co": [
+    "a full moon",
+    "a full room",
+    "full of sth"
+   ]
+  },
+  {
+   "n": 21,
+   "it": "possible",
+   "eit": "That's not possible!",
+   "eim": "possible",
+   "api": "/ˈpɒsəbl/",
+   "pr": "PO-se-bel",
+   "mc": "peau + sable",
+   "sc": "Sur une plage de Cornouailles, un panneau où « IMPOSSIBLE » est barré pour ne laisser que « POSSIBLE » est planté dans le SABLE, à même la PEAU d'un baigneur.",
+   "de": "possible ≈ « po-sable » ; le panneau où « IM » est barré = possible",
+   "fo": "accent sur PO ; possibly = peut-être ; as soon as possible = dès que possible",
+   "px": [
+    "I'd never have thought it possible."
+   ]
+  },
+  {
+   "n": 22,
+   "fr": "nos",
+   "frd": "nos [n]",
+   "it": "our",
+   "itd": "our [n]",
+   "eit": "Our holiday starts tomorrow.",
+   "eim": "Our holiday",
+   "api": "/ˈaʊə/",
+   "pr": "AOU-e",
+   "mc": "aoûtat",
+   "sc": "NOS FILLES cherchent des trèfles à quatre feuilles dans un pré du Devon, piquées par des AOÛTATS.",
+   "de": "our ≈ aoû(tat) ; nos filles dans le pré = nos",
+   "fo": "invariable : our daughter, our daughters ; ours = le/la nôtre ; holiday(s) = vacances (UK)"
+  },
+  {
+   "n": 23,
+   "it": "hard",
+   "eit": "Life's hard.",
+   "eim": "hard",
+   "api": "/hɑːd/",
+   "pr": "HÂD",
+   "mc": "hard-rock",
+   "sc": "Une BRIQUE DURE comme le roc, qui DURE mille ans, sert de batterie à un groupe de HARD-ROCK londonien.",
+   "de": "hard ≈ hard(-rock) ; la brique dure comme le roc = dur",
+   "fo": "harder, hardest ; hard = dur, difficile ; hardly = à peine (piège)",
+   "co": [
+    "hard work",
+    "a tough nut",
+    "a hard day"
+   ]
+  },
+  {
+   "n": 24,
+   "drop": true
+  },
+  {
+   "n": 25,
+   "it": "slim",
+   "eit": "She's got a slim waist.",
+   "eim": "slim",
+   "api": "/slɪm/",
+   "pr": "SLIM",
+   "mc": "s'lime",
+   "sc": "Dans un atelier de Savile Row, une couturière S'LIME les ongles avec un fil si FIN et subtil qu'on le voit à peine.",
+   "de": "slim ≈ s'lime ; le fil à peine visible = fin, mince",
+   "fo": "slim = mince (flatteur) ; thin = maigre, fin ; fine = fin (sable, cheveux)"
+  },
+  {
+   "n": 26,
+   "it": "great",
+   "eit": "That's great!",
+   "eim": "great",
+   "api": "/ɡreɪt/",
+   "pr": "GRÈÏT",
+   "mc": "Greta",
+   "sc": "Au-dessus de la Tamise, un FEU D'ARTIFICE FANTASTIQUE écrit « SUPER ! » dans le ciel, et GRETA applaudit.",
+   "de": "great ≈ Gre(ta) ; le feu d'artifice fantastique = super",
+   "fo": "great = super ; aussi grand (a great man) ; fam. UK brilliant!"
+  },
+  {
+   "n": 27,
+   "fr": "tous les",
+   "frd": "tous les [n]",
+   "it": "every",
+   "itd": "every [n]",
+   "eit": "Every year we go to the seaside.",
+   "eim": "Every year",
+   "api": "/ˈevri/",
+   "pr": "È-vri",
+   "mc": "Évry",
+   "sc": "TOUS LES ÉTUDIANTS boivent en même temps une tasse de TILLEUL, à Cambridge comme à ÉVRY.",
+   "de": "every ≈ Évry ; tous les étudiants qui boivent ensemble = tous les",
+   "fo": "every + singulier : every year ; all the + pluriel = tous les (ensemble) ; the seaside = la mer (vacances)"
+  },
+  {
+   "n": 28,
+   "it": "kind",
+   "eit": "That's kind of you.",
+   "eim": "kind",
+   "api": "/kaɪnd/",
+   "pr": "KAÏND",
+   "mc": "Caïn",
+   "sc": "Dans un jardin anglais, un GÉANT GENTIL offre des fleurs à CAÏN, tout surpris.",
+   "de": "kind ≈ Caïn(d) ; le géant qui offre des fleurs = gentil",
+   "fo": "kinder, kindest ; nice = sympa ; a kind of = une sorte de",
+   "px": [
+    "You're so kind."
+   ]
+  },
+  {
+   "n": 29,
+   "it": "clean",
+   "eit": "It's clean in here.",
+   "eim": "clean",
+   "api": "/kliːn/",
+   "pr": "KLIIN",
+   "mc": "clinique",
+   "sc": "Dans une CLINIQUE de Harley Street, une ASSIETTE PROPRE et polie brille comme un miroir.",
+   "de": "clean ≈ clin(ique) ; l'assiette qui brille = propre",
+   "fo": "clean = propre (≠ own : sa propre initiative = his own initiative) ; to clean = nettoyer",
+   "px": [
+    "He did it on his own initiative."
+   ],
+   "co": [
+    "clean clothes",
+    "a clean shirt",
+    "to keep sth clean"
+   ]
+  },
+  {
+   "n": 30,
+   "it": "any sth",
+   "itd": "any [n]",
+   "ito": "any C",
+   "eit": "Take any seat.",
+   "eim": "any seat",
+   "api": "/ˈeni/",
+   "pr": "È-ni",
+   "mc": "hennir",
+   "sc": "Dans un tripot de Soho, un joueur tire N'IMPORTE QUELLE CARTE du jeu, et un cheval se met à HENNIR.",
+   "de": "any ≈ (h)enn(ir) ; la carte tirée au hasard = n'importe quelle",
+   "fo": "any = n'importe quel (phrase affirmative) ; anything = n'importe quoi ; anyone = n'importe qui"
+  },
+  {
+   "n": 31,
+   "it": "expensive",
+   "eit": "It's too expensive.",
+   "eim": "expensive",
+   "api": "/ɪkˈspensɪv/",
+   "pr": "iks-PÈNN-siv",
+   "mc": "expansif",
+   "sc": "Chez Harrods, un DIAMANT DE MILLE CARATS, TRÈS CHER, rend le vendeur soudain EXPANSIF.",
+   "de": "expensive ≈ expansif ; le diamant de mille carats = cher",
+   "fo": "cher (prix) = expensive ; cher (affection) = dear ; cheap = pas cher",
+   "co": [
+    "an expensive car",
+    "an expensive restaurant",
+    "far too expensive"
+   ]
+  },
+  {
+   "n": 32,
+   "it": "pleased",
+   "eit": "I'm pleased.",
+   "eim": "pleased",
+   "api": "/pliːzd/",
+   "pr": "PLIIZD",
+   "mc": "plisse",
+   "sc": "Un ENFANT CONTENT saute de joie dans une flaque londonienne et PLISSE les yeux de plaisir.",
+   "de": "pleased ≈ plis(se) ; l'enfant qui saute de joie = content",
+   "fo": "pleased / glad = content ; pleased to meet you = enchanté ; please = s'il te plaît",
+   "px": [
+    "He's never satisfied.",
+    "You can be pleased.",
+    "I'm pleased for you."
+   ]
+  },
+  {
+   "n": 33,
+   "it": "lovely",
+   "eit": "It's a lovely flat.",
+   "eim": "lovely",
+   "api": "/ˈlʌvli/",
+   "pr": "LAV-li",
+   "mc": "lave-linge",
+   "sc": "Dans un cottage, on caresse du doigt un JOLI VASE FLEURI posé, faute de cheminée, sur le LAVE-LINGE.",
+   "de": "lovely ≈ lav-li(nge) ; le joli vase fleuri = joli",
+   "fo": "lovely = joli, charmant (très UK) ; pretty = joli (visage, objet) ; flat (UK) = appartement"
+  },
+  {
+   "n": 34,
+   "it": "next",
+   "eit": "See you next time!",
+   "eim": "next time",
+   "api": "/nekst/",
+   "pr": "NÈKST",
+   "mc": "annexe",
+   "sc": "À bord d'un bus rouge, le panneau lumineux affiche « PROCHAIN ARRÊT : ANNEXE », tout à PROXIMITÉ.",
+   "de": "next ≈ (an)nexe ; le panneau « PROCHAIN ARRÊT » = prochain",
+   "fo": "next = prochain, suivant ; the next day = le lendemain ; next to = à côté de",
+   "px": [
+    "I can't wait for our next skiing holiday."
+   ],
+   "co": [
+    "next time",
+    "next week",
+    "next year",
+    "next month",
+    "my next move"
+   ]
+  },
+  {
+   "n": 35,
+   "it": "under way",
+   "eit": "The work is under way.",
+   "eim": "under way",
+   "api": "/ˌʌndə ˈweɪ/",
+   "pr": "ANN-de OUÈÏ",
+   "mc": "Andes + ouais",
+   "sc": "Un CORSAIRE EN PLEINE COURSE file vers les ANDES et son équipage hurle « OUAIS ! » : la mission est EN COURS.",
+   "de": "under way ≈ Andes + ouais ; le corsaire en pleine course = en cours",
+   "fo": "in progress = en cours (plus formel) ; roadworks = travaux routiers"
+  },
+  {
+   "n": 36,
+   "it": "brilliant",
+   "eit": "That's brilliant!",
+   "eim": "brilliant",
+   "api": "/ˈbrɪliənt/",
+   "pr": "BRI-li-ent",
+   "mc": "brillant",
+   "sc": "Dans une brocante de Camden, un GÉNIE sort de sa LAMPE en applaudissant, tout BRILLANT.",
+   "de": "brilliant ≈ brillant ; le génie qui applaudit = génial",
+   "fo": "brilliant = génial (très UK) ; aussi brillant (intelligent) ; amazing = incroyable"
+  },
+  {
+   "n": 37,
+   "it": "five",
+   "eit": "It's five o'clock.",
+   "eim": "five",
+   "api": "/faɪv/",
+   "pr": "FAÏV",
+   "mc": "fève",
+   "sc": "CINQ POTS DE MIEL (05) trinquent « Tchin ! » à l'heure du thé, et dans chacun flotte une FÈVE.",
+   "de": "five ≈ fève ; les cinq pots de miel = cinq",
+   "fo": "fifth = cinquième ; fifteen, fifty ; five o'clock = 5 h"
+  },
+  {
+   "n": 38,
+   "it": "easy",
+   "eit": "It's easy.",
+   "eim": "easy",
+   "api": "/ˈiːzi/",
+   "pr": "II-zi",
+   "mc": "hisse",
+   "sc": "Sur une table de pub, un PUZZLE DE DEUX PIÈCES : FACILE, on le HISSE en place d'un clin d'œil.",
+   "de": "easy ≈ hiss(e) ; le puzzle de deux pièces = facile",
+   "fo": "easier, easiest ; easily = facilement ; take it easy = détends-toi",
+   "px": [
+    "It's not as easy as that."
+   ],
+   "co": [
+    "an easy target",
+    "easy money",
+    "take it easy"
+   ]
+  },
+  {
+   "n": 39,
+   "it": "difficult",
+   "eit": "It's difficult.",
+   "eim": "difficult",
+   "api": "/ˈdɪfɪkəlt/",
+   "pr": "DI-fi-kelt",
+   "mc": "diffi-Celte",
+   "sc": "Un CELTE en kilt s'arrache les cheveux devant un CASSE-TÊTE DE MILLE PIÈCES : DIFFICILE !",
+   "de": "difficult ≈ diffi-Celte ; le casse-tête de mille pièces = difficile",
+   "fo": "accent sur DI ; fam. hard = dur",
+   "px": [
+    "I'm faced with a difficult task."
+   ],
+   "co": [
+    "a difficult time",
+    "a difficult situation",
+    "a difficult period"
+   ]
+  },
+  {
+   "n": 40,
+   "it": "four",
+   "eit": "There are four of us.",
+   "eim": "four",
+   "api": "/fɔː/",
+   "pr": "FÔ",
+   "mc": "four",
+   "sc": "TON ARC (04) tire sur le pupitre d'un QUATUOR de violonistes, qui se réfugie dans un FOUR à pain.",
+   "de": "four ≈ four ; l'arc et le quatuor = quatre",
+   "fo": "fourth = quatrième ; fourteen, forty (sans u !)",
+   "px": [
+    "We're a family of four.",
+    "He ended up flat on his back."
+   ]
+  },
+  {
+   "n": 41,
+   "it": "weird",
+   "eit": "That's weird.",
+   "eim": "weird",
+   "api": "/wɪəd/",
+   "pr": "OUIED",
+   "mc": "ouïe",
+   "sc": "Dans un manoir écossais, un CHAT À TROIS YEUX, vraiment BIZARRE, respire par une OUÏE de poisson.",
+   "de": "weird ≈ ouïe(d) ; le chat à trois yeux = bizarre",
+   "fo": "weird = bizarre (fam.) ; strange = étrange ; odd = curieux"
+  },
+  {
+   "n": 42,
+   "it": "long",
+   "eit": "It's so long!",
+   "eim": "long",
+   "api": "/lɒŋ/",
+   "pr": "LONG",
+   "mc": "longue-vue",
+   "sc": "Sur les falaises de Douvres, une LONGUE-VUE s'allonge sans fin jusqu'à toucher la France.",
+   "de": "long ≈ long ; la longue-vue sans fin = long",
+   "fo": "longer, longest ; for a long time = longtemps ; fam. it's taking ages = c'est long",
+   "px": [
+    "Such a long strike would be unthinkable in Germany.",
+    "They're old friends."
+   ],
+   "co": [
+    "a long story",
+    "a long journey",
+    "in the long term",
+    "a long day",
+    "long hair"
+   ]
+  },
+  {
+   "n": 43,
+   "drop": true
+  },
+  {
+   "n": 44,
+   "it": "different",
+   "eit": "It's different.",
+   "eim": "different",
+   "api": "/ˈdɪfrənt/",
+   "pr": "DI-frent",
+   "mc": "différent",
+   "sc": "Sur un fil à linge de Manchester, deux CHAUSSETTES DIFFÉRENTES, de couleurs diverses, sèchent sous la pluie.",
+   "de": "different ≈ différent (accent sur DI) ; les deux chaussettes dépareillées = différent",
+   "fo": "different from / to (UK) ; accent sur DI",
+   "co": [
+    "a different way",
+    "completely different",
+    "different from sth"
+   ]
+  },
+  {
+   "n": 45,
+   "it": "black",
+   "eit": "It's all black.",
+   "eim": "black",
+   "api": "/blæk/",
+   "pr": "BLAK",
+   "mc": "blague",
+   "sc": "L'empereur NÉRON en TOGE NOIRE raconte une BLAGUE à un chauffeur de black cab.",
+   "de": "black ≈ bla(gue) ; Néron en toge noire = noir",
+   "fo": "blacker ; black coffee = café noir",
+   "co": [
+    "a black hole",
+    "the black market",
+    "black magic",
+    "a black box",
+    "a blacklist",
+    "black hair"
+   ]
+  },
+  {
+   "n": 46,
+   "it": "poor",
+   "eit": "Poor lad!",
+   "eim": "Poor",
+   "api": "/pɔː/",
+   "pr": "PÔ",
+   "mc": "port",
+   "sc": "Sur le PORT de Liverpool, un PAUVRE MENDIANT tend son chapeau vide aux marins.",
+   "de": "poor ≈ por(t) ; le mendiant au chapeau vide = pauvre",
+   "fo": "poorer, poorest ; poverty = la pauvreté ; poor thing! = le/la pauvre !",
+   "px": [
+    "This writer comes from a poor family."
+   ],
+   "co": [
+    "poor thing",
+    "poor soul",
+    "poor creature"
+   ]
+  },
+  {
+   "n": 47,
+   "it": "a sort of sth",
+   "itd": "a sort of [sth]",
+   "ito": "a sort of C",
+   "eit": "It's a sort of game.",
+   "eim": "a sort of game",
+   "api": "/ə ˈsɔːt əv/",
+   "pr": "e SÔT ev",
+   "mc": "sotte",
+   "sc": "Au zoo de Londres, UNE SORTE DE TIGRE SORT de sa cage, l'air d'une grosse SOTTE.",
+   "de": "sort ≈ sot(te) ; le tigre qui sort de sa cage = une sorte de",
+   "fo": "a kind of = une sorte de ; fam. sort of = un peu, genre"
+  },
+  {
+   "n": 48,
+   "it": "funny",
+   "eit": "That's funny!",
+   "eim": "funny",
+   "api": "/ˈfʌni/",
+   "pr": "FA-ni",
+   "mc": "Fanny",
+   "sc": "Dans un music-hall de Soho, un CLOWN fait rire toute la salle, et FANNY se tord de rire au premier rang.",
+   "de": "funny ≈ Fanny ; le clown qui fait rire la salle = drôle",
+   "fo": "funnier ; funny = drôle et aussi bizarre (a funny smell)",
+   "px": [
+    "You're so funny."
+   ]
+  },
+  {
+   "n": 49,
+   "it": "such",
+   "eit": "I've never seen such a thing.",
+   "eim": "such",
+   "api": "/sʌtʃ/",
+   "pr": "SATCH",
+   "mc": "sachet",
+   "sc": "Un TEL TRÉSOR de pièces d'or, jamais vu, s'échappe d'un SACHET de thé géant.",
+   "de": "such ≈ sach(et) ; le trésor jamais vu = tel",
+   "fo": "such a + singulier : such a thing ; such + pluriel : such things",
+   "px": [
+    "I wasn't expecting that. I wasn't expecting anything like that.",
+    "I've never seen anything like it."
+   ]
+  },
+  {
+   "n": 50,
+   "it": "simple",
+   "eit": "It's simple.",
+   "eim": "simple",
+   "api": "/ˈsɪmpl/",
+   "pr": "SIM-pel",
+   "mc": "simple",
+   "sc": "Au guichet du Royal Mail, un NŒUD SIMPLE ferme la ficelle d'un colis : SIMPLE comme bonjour.",
+   "de": "simple ≈ simple (« SIM-pel ») ; le nœud tout bête = simple",
+   "fo": "simply = simplement ; easy = facile",
+   "co": [
+    "a simple question",
+    "keep it simple",
+    "as simple as that"
+   ]
+  },
+  {
+   "n": 51,
+   "it": "a glass of sth",
+   "itd": "a glass of [sth]",
+   "ito": "a glass of C",
+   "eit": "A glass of water, please.",
+   "eim": "A glass of water",
+   "api": "/ə ˈɡlɑːs əv/",
+   "pr": "e GLÂSS ev",
+   "mc": "glace",
+   "sc": "UN VERRE rempli de GLACE pilée tient en équilibre sur le guidon d'une bicyclette à Cambridge.",
+   "de": "glass ≈ glace ; le verre sur le guidon = un verre de",
+   "fo": "a glass = un verre (récipient) ; a drink = un verre (boisson) ; glasses = lunettes",
+   "px": [
+    "I'd like a glass of milk.",
+    "I'd like a glass of red wine.",
+    "I could really do with a glass of beer."
+   ]
+  },
+  {
+   "n": 52,
+   "it": "made of glass",
+   "eit": "The table's made of glass.",
+   "eim": "made of glass",
+   "api": "/meɪd əv ˈɡlɑːs/",
+   "pr": "MÈÏD ev GLÂSS",
+   "mc": "glas",
+   "sc": "Le VITRAIL EN VERRE d'une église anglaise vibre quand sonne le GLAS.",
+   "de": "glass ≈ glas ; la vitre = en verre",
+   "fo": "a glass table = une table en verre ; made of + matière = en …"
+  },
+  {
+   "n": 53,
+   "fr": "chère (dear, féminin)",
+   "it": "dear",
+   "eit": "Don't give up the fight, my dear.",
+   "eim": "dear",
+   "api": "/dɪə/",
+   "pr": "DIE",
+   "mc": "Dieu",
+   "sc": "Dans un salon victorien, une vieille lady serre sa nièce contre elle : « Ma CHÈRE ! DIEU que tu m'es chère ! ».",
+   "de": "dear ≈ Dieu ; la lady qui serre sa nièce = chère",
+   "fo": "pas de féminin ; dear = cher (affection) ; Dear Sir = Monsieur (lettre) ; cher (prix) = expensive"
+  },
+  {
+   "n": 54,
+   "it": "million",
+   "eit": "A million euros.",
+   "eim": "million",
+   "api": "/ˈmɪljən/",
+   "pr": "MI-lien",
+   "mc": "mille liens",
+   "sc": "Un MILLION DE CONFETTIS tombent du ciel sur Trafalgar Square, retenus par MILLE LIENS.",
+   "de": "million ≈ mille liens ; la pluie de confettis = million",
+   "fo": "two million (sans s) ; millions of = des millions de"
+  },
+  {
+   "n": 55,
+   "it": "ill",
+   "eit": "I'm ill.",
+   "eim": "ill",
+   "api": "/ɪl/",
+   "pr": "IL",
+   "mc": "île",
+   "sc": "Sur une ÎLE battue par les vents des Hébrides, un MALADE frissonne sous une couverture écossaise.",
+   "de": "ill ≈ île ; le malade sous la couverture = malade",
+   "fo": "ill (UK) = malade ; sick = malade (US) / nauséeux (UK : I feel sick) ; not well = pas bien",
+   "px": [
+    "He called in sick.",
+    "It makes me sick.",
+    "Are you out of your mind?"
+   ]
+  },
+  {
+   "n": 56,
+   "it": "dirty",
+   "eit": "It's dirty!",
+   "eim": "dirty",
+   "api": "/ˈdɜːti/",
+   "pr": "DEUR-ti",
+   "mc": "d'orties",
+   "sc": "Dans le Devon, un PORC couvert de boue se roule dans un champ D'ORTIES : SALE !",
+   "de": "dirty ≈ d'orti(es) ; le porc couvert de boue = sale",
+   "fo": "dirtier ; filthy = crasseux ; sale (méchant) = nasty",
+   "px": [
+    "Don't touch the photos, your hands are dirty.",
+    "What a nasty temper!"
+   ],
+   "co": [
+    "dirty money",
+    "dirty dishes",
+    "dirty clothes"
+   ]
+  },
+  {
+   "n": 57,
+   "it": "(no) big deal",
+   "eit": "It's no big deal.",
+   "eim": "no big deal",
+   "api": "/ˈbɪɡ ˈdiːl/",
+   "pr": "BIG DIIL",
+   "mc": "Bigdil",
+   "sc": "Une AMBULANCE hurle dans les rues de Londres : c'est GRAVE ? Non, c'est l'animateur du BIGDIL qui fait son entrée.",
+   "de": "big deal ≈ Bigdil ; l'ambulance qui hurle = grave",
+   "fo": "grave = serious ; never mind / it doesn't matter = c'est pas grave",
+   "px": [
+    "It's not that serious."
+   ],
+   "co": [
+    "serious danger",
+    "a serious mistake",
+    "serious injuries"
+   ]
+  },
+  {
+   "n": 58,
+   "it": "wrong",
+   "eit": "That's wrong!",
+   "eim": "wrong",
+   "api": "/rɒŋ/",
+   "pr": "RONG",
+   "mc": "rond",
+   "sc": "Un FAUSSAIRE FALSIFIE un billet de banque anglais en dessinant un ROND à la place du roi.",
+   "de": "wrong ≈ ron(d) ; le faussaire et son billet = faux",
+   "fo": "wrong = faux (erroné) ; false = faux (mensonger) ; fake = faux (contrefait)",
+   "px": [
+    "Your sentence is wrong.",
+    "What you're saying is false, and you know it."
+   ],
+   "co": [
+    "the wrong way",
+    "the wrong number",
+    "to go wrong",
+    "a false alarm"
+   ]
+  },
+  {
+   "n": 59,
+   "it": "clear",
+   "eit": "Is that clear?",
+   "eim": "clear",
+   "api": "/klɪə/",
+   "pr": "KLIE",
+   "mc": "clé",
+   "sc": "Au-dessus de Stonehenge, un CIEL CLAIR, plein de CLARTÉ, où pend une CLÉ dorée.",
+   "de": "clear ≈ clé ; le ciel lumineux = clair",
+   "fo": "clearly = clairement ; light = clair (couleur) : light blue",
+   "px": [
+    "Let's get this absolutely clear!",
+    "I can see right through him."
+   ]
+  },
+  {
+   "n": 60,
+   "it": "free",
+   "eit": "Are you free tonight?",
+   "eim": "free",
+   "api": "/friː/",
+   "pr": "FRII",
+   "mc": "frit",
+   "sc": "Un OISEAU LIBÉRÉ s'envole de sa cage au-dessus d'un étal de poisson FRIT.",
+   "de": "free ≈ fri(t) ; l'oiseau qui s'envole = libre",
+   "fo": "free = libre et gratuit ; freedom = la liberté",
+   "co": [
+    "free time",
+    "a free evening",
+    "free of charge",
+    "feel free"
+   ]
+  },
+  {
+   "n": 61,
+   "it": "sure",
+   "eit": "Are you sure?",
+   "eim": "sure",
+   "api": "/ʃɔː/",
+   "pr": "CHÔ",
+   "mc": "chaud",
+   "sc": "Une REINE DE CŒUR tient SIX CŒURS dans ses mains, assise sur un radiateur CHAUD : ELLE EST SÛRE D'ELLE.",
+   "de": "sure ≈ chau(d) ; la reine aux six cœurs = sûre",
+   "fo": "pas de féminin ; sure! = bien sûr ; to make sure = s'assurer"
+  },
+  {
+   "n": 62,
+   "it": "impossible",
+   "eit": "That's impossible.",
+   "eim": "impossible",
+   "api": "/ɪmˈpɒsəbl/",
+   "pr": "im-PO-se-bel",
+   "mc": "impossible",
+   "sc": "Au zoo de Londres, un ÉLÉPHANT tient en équilibre sur une FOURMI : IMPOSSIBLE !",
+   "de": "impossible ≈ impossible (accent sur PO) ; l'éléphant sur la fourmi = impossible",
+   "fo": "accent sur PO"
+  },
+  {
+   "n": 63,
+   "fr": "vraie (true, féminin)",
+   "it": "true",
+   "eit": "True story.",
+   "eim": "True",
+   "api": "/truː/",
+   "pr": "TROU",
+   "mc": "trou",
+   "sc": "Au pub, un vieux marin raconte une HISTOIRE VRAIE en montrant le TROU d'une balle dans sa casquette.",
+   "de": "true ≈ trou ; l'histoire du marin, preuve à l'appui = vraie",
+   "fo": "pas de féminin ; truth = la vérité ; that's true = c'est vrai"
+  },
+  {
+   "n": 64,
+   "it": "six",
+   "eit": "I'm six years older.",
+   "eim": "six",
+   "api": "/sɪks/",
+   "pr": "SIKS",
+   "mc": "six",
+   "sc": "TA ROSE (06) trempe dans une SEILLE remplie de SIX gousses d'ail, sur le rebord d'une fenêtre de Chelsea.",
+   "de": "six ≈ six ; ta rose dans la seille = six",
+   "fo": "sixth = sixième ; sixteen, sixty",
+   "px": [
+    "He's been training six hours a day for years.",
+    "It took Joyce over six years to write Ulysses."
+   ]
+  },
+  {
+   "n": 65,
+   "it": "the same",
+   "eit": "It's the same.",
+   "eim": "the same",
+   "api": "/ðə ˈseɪm/",
+   "pr": "the SÈÏM",
+   "mc": "sème",
+   "sc": "Deux JUMEAUX PAREILS, devant un signe « = », SÈMENT les mêmes graines dans un potager anglais.",
+   "de": "same ≈ sème ; les jumeaux devant le « = » = pareil",
+   "fo": "the same (as) = pareil (que) ; same here! = moi aussi !"
+  },
+  {
+   "n": 66,
+   "it": "normal",
+   "eit": "That's normal.",
+   "eim": "normal",
+   "api": "/ˈnɔːml/",
+   "pr": "NÔ-mel",
+   "mc": "normal",
+   "sc": "Dans un hôpital du NHS, un THERMOMÈTRE affiche 37 : NORMAL.",
+   "de": "normal ≈ normal (« NÔ-mel ») ; 37 au thermomètre = normal",
+   "fo": "accent sur NÔ ; normally = normalement ; usual = habituel",
+   "co": [
+    "a normal person",
+    "back to normal",
+    "perfectly normal"
+   ]
+  },
+  {
+   "n": 67,
+   "it": "serious",
+   "eit": "Are you serious?",
+   "eim": "serious",
+   "api": "/ˈsɪəriəs/",
+   "pr": "SIE-ri-es",
+   "mc": "série",
+   "sc": "Un JUGE SÉRIEUX, sourcils froncés, regarde une SÉRIE policière anglaise sans jamais sourire.",
+   "de": "serious ≈ séri(e) ; le juge aux sourcils froncés = sérieux",
+   "fo": "seriously = sérieusement ; to take sth seriously = prendre qc au sérieux",
+   "px": [
+    "Are you serious?",
+    "I didn't take his warning seriously."
+   ]
+  },
+  {
+   "n": 68,
+   "it": "a pound of sth",
+   "itd": "a pound of [sth]",
+   "ito": "a pound of C",
+   "eit": "A pound of butter.",
+   "eim": "A pound of butter",
+   "api": "/ə ˈpaʊnd əv/",
+   "pr": "e PAOUND ev",
+   "mc": "paon",
+   "sc": "Dans une épicerie anglaise, UNE LIVRE DE BEURRE trône, LIBRE sur la balance, sous la queue déployée d'un PAON.",
+   "de": "pound ≈ paon(d) ; la livre de beurre sur la balance = une livre de",
+   "fo": "pound = livre (poids, ≈ 454 g) et livre sterling (£)"
+  },
+  {
+   "n": 69,
+   "fr": "prêts (ready, pluriel)",
+   "it": "ready",
+   "eit": "Have the horses ready at dawn.",
+   "eim": "ready",
+   "api": "/ˈredi/",
+   "pr": "RÈ-di",
+   "mc": "raidi",
+   "sc": "Dans les écuries de Windsor, les CHEVAUX sellés sont PRÊTS à l'aube, RAIDIS par le froid.",
+   "de": "ready ≈ raidi ; les chevaux sellés à l'aube = prêts",
+   "fo": "invariable : ready ; get ready = se préparer"
+  },
+  {
+   "n": 70,
+   "it": "some",
+   "itd": "some [n]",
+   "eit": "Some days I'm knackered.",
+   "eim": "Some days",
+   "api": "/sʌm/",
+   "pr": "SAMM",
+   "mc": "somme",
+   "sc": "CERTAINS DOSSIERS tamponnés « CERTIFIÉ » piquent un SOMME sur le bureau d'un notaire.",
+   "de": "some ≈ somme ; les dossiers tamponnés = certains",
+   "fo": "some = certains, quelques ; some people = certaines personnes ; knackered (UK fam.) = crevé"
+  },
+  {
+   "n": 71,
+   "drop": true
+  },
+  {
+   "n": 72,
+   "it": "cute",
+   "eit": "Your dress is really cute.",
+   "eim": "cute",
+   "api": "/kjuːt/",
+   "pr": "KIOUT",
+   "mc": "cuite",
+   "sc": "Un CHATON si MIGNON qu'on le caresse sans fin dort, lové dans une robe, comme après une CUITE au pub.",
+   "de": "cute ≈ cuit(e) ; le chaton qu'on caresse = mignon",
+   "fo": "cute = mignon (fam.) ; sweet / lovely (UK) = mignon, adorable"
+  },
+  {
+   "n": 73,
+   "it": "alive",
+   "eit": "He's alive!",
+   "eim": "alive",
+   "api": "/əˈlaɪv/",
+   "pr": "e-LAÏV",
+   "mc": "olive",
+   "sc": "Chez un poissonnier de Billingsgate, un POISSON VIF et VIVANT frétille sur une OLIVE géante.",
+   "de": "alive ≈ (o)live ; le poisson qui frétille = vivant",
+   "fo": "alive (attribut seulement : he's alive) ; a live fish / a living thing = vivant (devant le nom)"
+  },
+  {
+   "n": 74,
+   "it": "human",
+   "eit": "It's only human.",
+   "eim": "human",
+   "api": "/ˈhjuːmən/",
+   "pr": "HIOU-men",
+   "mc": "hue !",
+   "sc": "Une MAIN HUMAINE se tend vers un cocher de Londres qui crie « HUE ! » à son cheval.",
+   "de": "human ≈ hue-man ; la main humaine tendue = humain",
+   "fo": "human being = être humain ; humane = humain (bienveillant)",
+   "co": [
+    "the human race",
+    "the human body",
+    "human rights",
+    "human nature"
+   ]
+  },
+  {
+   "n": 75,
+   "it": "cheap",
+   "eit": "It's cheap.",
+   "eim": "cheap",
+   "api": "/tʃiːp/",
+   "pr": "TCHIIP",
+   "mc": "chips",
+   "sc": "Sur Brick Lane, un panneau « ÉCONOMIQUE » pend au-dessus d'un sachet de CHIPS : PAS CHER.",
+   "de": "cheap ≈ chip(s) ; le panneau « économique » = pas cher",
+   "fo": "cheaper, cheapest ; cheap = pas cher (parfois « de mauvaise qualité ») ; inexpensive = bon marché",
+   "px": [
+    "I wouldn't give much for his chances."
+   ],
+   "co": [
+    "cheap flights",
+    "dirt cheap",
+    "cheap and cheerful"
+   ]
+  },
+  {
+   "n": 76,
+   "it": "à la carte",
+   "eit": "We're eating à la carte.",
+   "eim": "à la carte",
+   "api": "/ˌɑː lɑː ˈkɑːt/",
+   "pr": "â lâ KÂT",
+   "mc": "carte",
+   "sc": "Dans un restaurant de Mayfair, une CARTE de menu géante en cuir s'ouvre comme un livre devant les convives.",
+   "de": "à la carte ≈ à la carte (« â lâ KÂT ») ; la carte du restaurant = à la carte",
+   "fo": "the menu = la carte ; a set menu = un menu à prix fixe"
+  },
+  {
+   "n": 77,
+   "fr": "grands (great, pluriel)",
+   "it": "great",
+   "eit": "See? Great minds think alike, don't they?",
+   "eim": "Great",
+   "api": "/ɡreɪt/",
+   "pr": "GRÈÏT",
+   "mc": "crête",
+   "sc": "Sur la CRÊTE des falaises de Douvres, deux GRANDS ESPRITS en perruque se rencontrent et se serrent la main.",
+   "de": "great ≈ (c)rête ; les deux grands esprits = grands",
+   "fo": "invariable ; great = grand (important : a great man) ; big / tall = grand (taille)"
+  },
+  {
+   "n": 78,
+   "it": "ten",
+   "eit": "In ten minutes.",
+   "eim": "ten",
+   "api": "/ten/",
+   "pr": "TÈNN",
+   "mc": "tennis",
+   "sc": "TA TÊTE DE MORT (10) claque des dents « Dis, tchi ! » au milieu d'un court de TENNIS de Wimbledon.",
+   "de": "ten ≈ ten(nis) ; ta tête de mort = dix",
+   "fo": "tenth = dixième ; ten past = et dix",
+   "px": [
+    "My brother's only ten."
+   ]
+  },
+  {
+   "n": 79,
+   "it": "certain",
+   "eit": "I'm certain of it.",
+   "eim": "certain",
+   "api": "/ˈsɜːtn/",
+   "pr": "SEUR-ten",
+   "mc": "sœur + tente",
+   "sc": "Sous sa TENTE de kermesse, une bonne SŒUR abat un tampon « CERTIFIÉ » : C'EST CERTAIN.",
+   "de": "certain ≈ sœur-t(ente) ; le tampon « CERTIFIÉ » = certain",
+   "fo": "sure = sûr (plus courant) ; certainly = certainement ; a certain = un certain"
+  },
+  {
+   "n": 80,
+   "drop": true
+  },
+  {
+   "n": 81,
+   "it": "still",
+   "eit": "Keep still.",
+   "eim": "still",
+   "api": "/stɪl/",
+   "pr": "STIL",
+   "mc": "stylo",
+   "sc": "Dans un HAMAC TRANQUILLE au soleil d'un jardin anglais, un homme ne bouge pas plus qu'un STYLO.",
+   "de": "still ≈ styl(o) ; le hamac immobile = tranquille",
+   "fo": "keep still = reste tranquille (ne bouge pas) ; quiet = calme, silencieux ; still = aussi « encore »"
+  },
+  {
+   "n": 82,
+   "fr": "juste (just, féminin)",
+   "it": "just",
+   "eit": "Conquering is our duty, because our cause is just.",
+   "eim": "just",
+   "api": "/dʒʌst/",
+   "pr": "DJAST",
+   "mc": "jazz",
+   "sc": "À l'Old Bailey, une balance JUSTE pèse deux plateaux parfaitement égaux pendant qu'un orchestre de JAZZ joue.",
+   "de": "just ≈ ja(zz)st ; la balance aux plateaux égaux = juste",
+   "fo": "pas de féminin ; fair = juste (plus courant) ; just = aussi « juste, seulement »"
+  },
+  {
+   "n": 83,
+   "it": "dangerous",
+   "eit": "It's dangerous!",
+   "eim": "dangerous",
+   "api": "/ˈdeɪndʒərəs/",
+   "pr": "DÈÏN-dje-res",
+   "mc": "danger",
+   "sc": "Au-dessus des requins de l'aquarium de Londres, un FUNAMBULE PÉRILLEUX avance sous un panneau « DANGER ».",
+   "de": "dangerous ≈ danger(eux) (« DÈÏN-dje-res ») ; le funambule au-dessus des requins = dangereux",
+   "fo": "accent sur DÈÏN ; danger /ˈdeɪndʒə/",
+   "px": [
+    "Careful! It could be dangerous."
+   ]
+  },
+  {
+   "n": 84,
+   "it": "worst",
+   "eit": "It's the worst day of my life.",
+   "eim": "worst",
+   "api": "/wɜːst/",
+   "pr": "OUEURST",
+   "mc": "ouest",
+   "sc": "Après la tempête, un panneau « PIRE » est planté dans un tas de RUINES à l'OUEST de Londres.",
+   "de": "worst ≈ (ou)est ; le panneau dans les ruines = pire",
+   "fo": "bad, worse, worst ; worse = pire (comparatif) ; the worst = le pire",
+   "px": [
+    "I'm expecting the worst."
+   ],
+   "co": [
+    "my worst nightmare",
+    "the worst thing",
+    "at worst"
+   ]
+  },
+  {
+   "n": 85,
+   "it": "cold",
+   "eit": "The water's cold.",
+   "eim": "cold",
+   "api": "/kəʊld/",
+   "pr": "KÔLD",
+   "mc": "colle",
+   "sc": "En plein hiver, FREDDY grelotte, couvert de GIVRE, collé par la COLLE à un banc de Hyde Park.",
+   "de": "cold ≈ col(le) ; Freddy couvert de givre = froid",
+   "fo": "colder ; a cold = un rhume ; I'm cold = j'ai froid",
+   "px": [
+    "It's a bit cold outside.",
+    "I had to wait outside in the cold for hours."
+   ],
+   "co": [
+    "in cold blood",
+    "the Cold War",
+    "a cold drink"
+   ]
+  },
+  {
+   "n": 86,
+   "it": "in love",
+   "eit": "He's in love.",
+   "eim": "in love",
+   "api": "/ɪn ˈlʌv/",
+   "pr": "inn LAV",
+   "mc": "inlavable",
+   "sc": "Un AMOUREUX, des cœurs dans les yeux, offre à sa belle un pull INLAVABLE tricoté main.",
+   "de": "in love ≈ in-lav(able) ; les cœurs dans les yeux = amoureux",
+   "fo": "be in love with sb = être amoureux de qn ; fall in love = tomber amoureux"
+  },
+  {
+   "n": 87,
+   "it": "strong",
+   "eit": "He's strong.",
+   "eim": "strong",
+   "api": "/strɒŋ/",
+   "pr": "STRONG",
+   "mc": "tronc",
+   "sc": "Un HALTÉROPHILE soulève un CHÂTEAU FORT, puis un énorme TRONC de chêne de la forêt de Sherwood.",
+   "de": "strong ≈ (s)tron(c) ; l'haltérophile qui soulève le château fort = fort",
+   "fo": "stronger, strongest ; loud = fort (son) ; good at = fort en",
+   "px": [
+    "I'm not deaf; there's no need to shout so loud.",
+    "He's seen as the strongest man in the party.",
+    "Might is right."
+   ]
+  },
+  {
+   "n": 88,
+   "it": "technical",
+   "eit": "It's a technical term.",
+   "eim": "technical",
+   "api": "/ˈteknɪkl/",
+   "pr": "TÈK-ni-kel",
+   "mc": "technique",
+   "sc": "Dans un club de Shoreditch, un DJ TECHNO règle un appareil très TECHNIQUE couvert de boutons.",
+   "de": "technical ≈ techni(que) (« TÈK-ni-kel ») ; le DJ et son appareil = technique",
+   "fo": "accent sur TÈK ; technique (nom) = la technique"
+  },
+  {
+   "n": 89,
+   "it": "beautiful",
+   "eit": "It's beautiful!",
+   "eim": "beautiful",
+   "api": "/ˈbjuːtɪfl/",
+   "pr": "BIOU-ti-fel",
+   "mc": "bijou",
+   "sc": "Un COUCHER DE SOLEIL MAGNIFIQUE sur la mer de Cornouailles brille comme un BIJOU.",
+   "de": "beautiful ≈ (b)iou-ti-ful → bijou ; le coucher de soleil = magnifique",
+   "fo": "beauty = la beauté ; gorgeous / stunning = magnifique",
+   "px": [
+    "We had beautiful weather."
+   ]
+  },
+  {
+   "n": 90,
+   "it": "sad",
+   "eit": "I'm sad.",
+   "eim": "sad",
+   "api": "/sæd/",
+   "pr": "SAD",
+   "mc": "Sade",
+   "sc": "Sous la pluie de Londres, un CLOWN TRISTE verse une larme en lisant le marquis de SADE.",
+   "de": "sad ≈ Sade ; le clown qui pleure = triste",
+   "fo": "sadder, saddest ; sadness = la tristesse ; upset = contrarié",
+   "px": [
+    "I'm really sad."
+   ]
+  },
+  {
+   "n": 91,
+   "it": "special",
+   "eit": "It's special.",
+   "eim": "special",
+   "api": "/ˈspeʃl/",
+   "pr": "SPÈ-chel",
+   "mc": "spécial",
+   "sc": "Une boîte de thé « ÉDITION SPÉCIALE » du couronnement trône dans la vitrine de Fortnum & Mason.",
+   "de": "special ≈ spécial (« SPÈ-chel ») ; la boîte « ÉDITION SPÉCIALE » = spécial",
+   "fo": "accent sur SPÈ ; especially = surtout",
+   "co": [
+    "a special agent",
+    "special forces",
+    "a special occasion",
+    "special effects"
+   ]
+  },
+  {
+   "n": 92,
+   "it": "angry",
+   "eit": "He's angry.",
+   "eim": "angry",
+   "api": "/ˈæŋɡri/",
+   "pr": "ANG-gri",
+   "mc": "en gris",
+   "sc": "Vêtu EN GRIS, un RABBIN ROUGE DE RAGE tape du pied sur le pavé londonien : il est EN COLÈRE.",
+   "de": "angry ≈ en gri(s) ; le rabbin rouge de rage = en colère",
+   "fo": "angrier ; get angry = se mettre en colère ; cross (UK fam.) = fâché",
+   "px": [
+    "That makes me angry."
+   ]
+  },
+  {
+   "n": 93,
+   "fr": "mêmes (same, pluriel)",
+   "it": "same",
+   "eit": "The same symptoms in every case.",
+   "eim": "same",
+   "api": "/seɪm/",
+   "pr": "SÈÏM",
+   "mc": "Seine",
+   "sc": "Sur les bords de la SEINE comme de la Tamise, des patients alignés montrent tous LES MÊMES boutons rouges.",
+   "de": "same ≈ Sei(ne) ; les patients aux boutons identiques = mêmes",
+   "fo": "invariable : the same ; the same as = le même que"
+  },
+  {
+   "n": 94,
+   "it": "loads of things",
+   "eit": "I've got loads of things to do.",
+   "eim": "loads of things",
+   "api": "/ləʊdz əv ˈθɪŋz/",
+   "pr": "LÔDZ ev THINGZ",
+   "mc": "Lodz",
+   "sc": "Au marché aux puces de Camden, Tantine vide un sac haut comme elle : il en sort PLEIN DE CHOSES, dont un plan de LODZ.",
+   "de": "loads ≈ Lodz ; le sac de Tantine qui déborde = plein de choses",
+   "fo": "loads of / lots of = plein de (fam.) ; a lot of = beaucoup de"
+  },
+  {
+   "n": 95,
+   "it": "lots of books",
+   "eit": "She's got lots of books.",
+   "eim": "lots of books",
+   "api": "/ˈlɒts əv ˈbʊks/",
+   "pr": "LOTS ev BOUKS",
+   "mc": "lots",
+   "sc": "Tantine ploie sous une PILE DE LIVRES plus haute que sa tête, tous gagnés en LOTS à la tombola du village.",
+   "de": "lots ≈ lots ; Tantine sous sa pile de livres = plein de livres",
+   "fo": "lots of = plein de (dénombrable ou non) ; many books = beaucoup de livres"
+  },
+  {
+   "n": 96,
+   "it": "exactly",
+   "eit": "Exactly!",
+   "eim": "Exactly",
+   "api": "/ɪɡˈzæktli/",
+   "pr": "ig-ZAKT-li",
+   "mc": "exact + lit",
+   "sc": "Big Ben sonne l'HEURE EXACTE et un dormeur saute de son LIT pile à l'heure.",
+   "de": "exactly ≈ exact + li(t) ; l'horloge à l'heure exacte = exact",
+   "fo": "exact = exact (adj.) ; exactly! = exact ! ; that's right! = c'est ça !"
+  },
+  {
+   "n": 97,
+   "it": "nice",
+   "eit": "He's nice.",
+   "eim": "nice",
+   "api": "/naɪs/",
+   "pr": "NAÏSS",
+   "mc": "Nice",
+   "sc": "Un VOISIN SYMPATHIQUE apporte des croissants sur le perron… et une carte postale de NICE.",
+   "de": "nice ≈ Nice ; le voisin aux croissants = sympa",
+   "fo": "nice = sympa, agréable ; friendly = aimable ; a nice bloke (UK) = un type sympa"
+  },
+  {
+   "n": 98,
+   "it": "cool",
+   "eit": "That's so cool!",
+   "eim": "cool",
+   "api": "/kuːl/",
+   "pr": "KOUL",
+   "mc": "coule",
+   "sc": "Un type COOL, lunettes noires, croque une figue dont le jus COULE sur son blouson Union Jack.",
+   "de": "cool ≈ coul(e) ; le type aux lunettes noires = cool",
+   "fo": "cool = cool, aussi frais ; fam. UK brilliant, wicked"
+  },
+  {
+   "n": 99,
+   "it": "left-wing",
+   "eit": "He's left-wing.",
+   "eim": "left-wing",
+   "api": "/ˌleft ˈwɪŋ/",
+   "pr": "lèft OUING",
+   "mc": "l'effet + ouin",
+   "sc": "Un PARTI DE GAUCHE à l'air sinistre défile devant Westminster ; L'EFFET est garanti : les badauds font « OUIN ! ».",
+   "de": "left-wing ≈ l'effet + ouin ; le parti à l'air sinistre = de gauche",
+   "fo": "right-wing = de droite ; the left = la gauche ; Labour = les travaillistes"
+  }
+ ]
+}

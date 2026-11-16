@@ -1,0 +1,151 @@
+{
+ "fix": {
+  "3": {
+   "eim": "won the war"
+  },
+  "6": {
+   "it": "to be of use (for doing sth)"
+  },
+  "31": {
+   "eim": "putting|in danger"
+  },
+  "37": {
+   "eim": "Take care of"
+  },
+  "44": {
+   "eim": "end up in prison"
+  },
+  "51": {
+   "eit": "Turn the volume down.",
+   "eim": "Turn the volume down"
+  },
+  "57": {
+   "eim": "Open your eyes"
+  },
+  "63": {
+   "eim": "plays"
+  },
+  "66": {
+   "eim": "Put|on"
+  },
+  "67": {
+   "eim": "discussing"
+  },
+  "70": {
+   "eim": "Make sure"
+  },
+  "77": {
+   "eim": "Open fire"
+  },
+  "84": {
+   "eim": "win the prize"
+  },
+  "94": {
+   "eim": "answer the questions"
+  },
+  "98": {
+   "eim": "Put"
+  }
+ },
+ "li": {
+  "0": "Le naufragé qui SURVIT lance une bouteille qui file jusqu'à la Banque d'Angleterre, en plein HOLD-UP, où tous RETIENNENT leur souffle.",
+  "1": "Le cheval RETENU rue et projette le cocher dans la FILE d'attente du bus rouge, où un volontaire SE PROPOSE aussitôt.",
+  "2": "Le volontaire tend sa main à Churchill, qui en fait un V devant Big Ben : « OUAH ! », il a GAGNÉ LA GUERRE.",
+  "3": "Churchill jette son cigare dans le moteur de la Mini que le mécanicien RÉPARE et FIXE avec sa clé.",
+  "4": "La clé du mécanicien s'envole et frappe la cloche qui SONNE au-dessus du RING de boxe.",
+  "5": "Le boxeur du RING renverse le réveil dans un verre de JUS : il ne SERT plus À RIEN.",
+  "6": "Le verre de JUS roule jusqu'aux gradins du STADE de Wembley et éclabousse les fiches de l'élève qui ÉTUDIE.",
+  "7": "L'élève qui ÉTUDIE lance un DÉ hors du STADE ; il atterrit au pub, devant le timide qui n'OSE pas parler.",
+  "8": "Le DÉ du timide roule jusqu'aux pieds de l'enfant qui GRANDIT et devient GROS comme un garde.",
+  "9": "L'enfant devenu GROS s'assoit sur le sablier lesté de LEST qui DURE des heures.",
+  "10": "Le sablier LESTÉ s'envole au sommet du Snowdon, où l'alpiniste RICHE l'ATTEINT et le plante près de l'Union Jack.",
+  "11": "L'alpiniste RICHE glisse du sommet jusque dans le métro, où le CONTRÔLEUR lui CONTRÔLE son billet.",
+  "12": "Le CONTRÔLEUR siffle et la cavalière crie « GO ! », MONTANT À CHEVAL HORS du RIDEAU de pluie.",
+  "13": "Le cheval saute et pose un sabot sur la POUTRE au bord du terrain de FOOT : on MET LE PIED.",
+  "14": "Le ballon de FOOT rebondit sur la POUTRE et fracasse la cabine rouge où le FAUNE USE le TÉLÉPHONE.",
+  "15": "Le FAUNE raccroche et tend une tasse de thé par l'ANSE à l'élève qui RÉPOND au prof.",
+  "16": "L'élève lance la tasse par l'ANSE dans le seau de la poulie qui NETTOIE la façade de la CLINIQUE.",
+  "17": "Le seau de la CLINIQUE renverse une peau de banane qui CAUSE la chute du gentleman en chapeau melon.",
+  "18": "Le chapeau melon du gentleman roule jusqu'au bobby qui POURSUIT le voleur : CHASSE à l'homme dans Soho.",
+  "19": "Le voleur POURSUIVI se réfugie au tribunal, où le juge en perruque tape du marteau : « Allez, le MEC, une DÉCISION ! »",
+  "20": "Le marteau du juge vole et tombe sur le plateau du serveur, qui SE SERT de lui jusqu'à l'USER.",
+  "21": "Le serveur tend son plateau USÉ à la STAR au ventre VIDE qui MEURT DE FAIM devant le fish and chips.",
+  "22": "La STAR affamée éternue sur l'enrhumé qui crie « GO ! » et ENTRE DANS LA PIÈCE avec son RHUME.",
+  "23": "L'enrhumé éternue si fort qu'il souffle le client du pub, qui donne un ORDRE : il COMMANDE une pizza.",
+  "24": "La pizza COMMANDÉE glisse du pub jusqu'au banc de la CITY où le séducteur est ASSIS.",
+  "25": "Le séducteur ASSIS lance son chapeau melon dans le fauteuil Chesterfield : « INSTALLE-TOI, MEC, fais-toi CONFORTABLE ».",
+  "26": "Le fauteuil Chesterfield se fend en deux comme le SPLIT d'une gymnaste dont les mains SE SÉPARENT.",
+  "27": "La gymnaste en SPLIT envoie du pied un champignon vers l'élève qui POSE UNE QUESTION sur son ASQUE.",
+  "28": "L'élève lance son champignon sur le bonnet en poil d'ours du garde, qui fait un salut plein de RESPECT.",
+  "29": "Le garde salue si fort qu'il effraie le TAON, qui s'enfuit avec un LIVRE et QUITTE LA VILLE.",
+  "30": "Le TAON lâche le LIVRE sur la DINDE en équilibre sur la POUTRE : elle se MET EN DANGER.",
+  "31": "La DINDE tombe de la POUTRE sur le panneau STOP qui EMPÊCHE le chien d'entrer dans le pédiluve.",
+  "32": "Le chien bloqué par le STOP aboie, et le MEC qui casse des NOISETTES FAIT encore plus DE BRUIT.",
+  "33": "Une NOISETTE file jusqu'au curé qui PREND SOIN du malade et LOUCHE sur lui.",
+  "34": "Le curé pose son thé sur le traîneau qui TRAÎNE la valise jusqu'à la DRAGUE de la Tamise.",
+  "35": "La DRAGUE remonte une clé du fond de la Tamise, que le portier utilise pour OUVRIR LA PORTE de l'hôtel.",
+  "36": "La PORTE ouverte laisse passer une bourrasque qui emporte les dormeurs jusqu'au CAIRN en TECK dont on PREND SOIN.",
+  "37": "Une pierre du CAIRN roule sur le comptoir en TECK où le comptable TIENT COMPTE de chaque pièce.",
+  "38": "Le comptable jette ses pièces dans la Jaguar que le voleur au STYLE impeccable VOLE devant le CAR rouge.",
+  "39": "La Jaguar VOLÉE file vers la lande et frôle le randonneur qui crie « HELP ! » et DEMANDE DE L'AIDE.",
+  "40": "L'écho du « HELP ! » traverse la mer jusqu'à la naufragée qui APPELLE À L'AIDE à s'en casser le COL.",
+  "41": "La naufragée agite les bras et crève le ballon du clown qui SURPREND les passants : SURPRISE !",
+  "42": "Le ballon du clown éclate et propulse une clé qui reste COINCÉE dans la porte en STUC de Bath.",
+  "43": "La clé COINCÉE casse ; le voleur plein de HAINE qui la tenait se fait PRISE et FINIT EN PRISON.",
+  "44": "Le voleur s'évade de la Tour de Londres ; l'espion qui GUETTE le voit MONTER EN VOITURE dans l'Aston Martin.",
+  "45": "L'Aston Martin éclabousse Oxford Street et un pickpocket lâche sa PRISE : on PAIE LE PRIX.",
+  "46": "Le PRIX payé s'envole dans une tornade, qui dépose l'enfant qui GUETTE un HOMME et RENTRE À LA MAISON.",
+  "47": "La tornade grossit en cyclone et chaque HOMME crie « GO ! » en RENTRANT CHEZ SOI reconstruire sa case.",
+  "48": "Le cyclone déverse sa pluie sur le lavoir où la lavandière SE LAVE en criant « OUACHE ! ».",
+  "49": "La lavandière lâche son savon, qui glisse jusqu'à la rotule qui ROULE sur la scène du West End.",
+  "50": "La rotule ROULE sur le bouton du volume : une main BAISSE le son, et la musique devient TERNE comme une DUNE.",
+  "51": "Le sable de la DUNE s'abat sur le stand du vendeur épuisé d'AOÛT qui soupire « OUAIS… » : tu me FATIGUES.",
+  "52": "Le vendeur FATIGUÉ jette sa marchandise sur la perruque du juge qui JUGE à l'Old Bailey.",
+  "53": "Le juge tape du marteau sur une bombe qui EXPLOSE en feu d'artifice de Guy Fawkes Night.",
+  "54": "Une fusée du feu d'artifice atterrit sur les valises du porteur au dos vert qui EST CENSÉ partir de Waterloo.",
+  "55": "Le porteur tend une valise à l'HOMME qui porte son ami jusqu'à la case en TECK : il le RAMÈNE À LA MAISON.",
+  "56": "L'ami porté glisse et percute le joueur de hockey, qui OUVRE LES YEUX en criant « AÏE ! ».",
+  "57": "Le palet du hockeyeur file dans la barque en TECK où la mouette tape du BEC : le reporter RAMÈNE le randonneur.",
+  "58": "La mouette s'envole jusqu'à une autre barque en TECK, au bord du CHOTT, où le tireur TIRE UN COUP DE FEU.",
+  "59": "La balle du tireur perce le SAC de l'employé que le patron RENVOIE de la City.",
+  "60": "Le SAC percé lâche des grains de RIZ sur lesquels la corde ricoche jusqu'à un MEMBRE : JE ME SOUVIENS de toi.",
+  "61": "La corde fouette les HARICOTS que la brigade SE DÉPÊCHE de cueillir avant l'averse.",
+  "62": "Un HARICOT vole et se prend dans le PLAID de l'acteur qui A LE RÔLE du méchant.",
+  "63": "L'acteur jette son PLAID sur le court où le joueur de Wimbledon fait un SMASH et BRISE la vitre.",
+  "64": "Les éclats de la vitre BRISÉE tombent dans le verre de JUS que l'hôte tend en PRÉSENTANT son invité.",
+  "65": "L'hôte pose le verre de JUS sur la POUTRE, à côté du vinyle des Beatles qu'on MET sur « ON ».",
+  "66": "Le vinyle glisse de la POUTRE et devient le DISQUE qui CASSE devant les deux amis qui DISCUTENT.",
+  "67": "Un éclat du DISQUE frappe le tricorne du crieur public qui ANNONCE la nouvelle devant Buckingham.",
+  "68": "Le crieur est poussé aux Communes, où son ANNONCE devient un discours ENNUYEUX, mais BEAU.",
+  "69": "Un député ENNUYÉ s'effondre sur l'assureur qui demande « MEC, il fait CHAUD ? » et S'ASSURE que tout va bien.",
+  "70": "L'assureur sort du cottage CHAUD et court sous la pluie jusqu'à l'abbaye où le MOINE SE PLAINT sans arrêt.",
+  "71": "Le MOINE qui SE PLAINT lance son chapelet sur le vieux soldat qu'on ENTERRE avec son BÉRET.",
+  "72": "Le BÉRET du soldat s'envole et se pose sur la malle en TECK que le porteur EMPORTE avec le parapluie.",
+  "73": "Le parapluie du porteur s'ouvre d'un coup devant le tableau où le prof brandit la PREUVE.",
+  "74": "Le prof lance sa PREUVE, qui rebondit sur le rocher derrière lequel l'Indien RECULE dans un MOUVEMENT de BEC.",
+  "75": "L'Indien RECULE contre le mur du cottage que le maçon REFAIT en recousant le RIDEAU.",
+  "76": "Le maçon arrache le RIDEAU et découvre la FAILLE des remparts d'où le canon OUVRE LE FEU.",
+  "77": "Le boulet du canon tombe en pleine BRINGUE, où le reporter RAMÈNE l'Indien par le BEC de sa casquette.",
+  "78": "La casquette de l'Indien s'envole jusqu'à l'Old Bailey et se pose sur le doigt qui ACCUSE le suspect.",
+  "79": "Le doigt ACCUSATEUR pousse le suspect, qui lève la main et ADMET tout devant le bobby.",
+  "80": "Le bobby confisque un ballon et le lance au footballeur, qui DONNE UN COUP DE PIED comme sur un KICK.",
+  "81": "Le ballon frappé atterrit dans le DRAP que la main lâche pour DÉPOSER le passager à King's Cross.",
+  "82": "Le colis tombé du DRAP roule jusqu'au coffre du TRUST de la City, gardé par le chien auquel on SE FIE.",
+  "83": "Le chien fidèle bondit sur le galion où le pirate crie « OUI ! » en GAGNANT LE PRIX d'or.",
+  "84": "Le pirate lance une pièce d'or à l'enfant qui OFFRE une fleur et lance « BYE ! » en payant le café.",
+  "85": "L'enfant jette une poignée de RIZ dans la MAIN qui RAPPELLE un souvenir d'enfance.",
+  "86": "La MAIN lâche son RIZ dans la cuve de l'usine du Kent qui PRODUIT du vin et du JUS.",
+  "87": "Le JUS pétillant gicle sur la corde, qui ricoche sur le RIZ et fouette un MEMBRE : TU TE RAPPELLES de moi ?",
+  "88": "La corde fouette l'éponge mouillée, qui ÉTEINT la bougie : tout devient TERNE, OFF.",
+  "89": "La bougie ÉTEINTE fume, et le vieil État INTERDIT tout et BANNIT les fumeurs du pub.",
+  "90": "Les fumeurs BANNIS se réfugient au kiosque où l'on ENFERME le marchand avant de le charger sur la LOCOmotive.",
+  "91": "La LOCOmotive arrive à Brighton devant le vacancier qui crie « HOLA ! » et lance un DÉ : EN VACANCES.",
+  "92": "Le DÉ du vacancier roule sur le quai, contre le LIVRE, quand le train REPART encore et ENCORE.",
+  "93": "Le LIVRE du quai tombe sur la tasse que le témoin tient par l'ANSE en RÉPONDANT À LA QUESTION.",
+  "94": "Le témoin lance sa tasse dans la tornade qui crie « GO ! », et l'oiseau RETOURNE À L'INTÉRIEUR par le BEC de la cheminée.",
+  "95": "L'oiseau ressort de la cheminée et se pose sur le SINGE-Penseur qui RÉFLÉCHIT au BOUT de la Tamise.",
+  "96": "Le SINGE lance un RADIS sur la ligne de départ, où le sprinteur SE PRÉPARE en le GUETTANT.",
+  "97": "Le sprinteur s'élance et bouscule le placeur, qui PLACE vite le vase sur la POUTRE.",
+  "98": "Le vase tombe de la POUTRE sur le dé géant LAÏQUE de Harrods : « Que DÉSIREZ-VOUS ? »"
+ }
+}

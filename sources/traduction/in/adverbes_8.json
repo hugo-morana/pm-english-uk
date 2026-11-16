@@ -1,0 +1,87 @@
+{
+"room": {
+"id": "adverbes_8",
+"fr": "Les adverbes · étage 8",
+"it": "Gli avverbi · ottavo piano",
+"decor": "salle de théâtre, étage",
+"fam": "adverbes",
+"blocs": null
+},
+"niches": [
+{
+"n": 0,
+"fr": "confusément",
+"it": "confusamente",
+"fo": "anglais : confusedly",
+"mc": "confus",
+"sc": "Un visage confus.",
+"de": "confusamente ≈ « confus »",
+"efr": "Je m'en souviens confusément.",
+"efm": "confusément",
+"eit": "Me lo ricordo confusamente.",
+"eim": "confusamente",
+"scat": "adverbes",
+"th": "grammaire"
+},
+{
+"n": 1,
+"fr": "mensuellement",
+"it": "mensilmente",
+"fo": "anglais : monthly on a monthly basis",
+"mc": "mensuel",
+"sc": "Un calendrier mensuel.",
+"de": "mensilmente ≈ « mensuel »",
+"efr": "On paie mensuellement.",
+"efm": "mensuellement",
+"eit": "Paghiamo mensilmente.",
+"eim": "mensilmente",
+"scat": "adverbes",
+"th": "grammaire"
+},
+{
+"n": 2,
+"fr": "prétentieusement",
+"it": "presuntuosamente",
+"fo": "anglais : boastfully",
+"mc": "présomptueux",
+"sc": "Un paon présomptueux.",
+"de": "presuntuosamente ≈ « présomptueux »",
+"efr": "Il parle prétentieusement.",
+"efm": "prétentieusement",
+"eit": "Parla presuntuosamente.",
+"eim": "presuntuosamente",
+"scat": "adverbes",
+"th": "grammaire"
+},
+{
+"n": 3,
+"fr": "vaniteusement",
+"it": "vanitosamente",
+"fo": "anglais : vainly",
+"mc": "vanité",
+"sc": "Un miroir de vanité.",
+"de": "vanitosamente ≈ « vanité »",
+"efr": "Il se regarde vaniteusement.",
+"efm": "vaniteusement",
+"eit": "Si guarda vanitosamente.",
+"eim": "vanitosamente",
+"scat": "adverbes",
+"th": "grammaire"
+},
+{
+"n": 4,
+"fr": "égoistement",
+"it": "egoisticamente",
+"fo": "anglais : selfishly",
+"mc": "égoïste",
+"sc": "Un égoïste garde tout.",
+"de": "egoisticamente ≈ « égoïste »",
+"efr": "Il agit égoïstement.",
+"efm": "égoïstement",
+"eit": "Agisce egoisticamente.",
+"eim": "egoisticamente",
+"scat": "adverbes",
+"th": "grammaire"
+}
+]
+}

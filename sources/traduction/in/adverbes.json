@@ -1,0 +1,1946 @@
+{
+"room": {
+"id": "adverbes",
+"fr": "Les adverbes",
+"it": "Gli avverbi",
+"decor": "salle de théâtre",
+"fam": "adverbes",
+"blocs": null
+},
+"niches": [
+{
+"n": 0,
+"fr": "ne… pas",
+"frd": "ne [v] pas",
+"it": "non",
+"itd": "non [v]",
+"fo": "non lo so = je ne sais pas",
+"mc": "nonne",
+"sc": "Une nonne traverse la neige en laissant des traces de PAS, l'index levé : « NON, pas ça ! »",
+"de": "non + verbe = ne… pas",
+"efr": "Je sais pas.",
+"efm": "pas",
+"eit": "Non lo so.",
+"eim": "Non lo so",
+"scat": "adverbes_négation",
+"th": "grammaire"
+},
+{
+"n": 1,
+"fr": "pas",
+"frd": "[v] pas",
+"it": "non",
+"itd": "non [v]",
+"fo": "anglais : not",
+"mc": "nonne",
+"sc": "Une nonne pose le pied sur la dalle du couvent et fait un PAS en arrière : « C'est NON, pas ça ! »",
+"de": "non ≈ « nonne »",
+"efr": "C'est pas grave.",
+"efm": "C'est pas",
+"eit": "Non è grave.",
+"eim": "Non è",
+"scat": "adverbes",
+"th": "grammaire"
+},
+{
+"n": 2,
+"fr": "qn ne fait que qc",
+"frd": "[qn] ne [v] que [qc]",
+"fro": "S ne V que C",
+"it": "qcn non fa altro che qcs",
+"itd": "[qcn] non [v] altro che [qcs]",
+"ito": "non S altro che V",
+"fo": "anglais : sb only does sth",
+"mc": "nonne + alto",
+"sc": "Une nonne alto ne chante que des psaumes.",
+"de": "non altro che ≈ « nonne + alto »",
+"efr": "Je ne bois que de l'eau.",
+"efm": "ne bois que de l'eau",
+"eit": "Non bevo altro che acqua.",
+"eim": "Non bevo altro che acqua",
+"k": "tpl",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 3,
+"fr": "bien",
+"it": "bene",
+"fo": "benissimo = très bien",
+"mc": "bénit",
+"sc": "Un prêtre BÉNIT la maison : tout ira BIEN.",
+"de": "bene = bien ; va bene = d'accord",
+"efr": "Ça va bien ?",
+"efm": "bien",
+"eit": "Va bene?",
+"eim": "bene",
+"scat": "adverbes_manière",
+"th": "grammaire",
+"co": [
+"sentire bene"
+]
+},
+{
+"n": 4,
+"fr": "non",
+"it": "no",
+"fo": "no, grazie",
+"mc": "nô",
+"sc": "Un acteur de théâtre NÔ secoue son masque : NON, NON !",
+"de": "no = non (réponse) ; non = ne… pas (devant le verbe)",
+"efr": "Non, merci.",
+"efm": "Non",
+"eit": "No, grazie.",
+"eim": "No",
+"scat": "adverbes_négation",
+"th": "grammaire"
+},
+{
+"n": 5,
+"fr": "plus (davantage)",
+"frd": "plus [adj] (davantage)",
+"it": "più",
+"itd": "più [adj]",
+"fo": "più o meno = plus ou moins",
+"mc": "piou-piou",
+"sc": "Un poussin réclame : « PLUS de grains, piou-piou ! PLUS ! »",
+"de": "più = plus ; di più = davantage",
+"efr": "J'en veux plus.",
+"efm": "plus",
+"eit": "Ne voglio di più.",
+"eim": "più",
+"scat": "adverbes_quantité",
+"th": "nombres"
+},
+{
+"n": 6,
+"fr": "si (réponse à une négation)",
+"it": "sì",
+"fo": "— Non vieni? — Sì! = — Tu ne viens pas ? — Si !",
+"mc": "scie",
+"sc": "« Tu ne coupes plus ? » demande-t-on à la SCIE. Elle se redresse, vexée : « SI ! »",
+"de": "sì = oui et si (avec accent ; sans accent, si = se, on)",
+"efr": "— Tu ne viens pas ? — Si !",
+"efm": "Si",
+"eit": "— Non vieni? — Sì!",
+"eim": "Sì",
+"scat": "adverbes_affirmation",
+"th": "grammaire"
+},
+{
+"n": 7,
+"fr": "il y a longtemps",
+"frd": "il y a [moment]",
+"fro": "il y a C_temps",
+"it": "molto tempo fa",
+"itd": "[moment] fa",
+"ito": "C_temps fa",
+"fo": "anglais : Ctemps ago",
+"mc": "fa (note)",
+"sc": "Une note fa jouée il y a trois jours.",
+"de": "fa ≈ « fa (note) »",
+"efr": "Je l'ai vu il y a trois jours.",
+"efm": "il y a trois jours",
+"eit": "L'ho visto tre giorni fa.",
+"eim": "tre giorni fa",
+"k": "tpl",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 8,
+"fr": "ici",
+"it": "qui (qua)",
+"fo": "vieni qui = viens ici",
+"mc": "qui ?",
+"sc": "« Qui ? » — « Toi ! Viens ICI ! »",
+"de": "qui = ici ; qua (variante)",
+"efr": "Viens ici !",
+"efm": "ici",
+"eit": "Vieni qui!",
+"eim": "qui",
+"scat": "adverbes_lieu",
+"th": "lieux"
+},
+{
+"n": 9,
+"fr": "oui",
+"it": "sì",
+"fo": "sì, certo = oui, bien sûr",
+"mc": "scie",
+"sc": "Une SCIE hoche la lame de haut en bas : « OUI, oui ! »",
+"de": "sì = oui et si (avec accent ; sans accent, si = se, on)",
+"efr": "Oui, je viens.",
+"efm": "Oui",
+"eit": "Sì, vengo.",
+"eim": "Sì",
+"scat": "adverbes_affirmation",
+"th": "grammaire"
+},
+{
+"n": 10,
+"fr": "comme ça",
+"it": "così",
+"fo": "anglais : so this way that way thus like this like that",
+"mc": "cosy",
+"sc": "Un salon cosy : on fait comme ça.",
+"de": "così ≈ « cosy »",
+"efr": "Fais comme ça.",
+"efm": "comme ça",
+"eit": "Fai così.",
+"eim": "così",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 11,
+"fr": "là",
+"it": "lì (là)",
+"fo": "lì vicino = tout près",
+"mc": "lit",
+"sc": "LÀ, sur le LIT : le chat dort.",
+"de": "lì = là ; là = là-bas",
+"efr": "Pose-le là.",
+"efm": "là",
+"eit": "Mettilo lì.",
+"eim": "lì",
+"scat": "adverbes_lieu",
+"th": "grammaire"
+},
+{
+"n": 12,
+"fr": "pourquoi ?",
+"it": "perché ?",
+"fo": "perché no ? = pourquoi pas ?",
+"mc": "perche, quai",
+"sc": "POURQUOI une PERCHE plantée sur le QUAI ? Personne ne sait.",
+"de": "perché ? = pourquoi ? et perché = parce que",
+"efr": "Pourquoi ?",
+"efm": "Pourquoi",
+"eit": "Perché?",
+"eim": "Perché",
+"scat": "adverbes_interrogatifs",
+"th": "grammaire"
+},
+{
+"n": 13,
+"fr": "plus… plus",
+"it": "più… più",
+"fo": "più ci penso, più…",
+"mc": "« piou, piou »",
+"sc": "Plus le piou-piou chante, plus il grandit.",
+"de": "più… più = plus… plus ; meno… meno",
+"efr": "Plus je travaille, plus je gagne.",
+"efm": "Plus",
+"eit": "Più lavoro, più guadagno.",
+"eim": "Più",
+"k": "tpl",
+"scat": "adverbes_corrélation",
+"th": "nombres"
+},
+{
+"n": 14,
+"fr": "pas du tout",
+"it": "per niente",
+"fo": "non mi piace per niente",
+"mc": "« pour rien »",
+"sc": "Un vendeur ne vend pas du tout : « pour rien ! ».",
+"de": "per niente = pas du tout ; affatto",
+"efr": "J'aime pas du tout.",
+"efm": "pas du tout",
+"eit": "Non mi piace per niente.",
+"eim": "per niente",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres",
+"px": [
+[
+"Les pattes, ça ne lui va pas du tout.",
+"Le basette non gli stanno affatto bene."
+]
+]
+},
+{
+"n": 15,
+"fr": "au plus",
+"it": "al massimo",
+"fo": "anglais : at the most at the outside at most",
+"mc": "massif",
+"sc": "Un massif : au plus haut, mille mètres.",
+"de": "al massimo ≈ « massif »",
+"efr": "Ça coûte dix euros au plus.",
+"efm": "au plus",
+"eit": "Costa dieci euro al massimo.",
+"eim": "al massimo",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 16,
+"fr": "qn ne fait rien",
+"frd": "[qn] ne [v] rien",
+"fro": "S ne V rien",
+"it": "qcn non fa niente",
+"itd": "[qcn] non [v] niente",
+"ito": "non S niente",
+"fo": "anglais : sb doesn't does anything sb does nothing",
+"mc": "nier",
+"sc": "Un suspect nie tout : il ne dit rien.",
+"de": "non niente ≈ « nier »",
+"efr": "Je ne vois rien.",
+"efm": "ne vois rien",
+"eit": "Non vedo niente.",
+"eim": "Non vedo niente",
+"k": "tpl",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 17,
+"fr": "tout à fait",
+"it": "proprio",
+"fo": "proprio così = c'est tout à fait ça",
+"mc": "propre",
+"sc": "Tout à fait propre !",
+"de": "proprio = vraiment, tout à fait ; aussi « propre (à soi) »",
+"efr": "C'est tout à fait ça.",
+"efm": "tout à fait",
+"eit": "È proprio così.",
+"eim": "proprio",
+"scat": "locutions_adverbiales",
+"th": "actions",
+"px": [
+[
+"Je suis tout à fait d'accord.",
+"Concordo pienamente."
+],
+[
+"Pas tout à fait.",
+"Non del tutto."
+],
+[
+"Mes craintes n’étaient pas tout à fait injustifiées.",
+"I miei timori non erano del tutto infondati."
+],
+[
+"Ce pneu s’est révélé tout à fait fiable.",
+"Questo pneumatico si è rivelato del tutto affidabile."
+],
+[
+"Je suis tout à fait pour.",
+"Sono del tutto favorevole."
+]
+]
+},
+{
+"n": 18,
+"fr": "qn ne fait pas du tout",
+"frd": "[qn] ne [v] pas du tout",
+"fro": "S ne V pas du tout",
+"it": "qcn non fa per niente",
+"itd": "[qcn] non [v] per niente",
+"ito": "non S per niente",
+"fo": "anglais : sb does not does at all",
+"mc": "perle + nier",
+"sc": "Une perle niée : elle ne brille pas du tout.",
+"de": "non per niente ≈ « perle + nier »",
+"efr": "Je n'aime pas du tout ça.",
+"efm": "n'aime pas du tout",
+"eit": "Non mi piace per niente.",
+"eim": "Non mi piace per niente",
+"k": "tpl",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 19,
+"fr": "qn ne fait pas non plus qc.",
+"frd": "[qn] ne [v] pas non plus [qc].",
+"fro": "S ne V pas non plus C.",
+"it": "qcn non fa neanche",
+"itd": "[qcn] non [v] neanche",
+"ito": "non S neanche V",
+"fo": "anglais : sb doesn't do sth either. neither not either",
+"mc": "néant",
+"sc": "Le néant ne veut pas non plus de café.",
+"de": "non neanche ≈ « néant »",
+"efr": "Je ne veux pas non plus.",
+"efm": "ne veux pas non plus",
+"eit": "Non voglio neanche io.",
+"eim": "Non voglio neanche",
+"k": "tpl",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 20,
+"fr": "très",
+"it": "molto",
+"fo": "molto bene = très bien ; molti = beaucoup de (s'accorde)",
+"mc": "mole, tôt",
+"sc": "Le beurre est déjà MOLle, TÔT le matin : il fait TRÈS chaud.",
+"de": "molto = très (+ adjectif)",
+"efr": "C'est très bon.",
+"efm": "très",
+"eit": "È molto buono.",
+"eim": "molto",
+"scat": "adverbes_intensité",
+"th": "corps"
+},
+{
+"n": 21,
+"fr": "de plus en plus",
+"it": "sempre più",
+"fo": "anglais : increasingly more and more ever more Cadj ever Cadj-er",
+"mc": "semper + pioupiou",
+"sc": "Des pioupious de plus en plus nombreux.",
+"de": "sempre più ≈ « semper + pioupiou »",
+"efr": "Il fait de plus en plus chaud.",
+"efm": "de plus en plus",
+"eit": "Fa sempre più caldo.",
+"eim": "sempre più",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 22,
+"fr": "aussi",
+"it": "anche",
+"fo": "anche se = même si",
+"mc": "hanche",
+"sc": "Moi AUSSI, j'ai mal à la HANCHE !",
+"de": "anche = aussi ; anch'io = moi aussi",
+"efr": "Moi aussi.",
+"efm": "aussi",
+"eit": "Anch'io.",
+"eim": "Anch",
+"scat": "adverbes_comparaison",
+"th": "grammaire",
+"px": [
+[
+"Je le pense aussi.",
+"Lo penso anch'io."
+]
+]
+},
+{
+"n": 23,
+"fr": "ne… plus",
+"frd": "ne [v] plus",
+"it": "non… più",
+"itd": "non [v] più",
+"fo": "non c'è più = il n'y en a plus",
+"mc": "« piou-piou »",
+"sc": "Le piou-piou ne chante plus : « non… più ».",
+"de": "non… più = ne… plus",
+"efr": "Il y en a plus.",
+"efm": "plus",
+"eit": "Non ce n'è più.",
+"eim": "Non ce n'è più",
+"k": "tpl",
+"scat": "adverbes_négation",
+"th": "nombres"
+},
+{
+"n": 24,
+"fr": "jamais",
+"frd": "ne [v] jamais",
+"it": "mai",
+"itd": "non [v] mai",
+"fo": "mai più = plus jamais",
+"mc": "mai",
+"sc": "En MAI, JAMAIS de neige.",
+"de": "mai = jamais ; non… mai = ne… jamais",
+"efr": "Je l'ai jamais vu.",
+"efm": "jamais vu",
+"eit": "Non l'ho mai visto.",
+"eim": "Non l'ho mai",
+"scat": "adverbes_fréquence",
+"th": "temps",
+"px": [
+[
+"On ne sait jamais.",
+"Non si sa mai."
+],
+[
+"Prenez-le, on ne sait jamais.",
+"Lo prenda, non si sa mai."
+],
+[
+"Je n'y ai jamais pensé.",
+"Non ci ho mai pensato."
+],
+[
+"Je ne le ferai jamais.",
+"Non lo farò mai."
+],
+[
+"Il ne s’est jamais résigné à son destin.",
+"Non si è mai rassegnato al suo destino."
+]
+]
+},
+{
+"n": 25,
+"fr": "pas très beau",
+"frd": "pas très [adj]",
+"fro": "pas très C_adj",
+"it": "non molto bello",
+"itd": "non molto [adj]",
+"ito": "non molto C_adj",
+"mc": "nonne molle",
+"sc": "Une nonne molle : pas très active.",
+"de": "non molto ≈ « nonne molle »",
+"efr": "C'est pas très loin.",
+"efm": "pas très loin",
+"eit": "Non è molto lontano.",
+"eim": "Non è molto lontano",
+"k": "tpl",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 26,
+"fr": "à jamais",
+"it": "per sempre",
+"fo": "anglais : for good",
+"mc": "perle + semper",
+"sc": "Une perle gravée « semper » : à jamais.",
+"de": "per sempre ≈ « perle + semper »",
+"efr": "C'est fini à jamais.",
+"efm": "à jamais",
+"eit": "È finita per sempre.",
+"eim": "per sempre",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 27,
+"fr": "tout au plus",
+"it": "tutt'al più",
+"fo": "anglais : at the most at the outside at most at the very most",
+"mc": "tutu + pioupiou",
+"sc": "Un pioupiou en tutu pèse tout au plus un gramme.",
+"de": "tutt'al più ≈ « tutu + pioupiou »",
+"efr": "Il a tout au plus vingt ans.",
+"efm": "tout au plus",
+"eit": "Ha tutt'al più vent'anni.",
+"eim": "tutt'al più",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 28,
+"fr": "de même",
+"it": "lo stesso",
+"fo": "anglais : likewise the same",
+"mc": "lot + steak",
+"sc": "Deux lots de steak : de même.",
+"de": "stesso ≈ « lot + steak »",
+"efr": "Il en va de même pour toi.",
+"efm": "de même",
+"eit": "Vale lo stesso per te.",
+"eim": "lo stesso",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 29,
+"fr": "qn ne fait jamais qc",
+"frd": "[qn] ne [v] jamais [qc]",
+"fro": "S ne V jamais C",
+"it": "qcn non fa mai",
+"itd": "[qcn] non [v] mai",
+"ito": "non S mai V",
+"fo": "anglais : sb never does sth",
+"mc": "mai",
+"sc": "Un mois de mai où il ne pleut jamais.",
+"de": "non mai ≈ « mai »",
+"efr": "Je ne mens jamais.",
+"efm": "ne mens jamais",
+"eit": "Non mento mai.",
+"eim": "Non mento mai",
+"k": "tpl",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 30,
+"fr": "vraiment",
+"it": "davvero",
+"fo": "davvero ? = vraiment ?",
+"mc": "« d'avéré »",
+"sc": "Un espion démasqué, c'est avéré : vraiment !",
+"de": "da + vero = « de vrai »",
+"efr": "Vraiment ?",
+"efm": "Vraiment",
+"eit": "Davvero?",
+"eim": "Davvero",
+"scat": "adverbes_affirmation",
+"th": "pensee",
+"px": [
+[
+"Tu penses vraiment ?",
+"Sei convinto ?"
+],
+[
+"Si tu penses vraiment.",
+"Se la pensi proprio così."
+],
+[
+"T'as vraiment pas eu de pot. T'as vraiment pas eu de bol.",
+"Non hai proprio avuto fortuna."
+]
+]
+},
+{
+"n": 31,
+"fr": "encore",
+"it": "ancora",
+"fo": "ancora una volta = encore une fois",
+"mc": "ancre",
+"sc": "On jette encore l'ancre.",
+"de": "ancora = encore (et l'ancre)",
+"efr": "Encore un peu !",
+"efm": "Encore",
+"eit": "Ancora un po'!",
+"eim": "Ancora",
+"scat": "adverbes_temps",
+"th": "temps"
+},
+{
+"n": 32,
+"fr": "maintenant",
+"it": "adesso (ora)",
+"fo": "per adesso = pour l'instant",
+"mc": "« à des sous »",
+"sc": "Maintenant, on passe à la caisse « à des sous ».",
+"de": "adesso = maintenant ; variante ora",
+"efr": "Maintenant, ça suffit.",
+"efm": "Maintenant",
+"eit": "Adesso basta.",
+"eim": "Adesso",
+"scat": "adverbes_temps",
+"th": "corps"
+},
+{
+"n": 33,
+"fr": "toujours",
+"it": "sempre",
+"fo": "per sempre = pour toujours",
+"mc": "« semper fi »",
+"sc": "Un marin tatoué « SEMPER » : toujours fidèle.",
+"de": "sempre ≈ latin semper",
+"efr": "Je t'aimerai toujours.",
+"efm": "toujours",
+"eit": "Ti amerò sempre.",
+"eim": "sempre",
+"scat": "adverbes_fréquence",
+"th": "temps",
+"px": [
+[
+"Je te l'ai toujours dit.",
+"Te l'ho sempre detto."
+],
+[
+"Il trouve toujours un bon prétexte.",
+"Trova sempre un buon pretesto."
+],
+[
+"En hiver, nous allons toujours dans les Alpes.",
+"D'inverno andiamo sempre sulle Alpi."
+],
+[
+"J’ai toujours eu la fibre paternelle.",
+"Ho sempre avuto l'istinto paterno."
+],
+[
+"Des promesses, toujours des promesses !",
+"Promesse, sempre promesse!"
+]
+]
+},
+{
+"n": 34,
+"fr": "au juste",
+"it": "esattamente",
+"fo": "anglais : exactly",
+"mc": "exactement",
+"sc": "Un compas qui mesure au juste.",
+"de": "esattamente ≈ « exactement »",
+"efr": "Qu'est-ce que tu veux au juste ?",
+"efm": "au juste",
+"eit": "Cosa vuoi esattamente?",
+"eim": "esattamente",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 35,
+"fr": "pas encore",
+"it": "non ancora",
+"fo": "anglais : not yet",
+"mc": "nonne + ancre",
+"sc": "Une nonne n'a pas encore levé l'ancre.",
+"de": "non ancora ≈ « nonne + ancre »",
+"efr": "Il est pas encore là.",
+"efm": "pas encore",
+"eit": "Non è ancora qui.",
+"eim": "ancora",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps",
+"px": [
+[
+"Nous n’avons pas encore épuisé toutes les possibilités.",
+"Non abbiamo ancora esaurito tutte le possibilità."
+]
+]
+},
+{
+"n": 36,
+"fr": "toujours pas",
+"it": "ancora non",
+"fo": "anglais : still not still not yet not yet",
+"mc": "ancre + nonne",
+"sc": "L'ancre et la nonne : toujours pas parties.",
+"de": "ancora non ≈ « ancre + nonne »",
+"efr": "Il est toujours pas rentré.",
+"efm": "toujours pas",
+"eit": "Non è ancora tornato.",
+"eim": "ancora",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps",
+"px": [
+[
+"Il n'a toujours pas compris.",
+"Non ha ancora capito."
+]
+]
+},
+{
+"n": 37,
+"fr": "je ne sais où",
+"it": "chissà dove",
+"fo": "anglais : wherever",
+"mc": "kiss + dos",
+"sc": "Un kiss sur le dos, je ne sais où.",
+"de": "chissà dove ≈ « kiss + dos »",
+"efr": "Il est parti je ne sais où.",
+"efm": "je ne sais où",
+"eit": "È andato chissà dove.",
+"eim": "chissà dove",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 38,
+"fr": "je veux dire",
+"it": "voglio dire",
+"mc": "voile + dire",
+"sc": "Une voile qui veut dire quelque chose.",
+"de": "voglio dire ≈ « voile + dire »",
+"efr": "Je veux dire, c'est bizarre.",
+"efm": "Je veux dire",
+"eit": "Voglio dire, è strano.",
+"eim": "Voglio dire",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "communication",
+"px": [
+[
+"Tu vois ? Tu vois ce que je veux dire ?",
+"Capisci?"
+],
+[
+"Tu vois ce que je veux dire ?",
+"Capisci cosa voglio dire?"
+],
+[
+"Vous voyez ce que je veux dire ?",
+"Capisce cosa voglio dire?"
+]
+]
+},
+{
+"n": 39,
+"fr": "par ici",
+"it": "di qua",
+"fo": "anglais : dans cette direction this way that way over here dans les environs around here",
+"mc": "quai",
+"sc": "Sur le quai : par ici !",
+"de": "di qua ≈ « quai »",
+"efr": "Viens par ici.",
+"efm": "par ici",
+"eit": "Vieni di qua.",
+"eim": "di qua",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "lieux"
+},
+{
+"n": 40,
+"fr": "d’ici là",
+"it": "nel frattempo",
+"fo": "anglais : by then",
+"mc": "frère + tempo",
+"sc": "Un frère bat le tempo d'ici là.",
+"de": "nel frattempo ≈ « frère + tempo »",
+"efr": "D'ici là, repose-toi.",
+"efm": "D'ici là",
+"eit": "Nel frattempo, riposati.",
+"eim": "Nel frattempo",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "lieux"
+},
+{
+"n": 41,
+"fr": "non plus",
+"it": "nemmeno",
+"fo": "nemmeno lui = lui non plus ; nemmeno un euro = pas même un euro",
+"mc": "« n'aime, no ! »",
+"sc": "Lui n'aime pas les épinards et repousse l'assiette ; elle non plus : « N'aime, no ! ».",
+"de": "nemmeno ≈ « n'aime, no » ; synonyme de neanche",
+"efr": "Lui non plus ne le sait pas.",
+"efm": "non plus",
+"eit": "Nemmeno lui lo sa.",
+"eim": "Nemmeno",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 42,
+"fr": "peut-être",
+"it": "forse",
+"fo": "forse sì, forse no",
+"mc": "« force »",
+"sc": "Peut-être qu'il viendra par la force.",
+"de": "forse = peut-être",
+"efr": "Peut-être demain.",
+"efm": "Peut-être",
+"eit": "Forse domani.",
+"eim": "Forse",
+"scat": "adverbes_doute",
+"th": "pensee",
+"px": [
+[
+"Toi peut-être, mais pas moi.",
+"Tu forse ma io no."
+],
+[
+"J'irai peut-être à la campagne.",
+"Forse andrò in campagna."
+]
+]
+},
+{
+"n": 43,
+"fr": "à tout jamais",
+"it": "per sempre",
+"fo": "anglais : evermore",
+"mc": "perle + semper",
+"sc": "Une perle à tout jamais dans l'écrin.",
+"de": "per sempre ≈ « perle + semper »",
+"efr": "Je t'aimerai à tout jamais.",
+"efm": "à tout jamais",
+"eit": "Ti amerò per sempre.",
+"eim": "per sempre",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 44,
+"fr": "qn ne fait pas toujours qc",
+"frd": "[qn] ne [v] pas toujours [qc]",
+"fro": "S ne V pas toujours C",
+"it": "qcn non fa sempre",
+"itd": "[qcn] non [v] sempre",
+"ito": "non sempre S",
+"fo": "anglais : sb doesn't always does sth.",
+"mc": "nonne + semper",
+"sc": "Une nonne n'est pas toujours sage.",
+"de": "non sempre ≈ « nonne + semper »",
+"efr": "Il ne vient pas toujours.",
+"efm": "ne vient pas toujours",
+"eit": "Non viene sempre.",
+"eim": "Non viene sempre",
+"k": "tpl",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 45,
+"fr": "comment ?",
+"it": "come ?",
+"fo": "com'è ? = comment c'est ?",
+"mc": "« comme »",
+"sc": "« Comment ? » demande un perroquet perplexe.",
+"de": "come ? = comment ? ; come stai ? = comment vas-tu ?",
+"efr": "Comment ça va ?",
+"efm": "Comment",
+"eit": "Come va?",
+"eim": "Come",
+"scat": "adverbes_interrogatifs",
+"th": "grammaire",
+"px": [
+[
+"Comment prononcez-vous ça ?",
+"Come si pronuncia?"
+],
+[
+"Comment te sens-tu ?",
+"Come ti senti?"
+],
+[
+"Comment lisez-vous ce caractère ?",
+"Come si legge questo carattere?"
+],
+[
+"Comment tu le sais ?",
+"Come lo sai?"
+],
+[
+"Comment écrivez-vous cela ?",
+"Come si scrive?"
+]
+]
+},
+{
+"n": 46,
+"fr": "par là",
+"it": "di là",
+"fo": "anglais : over there",
+"mc": "là",
+"sc": "Un doigt pointe là-bas : par là.",
+"de": "di là ≈ « là »",
+"efr": "C'est par là.",
+"efm": "par là",
+"eit": "È di là.",
+"eim": "di là",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 47,
+"fr": "je ne sais comment",
+"it": "chissà come",
+"fo": "anglais : somehow somehow or other I don't know how",
+"mc": "kiss + comète",
+"sc": "Un kiss sur une comète, je ne sais comment.",
+"de": "chissà come ≈ « kiss + comète »",
+"efr": "Il a réussi je ne sais comment.",
+"efm": "je ne sais comment",
+"eit": "Ci è riuscito chissà come.",
+"eim": "chissà come",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 48,
+"fr": "non plus",
+"it": "neanche",
+"fo": "anglais : neither / either ; neanche io = moi non plus",
+"mc": "néant",
+"sc": "Deux fantômes flottent dans le néant ; l'un dit « je n'existe pas », l'autre : « moi non plus ».",
+"de": "neanche ≈ « néant »",
+"efr": "Moi non plus.",
+"efm": "non plus",
+"eit": "Neanche io.",
+"eim": "Neanche",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 49,
+"fr": "d'accord",
+"it": "d'accordo (va bene)",
+"fo": "sei d'accordo ? = tu es d'accord ?",
+"mc": "accord",
+"sc": "Deux mains se serrent sur un accord.",
+"de": "d'accordo = d'accord ; va bene = ça va, d'accord",
+"efr": "D'accord, on fait comme ça.",
+"efm": "D'accord",
+"eit": "D'accordo, facciamo così.",
+"eim": "D'accordo",
+"scat": "adverbes_affirmation",
+"th": "grammaire",
+"px": [
+[
+"Est-ce que tu es d'accord ?",
+"Sei d'accordo ?"
+]
+]
+},
+{
+"n": 50,
+"fr": "trop",
+"frd": "trop [adj]",
+"it": "troppo",
+"itd": "troppo [adj]",
+"fo": "troppo tardi = trop tard",
+"mc": "trop",
+"sc": "Une pile trop haute s'écroule.",
+"de": "troppo = trop",
+"efr": "C'est trop cher.",
+"efm": "trop cher",
+"eit": "È troppo caro.",
+"eim": "troppo caro",
+"scat": "adverbes_intensité",
+"th": "nombres",
+"px": [
+[
+"La viande est encore trop cuite !",
+"La carne è ancora troppo cotta!"
+]
+]
+},
+{
+"n": 51,
+"fr": "tout le temps",
+"it": "sempre",
+"fo": "anglais : all the time always continuously constantly",
+"mc": "semper",
+"sc": "Une horloge gravée « semper » : tout le temps.",
+"de": "sempre ≈ « semper »",
+"efr": "Il pleut tout le temps.",
+"efm": "tout le temps",
+"eit": "Piove sempre.",
+"eim": "sempre",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 52,
+"fr": "pas sûr",
+"it": "non sicuro",
+"fo": "anglais : not sure",
+"mc": "nonne + six cœurs",
+"sc": "Une nonne aux six cœurs n'est pas sûre.",
+"de": "non sicuro ≈ « nonne + six cœurs »",
+"efr": "Je suis pas sûr.",
+"efm": "pas sûr",
+"eit": "Non sono sicuro.",
+"eim": "sicuro",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "pensee"
+},
+{
+"n": 53,
+"fr": "un peu plus",
+"it": "un po' di più",
+"fo": "anglais : does a little more a little more Cadj",
+"mc": "pot + pioupiou",
+"sc": "Un pioupiou dans un pot en veut un peu plus.",
+"de": "po' di più ≈ « pot + pioupiou »",
+"efr": "Mange un peu plus.",
+"efm": "un peu plus",
+"eit": "Mangia un po' di più.",
+"eim": "un po' di più",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 54,
+"fr": "en avant",
+"it": "in avanti",
+"fo": "anglais : forward forwards",
+"mc": "avant",
+"sc": "Un soldat marche en avant.",
+"de": "n avanti ≈ « avant »",
+"efr": "Va en avant.",
+"efm": "en avant",
+"eit": "Vai in avanti.",
+"eim": "in avanti",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 55,
+"fr": "quand même",
+"it": "comunque",
+"fo": "comunque sia = quoi qu'il en soit",
+"mc": "« commune »",
+"sc": "La commune a voté quand même.",
+"de": "comunque = quand même, de toute façon",
+"efr": "Merci quand même.",
+"efm": "quand même",
+"eit": "Grazie comunque.",
+"eim": "comunque",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 56,
+"fr": "bien sûr",
+"it": "certo",
+"fo": "ma certo ! = mais bien sûr !",
+"mc": "certifié",
+"sc": "Un tampon « CERTIFIÉ » : bien sûr !",
+"de": "certo ! = bien sûr ! ; variante certamente, ovviamente",
+"efr": "Bien sûr que je viens !",
+"efm": "Bien sûr",
+"eit": "Certo che vengo!",
+"eim": "Certo",
+"scat": "adverbes_affirmation",
+"th": "pensee"
+},
+{
+"n": 57,
+"fr": "beaucoup",
+"it": "molto",
+"fo": "invariable comme adverbe ; molti = beaucoup de (s'accorde)",
+"mc": "« mol, tôt »",
+"sc": "Tôt le matin, un ogre mou engloutit beaucoup de croissants, tout le plateau.",
+"de": "molto = beaucoup (après un verbe)",
+"efr": "Il mange beaucoup.",
+"efm": "beaucoup",
+"eit": "Mangia molto.",
+"eim": "molto",
+"scat": "adverbes_intensité",
+"th": "corps"
+},
+{
+"n": 58,
+"fr": "déjà",
+"it": "già",
+"fo": "di già ? = déjà ?",
+"mc": "déjà",
+"sc": "L'orage est déjà là : « déjà ! ».",
+"de": "già = déjà ; già ! = eh oui !",
+"efr": "T'as déjà fini ?",
+"efm": "déjà",
+"eit": "Hai già finito?",
+"eim": "già",
+"scat": "adverbes_temps",
+"th": "temps",
+"px": [
+[
+"Regarde voir si le facteur est déjà passé.",
+"Vai a vedere se il postino è già passato."
+]
+]
+},
+{
+"n": 59,
+"fr": "pas mal",
+"it": "niente male",
+"fo": "non c'è male = ça va pas mal",
+"mc": "« ni hante mâle »",
+"sc": "Pas mal, rien de mal à ça.",
+"de": "niente male = pas mal ; parecchio = pas mal de",
+"efr": "Pas mal, ton idée !",
+"efm": "Pas mal",
+"eit": "Niente male, la tua idea!",
+"eim": "Niente male",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 60,
+"fr": "de beaucoup",
+"it": "di gran lunga",
+"fo": "anglais : greatly",
+"mc": "grand + lunettes",
+"sc": "De grandes lunettes : de beaucoup plus grandes.",
+"de": "di gran lunga ≈ « grand + lunettes »",
+"efr": "C'est de beaucoup le meilleur.",
+"efm": "de beaucoup",
+"eit": "È di gran lunga il migliore.",
+"eim": "di gran lunga",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "corps"
+},
+{
+"n": 61,
+"fr": "cette fois",
+"it": "questa volta",
+"fo": "anglais : this time",
+"mc": "quête + volte-face",
+"sc": "Une quête volte-face : cette fois, on donne.",
+"de": "questa volta ≈ « quête + volte-face »",
+"efr": "Cette fois, c'est la bonne.",
+"efm": "Cette fois",
+"eit": "Questa volta è quella buona.",
+"eim": "Questa volta",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 62,
+"fr": "mieux",
+"it": "meglio",
+"fo": "è meglio = c'est mieux",
+"mc": "« mêle-y »",
+"sc": "Mieux vaut tout mêler.",
+"de": "meglio = mieux ; migliore = meilleur",
+"efr": "C'est mieux comme ça.",
+"efm": "mieux",
+"eit": "È meglio così.",
+"eim": "meglio",
+"scat": "adverbes_manière",
+"th": "grammaire",
+"px": [
+[
+"Je vais faire de mon mieux.",
+"Farò del mio meglio."
+],
+[
+"Elle a fait de son mieux pour y parvenir.",
+"Ha fatto del suo meglio per riuscirci."
+]
+],
+"co": [
+"sentire meglio"
+]
+},
+{
+"n": 63,
+"fr": "je veux bien moi je veux bien",
+"it": "volentieri",
+"fo": "anglais : fair enough",
+"mc": "volontiers",
+"sc": "« Volontiers ! » : je veux bien.",
+"de": "volentieri ≈ « volontiers »",
+"efr": "Un café ? Je veux bien.",
+"efm": "Je veux bien",
+"eit": "Un caffè? Volentieri.",
+"eim": "Volentieri",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 64,
+"fr": "quelque peu",
+"frd": "quelque peu [adj]",
+"it": "alquanto",
+"itd": "alquanto [adj]",
+"fo": "anglais : somewhat",
+"mc": "alcôve + quand",
+"sc": "Dans une alcôve, quand on est quelque peu fatigué.",
+"de": "alquanto ≈ « alcôve + quand »",
+"efr": "Il est quelque peu fatigué.",
+"efm": "quelque peu fatigué",
+"eit": "È alquanto stanco.",
+"eim": "alquanto stanco",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 65,
+"fr": "comme tout le monde",
+"it": "come tutti",
+"fo": "anglais : just like everyone else like everyone like anybody else",
+"mc": "comète + tutu",
+"sc": "Une comète en tutu, comme tout le monde.",
+"de": "come tutti ≈ « comète + tutu »",
+"efr": "Je fais comme tout le monde.",
+"efm": "comme tout le monde",
+"eit": "Faccio come tutti.",
+"eim": "come tutti",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "lieux"
+},
+{
+"n": 66,
+"fr": "de temps à autre",
+"it": "di tanto in tanto",
+"fo": "anglais : once in a while",
+"mc": "tante + tante",
+"sc": "Ma tante passe de temps à autre.",
+"de": "di tanto in tanto ≈ « tante + tante »",
+"efr": "Je le vois de temps à autre.",
+"efm": "de temps à autre",
+"eit": "Lo vedo di tanto in tanto.",
+"eim": "di tanto in tanto",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 67,
+"fr": "à la maison",
+"it": "a casa",
+"fo": "anglais : home",
+"mc": "case",
+"sc": "Une case : à la maison.",
+"de": "a casa ≈ « case »",
+"efr": "Je suis à la maison.",
+"efm": "à la maison",
+"eit": "Sono a casa.",
+"eim": "a casa",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "maison",
+"px": [
+[
+"Il faut que je rentre à la maison.",
+"Bisogna che torni a casa. (torni ? torno ?)"
+],
+[
+"L’après-midi, je suis toujours à la maison.",
+"Il pomeriggio sono sempre a casa."
+]
+]
+},
+{
+"n": 68,
+"fr": "peu à peu",
+"it": "poco a poco",
+"fo": "anglais : bit by bit little by little step by step gradually",
+"mc": "pot + pot",
+"sc": "Un pot, puis un pot : peu à peu.",
+"de": "poco a poco ≈ « pot + pot »",
+"efr": "Peu à peu, ça va mieux.",
+"efm": "Peu à peu",
+"eit": "Poco a poco va meglio.",
+"eim": "Poco a poco",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 69,
+"fr": "deux fois",
+"it": "due volte",
+"fo": "anglais : twice",
+"mc": "duo + volte",
+"sc": "Un duo fait deux volte-face : deux fois.",
+"de": "due volte ≈ « duo + volte »",
+"efr": "Je l'ai vu deux fois.",
+"efm": "deux fois",
+"eit": "L'ho visto due volte.",
+"eim": "due volte",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres",
+"px": [
+[
+"Il était deux fois plus grand que moi.",
+"Era due volte più alto di me."
+]
+]
+},
+{
+"n": 70,
+"fr": "juste",
+"it": "solo",
+"fo": "synonyme : soltanto",
+"mc": "solo",
+"sc": "Au comptoir, un trompettiste en solo commande juste un café, rien d'autre.",
+"de": "solo = seulement, juste",
+"efr": "Juste un café.",
+"efm": "Juste",
+"eit": "Solo un caffè.",
+"eim": "Solo",
+"scat": "adverbes_spécificatifs",
+"th": "grammaire"
+},
+{
+"n": 71,
+"fr": "ce soir",
+"it": "stasera",
+"fo": "stasera = ce soir",
+"mc": "« ce sera »",
+"sc": "Ce soir, ce sera la fête.",
+"de": "sta(questa) + sera ; stamattina, stanotte",
+"efr": "On se voit ce soir ?",
+"efm": "ce soir",
+"eit": "Ci vediamo stasera?",
+"eim": "stasera",
+"scat": "adverbes_temps",
+"th": "temps",
+"px": [
+[
+"Je n'ai rien à me mettre pour ce soir.",
+"Non ho niente da mettermi per stasera."
+],
+[
+"Qu'est-ce tu veux manger ce soir ?",
+"Cosa vuoi mangiare stasera?"
+],
+[
+"Il faut le rendre avant ce soir.",
+"Bisogna restituirlo entro stasera."
+]
+]
+},
+{
+"n": 72,
+"fr": "de temps en temps",
+"it": "ogni tanto",
+"fo": "di tanto in tanto",
+"mc": "« oignon, tant »",
+"sc": "De temps en temps, un oignon, tant pis.",
+"de": "ogni tanto = de temps en temps",
+"efr": "Je le vois de temps en temps.",
+"efm": "de temps en temps",
+"eit": "Lo vedo ogni tanto.",
+"eim": "ogni tanto",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 73,
+"fr": "en peu de temps",
+"it": "in poco tempo",
+"fo": "anglais : in a short time in no time",
+"mc": "pot + tempo",
+"sc": "Un pot rempli sur un tempo rapide : en peu de temps.",
+"de": "n poco tempo ≈ « pot + tempo »",
+"efr": "Il a appris en peu de temps.",
+"efm": "en peu de temps",
+"eit": "Ha imparato in poco tempo.",
+"eim": "in poco tempo",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 74,
+"fr": "l'autre fois",
+"it": "l'altra volta",
+"fo": "anglais : last time",
+"mc": "alto + volte",
+"sc": "Un alto fait volte-face, comme l'autre fois.",
+"de": "altra volta ≈ « alto + volte »",
+"efr": "L'autre fois, il pleuvait.",
+"efm": "L'autre fois",
+"eit": "L'altra volta pioveva.",
+"eim": "L'altra volta",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 75,
+"fr": "dans peu de temps",
+"it": "tra poco",
+"fo": "anglais : in a short time in a while in a short while in a little while",
+"mc": "trapèze + pot",
+"sc": "Un trapéziste attrape un pot : dans peu de temps.",
+"de": "tra poco ≈ « trapèze + pot »",
+"efr": "Il arrive dans peu de temps.",
+"efm": "dans peu de temps",
+"eit": "Arriva tra poco.",
+"eim": "tra poco",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 76,
+"fr": "moins",
+"frd": "moins [adj]",
+"it": "meno",
+"itd": "meno [adj]",
+"fo": "più o meno = plus ou moins",
+"mc": "« mène, oh »",
+"sc": "Moins de pommes dans le panier.",
+"de": "meno = moins ; meno male = heureusement",
+"efr": "Moins vite !",
+"efm": "Moins vite",
+"eit": "Meno veloce!",
+"eim": "Meno veloce",
+"scat": "adverbes_quantité",
+"th": "nombres"
+},
+{
+"n": 77,
+"fr": "mal",
+"it": "male",
+"fo": "mi fa male = ça me fait mal",
+"mc": "mâle",
+"sc": "Un mâle grimace : ça fait mal.",
+"de": "male = mal ; non c'è male = pas mal",
+"efr": "Ça va mal.",
+"efm": "mal",
+"eit": "Va male.",
+"eim": "male",
+"scat": "adverbes_manière",
+"th": "grammaire"
+},
+{
+"n": 78,
+"fr": "vite",
+"it": "in fretta",
+"fo": "ho fretta = je suis pressé",
+"mc": "fret",
+"sc": "Vite, le fret doit partir !",
+"de": "in fretta = vite, à la hâte ; veloce = rapide",
+"efr": "Viens vite !",
+"efm": "vite",
+"eit": "Vieni in fretta!",
+"eim": "in fretta",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "grammaire",
+"px": [
+[
+"Vous parlez trop vite.",
+"Parla troppo veloce."
+],
+[
+"Vous y arriverez très vite.",
+"Ci arriverà molto presto."
+]
+]
+},
+{
+"n": 79,
+"fr": "pour le moment",
+"it": "per il momento",
+"fo": "anglais : for the time being for now for the moment",
+"mc": "perle + moment",
+"sc": "Une perle de moment : pour le moment.",
+"de": "per il momento ≈ « perle + moment »",
+"efr": "Pour le moment, ça va.",
+"efm": "Pour le moment",
+"eit": "Per il momento va bene.",
+"eim": "Per il momento",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps",
+"px": [
+[
+"Nous n'avons pas le temps d'aborder ce sujet pour le moment.",
+"Non abbiamo tempo di affrontare questo argomento per il momento."
+]
+]
+},
+{
+"n": 80,
+"fr": "pour le moins",
+"it": "a dir poco",
+"mc": "dire + pot",
+"sc": "On dit « pot » : c'est le moins qu'on puisse dire.",
+"de": "a dir poco ≈ « dire + pot »",
+"efr": "C'est bizarre, pour le moins.",
+"efm": "pour le moins",
+"eit": "È strano, a dir poco.",
+"eim": "a dir poco",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 81,
+"fr": "au moins",
+"it": "almeno",
+"fo": "almeno tu = toi au moins",
+"mc": "« à la main »",
+"sc": "Au moins une pomme à la main.",
+"de": "al + meno = au moins",
+"efr": "Au moins, t'es là.",
+"efm": "Au moins",
+"eit": "Almeno ci sei.",
+"eim": "Almeno",
+"scat": "adverbes_quantité",
+"th": "nombres",
+"px": [
+[
+"Tu pourrais au moins faire comme si.",
+"Potresti almeno fare finta."
+],
+[
+"Tu pourrais au moins t’excuser.",
+"Potresti almeno scusarti."
+]
+]
+},
+{
+"n": 82,
+"fr": "en ce moment",
+"it": "in questo momento",
+"fo": "anglais : at the moment",
+"mc": "quête + moment",
+"sc": "Une quête en ce moment même.",
+"de": "n questo momento ≈ « quête + moment »",
+"efr": "Je suis occupé en ce moment.",
+"efm": "en ce moment",
+"eit": "Sono occupato in questo momento.",
+"eim": "in questo momento",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps",
+"px": [
+[
+"Je ne peux pas me le permettre en ce moment.",
+"In questo momento non me lo posso permettere."
+],
+[
+"Êtes-vous occupé en ce moment ?",
+"È occupato in questo momento?"
+],
+[
+"Je n'ai pas de petit ami en ce moment.",
+"Non ho un fidanzato in questo momento."
+]
+]
+},
+{
+"n": 83,
+"fr": "assez",
+"frd": "assez [adj]",
+"it": "abbastanza",
+"itd": "abbastanza [adj]",
+"fo": "abbastanza bene = assez bien",
+"mc": "« à bas, stance »",
+"sc": "Assez de stances : à bas les poèmes !",
+"de": "abbastanza = assez ; basta = ça suffit",
+"efr": "C'est assez !",
+"efm": "assez",
+"eit": "È abbastanza!",
+"eim": "abbastanza",
+"scat": "adverbes_intensité",
+"th": "nombres",
+"px": [
+[
+"Est-ce que tu as assez mangé ?",
+"Hai mangiato abbastanza?"
+],
+[
+"J'ai assez mangé. Et toi ?",
+"Ho mangiato abbastanza. E tu?"
+],
+[
+"Maintenant, j’en ai vraiment assez !",
+"Adesso ne ho davvero abbastanza!"
+]
+]
+},
+{
+"n": 84,
+"fr": "depuis peu",
+"it": "da poco",
+"fo": "anglais : recently",
+"mc": "dada + pot",
+"sc": "Un dada dans un pot depuis peu.",
+"de": "da poco ≈ « dada + pot »",
+"efr": "Il habite ici depuis peu.",
+"efm": "depuis peu",
+"eit": "Abita qui da poco.",
+"eim": "da poco",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 85,
+"fr": "cette nuit",
+"it": "stanotte",
+"fo": "anglais : that night",
+"mc": "star + note",
+"sc": "Une star chante une note cette nuit.",
+"de": "stanotte ≈ « star + note »",
+"efr": "J'ai mal dormi cette nuit.",
+"efm": "cette nuit",
+"eit": "Stanotte ho dormito male.",
+"eim": "Stanotte",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 86,
+"fr": "en tête",
+"it": "in testa",
+"mc": "tête",
+"sc": "Un coureur en tête de la course.",
+"de": "n testa ≈ « tête »",
+"efr": "Il est en tête.",
+"efm": "en tête",
+"eit": "È in testa.",
+"eim": "in testa",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "corps",
+"px": [
+[
+"Ne vous mettez donc pas tant martel en tête.",
+"Non si preoccupi così tanto."
+]
+]
+},
+{
+"n": 87,
+"fr": "une ou deux fois",
+"it": "una o due volte",
+"fo": "anglais : once or twice",
+"mc": "une + duo + volte",
+"sc": "Un duo fait volte-face une ou deux fois.",
+"de": "a o due volte ≈ « une + duo + volte »",
+"efr": "Je l'ai vu une ou deux fois.",
+"efm": "une ou deux fois",
+"eit": "L'ho visto una o due volte.",
+"eim": "una o due volte",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 88,
+"fr": "eh bien",
+"it": "ebbene",
+"fo": "anglais : well right",
+"mc": "ébène",
+"sc": "Une statue d'ébène : « Eh bien ! ».",
+"de": "ebbene ≈ « ébène »",
+"efr": "Eh bien, on y va ?",
+"efm": "Eh bien",
+"eit": "Ebbene, andiamo?",
+"eim": "Ebbene",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 89,
+"fr": "tout au moins",
+"it": "almeno",
+"mc": "alto + menottes",
+"sc": "Un alto aux menottes chante tout au moins.",
+"de": "almeno ≈ « alto + menottes »",
+"efr": "Dis-lui merci, tout au moins.",
+"efm": "tout au moins",
+"eit": "Digli grazie, almeno.",
+"eim": "almeno",
+"scat": "locutions_adverbiales",
+"th": "nombres"
+},
+{
+"n": 90,
+"fr": "demain",
+"it": "domani",
+"fo": "dopodomani = après-demain ; a domani !",
+"mc": "« dos mani(ve) »",
+"sc": "Demain, on portera la manne sur le dos.",
+"de": "domani ≈ « demain » (latin de mane)",
+"efr": "À demain !",
+"efm": "demain",
+"eit": "A domani!",
+"eim": "domani",
+"scat": "adverbes_temps",
+"th": "temps",
+"px": [
+[
+"Tu feras quoi demain ? Qu'est-ce que tu fais demain ? Tu fais quoi demain ? Que feras-tu demain ?",
+"Cosa fai domani?"
+],
+[
+"Qu'est-ce que tu veux faire demain ?",
+"Cosa vuoi fare domani?"
+],
+[
+"Demain, je veux voir mon père.",
+"Domani voglio vedere mio padre."
+],
+[
+"Demain, je t'enverrai un e-mail.",
+"Domani ti manderò un'e-mail."
+]
+]
+},
+{
+"n": 91,
+"fr": "aujourd'hui",
+"it": "oggi",
+"fo": "oggi pomeriggio = cet après-midi",
+"mc": "« Hodgy »",
+"sc": "Un calendrier du jour montre « OGGI ».",
+"de": "oggi ≈ « aujourd'hui » (latin hodie) ; oggigiorno = de nos jours",
+"efr": "Aujourd'hui, il fait beau.",
+"efm": "Aujourd'hui",
+"eit": "Oggi fa bello.",
+"eim": "Oggi",
+"scat": "adverbes_temps",
+"th": "temps",
+"px": [
+[
+"Ni aujourd'hui, ni demain.",
+"Né oggi, né domani."
+],
+[
+"Quel temps fait-il aujourd'hui ?",
+"Che tempo fa oggi?"
+],
+[
+"Qu'est-ce que tu fais aujourd'hui ? Tu fais quoi aujourd'hui ?",
+"Cosa fai oggi?"
+],
+[
+"Il fait très beau aujourd'hui.",
+"Oggi fa molto bello."
+]
+]
+},
+{
+"n": 92,
+"fr": "tant",
+"it": "tanto",
+"fo": "anglais : sb does sth so many sb does sth so much so Cadj",
+"mc": "tante",
+"sc": "Ma tante parle tant !",
+"de": "tanto ≈ « tante »",
+"efr": "Il a tant changé.",
+"efm": "tant",
+"eit": "È cambiato tanto.",
+"eim": "tanto",
+"scat": "adverbes",
+"th": "nombres"
+},
+{
+"n": 93,
+"fr": "l'autre jour",
+"it": "l'altro giorno",
+"fo": "anglais : last time the other day",
+"mc": "alto + journal",
+"sc": "Un alto lit le journal de l'autre jour.",
+"de": "altro giorno ≈ « alto + journal »",
+"efr": "Je l'ai vu l'autre jour.",
+"efm": "l'autre jour",
+"eit": "L'ho visto l'altro giorno.",
+"eim": "l'altro giorno",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 94,
+"fr": "vite fait",
+"it": "velocemente",
+"fo": "anglais : quickly",
+"mc": "vélo",
+"sc": "Un vélo passe vite fait.",
+"de": "velocemente ≈ « vélo »",
+"efr": "Je mange vite fait.",
+"efm": "vite fait",
+"eit": "Mangio velocemente.",
+"eim": "velocemente",
+"scat": "locutions_adverbiales",
+"th": "actions",
+"px": [
+[
+"Je l'ai fait vite fait.",
+"L'ho fatto in fretta."
+]
+]
+},
+{
+"n": 95,
+"fr": "tard",
+"it": "tardi",
+"fo": "più tardi = plus tard ; fare tardi = être en retard",
+"mc": "tardif",
+"sc": "Un retardataire tardif arrive en courant.",
+"de": "tardi ≈ tard, tardif",
+"efr": "Il est tard.",
+"efm": "tard",
+"eit": "È tardi.",
+"eim": "tardi",
+"scat": "adverbes_temps",
+"th": "temps",
+"px": [
+[
+"Avant qu'il ne soit trop tard.",
+"Prima che sia troppo tardi."
+],
+[
+"Je ne t’attendais plus si tard.",
+"Non ti aspettavo più così tardi."
+],
+[
+"Amuse-toi bien, mais ne rentre pas trop tard.",
+"Divertiti, ma non tornare troppo tardi."
+]
+]
+},
+{
+"n": 96,
+"fr": "comme on sait",
+"it": "come sappiamo",
+"fo": "anglais : as we know",
+"mc": "comète + sapin",
+"sc": "Une comète sur un sapin, comme on sait.",
+"de": "come sappiamo ≈ « comète + sapin »",
+"efr": "Comme on sait, c'est difficile.",
+"efm": "Comme on sait",
+"eit": "Come sappiamo, è difficile.",
+"eim": "Come sappiamo",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "grammaire"
+},
+{
+"n": 97,
+"fr": "tant que ça",
+"it": "così tanto",
+"fo": "anglais : that much",
+"mc": "cosy + tante",
+"sc": "Ma tante dans un salon cosy : pas tant que ça.",
+"de": "così tanto ≈ « cosy + tante »",
+"efr": "J'ai pas faim tant que ça.",
+"efm": "tant que ça",
+"eit": "Non ho così tanta fame.",
+"eim": "così tanta",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "nombres",
+"px": [
+[
+"Pas tant que ça.",
+"Non tanta."
+]
+]
+},
+{
+"n": 98,
+"fr": "jusqu'alors",
+"it": "fino ad allora",
+"mc": "fin + allô",
+"sc": "Une fin d'appel : « Allô ? » jusqu'alors silencieux.",
+"de": "fino ad allora ≈ « fin + allô »",
+"efr": "Jusqu'alors, tout allait bien.",
+"efm": "Jusqu'alors",
+"eit": "Fino ad allora andava tutto bene.",
+"eim": "Fino ad allora",
+"k": "loc",
+"scat": "locutions_adverbiales",
+"th": "temps"
+},
+{
+"n": 99,
+"fr": "Avant cela, qn fait qc.",
+"frd": "Avant cela, [qn] [v] [qc].",
+"fro": "Avant cela, S V C.",
+"it": "Prima di questo, qcn fa qcs",
+"itd": "Prima di questo, [qcn] [v] [qcs]",
+"ito": "Prima di questo, S V C",
+"mc": "prime + quête",
+"sc": "Une prime avant la quête : avant cela.",
+"de": "prima di questo ≈ « prime + quête »",
+"efr": "Avant cela, il vivait à Rome.",
+"efm": "Avant cela",
+"eit": "Prima di questo, viveva a Roma.",
+"eim": "Prima di questo",
+"k": "tpl",
+"scat": "locutions_adverbiales",
+"th": "temps"
+}
+]
+}

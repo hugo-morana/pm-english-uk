@@ -1,0 +1,1146 @@
+{
+ "niches": [
+  {
+   "n": 0,
+   "fr": "le, la, les (article défini)",
+   "frd": "le, la, les [n]",
+   "it": "the",
+   "itd": "the [n]",
+   "eit": "The house is big.",
+   "eim": "The house",
+   "api": "/ðə/",
+   "pr": "the",
+   "mc": "thé",
+   "sc": "Au Royal Albert Hall, une diva tient la note « LA » devant le micro, une tasse de THÉ à la main : LA chanteuse, seule et unique.",
+   "de": "the ≈ « thé » ; la diva seule devant le micro = le, la, les (article défini)",
+   "fo": "invariable (genre et nombre) ; /ðiː/ devant voyelle (the apple) ; pas d'article pour les généralités : I like tea"
+  },
+  {
+   "n": 1,
+   "drop": true
+  },
+  {
+   "n": 2,
+   "fr": "un, une (article indéfini)",
+   "frd": "un, une [n]",
+   "it": "a / an",
+   "itd": "a [n] / an [n]",
+   "eit": "I've got a brother.",
+   "eim": "a brother",
+   "api": "/ə/",
+   "pr": "e",
+   "mc": "« euh… »",
+   "sc": "Un doigt levé, tout seul, à la fenêtre d'un bus à impériale : UN… « EUH… », hésite le chauffeur.",
+   "de": "a ≈ « euh » ; le doigt levé tout seul = un, une",
+   "fo": "a + son consonne (a book, a university), an + son voyelle (an apple, an hour) ; one = un (chiffre)"
+  },
+  {
+   "n": 3,
+   "drop": true
+  },
+  {
+   "n": 4,
+   "fr": "mon, ma, mes",
+   "frd": "mon, ma, mes [n]",
+   "it": "my",
+   "itd": "my [n]",
+   "eit": "It's my book.",
+   "eim": "my book",
+   "api": "/maɪ/",
+   "pr": "MAÏ",
+   "mc": "maille",
+   "sc": "Dans une cuisine anglaise, un chat se frotte à mes jambes en jouant avec une pelote de MAILLE : « MON chat ! »",
+   "de": "my ≈ « maille » ; le chat qui se frotte à mes jambes = mon, ma, mes",
+   "fo": "invariable : my book, my house, my friends ; le mien = mine"
+  },
+  {
+   "n": 5,
+   "fr": "ce, cet, cette (…-ci)",
+   "frd": "ce, cette [n]-ci",
+   "it": "this",
+   "itd": "this [n]",
+   "ito": "this",
+   "eit": "This dress is beautiful.",
+   "eim": "This dress",
+   "api": "/ðɪs/",
+   "pr": "THIS",
+   "mc": "« (d)ix »",
+   "sc": "Au réveil dans un B&B, un doigt pointe tout près sur la table de nuit : « C'est quoi, CE truc-CI ? » — il y en a DIX.",
+   "de": "this ≈ « (d)ix » ; le doigt tout près de l'objet = ce …-ci",
+   "fo": "pl. these ; this one = celui-ci ; this morning = ce matin"
+  },
+  {
+   "n": 6,
+   "fr": "ce, cet, cette (…-là)",
+   "frd": "ce, cette [n]-là",
+   "it": "that",
+   "itd": "that [n]",
+   "ito": "that",
+   "eit": "Can you see that car?",
+   "eim": "that car",
+   "api": "/ðæt/",
+   "pr": "THÈT",
+   "mc": "« (j)atte »",
+   "sc": "Au loin, sur un quai de la Tamise, un doigt pointe un tas de cadeaux coiffé d'une grande JATTE : « Quel lot, CE lot-LÀ ! »",
+   "de": "that ≈ « (j)atte » ; le doigt qui pointe au loin = ce …-là",
+   "fo": "pl. those ; that one = celui-là ; aussi « que » (conjonction) et « ça »"
+  },
+  {
+   "n": 7,
+   "drop": true
+  },
+  {
+   "n": 8,
+   "drop": true
+  },
+  {
+   "n": 9,
+   "drop": true
+  },
+  {
+   "n": 10,
+   "fr": "ton, ta, tes",
+   "frd": "ton, ta, tes [n]",
+   "it": "your",
+   "itd": "your [n]",
+   "eit": "Is that your phone?",
+   "eim": "your phone",
+   "api": "/jɔː/",
+   "pr": "YOO",
+   "mc": "yo-yo",
+   "sc": "Dans un jardin anglais, un doigt pointé vers TON chien qui joue au YO-YO : « Il tue, oh ! TON chien tue les poules ! »",
+   "de": "your ≈ « yo(-yo) » ; le doigt pointé vers ton chien = ton, ta, tes",
+   "fo": "invariable ; your = ton ET votre ; le tien = yours ; ≠ you're (= you are)"
+  },
+  {
+   "n": 11,
+   "fr": "des (article indéfini pluriel)",
+   "frd": "des [n]",
+   "it": "some",
+   "itd": "some [n]",
+   "eit": "I've bought some books.",
+   "eim": "some books",
+   "api": "/sʌm/",
+   "pr": "SAM",
+   "mc": "somme (sieste)",
+   "sc": "Sur la table d'un pub où un joueur fait un petit SOMME, plusieurs DÉS roulent : DES six partout !",
+   "de": "some ≈ « somme » ; les dés qui roulent = des",
+   "fo": "souvent omis : I bought books ; any en question / négation (have you got any books?)"
+  },
+  {
+   "n": 12,
+   "drop": true
+  },
+  {
+   "n": 13,
+   "drop": true
+  },
+  {
+   "n": 14,
+   "fr": "son, sa, ses (à lui)",
+   "frd": "son, sa, ses [n] (à lui)",
+   "it": "his",
+   "itd": "his [n]",
+   "eit": "It's his rucksack.",
+   "eim": "his rucksack",
+   "api": "/hɪz/",
+   "pr": "HIZ",
+   "mc": "« (h)isse ! »",
+   "sc": "Au marathon de Londres, un coureur s'arrête : « Il SUE, oh ! SON maillot est trempé ! » — et on le HISSE sur un brancard.",
+   "de": "his ≈ « (h)isse » ; le coureur qui sue dans son maillot = son, sa, ses (à lui)",
+   "fo": "le possesseur décide : his (à lui), her (à elle), its (chose, animal) ; le sien = his ; UK rucksack = sac à dos"
+  },
+  {
+   "n": 15,
+   "drop": true
+  },
+  {
+   "n": 16,
+   "fr": "du, de la, de l' (partitif)",
+   "frd": "du, de la, de l' [n]",
+   "it": "some",
+   "itd": "some [n]",
+   "eit": "Do you want some bread?",
+   "eim": "some bread",
+   "api": "/sʌm/",
+   "pr": "SAM",
+   "mc": "somme (sieste)",
+   "sc": "Au pub, une carafe verse DU vin dans le verre D'ELLE, assoupie pour un petit SOMME.",
+   "de": "some ≈ « somme » ; la carafe qui verse du vin = du, de la (partitif)",
+   "fo": "+ indénombrable : some bread, some water ; any en question neutre / négation : I haven't got any bread"
+  },
+  {
+   "n": 17,
+   "drop": true
+  },
+  {
+   "n": 18,
+   "fr": "beaucoup de",
+   "frd": "beaucoup de [n]",
+   "it": "lots of / a lot of",
+   "itd": "lots of [n]",
+   "eit": "I've got lots of friends.",
+   "eim": "lots of friends",
+   "api": "/ˈlɒts əv/",
+   "pr": "LOTS-ev",
+   "mc": "lots (de tombola)",
+   "sc": "Sur la ligne de départ du Tour of Britain, BEAUCOUP DE cyclistes exhibent leurs mollets musclés en se disputant des LOTS de tombola.",
+   "de": "lots of ≈ « lots » ; la foule de cyclistes = beaucoup de",
+   "fo": "+ pluriel ou indénombrable (lots of work) ; many / much = plus soutenus, surtout en négation (not many, not much)"
+  },
+  {
+   "n": 19,
+   "fr": "bien des",
+   "frd": "bien des [n]",
+   "it": "many",
+   "itd": "many [n]",
+   "eit": "Many tourists visit Rome in the summer.",
+   "eim": "Many tourists",
+   "api": "/ˈmeni/",
+   "pr": "MÈ-ni",
+   "mc": "« mes nids »",
+   "sc": "BIEN DES vieux randonneurs aux mollets noueux gravissent en file indienne un sentier gallois pour admirer MES NIDS d'oiseaux.",
+   "de": "many ≈ « mes ni(ds) » ; la file de vieux randonneurs = bien des",
+   "fo": "many + pluriel ; much + indénombrable ; how many? = combien ?"
+  },
+  {
+   "n": 20,
+   "it": "good",
+   "eit": "It's so good!",
+   "eim": "good",
+   "api": "/ɡʊd/",
+   "pr": "GOUD",
+   "mc": "« goud(ron) »",
+   "sc": "Dans un manoir anglais, un plat si BON que le fantôme du château en reprend… et tache de GOUDRON la nappe blanche.",
+   "de": "good ≈ « goud(ron) » ; le plat dont le fantôme reprend = bon",
+   "fo": "better, best ; good = bon / well = bien (adverbe) ; good morning, good luck",
+   "co": [
+    "good luck",
+    "a good idea",
+    "to have a good time",
+    "good at sth"
+   ]
+  },
+  {
+   "n": 21,
+   "drop": true
+  },
+  {
+   "n": 22,
+   "drop": true
+  },
+  {
+   "n": 23,
+   "it": "a few",
+   "itd": "a few [n]",
+   "eit": "I've got a few friends here.",
+   "eim": "a few friends",
+   "api": "/ə ˈfjuː/",
+   "pr": "e-FIOU",
+   "mc": "« (à l')affût »",
+   "sc": "Sur l'étagère d'un pub, QUELQUES bouteilles d'alcool, pas plus ; le patron reste À L'AFFÛT du moindre voleur.",
+   "de": "a few ≈ « affû(t) » ; les quelques bouteilles sur l'étagère = quelques",
+   "fo": "a few + pluriel ; a little + indénombrable ; few (sans a) = peu de"
+  },
+  {
+   "n": 24,
+   "fr": "son, sa, ses (à elle)",
+   "frd": "son, sa, ses [n] (à elle)",
+   "it": "her",
+   "itd": "her [n]",
+   "eit": "It's her car.",
+   "eim": "her car",
+   "api": "/hɜː/",
+   "pr": "HEU",
+   "mc": "« (h)eure »",
+   "sc": "Une Anglaise compte SES sous dans SA bourse, un œil sur l'HEURE de Big Ben.",
+   "de": "her ≈ « (h)eure » ; la femme qui compte ses sous dans sa bourse = son, sa, ses (à elle)",
+   "fo": "her = son, sa, ses (à elle) ET la / lui (pronom) ; le sien = hers"
+  },
+  {
+   "n": 25,
+   "fr": "votre, vos",
+   "frd": "votre, vos [n]",
+   "it": "your",
+   "itd": "your [n]",
+   "eit": "Your train leaves at eight.",
+   "eim": "Your train",
+   "api": "/jɔː/",
+   "pr": "YOO",
+   "mc": "yo-yo",
+   "sc": "Sous les drapeaux de Wembley, l'équipe adverse brandit VOS trophées : « VOTRE coupe, merci ! » — et s'en sert de YO-YO.",
+   "de": "your ≈ « yo(-yo) » ; l'équipe adverse qui brandit vos trophées = votre, vos",
+   "fo": "your = votre ET ton : l'anglais ne distingue pas tu / vous ; le vôtre = yours"
+  },
+  {
+   "n": 26,
+   "drop": true
+  },
+  {
+   "n": 27,
+   "it": "which",
+   "itd": "which [n]?",
+   "eit": "Which book do you want?",
+   "eim": "Which book",
+   "api": "/wɪtʃ/",
+   "pr": "OUITCH",
+   "mc": "« (k)itsch »",
+   "sc": "Devant le décor KITSCH d'un concours agricole anglais, un jury tend deux pommes et demande : « QUELLE est la meilleure ? »",
+   "de": "which ≈ « (k)itsch » ; le jury qui fait choisir entre deux pommes = quel ? (choix)",
+   "fo": "which = quel (choix limité) ; what = quel (choix ouvert : what time is it?) ; which one? = lequel ?"
+  },
+  {
+   "n": 28,
+   "it": "what a…!",
+   "eit": "What a shame!",
+   "eim": "What a",
+   "api": "/ˈwɒt ə/",
+   "pr": "OUOT-e",
+   "mc": "ouate",
+   "sc": "Sur un quai de Douvres, un touriste emmitouflé dans de la OUATE s'écrie : « QUEL beau bateau ! »",
+   "de": "what a ≈ « ouat(e) » ; le touriste qui s'exclame = quel ! (exclamatif)",
+   "fo": "what a + nom singulier (what a shame!) ; what + pluriel / indénombrable (what lovely weather!) ; how + adj (how nice!)"
+  },
+  {
+   "n": 29,
+   "drop": true
+  },
+  {
+   "n": 30,
+   "drop": true
+  },
+  {
+   "n": 31,
+   "it": "two",
+   "eit": "Two coffees, please.",
+   "eim": "Two",
+   "api": "/tuː/",
+   "pr": "TOU",
+   "mc": "toux",
+   "sc": "Ta radio (02) diffuse un duo de chanteurs de la BBC pris d'une quinte de TOUX à DEUX voix.",
+   "de": "two ≈ « tou(x) » ; le duo de chanteurs = deux",
+   "fo": "second = deuxième ; twice = deux fois ; both = les deux",
+   "px": [
+    "He didn't think twice.",
+    "It's been a bit over two years since I last saw him."
+   ]
+  },
+  {
+   "n": 32,
+   "drop": true
+  },
+  {
+   "n": 33,
+   "drop": true
+  },
+  {
+   "n": 34,
+   "drop": true
+  },
+  {
+   "n": 35,
+   "it": "small",
+   "eit": "He's small, your dog.",
+   "eim": "small",
+   "api": "/smɔːl/",
+   "pr": "SMOOL",
+   "mc": "« (s)moule »",
+   "sc": "Au bord de la plage de Brighton, une minuscule flûte piccolo joue, toute PETITE, posée sur une MOULE.",
+   "de": "small ≈ « (s)moul(e) » ; la flûte minuscule = petit",
+   "fo": "smaller, smallest ; little = petit (affectif : a little girl) ; short = petit (taille d'une personne)",
+   "px": [
+    "We had to scrape him off the floor."
+   ],
+   "co": [
+    "a small town",
+    "small change",
+    "a small amount",
+    "small talk"
+   ]
+  },
+  {
+   "n": 36,
+   "fr": "ces (…-là)",
+   "frd": "ces [n]-là",
+   "it": "those",
+   "itd": "those [n]",
+   "eit": "Those people are mad.",
+   "eim": "Those people",
+   "api": "/ðəʊz/",
+   "pr": "THÉOUZ",
+   "mc": "« (d)ose »",
+   "sc": "Sur le quai d'en face, à la gare de Waterloo, CES GENS-LÀ attendent le dernier train en avalant une DOSE de café.",
+   "de": "those ≈ « (d)ose » ; les gens sur le quai d'en face = ces …-là",
+   "fo": "pluriel de that ; those who = ceux qui"
+  },
+  {
+   "n": 37,
+   "it": "sure",
+   "eit": "You sure?",
+   "eim": "sure",
+   "api": "/ʃɔː/",
+   "pr": "CHOO",
+   "mc": "chaud",
+   "sc": "Dans un black cab, une ceinture de sécurité claque : on est SÛR… et il fait CHAUD.",
+   "de": "sure ≈ « chau(d) » ; la ceinture qui claque = sûr",
+   "fo": "to make sure = s'assurer ; sure! = bien sûr ! ; safe = sûr (sans danger)",
+   "px": [
+    "I have it on good authority."
+   ],
+   "co": [
+    "for sure",
+    "to make sure",
+    "I'm not sure",
+    "sure enough"
+   ]
+  },
+  {
+   "n": 38,
+   "it": "alone",
+   "eit": "I'm all alone.",
+   "eim": "alone",
+   "api": "/əˈləʊn/",
+   "pr": "e-LÉOUN",
+   "mc": "« allons ! »",
+   "sc": "Un guitariste joue un solo, SEUL sur la scène d'un pub vide, et crie « ALLONS ! » à un public qui n'est pas là.",
+   "de": "alone ≈ « allon(s) » ; le guitariste seul sur scène = seul",
+   "fo": "alone = seul (sans personne) ; lonely = seul (qui souffre de solitude) ; only = seul (unique : the only one)",
+   "px": [
+    "On one condition.",
+    "You'll never manage it on your own."
+   ]
+  },
+  {
+   "n": 39,
+   "drop": true
+  },
+  {
+   "n": 40,
+   "it": "true",
+   "eit": "It's true!",
+   "eim": "true",
+   "api": "/truː/",
+   "pr": "TROU",
+   "mc": "trou",
+   "sc": "À Scotland Yard, un détecteur de mensonges affiche « VRAI »… puis tombe dans un TROU du plancher.",
+   "de": "true ≈ « trou » ; le détecteur qui affiche « vérité » = vrai",
+   "fo": "the truth = la vérité ; is that right? = c'est vrai ? ; really? = vraiment ?"
+  },
+  {
+   "n": 41,
+   "it": "fair",
+   "eit": "That's fair.",
+   "eim": "fair",
+   "api": "/feə/",
+   "pr": "FÈR",
+   "mc": "fer",
+   "sc": "Devant le tribunal d'Old Bailey trône une balance de justice en FER, parfaitement équilibrée : c'est JUSTE.",
+   "de": "fair ≈ « fer » ; la balance équilibrée = juste",
+   "fo": "unfair = injuste ; c'est juste (exact) = that's right ; juste (seulement) = just",
+   "co": [
+    "it's not fair",
+    "a fair price",
+    "fair enough",
+    "to be fair"
+   ]
+  },
+  {
+   "n": 42,
+   "it": "another / other",
+   "itd": "another [n]",
+   "eit": "Another coffee?",
+   "eim": "Another coffee",
+   "api": "/əˈnʌðə/",
+   "pr": "e-NA-the",
+   "mc": "« Anna, thé ? »",
+   "sc": "Un altruiste tend L'AUTRE moitié de son sandwich à ANNA, qui réclame un AUTRE THÉ.",
+   "de": "another ≈ « Anna-thé » ; l'altruiste qui tend l'autre moitié = autre",
+   "fo": "another = un autre (en un mot) ; other + pluriel (other people) ; the other = l'autre ; each other = l'un l'autre",
+   "px": [
+    "There's no other option.",
+    "I'll look into another option.",
+    "There's nothing left for me to do but wait."
+   ]
+  },
+  {
+   "n": 43,
+   "it": "a bit more sth",
+   "itd": "a bit more [sth]",
+   "ito": "a bit more C",
+   "eit": "I want a bit more time.",
+   "eim": "a bit more time",
+   "api": "/ə ˈbɪt ˈmɔː/",
+   "pr": "e-BIT-MOO",
+   "mc": "« (h)abit maure »",
+   "sc": "Dans une volière de Kew Gardens, un pioupiou en HABIT MAURE ajoute UN PEU PLUS DE grain dans le pot.",
+   "de": "a bit more ≈ « (h)abit maure » ; le pioupiou qui ajoute du grain = un peu plus de",
+   "fo": "a bit more = a little more ; a bit = un peu (fam. UK)"
+  },
+  {
+   "n": 44,
+   "fr": "notre, nos",
+   "frd": "notre, nos [n]",
+   "it": "our",
+   "itd": "our [n]",
+   "eit": "Our flat is small.",
+   "eim": "Our flat",
+   "api": "/ˈaʊə/",
+   "pr": "AOU-e",
+   "mc": "août",
+   "sc": "Sous la pluie d'AOÛT à Wembley, NOTRE équipe brandit NOS trophées.",
+   "de": "our ≈ « aoû(t) » ; notre équipe qui brandit nos trophées = notre, nos",
+   "fo": "invariable : our flat, our friends ; le nôtre = ours ; UK flat = US apartment"
+  },
+  {
+   "n": 45,
+   "drop": true
+  },
+  {
+   "n": 46,
+   "fr": "peu de",
+   "frd": "peu de [n]",
+   "it": "not much",
+   "itd": "not much [n]",
+   "eit": "I haven't got much time.",
+   "eim": "much time",
+   "api": "/ˈnɒt ˈmʌtʃ/",
+   "pr": "not-MATCH",
+   "mc": "match",
+   "sc": "Avant un MATCH de cricket, un petit pot presque vide : il reste PEU DE miel au fond pour les joueurs.",
+   "de": "much ≈ « match » ; le pot presque vide = peu de",
+   "fo": "not much + indénombrable ; not many + pluriel ; little / few = peu de (plus soutenu)"
+  },
+  {
+   "n": 47,
+   "fr": "trop de",
+   "frd": "trop de [n]",
+   "it": "too much",
+   "itd": "too much [n]",
+   "eit": "There's too much noise.",
+   "eim": "too much noise",
+   "api": "/tuː ˈmʌtʃ/",
+   "pr": "tou-MATCH",
+   "mc": "« tout match »",
+   "sc": "Au pub, pendant un MATCH, un verre de bière déborde : TROP DE bière, TOUT le comptoir est trempé.",
+   "de": "too much ≈ « tou(t) match » ; le verre qui déborde = trop de",
+   "fo": "too much + indénombrable ; too many + pluriel (too many people) ; too + adj = trop (too big)"
+  },
+  {
+   "n": 48,
+   "drop": true
+  },
+  {
+   "n": 49,
+   "drop": true
+  },
+  {
+   "n": 50,
+   "drop": true
+  },
+  {
+   "n": 51,
+   "it": "quite a lot of sth",
+   "itd": "quite a lot of [sth]",
+   "ito": "quite a lot of C",
+   "eit": "I've got quite a lot of stuff to do.",
+   "eim": "quite a lot of stuff",
+   "api": "/ˈkwaɪt ə ˈlɒt əv/",
+   "pr": "KOUAÏT-e-LOT-ev",
+   "mc": "« Koweït, à lots »",
+   "sc": "Un sac rapporté du KOWEÏT, plein à craquer, contient PAS MAL DE pommes du Kent vendues en LOTS.",
+   "de": "quite a lot ≈ « Koweït (à) lot » ; le sac bien plein = pas mal de",
+   "fo": "quite a lot of / quite a few (+ pluriel) ; UK fam. : loads of = plein de ; stuff = des trucs (indénombrable)"
+  },
+  {
+   "n": 52,
+   "drop": true
+  },
+  {
+   "n": 53,
+   "drop": true
+  },
+  {
+   "n": 54,
+   "it": "big",
+   "eit": "It's a big house.",
+   "eim": "big",
+   "api": "/bɪɡ/",
+   "pr": "BIG",
+   "mc": "bigoudi",
+   "sc": "Un géant GRAND comme un immeuble se promène dans la City, la tête couverte de BIGOUDIS.",
+   "de": "big ≈ « big(oudi) » ; le géant grand comme un immeuble = grand",
+   "fo": "bigger, biggest ; grand (personne) = tall ; great = grand (important : a great man)",
+   "px": [
+    "It's high time."
+   ],
+   "co": [
+    "a big house",
+    "a big mistake",
+    "big brother",
+    "a big deal"
+   ]
+  },
+  {
+   "n": 55,
+   "it": "all",
+   "eit": "I work all day.",
+   "eim": "all day",
+   "api": "/ɔːl/",
+   "pr": "OOL",
+   "mc": "hall (de gare)",
+   "sc": "Dans le HALL de la gare de King's Cross, TOUT le monde se lève tôt : « TOUT, tôt ! »",
+   "de": "all ≈ « (h)all » ; tout le monde levé tôt = tout (le, la, les)",
+   "fo": "all day = toute la journée ; all the time = tout le temps ; the whole day = toute la journée ; everything = tout (pronom)",
+   "px": [
+    "I did it in a rush. I did it quickly. I did it in a real hurry.",
+    "You've scooped all the prizes.",
+    "Now I've seen everything!",
+    "I caught a cold and coughed all morning.",
+    "Why do you do everything wrong?",
+    "I'll manage on my own.",
+    "He's the spitting image of his dad.",
+    "The whole coast stinks of oil.",
+    "He thinks the world of him.",
+    "I take back everything I said.",
+    "It's been served up every which way."
+   ]
+  },
+  {
+   "n": 56,
+   "drop": true
+  },
+  {
+   "n": 57,
+   "it": "beautiful",
+   "eit": "It's a beautiful day.",
+   "eim": "beautiful",
+   "api": "/ˈbjuːtɪfəl/",
+   "pr": "BIOU-ti-fel",
+   "mc": "« bi(j)outier fou »",
+   "sc": "Dans la vitrine d'un BIJOUTIER FOU de Bond Street, un paon fait la roue, BEAU comme tout.",
+   "de": "beautiful ≈ « bi(j)outi(er) fou » ; le paon qui fait la roue = beau",
+   "fo": "beau (homme) = handsome, good-looking ; il fait beau = it's nice, it's a lovely day ; lovely (UK) = beau, charmant",
+   "px": [
+    "You're really beautiful.",
+    "You're really handsome.",
+    "That'll be the day!"
+   ],
+   "co": [
+    "a beautiful day",
+    "a beautiful woman",
+    "beautifully done"
+   ]
+  },
+  {
+   "n": 58,
+   "drop": true
+  },
+  {
+   "n": 59,
+   "drop": true
+  },
+  {
+   "n": 60,
+   "fr": "ces (…-ci)",
+   "frd": "ces [n]-ci",
+   "it": "these",
+   "itd": "these [n]",
+   "eit": "These books are mine.",
+   "eim": "These books",
+   "api": "/ðiːz/",
+   "pr": "THIIZ",
+   "mc": "thèse",
+   "sc": "Au premier rang d'un amphi d'Oxford, CES élèves-CI posent des questions sur une THÈSE énorme.",
+   "de": "these ≈ « thèse » ; les élèves-ci du premier rang = ces …-ci",
+   "fo": "pluriel de this ; these days = ces temps-ci"
+  },
+  {
+   "n": 61,
+   "drop": true
+  },
+  {
+   "n": 62,
+   "drop": true
+  },
+  {
+   "n": 63,
+   "it": "last",
+   "eit": "It's the last time.",
+   "eim": "last",
+   "api": "/lɑːst/",
+   "pr": "LAAST",
+   "mc": "lasse",
+   "sc": "Le DERNIER wagon d'un train qui longe la Tamise porte un panneau « ULTIMATUM », tiré par une locomotive LASSE.",
+   "de": "last ≈ « las(se) » ; le dernier wagon = dernier",
+   "fo": "last = dernier (final, ou précédent : last week = la semaine dernière) ; latest = le plus récent (the latest news)",
+   "px": [
+    "His latest speech really impressed me."
+   ],
+   "co": [
+    "last night",
+    "last week",
+    "the last time",
+    "at last"
+   ]
+  },
+  {
+   "n": 64,
+   "it": "less sth",
+   "itd": "less [sth]",
+   "ito": "less C",
+   "eit": "Eat less sugar.",
+   "eim": "less sugar",
+   "api": "/les/",
+   "pr": "LÈS",
+   "mc": "laisse",
+   "sc": "Dans la Tour de Londres, des menottes reliées à une LAISSE : MOINS DE liberté pour le prisonnier.",
+   "de": "less ≈ « laisse » ; les menottes = moins de",
+   "fo": "less + indénombrable ; fewer + pluriel (fewer people), mais less s'entend souvent à l'oral ; less than = moins que"
+  },
+  {
+   "n": 65,
+   "drop": true
+  },
+  {
+   "n": 66,
+   "drop": true
+  },
+  {
+   "n": 67,
+   "drop": true
+  },
+  {
+   "n": 68,
+   "fr": "tous les, toutes les (chaque)",
+   "frd": "tous les [n]",
+   "it": "every",
+   "itd": "every [n]",
+   "eit": "I go running every day.",
+   "eim": "every day",
+   "api": "/ˈevri/",
+   "pr": "ÈV-ri",
+   "mc": "Évry",
+   "sc": "TOUS LES danseurs en tutu prennent chaque matin le même train d'ÉVRY pour aller danser à Covent Garden.",
+   "de": "every ≈ « Évry » ; tous les danseurs en tutu = tous les",
+   "fo": "every + singulier (every day, every week) ; everyone = tout le monde ; everything = tout"
+  },
+  {
+   "n": 69,
+   "drop": true
+  },
+  {
+   "n": 70,
+   "it": "no",
+   "eit": "No problem!",
+   "eim": "No",
+   "api": "/nəʊ/",
+   "pr": "NÉOU",
+   "mc": "« no(n) ! »",
+   "sc": "Sur le Loch Ness, AUCUN son, AUCUNE trace du monstre : un panneau planté dans l'eau dit simplement « NO ».",
+   "de": "no ≈ « no(n) » ; le Loch Ness sans aucune trace = aucun",
+   "fo": "no + nom (no problem, no idea) ; not any = aucun (I haven't got any) ; none = aucun (pronom)"
+  },
+  {
+   "n": 71,
+   "it": "same",
+   "eit": "We're the same age.",
+   "eim": "same",
+   "api": "/seɪm/",
+   "pr": "SÉÏM",
+   "mc": "sème",
+   "sc": "Dans un jardin anglais, deux jumeaux portent le MÊME pull et SÈMENT les MÊMES graines au même rythme.",
+   "de": "same ≈ « sèm(e) » ; les jumeaux au même pull = même",
+   "fo": "toujours avec the : the same ; the same as = le même que ; même (adverbe) = even",
+   "px": [
+    "It comes to the same thing.",
+    "With you, it's always the same old story.",
+    "He doesn't even know his neighbour's name."
+   ]
+  },
+  {
+   "n": 72,
+   "drop": true
+  },
+  {
+   "n": 73,
+   "it": "first",
+   "eit": "It's the first time.",
+   "eim": "first",
+   "api": "/fɜːst/",
+   "pr": "FEUST",
+   "mc": "Faust",
+   "sc": "Sur la ligne d'arrivée d'Ascot, le PREMIER de la course reçoit une prime des mains de FAUST, qui lui réclame son âme en échange.",
+   "de": "first ≈ « Fau(r)st » ; le premier qui reçoit une prime = premier",
+   "fo": "1st ; first name = prénom ; at first = au début ; firstly = premièrement",
+   "px": [
+    "Neither of them wants to make the first move.",
+    "Any fool will tell you that."
+   ]
+  },
+  {
+   "n": 74,
+   "it": "three",
+   "eit": "I've got three kids.",
+   "eim": "three",
+   "api": "/θriː/",
+   "pr": "THRII",
+   "mc": "« (f)rit »",
+   "sc": "Ton râteau (03) ratisse un trèfle à TROIS feuilles, aussitôt FRIT dans l'huile d'un stand de fish and chips.",
+   "de": "three ≈ « (f)ri(t) » ; le trèfle à trois feuilles = trois",
+   "fo": "third = troisième ; th = langue entre les dents",
+   "px": [
+    "Things come in threes.",
+    "I waited three quarters of an hour at the bus stop.",
+    "I'll pick you up at three.",
+    "His name came up three times.",
+    "I got it for next to nothing."
+   ]
+  },
+  {
+   "n": 75,
+   "it": "shit / crap",
+   "eit": "It's a shit job.",
+   "eim": "shit",
+   "api": "/ʃɪt/",
+   "pr": "CHIT",
+   "mc": "« chi(otte) »",
+   "sc": "Un catcheur payé trois sous nettoie les CHIOTTES d'un pub de Manchester : un BOULOT DE MERDE.",
+   "de": "shit ≈ « chi(otte) » ; le catcheur mal payé = de merde",
+   "fo": "vulgaire, devant le nom ; plus doux : crap, rubbish (a rubbish job)"
+  },
+  {
+   "n": 76,
+   "it": "by yourself / on your own",
+   "eit": "I did it all by myself.",
+   "eim": "all by myself",
+   "api": "/baɪ jɔːˈself/",
+   "pr": "baï-yoo-SÈLF",
+   "mc": "self(-service)",
+   "sc": "Au SELF d'une gare anglaise, un musicien joue son solo TOUT SEUL, sans personne pour l'accompagner.",
+   "de": "by yourself ≈ « (bail) self » ; le musicien qui joue seul = tout seul",
+   "fo": "by myself / by yourself / by himself… ; on my own = synonyme ; alone = seul (sans compagnie)"
+  },
+  {
+   "n": 77,
+   "it": "how many / how much",
+   "itd": "how many [n]?",
+   "eit": "How many brothers have you got?",
+   "eim": "How many brothers",
+   "api": "/haʊ ˈmeni/",
+   "pr": "haou-MÈ-ni",
+   "mc": "« (h)oux, mes nids »",
+   "sc": "Sous un buisson de HOUX où l'on a caché MES NIDS, une balance de marché pèse une quantité de pommes : COMBIEN ?",
+   "de": "how many ≈ « (h)ou(x) mes nids » ; la balance qui pèse = combien ?",
+   "fo": "how many + pluriel ; how much + indénombrable ou prix (how much is it?) ; how long? = combien de temps ?",
+   "px": [
+    "How much is it altogether?",
+    "How much is this flying jacket?"
+   ]
+  },
+  {
+   "n": 78,
+   "it": "sorry",
+   "eit": "I'm really sorry.",
+   "eim": "sorry",
+   "api": "/ˈsɒri/",
+   "pr": "SO-ri",
+   "mc": "« sauri(en) »",
+   "sc": "Un garçon DÉSOLÉ tend à sa grand-mère anglaise un vase cassé d'où s'échappe un petit SAURIEN.",
+   "de": "sorry ≈ « sauri(en) » ; le garçon qui tend le vase cassé = désolé",
+   "fo": "sorry? = pardon ? (je n'ai pas entendu) ; to feel sorry for sb = plaindre qn ; I'm afraid… = je regrette",
+   "px": [
+    "Sorry, I'm snowed under.",
+    "We don't do that any more, sorry.",
+    "I'm really sorry."
+   ]
+  },
+  {
+   "n": 79,
+   "drop": true
+  },
+  {
+   "n": 80,
+   "it": "ready",
+   "eit": "You ready?",
+   "eim": "ready",
+   "api": "/ˈredi/",
+   "pr": "RÈ-di",
+   "mc": "« (ra)dis »",
+   "sc": "Dans un stade anglais, un coureur PRÊT, prompt à bondir dans les starting-blocks, serre un RADIS entre les dents.",
+   "de": "ready ≈ « (ra)dis » ; le coureur dans les starting-blocks = prêt",
+   "fo": "to get ready = se préparer ; ready-made = tout fait ; un prêt = a loan",
+   "px": [
+    "God willing."
+   ]
+  },
+  {
+   "n": 81,
+   "drop": true
+  },
+  {
+   "n": 82,
+   "it": "all (of) the sth",
+   "itd": "all (of) the [n]",
+   "ito": "all (of) the C",
+   "eit": "All of the pupils are here.",
+   "eim": "All of the pupils",
+   "api": "/ɔːl əv ðə/",
+   "pr": "OOL-ev-the",
+   "mc": "hall",
+   "sc": "Dans le HALL d'un musée londonien, L'ENSEMBLE DES pièces d'un puzzle géant de Big Ben est enfin assemblé.",
+   "de": "all of the ≈ « (h)all » ; le puzzle assemblé = l'ensemble des",
+   "fo": "all of the pupils = all the pupils ; the whole + singulier = l'ensemble de (the whole class) ; UK pupil = élève"
+  },
+  {
+   "n": 83,
+   "it": "part of sth",
+   "itd": "part of [sth]",
+   "ito": "part of C",
+   "eit": "Part of the money has been lost.",
+   "eim": "Part of the money",
+   "api": "/ˈpɑːt əv/",
+   "pr": "PAAT-ev",
+   "mc": "pâte",
+   "sc": "Au pub, on coupe le jeu d'une PARTIE DE cartes étalée sur une PÂTE à tarte.",
+   "de": "part ≈ « pât(e) » ; on coupe le jeu de cartes = une partie de",
+   "fo": "part of (sans article) ; some of = une partie de, certains de ; partly = en partie"
+  },
+  {
+   "n": 84,
+   "drop": true
+  },
+  {
+   "n": 85,
+   "it": "mad",
+   "eit": "You're mad!",
+   "eim": "mad",
+   "api": "/mæd/",
+   "pr": "MÈD",
+   "mc": "« méd(ecin) »",
+   "sc": "Dans les rues de Londres, un FOU coiffé d'un entonnoir poursuit un MÉDECIN en criant « je suis pas sot ! ».",
+   "de": "mad ≈ « mèd(ecin) » ; le fou à l'entonnoir = fou",
+   "fo": "UK mad = fou (US crazy) ; mad about = fou de ; US mad = en colère",
+   "px": [
+    "Have you gone mad?",
+    "He must have spent a fortune.",
+    "It took him ages.",
+    "Have you lost your mind?"
+   ]
+  },
+  {
+   "n": 86,
+   "drop": true
+  },
+  {
+   "n": 87,
+   "drop": true
+  },
+  {
+   "n": 88,
+   "fr": "encore de",
+   "frd": "encore de [n]",
+   "it": "some more",
+   "itd": "some more [n]",
+   "eit": "Do you want some more water?",
+   "eim": "some more water",
+   "api": "/səm ˈmɔː/",
+   "pr": "sem-MOO",
+   "mc": "mort",
+   "sc": "Un garde de Buckingham crie « Halte-là ! » à une serveuse qui verse ENCORE DE l'eau dans un verre qui déborde : elle en rit à MORT.",
+   "de": "more ≈ « mor(t) » ; la serveuse qui verse encore de l'eau = encore de",
+   "fo": "any more (question, négation) ; more = plus de ; a bit more = un peu plus"
+  },
+  {
+   "n": 89,
+   "it": "big",
+   "eit": "It's a big problem.",
+   "eim": "big problem",
+   "api": "/bɪɡ/",
+   "pr": "BIG",
+   "mc": "bigoudi",
+   "sc": "Un sumo énorme, la tête couverte de BIGOUDIS, fait trembler les pavés de Covent Garden : il est GROS.",
+   "de": "big ≈ « big(oudi) » ; le sumo énorme = gros",
+   "fo": "gros (personne) = fat (vexant), overweight ; huge = énorme",
+   "co": [
+    "a big problem",
+    "a big deal",
+    "a big mistake",
+    "big money"
+   ]
+  },
+  {
+   "n": 90,
+   "it": "white",
+   "eit": "The wall's white.",
+   "eim": "white",
+   "api": "/waɪt/",
+   "pr": "OUAÏT",
+   "mc": "ouailles",
+   "sc": "Un fantôme tout BLANC de la Tour de Londres lance à ses OUAILLES : « Bien, coco ! »",
+   "de": "white ≈ « ouaï(lles) » ; le fantôme tout blanc = blanc",
+   "fo": "h muet ; white wine = vin blanc ; white coffee (UK) = café au lait",
+   "px": [
+    "White wine gives me headaches.",
+    "It's six of one and half a dozen of the other."
+   ],
+   "co": [
+    "white wine",
+    "white coffee",
+    "black and white",
+    "as white as a sheet"
+   ]
+  },
+  {
+   "n": 91,
+   "it": "red",
+   "eit": "The light's red.",
+   "eim": "red",
+   "api": "/red/",
+   "pr": "RÈD",
+   "mc": "raide",
+   "sc": "Devant un bus à impériale, une tomate ROUGE vif coiffée d'une perruque rousse se tient RAIDE comme un garde.",
+   "de": "red ≈ « raid(e) » ; la tomate rouge vif = rouge",
+   "fo": "red hair = cheveux roux ; to go red = rougir ; red wine = vin rouge",
+   "co": [
+    "red wine",
+    "red hair",
+    "to go red",
+    "a red card"
+   ]
+  },
+  {
+   "n": 92,
+   "it": "orange",
+   "eit": "It's orange.",
+   "eim": "orange",
+   "api": "/ˈɒrɪndʒ/",
+   "pr": "O-rinndj",
+   "mc": "orange",
+   "sc": "Une ORANGE géante roule en rebondissant sur les pavés de Portobello Road.",
+   "de": "orange ≈ « orange » (prononcé O-rinndj) ; l'orange géante = orange",
+   "fo": "même mot, accent sur la 1re syllabe ; an orange = une orange (fruit)",
+   "px": [
+    "There's beer and orange juice in the fridge."
+   ]
+  },
+  {
+   "n": 93,
+   "it": "yellow",
+   "eit": "It's yellow.",
+   "eim": "yellow",
+   "api": "/ˈjeləʊ/",
+   "pr": "YÈ-léou",
+   "mc": "« (h)ello ! »",
+   "sc": "Perché sur un jalon JAUNE à Piccadilly, un poussin jaune salue les passants : « HELLO ! »",
+   "de": "yellow ≈ « (y)ello(w) » ; le poussin jaune = jaune",
+   "fo": "yellow card = carton jaune ; the yolk = le jaune d'œuf",
+   "co": [
+    "a yellow card",
+    "bright yellow",
+    "double yellow lines"
+   ]
+  },
+  {
+   "n": 94,
+   "it": "green",
+   "eit": "It's green.",
+   "eim": "green",
+   "api": "/ɡriːn/",
+   "pr": "GRIINN",
+   "mc": "graine",
+   "sc": "Sur une pelouse de village anglais, une feuille VERTE de verdure jaillit d'une GRAINE.",
+   "de": "green ≈ « grain(e) » ; la feuille de verdure = vert",
+   "fo": "a green = une pelouse de village ; green with envy = vert de jalousie",
+   "px": [
+    "He told me some pretty racy stories."
+   ],
+   "co": [
+    "green tea",
+    "a green light",
+    "green with envy",
+    "the green belt"
+   ]
+  },
+  {
+   "n": 95,
+   "it": "blue",
+   "eit": "It's blue.",
+   "eim": "blue",
+   "api": "/bluː/",
+   "pr": "BLOU",
+   "mc": "blouse",
+   "sc": "Sous la pluie de Liverpool, un musicien de blues tout BLEU, en BLOUSE, gratte sa guitare.",
+   "de": "blue ≈ « blou(se) » ; le musicien de blues tout bleu = bleu",
+   "fo": "to feel blue = avoir le cafard ; navy blue = bleu marine",
+   "px": [
+    "She was wearing a blue summer dress."
+   ],
+   "co": [
+    "navy blue",
+    "light blue",
+    "dark blue",
+    "out of the blue"
+   ]
+  },
+  {
+   "n": 96,
+   "it": "purple",
+   "eit": "It's purple.",
+   "eim": "purple",
+   "api": "/ˈpɜːpəl/",
+   "pr": "PEU-pel",
+   "mc": "peuple",
+   "sc": "Devant Buckingham, tout le PEUPLE massé brandit une violette VIOLETTE.",
+   "de": "purple ≈ « peupl(e) » ; la violette violette = violet",
+   "fo": "violet existe mais rare ; purple = violet, pourpre ; mauve = mauve"
+  },
+  {
+   "n": 97,
+   "it": "brown",
+   "eit": "It's brown.",
+   "eim": "brown",
+   "api": "/braʊn/",
+   "pr": "BRAOUN",
+   "mc": "brownie",
+   "sc": "Un MARRON chaud dans sa bogue est posé sur un BROWNIE, servi avec le thé de 17 h.",
+   "de": "brown ≈ « brown(ie) » ; le marron chaud dans sa bogue = marron",
+   "fo": "brown hair = cheveux châtains ; brown bread = pain complet ; a chestnut = un marron (fruit)"
+  },
+  {
+   "n": 98,
+   "it": "pink",
+   "eit": "It's pink.",
+   "eim": "pink",
+   "api": "/pɪŋk/",
+   "pr": "PINNK",
+   "mc": "pince",
+   "sc": "Dans les serres de Kew, une rose ROSE est suspendue par une PINCE à linge.",
+   "de": "pink ≈ « pin(ce) » ; la rose rose = rose",
+   "fo": "a rose = une rose (fleur) ; rosé = vin rosé ; in the pink = en pleine forme",
+   "co": [
+    "bright pink",
+    "pale pink",
+    "hot pink",
+    "to go pink"
+   ]
+  },
+  {
+   "n": 99,
+   "it": "grey",
+   "eit": "It's grey.",
+   "eim": "grey",
+   "api": "/ɡreɪ/",
+   "pr": "GRÉÏ",
+   "mc": "grès",
+   "sc": "Sous le ciel GRIS de Londres, une souris grise est assise sur un caillou de GRÈS.",
+   "de": "grey ≈ « grè(s) » ; la souris grise sur le caillou = gris",
+   "fo": "UK grey / US gray ; grey hair = cheveux gris ; to go grey = grisonner",
+   "co": [
+    "grey hair",
+    "to go grey",
+    "dark grey",
+    "a grey area"
+   ]
+  }
+ ]
+}

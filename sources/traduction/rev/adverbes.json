@@ -1,0 +1,141 @@
+{
+ "fix": {
+  "1": {
+   "eim": "not"
+  },
+  "2": {
+   "eim": "only"
+  },
+  "7": {
+   "it": "ago (… ago)",
+   "eim": "ago"
+  },
+  "15": {
+   "eit": "It costs ten euros at most."
+  },
+  "16": {
+   "eim": "can't|anything"
+  },
+  "24": {
+   "eim": "never"
+  },
+  "25": {
+   "it": "not very (+ adj.)",
+   "eim": "not very"
+  },
+  "29": {
+   "eim": "never"
+  },
+  "49": {
+   "eit": "All right, let's do it that way."
+  },
+  "59": {
+   "eit": "Your idea's not bad!",
+   "eim": "not bad"
+  },
+  "62": {
+   "eit": "It's better that way."
+  }
+ },
+ "li": {
+  "0": "La NONNE lance sa boule de neige ; elle rebondit jusqu'au couvent et heurte la porte où est punaisée la NOTE.",
+  "1": "La NOTE s'envole de la porte du couvent et se pose sur le LIT À EAU où chante la nonne alto.",
+  "2": "Le LIT À EAU crève, l'EAU dévale jusqu'à la maison que le prêtre gallois BÉNIT, éclaboussant le WELSH.",
+  "3": "Le prêtre lance le WELSH fumant qui atterrit sur le masque de l'acteur NÔ au Globe.",
+  "4": "L'acteur NÔ jette son masque, qui fait tomber des grains devant le POUSSIN affamé.",
+  "5": "Le POUSSIN picore jusqu'à l'atelier et se perche sur la vieille SCIE du menuisier londonien.",
+  "6": "La SCIE tranche la corde de Big Ben, dont la note FA s'échappe et roule dans les rues.",
+  "7": "La note FA file jusqu'au pub et frappe le barman qui pointe le client : « Viens ICI ! »",
+  "8": "Le barman lance une SCIE par-dessus le comptoir ; elle atterrit dans la fanfare en LIESSE.",
+  "9": "La SCIE de la fanfare traverse le salon du Kent et s'arrête aux pieds de la prof LAÏQUE.",
+  "10": "La prof LAÏQUE pose son gobelet de THÉ sur le LIT où dort le chat.",
+  "11": "Le chat bondit du LIT et grimpe tout en haut de la PERCHE fleurie d'HAWAÏ sur le quai.",
+  "12": "La PERCHE bascule dans Covent Garden et renverse la cage du PIOUPIOU qui chante.",
+  "13": "Le PIOUPIOU s'envole de sa cage et atterrit sur l'ATOLL du vendeur de parapluies.",
+  "14": "Le vendeur ouvre un parapluie ; le vent l'emporte jusqu'au massif écossais en forme de MOUSTACHE.",
+  "15": "De la MOUSTACHE du massif dévale un rocher qui roule jusqu'à Scotland Yard, devant le singe ANNIE.",
+  "16": "ANNIE le SINGE vole une cuillère d'ARGENTERIE à la ménagère anglaise qui frotte.",
+  "17": "La ménagère jette son chiffon, qui s'envole jusqu'à l'ATOLL où gît la PERLE grisâtre.",
+  "18": "Le joaillier lance la PERLE grisâtre ; elle roule dans le théâtre vide jusqu'aux pieds de la diva d'AÏDA.",
+  "19": "La diva d'AÏDA repousse son café, qui se renverse dans la VERRINE de beurre mou.",
+  "20": "La VERRINE tombe du rebord sur Trafalgar Square, au milieu des PIOUPIOUS qui tombent de chaleur.",
+  "21": "Un PIOUPIOU s'envole jusqu'à la salle d'attente et se pose sur la HANCHE du vieux monsieur qui TOUSSE.",
+  "22": "Le vieux monsieur TOUSSE si fort que la cage du PIOUPIOU ANNIE tombe à Kew Gardens.",
+  "23": "La cage vide roule jusqu'au cottage de mon NEVEU, qui la ramasse dans son jardin de MAI.",
+  "24": "Mon NEVEU lance un caillou sur le banc de Hyde Park ; il tinte dans la VERRINE de la NONNE molle.",
+  "25": "La NONNE molle sort la PERLE de sa VERRINE et la passe à l'amoureuse qui la jette avec FOUGUE.",
+  "26": "La PERLE jaillit de la Tamise et percute le PIOUPIOU en tutu posé sur la MOUSTACHE du colonel.",
+  "27": "Le PIOUPIOU s'envole jusqu'au pub et atterrit entre les deux STEAKS qui grillent.",
+  "28": "Un STEAK glisse du gril et tombe dans le parapluie ouvert de mon NEVEU anglais.",
+  "29": "Mon NEVEU ferme son parapluie d'un coup sec ; il assomme l'espion du MI6 qui RIT AU LIT.",
+  "30": "L'espion bondit du LIT et dévale jusqu'au port de Plymouth, où le vieux MAURE jette l'ANCRE.",
+  "31": "L'ANCRE du MAURE accroche le caddie du supermarché, où le chat fait « (MI)AOU ».",
+  "32": "Le CHAT saute du caddie et griffe l'OISEAU tatoué sur le bras du marin de la Royal Navy.",
+  "33": "Le marin lance son COMPAS de navigation au géomètre de Greenwich, qui le plante sur le méridien.",
+  "34": "Le COMPAS roule sur le ferry de Douvres et pique la NOTE de la NONNE qui attend le YÉTI.",
+  "35": "Le YÉTI arrache l'ANCRE et la NONNE lâche son STYLO sur le quai.",
+  "36": "Le STYLO roule dans le brouillard et se plante dans la GODASSE égarée couverte d'un kiss.",
+  "37": "La GODASSE est lancée au loin et tombe dans la VOILE hissée du voilier de l'île de Wight.",
+  "38": "La VOILE se gonfle et pousse le voilier jusqu'au quai de York, devant le contrôleur bronzé.",
+  "39": "Le contrôleur siffle si fort qu'une feuille du TILLEUL tombe sur le frère qui bat le tempo.",
+  "40": "Le frère lance une branche du TILLEUL dans l'assiette d'ÉPINARDS au pub, chantée par AÏDA.",
+  "41": "Les ÉPINARDS volent et s'écrasent sur le bouclier du CHEVALIER de la Table ronde.",
+  "42": "Le CHEVALIER frappe de son épée l'écrin de FER où dort la PERLE.",
+  "43": "La PERLE jaillit de l'écrin de FER et sert de pain que la NONNE lance sur l'OISEAU.",
+  "44": "L'OISEAU s'enfuit dans l'animalerie de Camden et se pose à côté du PERROQUET perplexe.",
+  "45": "Le PERROQUET s'envole et se pose sur le doigt du BOBBY pointé vers le salon de THÉ.",
+  "46": "Le BOBBY lance sa matraque vers le ciel ; elle percute la COMÈTE embrassée par le SAMOURAÏ.",
+  "47": "Le SAMOURAÏ tranche la COMÈTE dont un éclat s'écrase sur la Tour de Londres, sur la NAÏADE.",
+  "48": "La NAÏADE éclabousse l'ARÊTE de morue des deux marchands de fish and chips.",
+  "49": "L'ARÊTE de morue s'envole et fait s'écrouler la pile de TASSES à thé de Harrods.",
+  "50": "Une TASSE vole jusqu'à Big Ben et brise le cadran gravé « TOUT LE TEMPS ».",
+  "51": "L'amoureux saute du LIT sous la pluie et trébuche sur le CHOU de la NONNE aux six cœurs.",
+  "52": "Le CHOU roule jusqu'au pot du PIOUPIOU en HABIT de majordome.",
+  "53": "Le PIOUPIOU picore le shako du TUNIQUE ROUGE qui marche EN AVANT.",
+  "54": "Le TUNIQUE ROUGE trempé entre dans la paroisse et bouscule ANNIE, la doyenne qui vote.",
+  "55": "ANNIE lève son bulletin, qui s'envole jusqu'au ticket de COURSE d'Ascot frappé du TAMPON.",
+  "56": "Le cheval de la COURSE galope jusqu'au plateau de CROISSANTS de l'ogre mou.",
+  "57": "L'ogre lance un CROISSANT par-dessus la haie du potager, droit sur un RADIS.",
+  "58": "Le jardinier arrache le RADIS et le lance comme un volant au joueur de BADMINTON.",
+  "59": "Le joueur de BADMINTON smashe le volant contre la lanterne du gardien de PHARE.",
+  "60": "Le faisceau du PHARE éclaire l'église anglaise où le passant fait volte-face devant la QUÊTE.",
+  "61": "Le passant lance une pièce de la QUÊTE dans l'auge de la BÊTE de concours.",
+  "62": "La BÊTE renverse son auge sur la table du salon de thé de Bath où l'invitée va se LAVER.",
+  "63": "L'invitée renverse son café sur le coussin de OUATE du lord qui fait un SOMME.",
+  "64": "Le lord lance son coussin dans la queue du bus rouge et heurte la COMÈTE en tutu.",
+  "65": "La COMÈTE file chez ma TANTE anglaise et roussit la queue de son chat qui fait « MIAOU ».",
+  "66": "Le chat de ma TANTE se réfugie sur le toit de chaume, dans le HEAUME du chevalier.",
+  "67": "Le chevalier renverse son HEAUME dans la cuve du brasseur, qui le remplit LITRE par LITRE.",
+  "68": "Le brasseur lance un LITRE de bière qui éclabousse la TOISE devant laquelle tournent les danseurs.",
+  "69": "Un danseur fait voler la TOISE, qui atterrit sur le comptoir du TROMPETTISTE de Soho.",
+  "70": "Le TROMPETTISTE souffle si fort qu'il fait tomber la TENAILLE sur les fûts du pub de Camden.",
+  "71": "La TENAILLE tranche l'anse du panier du marchand ; un OIGNON roule vers son FROMAGE.",
+  "72": "L'OIGNON roule et frappe le TAMBOUR du théâtre NÔ, qui résonne au tempo.",
+  "73": "Le batteur NÔ lance sa baguette vers le chœur de St Paul's, sur l'ALTO qui fait volte-face.",
+  "74": "L'ALTO jette sa partition sur le LIT de camp du trapéziste en SHORT.",
+  "75": "Le trapéziste en SHORT s'élance et renverse le SEAU de pommes de la marchande.",
+  "76": "Une pomme du SEAU s'envole et frappe la raquette du MÂLE blessé au BADMINTON.",
+  "77": "Le MÂLE lance sa raquette sur les docks de Liverpool ; la grue fait « COUIC ! » en l'attrapant.",
+  "78": "La grue lâche le LIT, qui défonce la vitrine de Bond Street où trône la PERLE.",
+  "79": "Le chat du bijoutier pousse la PERLE ; elle roule jusqu'aux pieds du majordome qui lit sa LISTE.",
+  "80": "Le majordome tend sa LISTE à l'écolière en uniforme, qui la saisit avec sa pomme.",
+  "81": "L'écolière lance sa pomme dans la boîte du QUÊTEUR d'Oxford Street.",
+  "82": "Le QUÊTEUR jette sa boîte au vieux poète du Speakers' Corner, déjà bombardé de pâté HÉNAFF.",
+  "83": "Une boîte d'HÉNAFF ricoche jusqu'à Chelsea et renverse le pot de fleurs du DADA.",
+  "84": "Le DADA s'envole du pot et percute l'ASTRONAUTE qui chante dans la nuit.",
+  "85": "Le micro de l'ASTRONAUTE tombe sur le coureur EN TÊTE du marathon, qui chante son LIED.",
+  "86": "Le coureur lance son dossard par-dessus la grille du zoo, sur l'ONCE qui fait volte-face.",
+  "87": "L'ONCE bondit et renverse la statue d'ÉBÈNE qui goûte un WELSH.",
+  "88": "Le WELSH glisse des mains de la statue et tombe dans la VERRINE de l'ALTO menotté.",
+  "89": "L'ALTO menotté lance sa LISTE de cantiques sur le dos du porteur de Smithfield.",
+  "90": "Le porteur laisse tomber sa MANNE ; elle s'ouvre et TES DÉS roulent sur la plage de Brighton.",
+  "91": "Un DÉ roule jusqu'au MATCH de foot où ma TANTE parle sans arrêt.",
+  "92": "Le SEAU d'eau renversé sur ma TANTE inonde le journal que lit l'ALTO au pub.",
+  "93": "Le DÉ caché dans le journal vole et heurte le VÉLO du coursier londonien.",
+  "94": "Le coursier lâche son sandwich, qui atterrit dans la bouteille de LAIT du retardataire.",
+  "95": "Le retardataire lâche le LAIT, qui inonde le sapin de Trafalgar Square sous la COMÈTE.",
+  "96": "La COMÈTE tombe du sapin dans le plat de SCONES de ma TANTE qui secoue la TÊTE.",
+  "97": "Ma TANTE lance un SCONE contre la CABINE téléphonique rouge, qui se met à sonner.",
+  "98": "Le passant raccroche si fort que la CABINE rouge bascule contre le FOUR du mitron londonien."
+ }
+}

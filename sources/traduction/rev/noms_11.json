@@ -1,0 +1,138 @@
+{
+ "fix": {
+  "8": {
+   "eim": "bike"
+  },
+  "9": {
+   "eim": "holiday|seaside"
+  },
+  "11": {
+   "eim": "order"
+  },
+  "21": {
+   "eim": "accused"
+  },
+  "29": {
+   "eim": "credit"
+  },
+  "38": {
+   "eim": "protection"
+  },
+  "60": {
+   "eit": "The waiter's bringing the menu."
+  },
+  "64": {
+   "eim": "head"
+  },
+  "79": {
+   "eim": "treat"
+  },
+  "97": {
+   "api": "/ˈhɒstɪdʒɪz/"
+  },
+  "98": {
+   "eim": "green light"
+  }
+ },
+ "li": {
+  "0": "Le VIEIL AMI te lance le FRIAND tout chaud, qui atterrit à la douane de Douvres dans le CADRE doré de la CARTE D'IDENTITÉ.",
+  "1": "L'agent jette le CADRE doré de la CARTE D'IDENTITÉ par la fenêtre ; il tombe dans le fish and chips des COLOCATAIRES.",
+  "2": "Un COLOCATAIRE lance un plat des METS par la fenêtre ; il s'écrase sur la grappe de RAISINS du professeur d'Oxford.",
+  "3": "Le professeur lance un grain de RAISIN qui file jusqu'à la Tour de Londres et frappe le gardien qui hurle « SORTEZ ! ».",
+  "4": "Un prisonnier qui SORT arrache le calendrier d'AOÛT et le lance sur la PELISSE de l'AGENT DE POLICE de Piccadilly.",
+  "5": "L'AGENT DE POLICE lance son sifflet, qui se coince en haut de la toise de la STATURE, près du drapeau d'HAÏTI.",
+  "6": "Le garde à bonnet fait tomber la toise de la STATURE dans les BOIS, sur la bande de GARÇONS qui grimpent aux arbres.",
+  "7": "Un des GARÇONS saute de son arbre sur le VÉLO à panier, qui file le long de la Tamise jusqu'au BAÏKAL.",
+  "8": "Le VÉLO fonce sur la plage de Brighton et renverse le PARASOL sous lequel SAÏD SCIE son transat des VACANCES À LA MER.",
+  "9": "SAÏD lance son DÉ « HOLÀ ! » dans le jardin anglais ; il tombe dans la gueule du SERPENT qui avale le SNACK.",
+  "10": "Le SERPENT recrache le SNACK dans le pub, sur le carnet du serveur qui prend la COMMANDE et sent l'ODEUR.",
+  "11": "Le serveur de la COMMANDE lance son carnet jusqu'à Buckingham, où le garde le tamponne comme un PERMIS : la PERMISSION.",
+  "12": "Le garde de la PERMISSION jette son tampon dans le SPA brûlant, où l'ESPION caché derrière le Times crie « AÏE ! ».",
+  "13": "L'ESPION lance son journal hors du SPA ; il atterrit devant le cottage et effraie la POULE teinte au HENNÉ.",
+  "14": "La POULE au HENNÉ s'envole jusqu'au Kent et se pose sur la Mini en panne d'ESSENCE, renversant le bidon de PÉTROLE.",
+  "15": "Le PÉTROLE renversé coule jusqu'au tableau du prof qui EXPLIQUE devant la NATION de bobbies : il faut une EXPLICATION.",
+  "16": "Le prof de l'EXPLICATION lance sa craie jusqu'à la Tour de Londres, où elle coupe la CAPE nouée du fugitif en pleine FUITE.",
+  "17": "Le fugitif de la FUITE tombe de sa CAPE derrière les rideaux du cottage, juste sur le LAÏC qui PRIE VITE.",
+  "18": "Le LAÏC ouvre les rideaux de sa VIE PRIVÉE ; le VENT s'engouffre et soulève la PAILLE d'où surgissent les VAMPIRES.",
+  "19": "Un VAMPIRE emporté par le VENT s'envole jusqu'à Londres et arrache la CAMÉRA de surveillance que débranche le CAMARADE.",
+  "20": "Le camion saute et projette la CAMÉRA jusqu'à l'Old Bailey, sur la perruque du juge qui ACCUSE l'homme aux EXCUSES.",
+  "21": "L'homme ACCUSÉ jette ses EXCUSES écrites, qui se collent sur la TIQUE géante au bonnet d'âne contre la cabine rouge.",
+  "22": "La TIQUE ABRUTIE rebondit contre la cabine et s'écrase sur la vitrine du MAGASIN DE VÊTEMENTS, renversant la CHOPE du vendeur.",
+  "23": "La bière de la CHOPE coule hors du MAGASIN DE VÊTEMENTS jusqu'au COULOIR de Westminster et réveille le taureau de CORRIDA qui DORT.",
+  "24": "Le taureau de CORRIDA charge dans le COULOIR et défonce la chambre de la lady en CHEMISE DE NUIT, renversant son THÉ.",
+  "25": "La lady en CHEMISE DE NUIT lance sa tasse de THÉ, qui fait TINTER le PAIN posé sur le chevalet du PEINTRE.",
+  "26": "Le PEINTRE trempe son pinceau trop fort ; la toile de PEINTURE glisse et plonge dans le LAC noir comme de la LAQUE.",
+  "27": "Un baigneur du LAC ressort couvert de LAQUE et attrape au vol le CHOU en SUCRE lancé par le GARS de l'heure du thé.",
+  "28": "Le CHOU en SUCRE rebondit hors de la tasse sur le tableau du banquier, qui écrit à la CRAIE ce qu'il DIT : CRÉDIT.",
+  "29": "La carte de CRÉDIT glisse du tableau et tombe dans le puzzle de Big Ben auquel il MANQUE une pièce, au fond du LAC.",
+  "30": "Le LAC du MANQUE déborde jusqu'au bureau londonien et remplit la montagne de TASSES, la TÂCHE du jour.",
+  "31": "L'employé lance une TASSE de sa TÂCHE sur la galère de la Tamise ; elle frappe l'ESCLAVE enchaîné et le rameur SLAVE.",
+  "32": "Le rameur SLAVE lance sa toque de fourrure dans la nursery, où elle tombe dans le THÉ CHAÏ du garçon de l'ENFANCE.",
+  "33": "Le garçon de l'ENFANCE gratte si fort son OUD qu'une corde saute et fouette l'UNIFORME rouge du garde qui crie « YOUPI ! ».",
+  "34": "Le garde en UNIFORME saute pour garder la FORME et atterrit sur le chien couvert de PUCES que le FLIC examine.",
+  "35": "Les PUCES sautent au visage du FLIC, puis sous la tasse du roman d'Agatha Christie où SAÏD a signé : pas de SUICIDE.",
+  "36": "L'inspecteur du SUICIDE lâche sa tasse sur les docks : « HIC ! » fait l'ivrogne, « SPLOCHE ! » crie le JEUNE, EXPLOSION.",
+  "37": "L'EXPLOSION projette un éclat qui rebondit sur le bouclier de PROTECTION en TECK abritant la CHIENNE corgi.",
+  "38": "La CHIENNE corgi bondit hors de sa PROTECTION et lèche les boules de GLACE qui portent les LUNETTES sur la jetée.",
+  "39": "Les LUNETTES glissent de la GLACE fondue et tombent devant la porte PEU LISSE où frappent les FORCES DE L'ORDRE.",
+  "40": "Un bobby des FORCES DE L'ORDRE défonce la porte et dévale jusqu'à la Bourse, droit dans les TRESSES de la poupée des INTÉRÊTS.",
+  "41": "Le banquier des INTÉRÊTS arrache une TRESSE à la poupée et la lance dans la tasse de THÉ NATURE de TITI.",
+  "42": "TITI rit de la BLAGUE et renverse son THÉ NATURE dans la SOUPE brûlante du ménestrel du pub.",
+  "43": "Le ménestrel recrache sa SOUPE brûlante jusqu'au supermarché, où elle arrose la tresse d'AIL suspendue dans le RAYON.",
+  "44": "La tresse d'AIL tombe du RAYON sur le cavalier de Borough Market, qui la fourre dans son CABAS avec le CHOU.",
+  "45": "Le CHOU tombe du CABAS du cavalier et heurte le SOT qui TROTTE sous la pluie, emmitouflé pour son MAL DE GORGE.",
+  "46": "Le SOT au MAL DE GORGE éternue si fort que son écharpe s'envole sur la POUPÉE en porcelaine marquée « DOLE ».",
+  "47": "Le bambin lance la POUPÉE jusqu'à Piccadilly Circus ; elle traverse l'écran de la VIDÉO et prend le seau D'EAU qu'on VIDE.",
+  "48": "L'eau de la VIDÉO dégouline sur le violoniste de Big Ben et sur la CHIENNE qui fait des PAS de danse avec PASSION.",
+  "49": "La CHIENNE de la PASSION court sur les docks et renverse la caisse de thé tamponnée QUALITÉ : « QUOI ? L'ÉTÉ ? »",
+  "50": "Le docker lance la caisse de QUALITÉ sur la Tamise, où IL VENTE si fort que les feux d'artifice de l'ÉVÉNEMENT s'envolent.",
+  "51": "Une fusée de l'ÉVÉNEMENT emportée par le VENT retombe sur le toit de l'AMBULANCE, dont l'infirmier dans sa BULLE LANCE des pansements.",
+  "52": "Un pansement LANCÉ par l'AMBULANCE se colle sur le micro du STUDIO d'Abbey Road : « SI TU DIS OH ! »",
+  "53": "Le chanteur du STUDIO crie un « OH ! » qui traverse Londres jusqu'à Wimbledon, où le champion entonne « GLORIA ! » de GLOIRE.",
+  "54": "Le champion de la GLOIRE lance son trophée, qui débouche la bouteille de CHAMPAGNE au milieu du CHAMP où PEINE le jardinier.",
+  "55": "Le bouchon de CHAMPAGNE file au-dessus du CHAMP et frappe le bonnet à poil d'un soldat de la TROUPE.",
+  "56": "La TROUPE défile vers l'OUEST jusqu'à Stonehenge, et les cornemuses font tomber la VESTE trempée du randonneur.",
+  "57": "La VESTE de l'OUEST s'envole jusqu'au CAMP de montagne écossais et retombe sur la SŒUR de l'homme qui a vaincu le CANCER.",
+  "58": "L'homme du CANCER lève les bras si haut qu'il fait tomber la KIPPA du GARDIEN qui ferme les grilles de Hyde Park.",
+  "59": "Le GARDIEN lance son trousseau de clés dans le pub ; il atterrit sur le gilet OUATÉ du SERVEUR qui apporte la carte.",
+  "60": "Le SERVEUR OUATÉ trébuche et sa carte va se coller sur l'ardoise du PLAT DU JOUR : « TES DÉS SPÉCIAUX ».",
+  "61": "Un dé de bœuf du PLAT DU JOUR roule hors du pub jusqu'à la vitrine du MAGASIN DE CHAUSSURES, dans la CHOPE au CHOU.",
+  "62": "Le CHOU jaillit de la CHOPE du MAGASIN DE CHAUSSURES et s'écrase sur le CHIFFRE 7 du bus : « NAN ! BÊÊ ! »",
+  "63": "Le mouton du CHIFFRE 7 fonce dans le vieux pub, où le pirate se cogne le CRÂNE : « À L'AIDE ! »",
+  "64": "Le pirate au CRÂNE cogné jette sa BIÈRE tiède, qui réveille l'OURS Paddington endormi pour l'hiver.",
+  "65": "L'OURS Paddington renverse sa BIÈRE sur la meule de cheddar, qui dévale le Somerset jusqu'à la CHAISE du FROMAGE.",
+  "66": "La meule de FROMAGE renverse la CHAISE et roule jusqu'au bal masqué, éclaboussant le MASQUE de MASCARA.",
+  "67": "L'invité arrache son MASQUE plein de MASCARA et le jette sur le PLAT fumant du pub : « DIS, CHUT ! »",
+  "68": "Le serveur lance le PLAT par la fenêtre ; il atterrit dans l'urne du CITOYEN, au cœur de la CITÉ ZEN.",
+  "69": "Le CITOYEN glisse son bulletin, qui s'envole et se coince dans l'hélice dont les pales pendent comme deux COUILLES au-dessus des BOLS.",
+  "70": "Un BOL de porridge des COUILLES vole jusqu'au balcon du cottage et éclabousse l'AMANT que la logeuse LAVE.",
+  "71": "La logeuse LAVE si fort que l'AMANT tombe du balcon jusqu'à Hyde Park, contre le HÊTRE frappé de HAINE.",
+  "72": "Une branche du HÊTRE de la HAINE tombe sur l'abbaye de Westminster, sur les mains jointes en PRIÈRE du fidèle PRÊT.",
+  "73": "Le fidèle de la PRIÈRE lance son missel dans l'âtre du FOYER anglais, qui fait tomber le HEAUME de la cheminée.",
+  "74": "Le HEAUME du FOYER roule jusqu'au labo de Cambridge et renverse le tube à essai en pleine RÉACTION ; la CHIENNE RIT.",
+  "75": "Le tube de la RÉACTION déborde jusqu'à la salle d'ATTENTE et trempe tous les coussins de OUATE.",
+  "76": "Un coussin de OUATE de l'ATTENTE vole jusqu'à l'arrêt de bus et fait tomber NOS MIELS de la PERSONNE NORMALE.",
+  "77": "La PERSONNE NORMALE lance son pot de MIEL dans le salon de Chelsea, sur la tête à perruque des LEÇONS de coiffure.",
+  "78": "La petite des LEÇONS lance la tête à perruque sur le gaillard en barboteuse de BÉBÉ, qui riposte avec la TRUITE.",
+  "79": "La TRUITE lancée par le BÉBÉ traverse Mayfair et fait tomber les cartes du fêtard : fini les FÊTES et les PARTIES !",
+  "80": "Le fêtard jette ses cartes de PARTIES à Trafalgar Square, où le DÉMON de la MANIFESTATION les brandit en STRESSANT la CHIENNE.",
+  "81": "La CHIENNE de la MANIFESTATION s'enfuit jusqu'à Manchester et renverse le PAUVRE homme qui serre son POT et son BLOC.",
+  "82": "Le PAUVRE homme lâche son BLOC de béton, qui roule jusqu'à Notting Hill et brise la vitrine de la BOUTIQUE à la CHOPE.",
+  "83": "Le négociant de la BOUTIQUE lance sa CHOPE vers les pistes, où la FÉE à la PEAU CLAIRE fait du SKI.",
+  "84": "La FÉE à la PEAU CLAIRE dévale à SKI jusqu'au DESSIN de Big Ben de l'enfant : « DRÔLE, HEIN ? »",
+  "85": "L'enfant lance son DESSIN jusqu'aux falaises de Douvres, où il atterrit dans le bol SANS RIZ face au LEVER DE SOLEIL.",
+  "86": "Le bol SANS RIZ du LEVER DE SOLEIL tombe de la falaise dans la boue de la ferme du Kent, sur le COCHON au PIGEON.",
+  "87": "Le PIGEON s'envole du dos du COCHON jusqu'à la City et fait tomber le B du mot DEBT : la DETTE.",
+  "88": "Le B de la DETTE roule jusqu'au salon de thé et cogne le POT, SA BILLE et le THÉ de la POSSIBILITÉ.",
+  "89": "SA BILLE de la POSSIBILITÉ roule dans le jardin du cottage, jusqu'à la table que SAÏD dresse à L'EXTÉRIEUR en AOÛT.",
+  "90": "SAÏD renverse la table de L'EXTÉRIEUR, et les assiettes volent jusqu'à la fanfare qui joue l'HYMNE AU CHIEN d'ÉMOTION.",
+  "91": "La larme d'ÉMOTION tombe dans le pot de THYM du calendrier de la PÉRIODE, au pied de Big Ben.",
+  "92": "Le pot de THYM de la PÉRIODE bascule sur le bureau du notaire et tache le DOCUMENT du DOC QUI MENT.",
+  "93": "Le notaire jette le faux DOCUMENT dans la rue ; il se colle sur l'ADULTE qui marche À DALLE devant le cinéma.",
+  "94": "L'ADULTE lance son billet de cinéma en l'air ; il s'envole jusqu'à Heathrow sur l'avion en APPROCHE, si PROCHE des cheminées.",
+  "95": "L'avion en APPROCHE frôle Notting Hill et arrose de kérosène la FOULE du carnaval, déjà CRADE de confettis.",
+  "96": "Un danseur CRADE de la FOULE est poussé dans l'entrepôt des docks et tombe sur l'OTAGE à l'HOSTIE ligoté.",
+  "97": "L'OTAGE recrache son HOSTIE, qui roule jusqu'au carrefour où le FEU passe au VERT et le laitier renverse GRAIN et LAIT.",
+  "98": "Le LAIT du FEU VERT coule jusqu'à Eton et détrempe les NOTES de l'écolier, signées par Karl MARX."
+ }
+}

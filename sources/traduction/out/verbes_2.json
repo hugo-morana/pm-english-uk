@@ -1,0 +1,1571 @@
+{
+ "niches": [
+  {
+   "n": 0,
+   "it": "to leave",
+   "eit": "She left him after ten years.",
+   "eim": "left him after",
+   "api": "/liːv/",
+   "pr": "LIIV",
+   "mc": "lève",
+   "sc": "Sous la pluie fine d'un quai de Victoria Station, une femme LÈVE le menton, lâche la main de son fiancé et le QUITTE sans se retourner.",
+   "de": "leave ≈ lève ; la femme qui lâche la main du fiancé = quitter",
+   "fo": "left, left ; aussi « partir » (to leave home) et « laisser » (leave it here)"
+  },
+  {
+   "n": 1,
+   "it": "to be left to do sth",
+   "itd": "to be left to [v] [sth]",
+   "ito": "be left to V_inf C",
+   "eit": "All that's left is to pay.",
+   "eim": "left is to pay",
+   "api": "/biː ˈleft/",
+   "pr": "bi LÈFT",
+   "mc": "l'effet",
+   "sc": "Dans un pub vide après la fermeture, un homme RESTE À lire tard devant sa pinte : L'EFFET de la bière le cloue sur la banquette.",
+   "de": "left ≈ l'effet ; l'homme qui reste à lire = rester à faire",
+   "fo": "there's still sth to do = il reste qc à faire ; leave, left, left"
+  },
+  {
+   "n": 2,
+   "it": "to have had enough",
+   "eit": "I've had enough!",
+   "eim": "'ve had enough",
+   "api": "/hæv hæd ɪˈnʌf/",
+   "pr": "hav HAD i-NAF",
+   "mc": "un œuf",
+   "sc": "Un soldat sur son BASTION, trempé par la pluie anglaise, reçoit encore UN ŒUF sur le casque : il EN A ASSEZ !",
+   "de": "enough ≈ un œuf ; le soldat excédé sur son bastion = en avoir assez",
+   "fo": "enough se place après l'adjectif (big enough) ; I'm fed up = j'en ai marre"
+  },
+  {
+   "n": 3,
+   "it": "to drink",
+   "eit": "What are you drinking?",
+   "eim": "drinking",
+   "api": "/drɪŋk/",
+   "pr": "DRINK",
+   "mc": "dring",
+   "sc": "Au comptoir d'un pub, un BUVEUR vide une chope de bière à chaque DRING de la cloche du dernier service.",
+   "de": "drink ≈ dring ; le buveur et sa chope = boire",
+   "fo": "drank, drunk ; a drink = un verre ; drunk = ivre",
+   "px": [
+    "What do you want to drink?",
+    "He let himself get dragged into drinking."
+   ],
+   "co": [
+    "to have a drink",
+    "to go for a drink",
+    "to drink tea",
+    "to drink water"
+   ]
+  },
+  {
+   "n": 4,
+   "it": "to show",
+   "eit": "Show me!",
+   "eim": "Show",
+   "api": "/ʃəʊ/",
+   "pr": "CHEO",
+   "mc": "chaud",
+   "sc": "Dans une foire de Brighton, un guide MONTRE du doigt un monstre en cage qui souffle un air CHAUD.",
+   "de": "show ≈ chaud ; le guide qui montre le monstre = montrer",
+   "fo": "showed, shown ; a show = un spectacle, une émission",
+   "co": [
+    "to show sb a photo",
+    "to show signs of sth"
+   ]
+  },
+  {
+   "n": 5,
+   "it": "to carry",
+   "eit": "I'll carry your bags.",
+   "eim": "carry",
+   "api": "/ˈkæri/",
+   "pr": "KA-ri",
+   "mc": "cari",
+   "sc": "À la gare de King's Cross, un PORTEUR porte une énorme valise sur le dos, qui sent fort le CARI.",
+   "de": "carry ≈ cari ; le porteur et sa valise = porter",
+   "fo": "carried ; porter (vêtement) = to wear ; apporter = to bring",
+   "co": [
+    "to carry on",
+    "to carry out",
+    "to carry a bag",
+    "to carry sth upstairs"
+   ]
+  },
+  {
+   "n": 6,
+   "it": "to win",
+   "eit": "We've won!",
+   "eim": "won",
+   "api": "/wɪn/",
+   "pr": "OUINN",
+   "mc": "ouin-ouin",
+   "sc": "À Wembley, un CHAMPION vainc et lève la coupe, pendant qu'un bébé fait OUIN-OUIN dans les tribunes.",
+   "de": "win ≈ ouin ; le champion qui lève la coupe = gagner",
+   "fo": "won, won /wʌn/ ; gagner (argent) = to earn ; battre qn = to beat sb",
+   "px": [
+    "I don't earn enough to save."
+   ],
+   "co": [
+    "to win a prize",
+    "to win the war",
+    "to win the race",
+    "to win the election"
+   ]
+  },
+  {
+   "n": 7,
+   "it": "to be worse",
+   "eit": "He's a bit worse today.",
+   "eim": "a bit worse",
+   "api": "/biː wɜːs/",
+   "pr": "bi OUEURSS",
+   "mc": "ours",
+   "sc": "Une STAR pèse lourd sur son lit d'hôpital londonien, un OURS en peluche sur le ventre : elle VA MOINS BIEN.",
+   "de": "worse ≈ ours ; la star alitée qui pèse lourd = aller moins bien",
+   "fo": "bad, worse, worst ; to get worse = empirer"
+  },
+  {
+   "n": 8,
+   "it": "to wear",
+   "eit": "She's wearing a red dress.",
+   "eim": "wearing",
+   "api": "/weə/",
+   "pr": "OUÈR",
+   "mc": "verre",
+   "sc": "Devant un miroir, une lady ENDOSSE une veste et la PORTE fièrement, un VERRE de Pimm's à la main.",
+   "de": "wear ≈ verre ; endosser une veste = porter (un vêtement)",
+   "fo": "wore, worn ; porter (une charge) = to carry",
+   "co": [
+    "to wear a suit",
+    "to wear a mask",
+    "to wear a hat",
+    "to wear trousers"
+   ]
+  },
+  {
+   "n": 9,
+   "it": "to remember",
+   "eit": "Do you remember me?",
+   "eim": "remember",
+   "api": "/rɪˈmembə/",
+   "pr": "ri-MÈM-be",
+   "mc": "remembrement",
+   "sc": "Un athlète en maillot Union Jack SE SOUVIENT de son RECORD gravé sur un mur ; derrière lui, le REMEMBREMENT des champs anglais s'étend à perte de vue.",
+   "de": "remember ≈ remembrement ; le record gravé = se souvenir",
+   "fo": "remembered ; remember to do = penser à faire ; to remind = rappeler (à qn)",
+   "px": [
+    "Do you still remember him?"
+   ]
+  },
+  {
+   "n": 10,
+   "it": "to try to do sth",
+   "itd": "to try to [v] [sth]",
+   "ito": "try to V_inf C",
+   "eit": "He's trying to understand.",
+   "eim": "trying to understand",
+   "api": "/traɪ tə/",
+   "pr": "TRAÏ te",
+   "mc": "trahi",
+   "sc": "Un CHERCHEUR tourne en CERCLE dans un bureau d'Oxford : TRAHI par ses notes, il CHERCHE À comprendre.",
+   "de": "try ≈ trahi ; le chercheur qui tourne en rond = chercher à",
+   "fo": "tried ; try to do = essayer de faire ; try doing = essayer (pour voir)"
+  },
+  {
+   "n": 11,
+   "it": "to import",
+   "eit": "We import coffee.",
+   "eim": "import",
+   "api": "/ɪmˈpɔːt/",
+   "pr": "im-PÔT",
+   "mc": "impôt",
+   "sc": "Sur les docks de la Tamise, un cargo IMPORTE des conteneurs ; un douanier en chapeau melon réclame l'IMPÔT.",
+   "de": "import ≈ impôt ; le cargo et ses conteneurs = importer",
+   "fo": "verbe accentué sur -PORT, nom an import sur IM- ; importer (compter) = to matter"
+  },
+  {
+   "n": 12,
+   "it": "to find",
+   "eit": "I've found my cat!",
+   "eim": "found",
+   "api": "/faɪnd/",
+   "pr": "FAÏNND",
+   "mc": "faille",
+   "sc": "Dans le jardin d'un cottage, un chien RETROUVE son os enterré au fond d'une FAILLE de la pelouse.",
+   "de": "find ≈ faille ; le chien qui déterre son os = retrouver",
+   "fo": "found, found ; retrouver qn (rendez-vous) = to meet sb"
+  },
+  {
+   "n": 13,
+   "it": "to be lucky",
+   "eit": "Lucky you!",
+   "eim": "Lucky",
+   "api": "/biː ˈlʌki/",
+   "pr": "bi LA-ki",
+   "mc": "laquais",
+   "sc": "Un LAQUAIS de Buckingham trouve un trèfle à quatre feuilles sur la pelouse du palais : il A DE LA CHANCE.",
+   "de": "lucky ≈ laquais ; le trèfle à quatre feuilles = avoir de la chance",
+   "fo": "luck = la chance (indénombrable) ; you're lucky = tu as de la chance ; good luck! = bonne chance !"
+  },
+  {
+   "n": 14,
+   "it": "to write",
+   "eit": "Write to me!",
+   "eim": "Write",
+   "api": "/raɪt/",
+   "pr": "RAÏT",
+   "mc": "raïta",
+   "sc": "Un SCRIBE écrit sur un papyrus en trempant son calame dans un bol de RAÏTA d'un curry house de Brick Lane.",
+   "de": "write ≈ raïta ; le scribe au papyrus = écrire",
+   "fo": "wrote, written ; w muet ; write to sb = écrire à qn",
+   "px": [
+    "I wrote it in one go."
+   ],
+   "co": [
+    "to write a letter",
+    "to write a book",
+    "to write a song",
+    "to write an article"
+   ]
+  },
+  {
+   "n": 15,
+   "it": "to keep going",
+   "eit": "Keep going, that's great!",
+   "eim": "Keep going",
+   "api": "/kiːp ˈɡəʊɪŋ/",
+   "pr": "KIIP GÔ-ing",
+   "mc": "qui pique",
+   "sc": "Un train à vapeur CONTINUE sur des rails sans fin à travers la campagne anglaise, poussé par une guêpe QUI PIQUE le mécanicien.",
+   "de": "keep ≈ qui pique ; le train sur des rails sans fin = continuer",
+   "fo": "kept, kept ; keep doing = continuer à faire ; to carry on / to continue = continuer",
+   "px": [
+    "It can't go on like this."
+   ]
+  },
+  {
+   "n": 16,
+   "it": "to beg",
+   "eit": "I beg you.",
+   "eim": "beg",
+   "api": "/beɡ/",
+   "pr": "BÈG",
+   "mc": "bègue",
+   "sc": "Un moine PRIE à genoux dans l'abbaye de Westminster ; BÈGUE, il n'arrive qu'à balbutier « m-m-mon Dieu ».",
+   "de": "beg ≈ bègue ; le moine à genoux = prier",
+   "fo": "begged ; prier Dieu = to pray ; je vous en prie (merci) = you're welcome, (allez-y) = go ahead"
+  },
+  {
+   "n": 17,
+   "it": "to be of use",
+   "eit": "It's no use.",
+   "eim": "no use",
+   "api": "/biː əv ˈjuːs/",
+   "pr": "bi ev IOUSS",
+   "mc": "Youssef",
+   "sc": "Dans un pub, un SERVEUR SERT un plat fumant de fish and chips à YOUSSEF, qui a déjà dîné : ça ne SERT à rien.",
+   "de": "use ≈ You(ssef) ; le serveur qui sert un plat = servir",
+   "fo": "use (nom) /juːs/, to use /juːz/ ; servir (un plat) = to serve ; there's no point (doing) = ça ne sert à rien (de faire)",
+   "px": [
+    "It's no use.",
+    "That'll teach him a lesson.",
+    "Don't get so worked up; it's no use.",
+    "There's no point getting so worked up.",
+    "It's pointless!"
+   ],
+   "co": [
+    "to be no use",
+    "to be of use",
+    "to serve a purpose"
+   ]
+  },
+  {
+   "n": 18,
+   "it": "to buy",
+   "eit": "I've bought some bread.",
+   "eim": "bought",
+   "api": "/baɪ/",
+   "pr": "BAÏ",
+   "mc": "bail",
+   "sc": "Au marché de Borough, une cliente compare deux melons avant d'ACHETER, pendant que le marchand agite son BAIL.",
+   "de": "buy ≈ bail ; la cliente qui compare les melons = acheter",
+   "fo": "bought, bought /bɔːt/",
+   "px": [
+    "What do you want to buy?",
+    "I'll buy your old computer off you."
+   ],
+   "co": [
+    "to buy a ticket",
+    "to buy a dress",
+    "to buy a present"
+   ]
+  },
+  {
+   "n": 19,
+   "it": "to call sb back",
+   "eit": "I'll call you back.",
+   "eim": "call you back",
+   "api": "/kɔːl ˈbæk/",
+   "pr": "KÔL BAK",
+   "mc": "col + bac",
+   "sc": "Depuis une cabine téléphonique rouge, le crieur RAPPELLE une seconde fois, le COL relevé, perché sur un BAC à fleurs.",
+   "de": "call back ≈ col + bac ; le crieur qui appelle une 2e fois = rappeler",
+   "fo": "called back ; rappeler qc à qn = to remind sb of sth ; se rappeler = to remember"
+  },
+  {
+   "n": 20,
+   "it": "to meet",
+   "eit": "I met him yesterday.",
+   "eim": "met",
+   "api": "/miːt/",
+   "pr": "MIIT",
+   "mc": "mite",
+   "sc": "Deux inconnus SE RENCONTRENT à un carrefour de Piccadilly, et une MITE s'échappe de leurs deux parapluies.",
+   "de": "meet ≈ mite ; les deux inconnus au carrefour = rencontrer",
+   "fo": "met, met ; aussi « faire la connaissance » : nice to meet you",
+   "px": [
+    "I ran into a lot of difficulties."
+   ]
+  },
+  {
+   "n": 21,
+   "it": "to spend time",
+   "eit": "Anyone would think you spend your life there!",
+   "eim": "spend",
+   "api": "/spend taɪm/",
+   "pr": "SPÈND TAÏM",
+   "mc": "s'pendre",
+   "sc": "Dans son club londonien, un vieux colonel regarde couler un SABLIER pour PASSER LE TEMPS, si ennuyé qu'il menace de S'PENDRE à l'horloge.",
+   "de": "spend ≈ s'pendre ; le sablier qu'on regarde couler = passer le temps",
+   "fo": "spent, spent ; to pass the time = passer le temps (tuer l'ennui) ; to spend = aussi dépenser"
+  },
+  {
+   "n": 22,
+   "it": "to follow",
+   "eit": "Follow me!",
+   "eim": "Follow",
+   "api": "/ˈfɒləʊ/",
+   "pr": "FO-lo",
+   "mc": "falot",
+   "sc": "Des touristes en segway SUIVENT leur guide qui brandit un FALOT allumé dans le brouillard de Londres.",
+   "de": "follow ≈ falot ; les touristes derrière le guide = suivre",
+   "fo": "followed ; following = suivant",
+   "co": [
+    "to follow the rules",
+    "to follow orders"
+   ]
+  },
+  {
+   "n": 23,
+   "it": "to read",
+   "eit": "What are you reading?",
+   "eim": "reading",
+   "api": "/riːd/",
+   "pr": "RIID",
+   "mc": "ride",
+   "sc": "À la British Library, un LECTEUR LIT la légende sous une carte ancienne, une RIDE profonde au front.",
+   "de": "read ≈ ride ; le lecteur penché sur la légende = lire",
+   "fo": "read, read (passé prononcé /red/)",
+   "px": [
+    "All kids read comics.",
+    "You should always read the instructions first.",
+    "I don't read the tabloids."
+   ],
+   "co": [
+    "to read a book",
+    "to read the paper",
+    "to read sb's mind"
+   ]
+  },
+  {
+   "n": 24,
+   "it": "to look / to seem",
+   "eit": "You look tired.",
+   "eim": "look tired",
+   "api": "/lʊk/",
+   "pr": "LOUK",
+   "mc": "look",
+   "sc": "Dans le miroir d'un manoir hanté du Yorkshire, un FANTÔME SEMBLE flou, tout en soignant son LOOK.",
+   "de": "look ≈ look ; le fantôme flou dans le miroir = sembler",
+   "fo": "look + adj. = avoir l'air ; to seem = sembler (plus neutre) ; it looks like = on dirait"
+  },
+  {
+   "n": 25,
+   "it": "to walk to work",
+   "eit": "I walk to work.",
+   "eim": "walk to work",
+   "api": "/wɔːk tə wɜːk/",
+   "pr": "OUÔK te OUEURK",
+   "mc": "wok + orque",
+   "sc": "Un ouvrier VA AU TRAVAIL à pied le long de la Tamise, un WOK sous le bras, en tirant un ORQUE gonflable vers le lavoir où il travaille.",
+   "de": "walk ≈ wok, work ≈ orque ; l'ouvrier en route vers le lavoir = aller au travail",
+   "fo": "aller au travail = to go to work ; à pied = walk, en voiture = drive ; walk /wɔːk/ ≠ work /wɜːk/"
+  },
+  {
+   "n": 26,
+   "it": "to get in",
+   "eit": "Get in the car!",
+   "eim": "Get in",
+   "api": "/ɡet ˈɪn/",
+   "pr": "guèt INN",
+   "mc": "guette un nain",
+   "sc": "Un enfant MONTE l'escalier d'un bus rouge à impériale en salissant chaque marche, et GUETTE UN NAIN assis tout en haut.",
+   "de": "get in ≈ guette un nain ; l'enfant qui grimpe l'escalier = monter",
+   "fo": "monter (voiture) = get in ; (bus, train, avion) = get on ; (escalier) = go up",
+   "co": [
+    "to get on the bus",
+    "to get on board",
+    "to go upstairs",
+    "to get on the train"
+   ]
+  },
+  {
+   "n": 27,
+   "it": "to save",
+   "eit": "You saved my life.",
+   "eim": "saved",
+   "api": "/seɪv/",
+   "pr": "SÈÏV",
+   "mc": "sève",
+   "sc": "Dans la Manche, un SAUVETEUR SALVATEUR lance une bouée Union Jack à un naufragé agrippé à un tronc gluant de SÈVE.",
+   "de": "save ≈ sève ; le sauveteur et sa bouée = sauver",
+   "fo": "saved ; aussi économiser (to save money)",
+   "px": [
+    "He could have been saved."
+   ],
+   "co": [
+    "to save sb's life",
+    "to save the world",
+    "to save money",
+    "to save time"
+   ]
+  },
+  {
+   "n": 28,
+   "it": "to give sb sth",
+   "itd": "to give [sb] [sth]",
+   "ito": "give C2 C",
+   "eit": "Give me that.",
+   "eim": "Give me that",
+   "api": "/ɡɪv/",
+   "pr": "GUIV",
+   "mc": "guivre",
+   "sc": "Une main DONNE un dard à une autre, sous l'œil d'une GUIVRE héraldique brodée sur un étendard anglais.",
+   "de": "give ≈ guivre ; la main qui tend le dard = donner",
+   "fo": "gave, given ; give sb sth = give sth to sb"
+  },
+  {
+   "n": 29,
+   "it": "to start doing sth",
+   "itd": "to start [v-ing] [sth]",
+   "ito": "start V_ing C",
+   "eit": "It's started raining.",
+   "eim": "started raining",
+   "api": "/stɑːt/",
+   "pr": "STÂT",
+   "mc": "stade",
+   "sc": "Au milieu d'un STADE de cricket détrempé, un MUSICIEN SE MET À JOUER du violon.",
+   "de": "start ≈ stade ; le musicien qui attaque son morceau = se mettre à",
+   "fo": "started ; start doing / start to do ; to begin (began, begun) = commencer"
+  },
+  {
+   "n": 30,
+   "drop": true
+  },
+  {
+   "n": 31,
+   "it": "to go back",
+   "eit": "I'm going back to Rome.",
+   "eim": "going back",
+   "api": "/ɡəʊ ˈbæk/",
+   "pr": "GÔ BAK",
+   "mc": "gobe + bac",
+   "sc": "Sur une plage de Cornouailles, un boomerang RETOURNE en tornade vers son lanceur et GOBE un BAC à sable au passage.",
+   "de": "go back ≈ gobe + bac ; le boomerang qui revient = retourner",
+   "fo": "went back, gone back ; retourner qc = to turn sth over ; rentrer chez soi = to go home"
+  },
+  {
+   "n": 32,
+   "it": "to spend time doing sth",
+   "itd": "to spend time [v-ing] [sth]",
+   "ito": "spend time V_ing C",
+   "eit": "I spend time reading.",
+   "eim": "spend time reading",
+   "api": "/spend taɪm/",
+   "pr": "SPÈND TAÏM",
+   "mc": "s'pend + t'aime",
+   "sc": "Un PASSANT suit le TEMPO d'une fanfare de la Garde et PASSE DU TEMPS À DANSER, S'PENDant au cou d'une statue en criant « je T'AIME ».",
+   "de": "spend time ≈ s'pend + t'aime ; le passant qui danse sur le tempo = passer du temps à",
+   "fo": "spend + -ing (jamais l'infinitif) ; spent, spent"
+  },
+  {
+   "n": 33,
+   "it": "to smell of sth",
+   "itd": "to smell of [sth]",
+   "eit": "It smells of burning.",
+   "eim": "smells of burning",
+   "api": "/smel/",
+   "pr": "SMÈL",
+   "mc": "s'mêle",
+   "sc": "Un SAPIN de Noël noirci fume dans le salon d'un cottage : ÇA SENT LE BRÛLÉ, et l'odeur SE MÊLE à celle du pudding.",
+   "de": "smell ≈ s'mêle ; le sapin qui fume = sentir (odeur)",
+   "fo": "smelt / smelled ; avoir le goût de = to taste of ; I can smell burning = ça sent le brûlé"
+  },
+  {
+   "n": 34,
+   "it": "to smell of sth",
+   "itd": "to smell of [sth]",
+   "eit": "This jumper smells of smoke.",
+   "eim": "smells of smoke",
+   "api": "/smel/",
+   "pr": "SMÈL",
+   "mc": "s'emmêle",
+   "sc": "À Hyde Park, un promeneur renifle les aiguilles d'un SAPIN qui A L'ODEUR DE la menthe ; étonné, il S'EMMÊLE dans les branches.",
+   "de": "smell ≈ s'emmêle ; le sapin qui a l'odeur de menthe = avoir l'odeur de",
+   "fo": "smell of = avoir l'odeur de ; smell like = sentir comme ; a smell = une odeur"
+  },
+  {
+   "n": 35,
+   "it": "to touch",
+   "eit": "Don't touch!",
+   "eim": "touch",
+   "api": "/tʌtʃ/",
+   "pr": "TATCH",
+   "mc": "tache",
+   "sc": "Un doigt TOUCHE la TOQUE d'un chef du Savoy et y laisse une TACHE de sauce.",
+   "de": "touch ≈ tache ; le doigt sur la toque = toucher",
+   "fo": "touched ; to be in touch = être en contact ; it's your turn = c'est ton tour",
+   "co": [
+    "to get in touch",
+    "to keep in touch",
+    "touch wood"
+   ]
+  },
+  {
+   "n": 36,
+   "it": "to miss",
+   "eit": "I miss you.",
+   "eim": "miss",
+   "api": "/mɪs/",
+   "pr": "MISS",
+   "mc": "Miss",
+   "sc": "Devant une assiette vide dans un pub, il MANQUE le plat ; à sa place trône une MISS couronnée.",
+   "de": "miss ≈ Miss ; l'assiette vide = manquer",
+   "fo": "inversion : tu me manques = I miss you ; to miss = aussi rater (the bus)",
+   "px": [
+    "That's all we needed!",
+    "He must have a screw loose!",
+    "That's all we needed!"
+   ],
+   "co": [
+    "to miss the bus",
+    "to miss sb terribly",
+    "to miss the point"
+   ]
+  },
+  {
+   "n": 37,
+   "it": "to excuse",
+   "eit": "Excuse me!",
+   "eim": "Excuse",
+   "api": "/ɪkˈskjuːz/",
+   "pr": "iks-KIOUZ",
+   "mc": "excuse",
+   "sc": "Un maladroit renverse une tasse de thé sur un costume de la City et S'EXCUSE, à genoux, en épongeant avec son chapeau melon : mille EXCUSES !",
+   "de": "excuse ≈ excuse (« iks-KIOUZ ») ; le maladroit qui renverse = excuser",
+   "fo": "nom an excuse /ɪkˈskjuːs/ ; pour s'excuser : sorry! ; excuse me = pardon (pour déranger)",
+   "px": [
+    "Please forgive me.",
+    "He didn't even apologise."
+   ],
+   "co": [
+    "excuse me",
+    "excuse my being late",
+    "to make excuses"
+   ]
+  },
+  {
+   "n": 38,
+   "it": "to take",
+   "eit": "I'll take you to the station.",
+   "eim": "take",
+   "api": "/teɪk/",
+   "pr": "TÈÏK",
+   "mc": "teck",
+   "sc": "Un guide EMMÈNE une vieille dame à la gare dans un black cab tout en TECK.",
+   "de": "take ≈ teck ; le guide qui accompagne la dame en voiture = emmener",
+   "fo": "took, taken ; take = emmener (vers là-bas) ; bring = amener (vers ici) ; give sb a lift = emmener qn en voiture",
+   "px": [
+    "I can take you to the station."
+   ]
+  },
+  {
+   "n": 39,
+   "it": "to answer",
+   "eit": "Answer the phone!",
+   "eim": "Answer",
+   "api": "/ˈɑːnsə/",
+   "pr": "ÂNN-se",
+   "mc": "anse",
+   "sc": "Un RÉPONDEUR RÉPOND en clignotant, suspendu par l'ANSE d'une théière.",
+   "de": "answer ≈ anse ; le répondeur qui clignote = répondre",
+   "fo": "w muet ; answered ; to reply = répondre (surtout par écrit)",
+   "px": [
+    "She shot straight back.",
+    "He still hasn't answered.",
+    "And what did they say?"
+   ],
+   "co": [
+    "to answer the question",
+    "to answer the phone",
+    "to answer my calls"
+   ]
+  },
+  {
+   "n": 40,
+   "it": "to steal",
+   "eit": "My bike's been stolen!",
+   "eim": "stolen",
+   "api": "/stiːl/",
+   "pr": "STIIL",
+   "mc": "style",
+   "sc": "Un VOLEUR file à travers Covent Garden en VOLANT un ruban doré, avec beaucoup de STYLE.",
+   "de": "steal ≈ style ; le voleur qui file avec le ruban = voler (dérober)",
+   "fo": "stole, stolen ; fam. UK to nick ; voler qn = to rob sb",
+   "px": [
+    "My wallet's been stolen."
+   ],
+   "co": [
+    "to steal a car",
+    "to steal sb's idea",
+    "to steal the show"
+   ]
+  },
+  {
+   "n": 41,
+   "it": "to use",
+   "eit": "What do you use?",
+   "eim": "use",
+   "api": "/juːz/",
+   "pr": "IOUZ",
+   "mc": "(s')use",
+   "sc": "Une brosse S'USE à force d'être UTILISÉE pour cirer les bottes d'un garde royal.",
+   "de": "use ≈ (s')use ; la brosse usée = utiliser",
+   "fo": "verbe /juːz/, nom /juːs/ ; used to do = avoir l'habitude de faire",
+   "px": [
+    "You should use your wide-angle lens."
+   ],
+   "co": [
+    "to use the phone",
+    "to use a word",
+    "to make use of sth"
+   ]
+  },
+  {
+   "n": 42,
+   "it": "to mind sth",
+   "itd": "to mind [sth]",
+   "ito": "mind C",
+   "eit": "Mind the step.",
+   "eim": "Mind the step",
+   "api": "/maɪnd/",
+   "pr": "MAÏNND",
+   "mc": "mine",
+   "sc": "Un panneau « ATTENTION » sur une marche, comme le fameux « MIND THE GAP » du métro ; dessous, une MINE prête à exploser.",
+   "de": "mind ≈ mine ; le panneau « ATTENTION » sur la marche = faire attention à",
+   "fo": "mind = attention à (danger) ; pay attention to = faire attention à (écouter) ; be careful! = fais attention !"
+  },
+  {
+   "n": 43,
+   "it": "to fly",
+   "eit": "I'd like to fly.",
+   "eim": "fly",
+   "api": "/flaɪ/",
+   "pr": "FLAÏ",
+   "mc": "flan + aïe",
+   "sc": "Un oiseau VOLE très haut au-dessus de Big Ben et lâche un FLAN qui tombe sur un passant : « AÏE ! ».",
+   "de": "fly ≈ fl(an) + aïe ; l'oiseau très haut = voler (dans les airs)",
+   "fo": "flew, flown ; a fly = une mouche ; a flight = un vol",
+   "co": [
+    "to fly away",
+    "to fly a plane",
+    "to fly to London"
+   ]
+  },
+  {
+   "n": 44,
+   "it": "to stop doing sth",
+   "itd": "to stop [v-ing] [sth]",
+   "ito": "stop V_ing C",
+   "eit": "Stop smoking.",
+   "eim": "Stop smoking",
+   "api": "/stɒp/",
+   "pr": "STOP",
+   "mc": "stop",
+   "sc": "Une radio pirate sur la Tamise ARRÊTE D'ÉMETTRE : silence, et un panneau STOP surgit du transistor.",
+   "de": "stop ≈ stop ; la radio qui cesse d'émettre = arrêter de",
+   "fo": "stopped ; stop doing = arrêter de faire ≠ stop to do = s'arrêter pour faire ; give up smoking = arrêter de fumer (pour de bon)",
+   "px": [
+    "Will you stop moaning?"
+   ]
+  },
+  {
+   "n": 45,
+   "it": "to spend one's time doing sth",
+   "itd": "to spend [one's] time [v-ing] [sth]",
+   "ito": "spend one's time V_ing C",
+   "eit": "He spends all his time playing.",
+   "eim": "spends all his time playing",
+   "api": "/spend wʌnz taɪm/",
+   "pr": "SPÈND OUANZ TAÏM",
+   "mc": "suspend",
+   "sc": "Un chat PASSE SON TEMPS À DORMIR, SUSPENDU dans un panier au-dessus de la cheminée d'un cottage.",
+   "de": "spend ≈ (sus)pend ; le chat qui dort sans arrêt = passer son temps à",
+   "fo": "spend + -ing ; spent, spent"
+  },
+  {
+   "n": 46,
+   "it": "to sit down",
+   "eit": "Sit down!",
+   "eim": "Sit down",
+   "api": "/sɪt ˈdaʊn/",
+   "pr": "SIT DAOUN",
+   "mc": "site",
+   "sc": "Au milieu d'un SITE en ruines, un ROI S'ASSIED sur un SIÈGE énorme, le trône du couronnement.",
+   "de": "sit ≈ site ; le roi sur son siège énorme = s'asseoir",
+   "fo": "sat, sat ; être assis = to be sitting (UK fam. to be sat) ; take a seat = asseyez-vous",
+   "px": [
+    "Please take a seat here."
+   ],
+   "co": [
+    "to sit next to sb",
+    "to sit at the table",
+    "to sit on a chair"
+   ]
+  },
+  {
+   "n": 47,
+   "it": "to get married",
+   "eit": "They're getting married in May.",
+   "eim": "getting married",
+   "api": "/ɡet ˈmærid/",
+   "pr": "guèt MA-rid",
+   "mc": "mari",
+   "sc": "Deux mariés S'ÉPOUSENT sous une pluie de riz devant une chapelle anglaise ; le MARI soulève son haut-de-forme.",
+   "de": "married ≈ mari ; la pluie de riz = se marier",
+   "fo": "to marry sb = épouser qn ; married = marié ; a wedding = un mariage",
+   "px": [
+    "They had a very private wedding."
+   ]
+  },
+  {
+   "n": 48,
+   "it": "to pick sb up",
+   "itd": "to pick [sb] up",
+   "ito": "pick C up",
+   "eit": "I'm going to pick the kids up.",
+   "eim": "pick the kids up",
+   "api": "/pɪk ˈʌp/",
+   "pr": "PIK AP",
+   "mc": "pic",
+   "sc": "Un chauffeur de black cab VA CHERCHER un ami, un PIC-vert perché sur le toit du taxi.",
+   "de": "pick up ≈ pic ; le chauffeur qui va prendre l'ami = aller chercher",
+   "fo": "picked up ; to fetch = aller chercher (qc) ; to collect = (UK) récupérer"
+  },
+  {
+   "n": 49,
+   "it": "to worry",
+   "eit": "Don't worry!",
+   "eim": "worry",
+   "api": "/ˈwʌri/",
+   "pr": "OUA-ri",
+   "mc": "avarie",
+   "sc": "Sur le pont d'un ferry de Douvres, un homme PRÉOCCUPÉ se ronge les ongles : le bateau a une AVARIE.",
+   "de": "worry ≈ (a)varie ; l'homme qui se ronge les ongles = s'inquiéter",
+   "fo": "worried ; worry about sth = s'inquiéter de qc ; I'm worried = je suis inquiet",
+   "px": [
+    "Don't worry about that."
+   ]
+  },
+  {
+   "n": 50,
+   "it": "to love",
+   "eit": "I love this film!",
+   "eim": "love",
+   "api": "/lʌv/",
+   "pr": "LAV",
+   "mc": "lave",
+   "sc": "Devant un cinéma de Leicester Square, un fan ADORE son idole, mains jointes, les pieds dans la LAVE.",
+   "de": "love ≈ lave ; le fan mains jointes = adorer",
+   "fo": "loved ; love doing = adorer faire ; to adore = adorer (plus fort, plus rare)"
+  },
+  {
+   "n": 51,
+   "it": "to be doing sth",
+   "ito": "be V_ing C",
+   "eit": "I'm eating.",
+   "eim": "'m eating",
+   "api": "/biː ˈduːɪŋ/",
+   "pr": "bi DOU-ing",
+   "mc": "doux, hein ?",
+   "sc": "Une STAR de cinéma EST EN TRAIN DE MANGER, la bouche pleine de scones, et murmure : « C'est DOUX, HEIN ? ».",
+   "de": "doing ≈ doux, hein ; la star la bouche pleine = être en train de",
+   "fo": "be + -ing = forme progressive ; be in the middle of doing = être en plein dans"
+  },
+  {
+   "n": 52,
+   "it": "to say goodbye",
+   "eit": "Say goodbye to Granny.",
+   "eim": "Say goodbye",
+   "api": "/seɪ ɡʊdˈbaɪ/",
+   "pr": "SÈÏ goud-BAÏ",
+   "mc": "Gouda + baille",
+   "sc": "Sur un quai de gare anglais, un voyageur SALUE DE LA MAIN pour DIRE AU REVOIR, un GOUDA sous le bras, et BAILLE à s'en décrocher la mâchoire.",
+   "de": "goodbye ≈ Gouda + baille ; la main qui salue = dire au revoir",
+   "fo": "bye! (fam.) ; see you! = à plus !"
+  },
+  {
+   "n": 53,
+   "it": "to be worth",
+   "eit": "It's worth it.",
+   "eim": "worth",
+   "api": "/wɜːθ/",
+   "pr": "OUEURTH",
+   "mc": "heurte",
+   "sc": "Chez un bijoutier de Hatton Garden, une PÉPITE qui VAUT une fortune HEURTE le plateau de la balance avec fracas.",
+   "de": "worth ≈ (h)eurte ; la pépite sur la balance = valoir",
+   "fo": "worth + somme / + -ing : it's worth £10, it's worth trying",
+   "px": [
+    "I thought it'd be better to get the bus.",
+    "It got me into loads of trouble.",
+    "Better late than never.",
+    "Better safe than sorry."
+   ],
+   "co": [
+    "to be worth it",
+    "to be worth a fortune",
+    "to be worth doing"
+   ]
+  },
+  {
+   "n": 54,
+   "it": "to put down",
+   "eit": "Put that down there.",
+   "eim": "Put that down",
+   "api": "/pʊt ˈdaʊn/",
+   "pr": "POUT DAOUN",
+   "mc": "poutre",
+   "sc": "Dans un cottage, une main POSE délicatement un vase sur une POUTRE.",
+   "de": "put ≈ pou(tre) ; la main qui dépose le vase = poser",
+   "fo": "put, put, put ; poser une question = to ask a question",
+   "px": [
+    "I was asking myself a question.",
+    "She stood him up."
+   ]
+  },
+  {
+   "n": 55,
+   "it": "to put sth somewhere",
+   "itd": "to put [sth] [[somewhere]]",
+   "ito": "put C C2_lieu",
+   "eit": "Put that here.",
+   "eim": "Put that here",
+   "api": "/pʊt/",
+   "pr": "POUT",
+   "mc": "poutine",
+   "sc": "Une main POSE un vase SUR LA TABLE du thé, à côté d'une assiette de POUTINE.",
+   "de": "put ≈ pout(ine) ; le vase posé sur la table = poser qc qqpart",
+   "fo": "put, put, put ; put it away = range-le"
+  },
+  {
+   "n": 56,
+   "it": "to ask sb sth",
+   "itd": "to ask [sb] [sth]",
+   "ito": "ask C2 C",
+   "eit": "Ask him the time.",
+   "eim": "Ask him the time",
+   "api": "/ɑːsk/",
+   "pr": "ÂSK",
+   "mc": "Basque",
+   "sc": "Un passant en béret de BASQUE DEMANDE son chemin à un bobby londonien.",
+   "de": "ask ≈ (B)asque ; le passant qui interroge l'agent = demander",
+   "fo": "asked ; ask sb for sth = demander qc (pour l'obtenir) à qn"
+  },
+  {
+   "n": 57,
+   "it": "to ask sb to do sth",
+   "itd": "to ask [sb] to [v] [sth]",
+   "ito": "ask C to V_inf C2",
+   "eit": "He asked me to come.",
+   "eim": "asked me to come",
+   "api": "/ɑːsk/",
+   "pr": "ÂSK",
+   "mc": "masque",
+   "sc": "Un bobby portant un MASQUE DEMANDE À un passant DE CIRCULER.",
+   "de": "ask ≈ (m)asque ; l'agent qui fait circuler = demander à qn de faire",
+   "fo": "ask sb to do (jamais « ask to sb ») ; ask sb not to do = demander de ne pas faire"
+  },
+  {
+   "n": 58,
+   "it": "to tell",
+   "eit": "Tell me everything!",
+   "eim": "Tell",
+   "api": "/tel/",
+   "pr": "TÈL",
+   "mc": "Tell",
+   "sc": "Au coin du feu d'un pub, un CONTEUR RACONTE l'histoire de Guillaume TELL, une pomme à la main.",
+   "de": "tell ≈ Tell ; le conteur au coin du feu = raconter",
+   "fo": "told, told ; tell sb sth ; tell a story = raconter une histoire",
+   "px": [
+    "Don't give me that!",
+    "Don't talk rubbish!",
+    "He just talks a load of rubbish."
+   ],
+   "co": [
+    "to tell a story",
+    "to tell a joke",
+    "to tell the truth"
+   ]
+  },
+  {
+   "n": 59,
+   "it": "to count (on)",
+   "eit": "I'm counting on you.",
+   "eim": "counting on",
+   "api": "/kaʊnt/",
+   "pr": "KAOUNT",
+   "mc": "caoutchouc",
+   "sc": "Un CONTEUR COMPTE ses moutons sur ses doigts, entourés d'élastiques en CAOUTCHOUC.",
+   "de": "count ≈ caou(tchouc) ; compter ses moutons sur ses doigts = compter",
+   "fo": "counted ; count on sb = compter sur qn ; to rely on = se fier à",
+   "px": [
+    "We can count on him."
+   ],
+   "co": [
+    "to count on sb",
+    "to count to ten"
+   ]
+  },
+  {
+   "n": 60,
+   "it": "to beat",
+   "eit": "My heart's beating really hard.",
+   "eim": "beating",
+   "api": "/biːt/",
+   "pr": "BIIT",
+   "mc": "bitume",
+   "sc": "Un BATTEUR BAT sa batterie à toute allure, installé sur le BITUME d'Abbey Road.",
+   "de": "beat ≈ bit(ume) ; le batteur sur sa batterie = battre",
+   "fo": "beat, beaten ; se battre = to fight ; my heart's pounding = mon cœur bat la chamade",
+   "px": [
+    "He put up a good fight."
+   ],
+   "co": [
+    "to beat sb at sth",
+    "to beat a record",
+    "to beat eggs"
+   ]
+  },
+  {
+   "n": 61,
+   "it": "to have a headache",
+   "eit": "I've got a headache.",
+   "eim": "got a headache",
+   "api": "/ˈhedeɪk/",
+   "pr": "HÈ-dèïk",
+   "mc": "aide + cake",
+   "sc": "Au pied de Big Ben, une MALLE tombe sur LA TÊTE d'un touriste qui appelle à l'AIDE, un CAKE à la main : J'AI MAL À LA TÊTE !",
+   "de": "headache ≈ (h)aide + cake ; la malle qui tombe sur la tête = avoir mal à la tête",
+   "fo": "head + ache (/eɪk/, douleur) ; toothache, stomach ache ; UK : I've got a headache"
+  },
+  {
+   "n": 62,
+   "it": "to be in sth",
+   "itd": "to be in [sth]",
+   "ito": "be in C",
+   "eit": "He's in that film.",
+   "eim": "in that film",
+   "api": "/biː ɪn/",
+   "pr": "bi INN",
+   "mc": "bien",
+   "sc": "Aux studios de Pinewood, un ACTEUR RÉCITE son rôle DANS un film ; le réalisateur hurle « BIEN ! ».",
+   "de": "be in ≈ bi(en) ; l'acteur qui récite son rôle = jouer dans",
+   "fo": "to act / to star in sth = jouer dans (plus précis) ; to play a part = jouer un rôle"
+  },
+  {
+   "n": 63,
+   "it": "to be enough",
+   "eit": "That's enough!",
+   "eim": "enough",
+   "api": "/ɪˈnʌf/",
+   "pr": "i-NAF",
+   "mc": "hein ? neuf !",
+   "sc": "Au Royal Albert Hall, un chef d'orchestre lève les bras : « ÇA SUFFIT ! » — HEIN ? NEUF musiciens jouent encore.",
+   "de": "enough ≈ hein, neuf ; le chef qui lève les bras = suffire",
+   "fo": "il suffit de faire = all you have to do is (to) do ; that'll do = ça ira",
+   "px": [
+    "That was really enough for me. I've really had enough.",
+    "All you have to do is press a button."
+   ]
+  },
+  {
+   "n": 64,
+   "it": "to shut",
+   "eit": "Shut the door!",
+   "eim": "Shut",
+   "api": "/ʃʌt/",
+   "pr": "CHAT",
+   "mc": "chat",
+   "sc": "On FERME une porte de Downing Street en y plantant un clou ; derrière, un CHAT coincé miaule.",
+   "de": "shut ≈ chat ; la porte clouée = fermer",
+   "fo": "shut, shut, shut ; to close = fermer (plus neutre) ; shut up! = tais-toi !",
+   "px": [
+    "I didn't sleep a wink all night."
+   ],
+   "co": [
+    "to shut the door",
+    "to shut your eyes",
+    "to shut your mouth",
+    "to lock the door"
+   ]
+  },
+  {
+   "n": 65,
+   "it": "to spend the night",
+   "eit": "Do we have to spend the night here?",
+   "eim": "spend the night",
+   "api": "/spend ðə ˈnaɪt/",
+   "pr": "SPÈND the NAÏT",
+   "mc": "naître",
+   "sc": "Dans un château hanté d'Écosse, un voyageur PASSE LA NUIT à veiller une chandelle jusqu'à voir NAÎTRE le jour.",
+   "de": "night ≈ naît(re) ; la chandelle qui brûle jusqu'à l'aube = passer la nuit",
+   "fo": "night /naɪt/, gh muet ; to stay the night = rester dormir"
+  },
+  {
+   "n": 66,
+   "it": "to sell",
+   "eit": "He's selling his car.",
+   "eim": "selling",
+   "api": "/sel/",
+   "pr": "SÈL",
+   "mc": "selle",
+   "sc": "Sur Portobello Road, un MARCHAND VEND des oranges sur son étal, assis sur une SELLE de cheval.",
+   "de": "sell ≈ selle ; le marchand à l'étal = vendre",
+   "fo": "sold, sold ; for sale = à vendre ; on sale = en solde",
+   "px": [
+    "I couldn't bring myself to sell it.",
+    "Sorry, this isn't for sale."
+   ],
+   "co": [
+    "to sell a house",
+    "to sell drugs",
+    "to sell out"
+   ]
+  },
+  {
+   "n": 67,
+   "it": "to lie",
+   "eit": "You're lying to me!",
+   "eim": "lying",
+   "api": "/laɪ/",
+   "pr": "LAÏ",
+   "mc": "l'ail",
+   "sc": "Sur le London Bridge, PINOCCHIO MENT et son nez s'allonge, piqué d'une gousse d'AIL.",
+   "de": "lie ≈ l'ail ; le nez de Pinocchio qui s'allonge = mentir",
+   "fo": "lied, lied (mentir) ≠ lay, lain (être couché) ; a lie = un mensonge ; a liar = un menteur",
+   "px": [
+    "I never lie.",
+    "I'm convinced he lied."
+   ]
+  },
+  {
+   "n": 68,
+   "it": "to imagine",
+   "eit": "I can't imagine.",
+   "eim": "imagine",
+   "api": "/ɪˈmædʒɪn/",
+   "pr": "i-MA-djinn",
+   "mc": "image + djinn",
+   "sc": "Au-dessus d'une tasse de thé, une BULLE de rêve IMAGINE un château, et un DJINN en sort comme une IMAGE vivante.",
+   "de": "imagine ≈ ima(ge) + djinn ; la bulle de rêve = imaginer",
+   "fo": "accent sur MA, g = « dj » ; imagined",
+   "px": [
+    "What on earth are you thinking?",
+    "I can imagine your disappointment."
+   ]
+  },
+  {
+   "n": 69,
+   "it": "to decide",
+   "eit": "You decide.",
+   "eim": "decide",
+   "api": "/dɪˈsaɪd/",
+   "pr": "di-SAÏD",
+   "mc": "dis, Saïd !",
+   "sc": "À l'Old Bailey, un JUGE en perruque abat son MAILLET : il A DÉCIDÉ. « DIS, SAÏD, lève-toi ! ».",
+   "de": "decide ≈ dis, Saïd ; le maillet du juge = décider",
+   "fo": "decided ; decide to do = décider de faire ; it's up to you = c'est toi qui vois"
+  },
+  {
+   "n": 70,
+   "it": "to hide",
+   "eit": "Where've you hidden that?",
+   "eim": "hidden",
+   "api": "/haɪd/",
+   "pr": "HAÏD",
+   "mc": "Heidi",
+   "sc": "Dans un cirque de Blackpool, un CLOWN CACHE son nez rouge sous un cône ; HEIDI le cherche partout.",
+   "de": "hide ≈ Hei(di) ; le clown qui cache son nez = cacher",
+   "fo": "hid, hidden ; hide-and-seek = cache-cache",
+   "px": [
+    "Wherever he's hiding, I'll find him."
+   ],
+   "co": [
+    "to hide behind sth",
+    "to hide sth from sb",
+    "to hide your face"
+   ]
+  },
+  {
+   "n": 71,
+   "it": "to move",
+   "eit": "Don't move!",
+   "eim": "move",
+   "api": "/muːv/",
+   "pr": "MOUV",
+   "mc": "mauve",
+   "sc": "À Covent Garden, un MIME en collant MAUVE BOUGE sans arrêt.",
+   "de": "move ≈ mauve ; le mime qui ne tient pas en place = bouger",
+   "fo": "moved ; to move house = déménager",
+   "co": [
+    "get a move on!",
+    "to move house",
+    "to move a muscle"
+   ]
+  },
+  {
+   "n": 72,
+   "it": "to be ready to do sth",
+   "itd": "to be ready to [v] [sth]",
+   "ito": "be ready to V_inf C",
+   "eit": "I'm ready to go.",
+   "eim": "ready to go",
+   "api": "/biː ˈredi/",
+   "pr": "bi RÈ-di",
+   "mc": "raidi",
+   "sc": "Sur la piste d'Ascot, un COUREUR PROMPT EST PRÊT À PARTIR, RAIDI dans ses starting-blocks.",
+   "de": "ready ≈ raidi ; le coureur dans les blocs = être prêt à",
+   "fo": "get ready = se préparer ; ready, steady, go! = à vos marques, prêts, partez !"
+  },
+  {
+   "n": 73,
+   "it": "to be nice (out)",
+   "eit": "It's nice out today.",
+   "eim": "nice out",
+   "api": "/biː ˈnaɪs/",
+   "pr": "bi NAÏSS",
+   "mc": "Nice",
+   "sc": "Un SOLEIL radieux bat un TEMPO joyeux : IL FAIT BEAU à Brighton, pour une fois, autant qu'à NICE.",
+   "de": "nice ≈ Nice ; le soleil joyeux = faire beau",
+   "fo": "it's lovely / sunny = il fait beau ; the weather's nice = il fait beau ; it's raining = il pleut"
+  },
+  {
+   "n": 74,
+   "it": "to get (receive)",
+   "eit": "I got your message.",
+   "eim": "got",
+   "api": "/ɡet/",
+   "pr": "GUÈT",
+   "mc": "guêtre",
+   "sc": "Un facteur du Royal Mail, en GUÊTRES, tend un REÇU : on REÇOIT un colis.",
+   "de": "get ≈ guê(tre) ; le facteur qui tend le reçu = recevoir",
+   "fo": "got, got ; to receive = recevoir (soutenu)",
+   "px": [
+    "He welcomed us really warmly.",
+    "He gave us a cold welcome.",
+    "We were given a really warm welcome."
+   ],
+   "co": [
+    "to get a call",
+    "to get a message",
+    "to get a letter",
+    "to get a visit"
+   ]
+  },
+  {
+   "n": 75,
+   "it": "to come down",
+   "eit": "I'm coming down now!",
+   "eim": "coming down",
+   "api": "/kʌm ˈdaʊn/",
+   "pr": "KAM DAOUN",
+   "mc": "came",
+   "sc": "On DESCEND dans un puits de mine du pays de Galles, accroché à une chaîne qui grince sur une CAME.",
+   "de": "come down ≈ came ; la descente dans le puits = descendre",
+   "fo": "came, come ; go down = descendre (en s'éloignant) ; get off / get out = descendre (bus / voiture)",
+   "co": [
+    "to come downstairs",
+    "to get out of the car",
+    "to go down the stairs",
+    "to get off the train"
+   ]
+  },
+  {
+   "n": 76,
+   "it": "to act",
+   "eit": "We need to act now.",
+   "eim": "act",
+   "api": "/ækt/",
+   "pr": "AKT",
+   "mc": "acte",
+   "sc": "Un AGENT AGILE de Scotland Yard AGIT en un éclair et signe aussitôt l'ACTE d'arrestation.",
+   "de": "act ≈ acte ; l'agent agile = agir",
+   "fo": "acted ; act = aussi jouer (théâtre) ; il s'agit de = it's about",
+   "px": [
+    "That's not what it's about."
+   ],
+   "co": [
+    "to act behind sb's back",
+    "to act differently",
+    "to act accordingly"
+   ]
+  },
+  {
+   "n": 77,
+   "it": "to trust sb",
+   "itd": "to trust [sb]",
+   "ito": "trust C",
+   "eit": "Trust me.",
+   "eim": "Trust me",
+   "api": "/trʌst/",
+   "pr": "TRAST",
+   "mc": "trust",
+   "sc": "Un CHIEN FIDÈLE garde le coffre d'un gros TRUST de la City : on lui FAIT CONFIANCE.",
+   "de": "trust ≈ trust ; le chien fidèle = faire confiance",
+   "fo": "trusted ; trust sb, sans préposition"
+  },
+  {
+   "n": 78,
+   "drop": true
+  },
+  {
+   "n": 79,
+   "it": "to find a job",
+   "eit": "Have you... found a job?",
+   "eim": "found",
+   "api": "/faɪnd ə ˈdʒɒb/",
+   "pr": "FAÏND e DJOB",
+   "mc": "job",
+   "sc": "Un chômeur en imperméable entoure une annonce dans le Times et TROUVE DU TRAVAIL : un petit JOB.",
+   "de": "job ≈ job ; l'annonce entourée = trouver du travail",
+   "fo": "a job = un emploi (dénombrable) ; work = le travail (indénombrable)"
+  },
+  {
+   "n": 80,
+   "it": "to need help",
+   "eit": "In that case, I need help.",
+   "eim": "need",
+   "api": "/niːd ˈhelp/",
+   "pr": "NIID HÈLP",
+   "mc": "nid + Help!",
+   "sc": "Un oisillon tombé du NID crie « HELP! » comme les Beatles : il A BESOIN D'AIDE.",
+   "de": "need help ≈ nid + Help! ; l'oisillon qui appelle = avoir besoin d'aide",
+   "fo": "need sth = avoir besoin de qc ; can you help me? = tu peux m'aider ?"
+  },
+  {
+   "n": 81,
+   "it": "to turn",
+   "eit": "Turn right.",
+   "eim": "Turn",
+   "api": "/tɜːn/",
+   "pr": "TEURN",
+   "mc": "terne",
+   "sc": "Sur la jetée de Brighton, une GIRAFE au pelage TERNE TOURNE sur elle-même comme un manège.",
+   "de": "turn ≈ terne ; la girafe qui tourne = tourner",
+   "fo": "turned ; it's your turn = c'est ton tour ; tourner un film = to shoot a film",
+   "px": [
+    "It's going to turn nasty.",
+    "The film was shot in Athens."
+   ],
+   "co": [
+    "to turn right",
+    "to turn around",
+    "to turn your head",
+    "to turn into sth"
+   ]
+  },
+  {
+   "n": 82,
+   "it": "to throw away",
+   "eit": "Throw that away!",
+   "eim": "Throw that away",
+   "api": "/θrəʊ əˈweɪ/",
+   "pr": "THRÔ e-OUÈÏ",
+   "mc": "trot",
+   "sc": "Un FOOTBALLEUR JETTE le ballon contre un mur de briques, puis part au TROT vers la poubelle.",
+   "de": "throw ≈ tro(t) ; le ballon lancé contre le mur = jeter",
+   "fo": "threw, thrown ; throw away / throw out = jeter (à la poubelle) ; fam. UK to chuck",
+   "px": [
+    "Don't add fuel to the fire."
+   ],
+   "co": [
+    "to throw away",
+    "to throw out",
+    "to take the rubbish out",
+    "to throw up"
+   ]
+  },
+  {
+   "n": 83,
+   "it": "to explain",
+   "eit": "Let me explain.",
+   "eim": "explain",
+   "api": "/ɪkˈspleɪn/",
+   "pr": "iks-PLÈÏN",
+   "mc": "ex-plaine",
+   "sc": "Un professeur d'Oxford DÉPLIE la carte d'une immense PLAINE pour EXPLIQUER la bataille.",
+   "de": "explain ≈ ex-plaine ; la carte dépliée = expliquer",
+   "fo": "explained ; explain sth to sb (jamais « explain sb sth »)",
+   "px": [
+    "I don't know how to explain it."
+   ]
+  },
+  {
+   "n": 84,
+   "it": "to update",
+   "eit": "Update your phone.",
+   "eim": "Update",
+   "api": "/ʌpˈdeɪt/",
+   "pr": "ap-DÈÏT",
+   "mc": "hop, date !",
+   "sc": "Le gardien de Big Ben remet au jour un CALENDRIER géant et le MET À JOUR en criant « HOP, DATE ! ».",
+   "de": "update ≈ hop + date ; le calendrier remis au jour = mettre à jour",
+   "fo": "updated ; an update = une mise à jour (accent sur UP)",
+   "co": [
+    "to keep sb updated",
+    "to update sb on sth"
+   ]
+  },
+  {
+   "n": 85,
+   "it": "to bring sb",
+   "itd": "to bring [sb]",
+   "ito": "bring C",
+   "eit": "Bring your sister.",
+   "eim": "Bring your sister",
+   "api": "/brɪŋ/",
+   "pr": "BRING",
+   "mc": "bringue",
+   "sc": "Un ami AMÈNE un gâteau à une garden-party anglaise : ce soir, c'est la BRINGUE.",
+   "de": "bring ≈ bringue ; l'ami qui arrive avec le gâteau = amener",
+   "fo": "brought, brought /brɔːt/ ; bring = vers ici ; take = vers là-bas ; bring sb along = amener qn avec soi"
+  },
+  {
+   "n": 86,
+   "it": "to throw",
+   "eit": "Throw down your weapon!",
+   "eim": "Throw down",
+   "api": "/θrəʊ/",
+   "pr": "THRÔ",
+   "mc": "trône",
+   "sc": "On JETTE un papier froissé dans la corbeille posée au pied du TRÔNE royal.",
+   "de": "throw ≈ trô(ne) ; le papier dans la corbeille = jeter",
+   "fo": "threw, thrown ; throw sth at sb = lancer qc sur qn ; drop the weapon! = lâche ton arme !",
+   "co": [
+    "to throw a ball",
+    "to throw down your weapons",
+    "to throw in the towel"
+   ]
+  },
+  {
+   "n": 87,
+   "it": "to tell the truth",
+   "eit": "Tell the truth!",
+   "eim": "Tell",
+   "api": "/tel ðə ˈtruːθ/",
+   "pr": "TÈL the TROUTH",
+   "mc": "trousse",
+   "sc": "Devant un juge en perruque, un témoin DIT LA VÉRITÉ, la main sur la Bible, en vidant sa TROUSSE sur la barre.",
+   "de": "truth ≈ trou(sse) ; le témoin la main sur la Bible = dire la vérité",
+   "fo": "tell the truth (jamais « say the truth ») ; to be honest = à vrai dire"
+  },
+  {
+   "n": 88,
+   "it": "to manage to do sth",
+   "itd": "to manage to [v] [sth]",
+   "eit": "I can't manage to open this door.",
+   "eim": "can't manage to open",
+   "api": "/ˈmænɪdʒ/",
+   "pr": "MA-nidj",
+   "mc": "manège",
+   "sc": "Dans un parc de Londres, un enfant ARRIVE ENFIN À FAIRE du vélo sans les petites roues, en tournant autour d'un MANÈGE.",
+   "de": "manage ≈ manège ; l'enfant qui tient sur son vélo = arriver à faire",
+   "fo": "managed ; fam. I can't get it open = je n'arrive pas à l'ouvrir ; to manage = aussi gérer"
+  },
+  {
+   "n": 89,
+   "it": "to promise",
+   "eit": "I promise.",
+   "eim": "promise",
+   "api": "/ˈprɒmɪs/",
+   "pr": "PRO-miss",
+   "mc": "promesse",
+   "sc": "Au-dessus d'une table de pub, deux mains se serrent pour sceller une PROMESSE : PROMIS !",
+   "de": "promise ≈ promesse ; la poignée de main = promettre",
+   "fo": "promised ; accent sur PRO ; a promise = une promesse",
+   "px": [
+    "He promised to come and see us in the holidays."
+   ]
+  },
+  {
+   "n": 90,
+   "it": "to treat sb",
+   "eit": "My treat!",
+   "eim": "treat",
+   "api": "/triːt/",
+   "pr": "TRIIT",
+   "mc": "triste",
+   "sc": "Sous la pluie de Londres, une main OFFRE un bouquet de fleurs à une demoiselle TRISTE.",
+   "de": "treat ≈ tri(s)te ; la main qui tend le bouquet = offrir",
+   "fo": "treat sb (to sth) = offrir (qc) à qn ; it's on me = c'est moi qui offre ; to offer = proposer ; offrir un cadeau = to give sb a present",
+   "px": [
+    "If I were you, I'd have turned down his offer."
+   ]
+  },
+  {
+   "n": 91,
+   "it": "to choose",
+   "eit": "Choose!",
+   "eim": "Choose",
+   "api": "/tʃuːz/",
+   "pr": "TCHOUZ",
+   "mc": "choux",
+   "sc": "Dans la campagne anglaise, une CHÈVRE CHOISIT entre du lierre et des CHOUX.",
+   "de": "choose ≈ choux ; la chèvre qui hésite = choisir",
+   "fo": "chose, chosen ; a choice = un choix ; fam. to pick"
+  },
+  {
+   "n": 92,
+   "it": "to take sb back",
+   "eit": "I'll take you back home.",
+   "eim": "take you back",
+   "api": "/teɪk ˈbæk/",
+   "pr": "TÈÏK BAK",
+   "mc": "teck + bac",
+   "sc": "Un REPORTER RAMÈNE son scoop à la rédaction de Fleet Street, rangé dans un BAC en TECK.",
+   "de": "take back ≈ teck + bac ; le reporter qui revient avec son scoop = ramener",
+   "fo": "took back, taken back ; to take sb home = raccompagner qn ; to bring back = rapporter (ici)",
+   "co": [
+    "to take sth back",
+    "to take sb home",
+    "to bring sth back"
+   ]
+  },
+  {
+   "n": 93,
+   "it": "to accept",
+   "eit": "I accept.",
+   "eim": "accept",
+   "api": "/əkˈsept/",
+   "pr": "ek-SÈPT",
+   "mc": "sept",
+   "sc": "Au Home Office, un tampon « ACCEPTÉ » s'abat SEPT fois sur un dossier.",
+   "de": "accept ≈ (ac)-sept ; le tampon « ACCEPTÉ » = accepter",
+   "fo": "accepted ; accent sur -CEPT",
+   "px": [
+    "I won't accept that."
+   ],
+   "co": [
+    "to accept the job",
+    "to accept the offer",
+    "to accept a challenge"
+   ]
+  },
+  {
+   "n": 94,
+   "it": "to get sth out",
+   "eit": "He gets his wallet out.",
+   "eim": "gets his wallet out",
+   "api": "/ɡet ˈaʊt/",
+   "pr": "guèt AOUT",
+   "mc": "guet + août",
+   "sc": "Un boulanger TIRE une baguette brûlante HORS DU FOUR, un 15 AOÛT, sous l'œil du GUET.",
+   "de": "get out ≈ guet + août ; la baguette tirée hors du four = sortir (qc)",
+   "fo": "got out ; take sth out = sortir qc ; sortir (soi-même) = to go out"
+  },
+  {
+   "n": 95,
+   "it": "to get sb out of trouble",
+   "eit": "My lawyer's going to get me out of trouble.",
+   "eim": "get me out of trouble",
+   "api": "/ɡet ˈaʊt əv ˈtrʌbl/",
+   "pr": "guèt AOUT ev TRA-bel",
+   "mc": "trouble",
+   "sc": "Un pompier londonien tire un homme hors d'un four en flammes à travers une fumée TROUBLE : il le TIRE D'AFFAIRE.",
+   "de": "trouble ≈ trouble ; le pompier qui extirpe l'homme du four = tirer d'affaire",
+   "fo": "trouble = ennuis (indénombrable) ; to be in trouble = avoir des ennuis"
+  },
+  {
+   "n": 96,
+   "it": "to make",
+   "eit": "I'm making dinner.",
+   "eim": "making",
+   "api": "/meɪk/",
+   "pr": "MÈÏK",
+   "mc": "mec",
+   "sc": "Un CHEF PRÉPARE une pâte dans un saladier : un MEC tatoué qui sifflote le God Save the King.",
+   "de": "make ≈ mec ; le chef et son saladier = préparer",
+   "fo": "made, made ; to prepare = préparer (plus soutenu) ; to get ready = se préparer",
+   "co": [
+    "to make dinner",
+    "to make breakfast",
+    "to make lunch"
+   ]
+  },
+  {
+   "n": 97,
+   "it": "to expect sth",
+   "itd": "to expect [sth]",
+   "ito": "expect C",
+   "eit": "I was expecting that.",
+   "eim": "was expecting that",
+   "api": "/ɪkˈspekt/",
+   "pr": "iks-PÈKT",
+   "mc": "aspect",
+   "sc": "Tapi dans les bruyères des Highlands, un ASPIC à l'ASPECT menaçant S'ATTEND À une proie.",
+   "de": "expect ≈ (as)pect ; l'aspic qui guette sa proie = s'attendre à",
+   "fo": "expected ; expect sb = attendre qn (prévu) ; wait for = attendre"
+  },
+  {
+   "n": 98,
+   "it": "to drop sth",
+   "itd": "to drop [sth]",
+   "ito": "drop C",
+   "eit": "You've dropped your pen.",
+   "eim": "dropped your pen",
+   "api": "/drɒp/",
+   "pr": "DROP",
+   "mc": "drap",
+   "sc": "Un CHAT FAIT TOMBER un cadre de la reine posé sur un DRAP brodé.",
+   "de": "drop ≈ drap ; le chat qui fait tomber le cadre = faire tomber",
+   "fo": "dropped ; knock sth over = renverser qc"
+  },
+  {
+   "n": 99,
+   "it": "to bump into sb",
+   "itd": "to bump into [sb]",
+   "ito": "bump into C",
+   "eit": "I bumped into Marco.",
+   "eim": "bumped into Marco",
+   "api": "/bʌmp ˈɪntə/",
+   "pr": "BAMP IN-tou",
+   "mc": "bombe",
+   "sc": "Sur Oxford Street, on TOMBE SUR un vieil ami : on se jette dans les bras l'un de l'autre, comme une BOMBE de joie.",
+   "de": "bump ≈ bomb(e) ; les retrouvailles imprévues = tomber sur",
+   "fo": "bumped ; come across sth = tomber sur qc (objet) ; run into sb = tomber sur qn"
+  }
+ ]
+}

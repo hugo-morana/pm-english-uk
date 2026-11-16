@@ -1,0 +1,64 @@
+{
+ "niches": [
+  {
+   "n": 0,
+   "it": "vaguely",
+   "eit": "I vaguely remember it.",
+   "eim": "vaguely",
+   "api": "/ˈveɪɡli/",
+   "pr": "VÉÏG-li",
+   "mc": "vague lit",
+   "sc": "Un visage confus émerge d'un « VAGUE LIT » dans le brouillard de Londres : je m'en souviens CONFUSÉMENT.",
+   "de": "vaguely ≈ « vague lit » ; le visage flou = confusément",
+   "fo": "vague = flou ; se place avant le verbe : I vaguely remember ; confusedly existe mais rare"
+  },
+  {
+   "n": 1,
+   "it": "monthly",
+   "eit": "We pay monthly.",
+   "eim": "monthly",
+   "api": "/ˈmʌnθli/",
+   "pr": "MANTH-li",
+   "mc": "mante lit",
+   "sc": "Sur un calendrier mensuel, une MANTE religieuse sort de son LIT chaque mois pour payer le loyer MENSUELLEMENT.",
+   "de": "monthly ≈ « mante lit » ; le calendrier du mois = mensuellement",
+   "fo": "monthly = adj. et adv. (a monthly payment) ; weekly, yearly ; à l'oral : every month"
+  },
+  {
+   "n": 2,
+   "it": "pretentiously",
+   "eit": "He talks pretentiously.",
+   "eim": "talks pretentiously",
+   "api": "/prɪˈtenʃəsli/",
+   "pr": "pri-TÈN-ches-li",
+   "mc": "prétentieux lit",
+   "sc": "Un paon présomptueux parle PRÉTENTIEUSEMENT, juché sur un « PRÉTENTIEUX LIT » doré dans un club de Mayfair.",
+   "de": "pretentiously ≈ « prétentieux lit » ; le paon qui pérore = prétentieusement",
+   "fo": "à l'oral : he's so up himself (fam. UK) ; pretentious = prétentieux"
+  },
+  {
+   "n": 3,
+   "it": "vainly",
+   "eit": "He looks at himself vainly.",
+   "eim": "vainly",
+   "api": "/ˈveɪnli/",
+   "pr": "VÉÏN-li",
+   "mc": "veine lit",
+   "sc": "Allongé sur un LIT, un dandy se regarde VANITEUSEMENT dans un miroir de vanité, en se trouvant une sacrée VEINE.",
+   "de": "vainly ≈ « veine lit » ; le miroir de vanité = vaniteusement",
+   "fo": "vain = vaniteux ; vainly = aussi « en vain » ; à l'oral : he's so vain"
+  },
+  {
+   "n": 4,
+   "it": "selfishly",
+   "eit": "He's acting selfishly.",
+   "eim": "acting selfishly",
+   "api": "/ˈselfɪʃli/",
+   "pr": "SÈL-fich-li",
+   "mc": "selfie, chic lit",
+   "sc": "Un égoïste garde tout pour lui : il agit ÉGOÏSTEMENT, prenant des SELFIES sur un CHIC LIT, seul avec tous les scones.",
+   "de": "selfishly ≈ « selfie, chic lit » ; l'égoïste qui garde tout = égoïstement",
+   "fo": "selfish = égoïste ; self = soi"
+  }
+ ]
+}

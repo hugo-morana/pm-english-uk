@@ -1,0 +1,260 @@
+{
+ "fix": {
+  "1": {
+   "eim": "blown up"
+  },
+  "2": {
+   "eim": "implement"
+  },
+  "3": {
+   "eim": "bathing"
+  },
+  "4": {
+   "eim": "Move away from"
+  },
+  "5": {
+   "eim": "have an effect on"
+  },
+  "7": {
+   "it": "to sleep on sth",
+   "eit": "I'll sleep on that thing over there.",
+   "eim": "sleep on",
+   "api": "/sliːp ɒn/"
+  },
+  "9": {
+   "eim": "borrow"
+  },
+  "11": {
+   "eim": "deliver"
+  },
+  "13": {
+   "eim": "spread"
+  },
+  "15": {
+   "it": "to watch oneself",
+   "eim": "Watch yourselves",
+   "api": "/wɒtʃ wʌnˈself/"
+  },
+  "19": {
+   "eim": "finished"
+  },
+  "20": {
+   "eim": "worn|out"
+  },
+  "21": {
+   "eim": "get around by"
+  },
+  "25": {
+   "eim": "analyse"
+  },
+  "27": {
+   "eim": "adopted"
+  },
+  "31": {
+   "eim": "turned|into"
+  },
+  "35": {
+   "it": "to watch",
+   "api": "/wɒtʃ/"
+  },
+  "37": {
+   "eim": "avenge"
+  },
+  "41": {
+   "api": "/hæv ˈbrekfəst/"
+  },
+  "43": {
+   "eim": "bringing up"
+  },
+  "48": {
+   "eim": "justify"
+  },
+  "52": {
+   "it": "to put one's weapon down",
+   "eim": "Put your weapon down",
+   "api": "/ˌpʊt wʌnz ˈwepən ˈdaʊn/"
+  },
+  "54": {
+   "api": "/biː ɒn ə ˈdaɪət/"
+  },
+  "55": {
+   "eim": "knock|down"
+  },
+  "56": {
+   "eim": "dream of"
+  },
+  "61": {
+   "eim": "Tilt"
+  },
+  "62": {
+   "eim": "covered"
+  },
+  "63": {
+   "eim": "founded"
+  },
+  "64": {
+   "eim": "blaming|for"
+  },
+  "65": {
+   "eim": "manipulates"
+  },
+  "66": {
+   "eim": "taking on"
+  },
+  "67": {
+   "eim": "translate"
+  },
+  "69": {
+   "eim": "hope"
+  },
+  "70": {
+   "eim": "cooking for"
+  },
+  "72": {
+   "eim": "congratulate"
+  },
+  "74": {
+   "eim": "lights up"
+  },
+  "80": {
+   "eim": "cross with"
+  },
+  "81": {
+   "eim": "attended"
+  },
+  "82": {
+   "eim": "trains"
+  },
+  "83": {
+   "eim": "Mix"
+  },
+  "84": {
+   "eim": "Risk your life"
+  },
+  "87": {
+   "eim": "got|dirty"
+  },
+  "92": {
+   "eim": "feel sorry for"
+  },
+  "93": {
+   "eim": "Toast"
+  },
+  "95": {
+   "eim": "digging"
+  },
+  "96": {
+   "eim": "Heat|up"
+  },
+  "97": {
+   "eim": "snatched"
+  },
+  "98": {
+   "eim": "Fold"
+  },
+  "99": {
+   "eim": "deleted"
+  }
+ },
+ "li": {
+  "0": "Au matin, le SCOOTER démarre en trombe, arrache l'affiche de CHAGALL et fonce s'écraser contre le PONT DYNAMITÉ qui SAUTE.",
+  "1": "Un débris du PONT, happé par le nuage BLEU, retombe à Whitehall et déchire le grand PLAN déplié sur le bureau.",
+  "2": "Le PLAN déchiré s'envole par la fenêtre et tombe à plat dans la BASSINE où la mère BAIGNE son bébé.",
+  "3": "La mère vide la BASSINE dans le port de Douvres : la vague pousse le bateau MAUVE vers le lointain.",
+  "4": "Le bateau MAUVE heurte le quai, la secousse renverse le premier DOMINO du pub et toute la file tombe.",
+  "5": "Le dernier DOMINO roule jusqu'à la plage de Brighton et se transforme en DÉ dans la main de la FÉE EN CONGÉ.",
+  "6": "La FÉE lance son DÉ par la fenêtre du cottage : il atterrit sur le ventre de l'homme en SLIP qui DORT SUR LE CANAPÉ.",
+  "7": "Réveillé, l'homme en SLIP saute du CANAPÉ et court s'asseoir à la SOUPE POPULAIRE où la FILLE DE la cantinière le NOURRIT.",
+  "8": "La FILLE DE la cantinière tend une louche de soupe au BOURREAU en cagoule qui attend devant la bibliothèque.",
+  "9": "Le BOURREAU jette le livre EMPRUNTÉ sur le guichet de la banque, où MAMIE DÉPOSE DE L'ARGENT.",
+  "10": "MAMIE commande avec la monnaie : le LIVREUR en scooter arrive aussitôt et lui LIVRE une pizza.",
+  "11": "Le LIVREUR lance la pizza par-dessus la clôture : elle atterrit sur le casque de bobby de l'ARBITRE de cricket.",
+  "12": "Furieux, l'ARBITRE renverse son seau sur la route du Yorkshire et RÉPAND du sel avec le SPRAY géant.",
+  "13": "Le SPRAY de sel givre la vitrine de l'agence de Londres et colle les BROCHURES D'INFORMATION contre la vitre.",
+  "14": "Une BROCHURE s'envole jusqu'au musée et se pose sur le panneau « Do not touch » devant le gardien qui GARDE SES MAINS POUR SOI.",
+  "15": "Le gardien recule, les MAINS dans les poches, et se fait embarquer par erreur dans le FOURGON BLINDÉ qui TRANSFÈRE le prisonnier.",
+  "16": "Le FOURGON BLINDÉ s'arrête à la Tour de Londres et dépose le prisonnier devant le BEEFEATER qui GARDE le coffre secret.",
+  "17": "Le BEEFEATER ouvre le coffre : il en sort un STABILO géant que le TRAÎTRE lui arrache pour POIGNARDER César.",
+  "18": "Le STABILO ensanglanté vole par-dessus la scène et atterrit dans la FINE NICHE où le PEINTRE ACHÈVE sa toile.",
+  "19": "Le PEINTRE sort de la galerie avec sa toile sous le bras et part arpenter la ROUTE de Cornouailles jusqu'à USER SES SEMELLES.",
+  "20": "Sur la ROUTE, le FACTEUR à VÉLO ramasse les semelles usées et les fourre dans sa sacoche de ronde.",
+  "21": "Le FACTEUR tend une lettre au DÉTECTIVE à la loupe, qui la trouve aussitôt SUSPECTE.",
+  "22": "Le DÉTECTIVE jette la lettre SUSPECTE sur le banc de l'Old Bailey, où l'AVOCAT en perruque la brandit devant le jury.",
+  "23": "L'AVOCAT lance sa perruque dans la Tamise : le CROCODILE la saisit et s'en sert de BROSSE pour SE LAVER LES DENTS.",
+  "24": "Le CROCODILE crache sa BROSSE dans le labo de Cambridge, droit dans l'échantillon que le LABORANTIN ANALYSE.",
+  "25": "Le LABORANTIN verse l'échantillon dans la soupe que ESTHER la barmaid REMUE avec sa louche géante.",
+  "26": "ESTHER lance sa louche géante par la fenêtre ; elle atterrit dans le refuge du Surrey, où le COUPLE ADOPTE le chiot.",
+  "27": "Le chiot DOPÉ s'échappe et file au tribunal sauter sur les genoux du JURY, qui APPROUVE d'un hochement de perruques.",
+  "28": "Une perruque du JURY tombe sur la PLAIE du rugbyman, juste quand l'INFIRMIÈRE y APPLIQUE la pommade.",
+  "29": "L'INFIRMIÈRE essuie sa pommade sur la PLAQUE murale où le COLLÈGUE BRANCHE la prise à trois broches.",
+  "30": "La prise fait des étincelles qui filent dans le garage TERNE, où la FÉE TRANSFORME la citrouille EN carrosse.",
+  "31": "Le carrosse doré emmène la FÉE à Hyde Park, où elle PREND UN JOUR DE CONGÉ sur une chaise longue.",
+  "32": "La FÉE lance ses DÉS contre le miroir du manoir, et le VISAGE qui s'y reflète VIEILLIT d'un coup.",
+  "33": "Le miroir se décroche et tombe sur la POUTRE du dortoir, où l'on RANGE tout.",
+  "34": "De la POUTRE, une valise dégringole jusqu'à Piccadilly Circus, aux pieds du LOUP qui REGARDE AUTOUR DE SOI.",
+  "35": "Le LOUP court vers le BAC de Douvres, où le HÉROS AIGUISE SON COUTEAU pour SE VENGER.",
+  "36": "Le COUTEAU aiguisé glisse du BAC et tranche une grappe en pleine VENDANGE, sous les yeux du FILS du PÈRE ASSASSINÉ.",
+  "37": "Le FILS jette sa grappe contre la grille du GARDIEN DE HOCKEY, qui OUVRE L'ŒIL derrière sa PILE de palets.",
+  "38": "Le GARDIEN lance un palet au JOUEUR DE HOCKEY ÉPUISÉ, dont les allumettes sous les paupières sautent sous le choc.",
+  "39": "Les allumettes tombent dans un carton MAUVE du COUPLE qui EMMÉNAGE à Rome.",
+  "40": "Le COUPLE ouvre le carton MAUVE : il contient la BRIQUE sur laquelle l'ENFANT PREND SON PETIT-DÉJEUNER anglais.",
+  "41": "L'ENFANT lance ses beans dans le champ du Devon, où le paysan SÈME ses graines à la volée.",
+  "42": "Les graines SEMÉES germent aussitôt en BRINS d'herbe dans le jardin où la MÈRE ÉLÈVE SES ENFANTS.",
+  "43": "La MÈRE tend un ballon de rugby à l'ÉTUDIANT de Cambridge, qui fait une PASSE avec son diplôme.",
+  "44": "Le diplôme atterrit sur la table du club de bridge, où CHITA le chimpanzé TRICHE aux cartes.",
+  "45": "CHITA s'enfuit chez Savile Row et grimpe sur la TÔLE où le TAILLEUR MESURE le client.",
+  "46": "Le TAILLEUR tend son mètre au FERMIER, qui AFFIRME D'UNE VOIX FERME devant le juge qu'il est innocent.",
+  "47": "Le FERMIER pointe du doigt l'ACCUSÉ voisin, qui se lève pour JUSTIFIER son geste devant la JUSTICE.",
+  "48": "La sentence prononcée, l'ACCUSÉ libéré bouscule DIX LAITIERS, et l'ENFANT ALLÈGRE SE RÉJOUIT.",
+  "49": "Une bouteille de lait se brise : les FOURMIS menées par le mini VADOR ENVAHISSENT la flaque dans la cuisine.",
+  "50": "Les FOURMIS grimpent sur le full English, que le LOUP DÉVORE d'un coup en les avalant aussi.",
+  "51": "Repu, le LOUP court à Buckingham et mord le fusil en PANNE du soldat, qui DÉPOSE LES ARMES.",
+  "52": "Le soldat lance son fusil dans le bus rouge qui file vers l'OUEST, d'où l'homme jette ses billets de 10 £.",
+  "53": "Un billet de 10 £ se colle sur le fish and chips du GOURMAND qui FAIT UN RÉGIME À LA DIÈTE.",
+  "54": "Le GOURMAND jette son fish and chips sur la BOULE DE DÉMOLITION, qui défonce l'immeuble de Croydon.",
+  "55": "Un éclat de brique rebondit jusqu'au lit du DORMEUR, qui RÊVE D'un SONGE DORÉ à bord du Flying Scotsman.",
+  "56": "Le Flying Scotsman du rêve fonce sur la scène de Blackpool, où le CLOWN DIT DES BÊTISES sur un RAT et une BICHE.",
+  "57": "Le RAT s'échappe du spectacle et court vers Big Ben, poursuivi par le COUREUR qui RATTRAPE LE TEMPS PERDU.",
+  "58": "Le COUREUR fonce jusqu'au port de Liverpool et renverse les TRESSES D'AIL du MARCHAND.",
+  "59": "Une TRESSE D'AIL tombe dans une flaque de Londres, juste sur le téléphone que le GPS LOCALISE.",
+  "60": "Le téléphone sonne si fort qu'il fait TILT dans la vitrine, et la TOUR PENCHÉE miniature penche davantage.",
+  "61": "La TOUR PENCHÉE bascule hors de la vitrine et roule jusqu'aux Highlands, aux pieds du RANDONNEUR qui PARCOURT son chemin.",
+  "62": "Le RANDONNEUR tombe dans la CAVE à whisky, qui s'ouvre AU FOND de la tranchée où le ROI POSE LA FONDATION.",
+  "63": "Le ROI lance une pierre de FONDATION par la fenêtre du pub : la MÈRE BLÊME la reçoit et FAIT DES REPROCHES à son fils.",
+  "64": "Le fils, honteux, s'accroche aux fils du MARIONNETTISTE de Covent Garden, qui le MANIPULE comme le MINI POULET.",
+  "65": "Le MINI POULET échappe aux fils et file au pub, où le PATRON l'EMBAUCHE pour servir le THÉ.",
+  "66": "Le PATRON renverse le THÉ sur le livre du TRADUCTEUR, qui sort de sa TRANSE et renverse son bol de LAIT.",
+  "67": "Le bol de LAIT roule jusqu'à la rive, où la chatte le LAPE pendant que le PONT S'EFFONDRE.",
+  "68": "Un débris du PONT dérive jusqu'à l'île du NAUFRAGÉ, qui s'en sert pour agiter son Union Jack et ESPÉRER.",
+  "69": "Le ferry récupère le NAUFRAGÉ et le dépose dans la cuisine du CHEF qui CUISINE son Sunday roast sous le COUCOU.",
+  "70": "Le COUCOU jaillit de l'horloge et s'envole jusqu'au piano du COMPOSITEUR, se posant sur la portée.",
+  "71": "Le COMPOSITEUR joue une marche nuptiale qui fait sortir de l'église les mariés que le MAIRE FÉLICITE.",
+  "72": "Le MAIRE coupe le gâteau et le couteau tombe sur l'ADAPTATEUR à trois broches, qu'il fait sauter du mur.",
+  "73": "L'ADAPTATEUR branché fait s'allumer le PHARE de Cornouailles, qui ÉCLAIRE la mer.",
+  "74": "Le faisceau du PHARE aveugle le pélican de Billingsgate, qui ATTRAPE AU VOL un poisson.",
+  "75": "Le pélican lâche son poisson sur l'île où le NAUFRAGÉ SURVIT avec sa noix de coco.",
+  "76": "Le NAUFRAGÉ lance sa noix de coco, emballée dans l'Union Jack, dans l'école LAÏQUE : le CADEAU PLAÎT à l'enfant.",
+  "77": "L'enfant déballe le CADEAU : il en sort un SERPENT qui SE DÉSHABILLE de sa vieille peau devant UN DRESSEUR.",
+  "78": "La vieille peau du SERPENT s'envole jusqu'au Royal Albert Hall et se prend dans le CLAP que la FOULE suit en APPLAUDISSANT.",
+  "79": "Le CLAP claque si fort qu'il fait tomber la CROSSE de hockey des mains de l'ENFANT ENRAGÉ.",
+  "80": "L'ENFANT ENRAGÉ lance sa CROSSE vers le West End ; elle soulève le rideau que le PUBLIC ATTEND.",
+  "81": "Derrière le rideau, le DOMPTEUR DRESSE son lion, qui TRAÎNE une robe de mariée sur la piste.",
+  "82": "Le lion traîne la robe jusqu'au pub de Soho et la fourre dans le MIXEUR du BARMAN qui MÉLANGE le mescal.",
+  "83": "Le MIXEUR déborde et projette le mescal sur l'IF géant où grimpe le chevalier qui RISQUE SA VIE.",
+  "84": "Le chevalier tombe de l'IF sur le pas de la porte de Notting Hill, où quelqu'un lui TEND un cadeau.",
+  "85": "Le cadeau roule jusqu'au lac Windermere et atterrit dans la BARQUE que le TOURISTE LOUE près de la HAIE.",
+  "86": "La BARQUE dérive jusqu'à la ferme du Devon, où le PORC la SALIT de boue et renverse DEUX THÉS.",
+  "87": "Les DEUX THÉS se renversent sur le lit d'hôpital de la FEMME TRISTE, et MISS KARINE accourt.",
+  "88": "MISS KARINE ouvre la fenêtre sur la pelouse d'Oxford, où le JUDOKA PRATIQUE son sport, DOUX comme un agneau.",
+  "89": "Le JUDOKA projette son partenaire contre le MUSICIEN de Camden, qui se fait une PLAIE au doigt en JOUANT DE LA GUITARE.",
+  "90": "Le MUSICIEN lance sa guitare sous le DAIS VERT, où le PIRATE la récupère pour DÉTOURNER la Tamise.",
+  "91": "La Tamise DÉTOURNÉE inonde la maison du malade, que la VOISINE PLAINT en lui offrant la SOURIS en peluche.",
+  "92": "La SOURIS en peluche tombe sur la GRILLE, où les SAUCISSES GRILLENT et le TOAST jaillit.",
+  "93": "Le TOAST jaillit si haut qu'il se colle sur l'ENSEIGNE TOUTE NEUVE de la boutique de Brighton.",
+  "94": "L'ENSEIGNE se décroche et tombe dans la DIGUE, où la PELLETEUSE CREUSE le sol.",
+  "95": "La PELLETEUSE dépose sa terre sur le RADIATEUR CHAUD du cottage, qui RÉCHAUFFE la soupe.",
+  "96": "La soupe brûlante gicle dans la salle de cinéma, où le voleur ARRACHE le sac et SA NATTE à la dame.",
+  "97": "Le voleur s'enfuit, trébuche et pose le pied dans le PIÈGE qui SE PLIE sur le pantalon du majordome FOL.",
+  "98": "Le majordome FOL tend le pantalon plié à la GOMME géante de Scotland Yard, qui le SUPPRIME d'un coup."
+ }
+}

@@ -1,0 +1,1352 @@
+{
+ "niches": [
+  {
+   "n": 0,
+   "it": "elephant",
+   "eit": "The elephant's got a trunk.",
+   "eim": "elephant",
+   "api": "/ˈelɪfənt/",
+   "pr": "È-li-fent",
+   "mc": "ÉLÉPHANT",
+   "sc": "Un ÉLÉPHANT barrit devant Big Ben et soulève avec sa trompe un parapluie noir de gentleman.",
+   "de": "elephant ≈ « éléphant » ; la trompe qui barrit = l'éléphant",
+   "fo": "trunk = trompe (et coffre de voiture US ; UK boot) ; ph = f"
+  },
+  {
+   "n": 1,
+   "it": "regret",
+   "eit": "I've got no regrets.",
+   "eim": "regrets",
+   "api": "/rɪˈɡret/",
+   "pr": "ri-GRÈT",
+   "mc": "RIGOLETTE",
+   "sc": "Un rameur rame à contrecœur sur la Tamise, rongé de REGRET, pendant qu'une RIGOLETTE se moque de lui depuis la rive.",
+   "de": "regret ≈ « ri-(g)ol(e)tte » ; le rameur à contrecœur = le regret",
+   "fo": "souvent au pluriel : no regrets ; to regret = regretter ; unfortunately = malheureusement (pas *regrettably à l'oral)"
+  },
+  {
+   "n": 2,
+   "it": "rate",
+   "eit": "The interest rate.",
+   "eim": "rate",
+   "api": "/reɪt/",
+   "pr": "RÉÏT",
+   "mc": "RAIE",
+   "sc": "Une tasse de thé remplie à ras bord de TAUX : une RAIE nage dedans et indique la hausse.",
+   "de": "rate ≈ « raie » ; la tasse de taux = le taux",
+   "fo": "interest rate = taux d'intérêt ; exchange rate = taux de change ; at any rate = en tout cas",
+   "co": [
+    "interest rate",
+    "growth rate",
+    "exchange rate"
+   ]
+  },
+  {
+   "n": 3,
+   "it": "handwriting",
+   "eit": "His handwriting's illegible.",
+   "eim": "handwriting",
+   "api": "/ˈhændraɪtɪŋ/",
+   "pr": "HAND-raï-ting",
+   "mc": "HANDBALL + RAÏ",
+   "sc": "Une plume d'oie trace une ÉCRITURE illisible sur un parchemin d'Oxford, tenue par une main de joueur de HANDBALL qui danse sur du RAÏ.",
+   "de": "handwriting ≈ « hand(ball)-raï » ; la plume qui trace = l'écriture (manuscrite)",
+   "fo": "handwriting = écriture à la main ; writing = écriture (activité) ; the Scriptures = les Saintes Écritures",
+   "co": [
+    "neat handwriting",
+    "messy handwriting",
+    "illegible handwriting"
+   ]
+  },
+  {
+   "n": 4,
+   "it": "motorway",
+   "eit": "Let's take the motorway.",
+   "eim": "motorway",
+   "api": "/ˈməʊtəweɪ/",
+   "pr": "MEO-te-ouéï",
+   "mc": "MOTO OUAIS",
+   "sc": "Des MOTOS filent sur l'AUTOROUTE M1 sous la pluie ; les motards lèvent le pouce : « OUAIS ! »",
+   "de": "motorway ≈ « moto, ouais » ; les autos qui filent = l'autoroute",
+   "fo": "UK motorway / US highway, freeway ; the M25 = le périphérique de Londres"
+  },
+  {
+   "n": 5,
+   "it": "producer",
+   "eit": "The producer's paying for everything.",
+   "eim": "producer",
+   "api": "/prəˈdjuːsə/",
+   "pr": "pre-DIOU-se",
+   "mc": "PRÉ DOUCE",
+   "sc": "Un PRODUCTEUR fume le cigare et compte ses billets, allongé sur un PRÉ DOUCE et vert du Kent.",
+   "de": "producer ≈ « pré douce » ; l'homme au cigare et aux billets = le producteur",
+   "fo": "to produce = produire ; product = produit",
+   "co": [
+    "film producer",
+    "music producer",
+    "record producer"
+   ]
+  },
+  {
+   "n": 6,
+   "it": "connection",
+   "eit": "The connection's slow.",
+   "eim": "connection",
+   "api": "/kəˈnekʃən/",
+   "pr": "ke-NÈK-chenn",
+   "mc": "« QUE NECK-CHAÎNE ! »",
+   "sc": "Dans un café de Londres, l'écran tourne en rond : la CONNEXION est lente ; le client, furieux, s'enroule une CHAÎNE autour du cou (NECK).",
+   "de": "connection ≈ « connexion » ; l'écran qui tourne en rond = la connexion",
+   "fo": "to connect = se connecter ; connection = aussi correspondance (train, avion)"
+  },
+  {
+   "n": 7,
+   "it": "pudding / dessert",
+   "eit": "What's for pudding?",
+   "eim": "pudding",
+   "api": "/ˈpʊdɪŋ/",
+   "pr": "POU-ding",
+   "mc": "BOUDIN",
+   "sc": "Un DESSERT au chocolat trône sur une table de cottage, rond et dodu comme un BOUDIN.",
+   "de": "pudding ≈ « boudin » ; le gâteau au chocolat = le dessert",
+   "fo": "UK fam. : pudding, pud = dessert ; dessert /dɪˈzɜːt/ ≠ desert /ˈdezət/ (désert)"
+  },
+  {
+   "n": 8,
+   "it": "vegetable",
+   "eit": "Eat your vegetables.",
+   "eim": "vegetables",
+   "api": "/ˈvedʒtəbəl/",
+   "pr": "VÈDJ-te-bel",
+   "mc": "VÈGE TABLE",
+   "sc": "Un LÉGUME géant pousse au milieu d'un potager anglais, posé sur une TABLE VÉGÉ(tarienne).",
+   "de": "vegetable ≈ « végé-table » ; le légume du potager = le légume",
+   "fo": "fam. UK : veg (Eat your veg!) ; 3 syllabes à l'oral : VÈDJ-te-bel"
+  },
+  {
+   "n": 9,
+   "it": "drawer",
+   "eit": "Open the drawer.",
+   "eim": "drawer",
+   "api": "/drɔː/",
+   "pr": "DROO",
+   "mc": "DRÔLE",
+   "sc": "Une vieille cassette est rangée dans le TIROIR d'une commode victorienne ; quand on l'ouvre, il en sort un DRÔLE de clown.",
+   "de": "drawer ≈ « drô(le) » ; la cassette dans le meuble = le tiroir",
+   "fo": "prononcé /drɔː/ ; chest of drawers = commode ; a drawer = aussi un dessinateur",
+   "co": [
+    "sock drawer",
+    "top drawer",
+    "to rummage in a drawer"
+   ]
+  },
+  {
+   "n": 10,
+   "it": "T-shirt",
+   "eit": "A white T-shirt.",
+   "eim": "T-shirt",
+   "api": "/ˈtiːʃɜːt/",
+   "pr": "TII-cheut",
+   "mc": "T'IS CHEUTE",
+   "sc": "Un petit maillot, le T-SHIRT aux couleurs de l'Union Jack, sèche sur un fil… et TI(S) ! CHUTE dans une flaque.",
+   "de": "T-shirt ≈ « tiii-cheut(e) » ; le petit maillot = le T-shirt",
+   "fo": "aussi tee shirt ; to wear a T-shirt = porter un T-shirt",
+   "co": [
+    "to wear a T-shirt",
+    "wet T-shirt"
+   ]
+  },
+  {
+   "n": 11,
+   "it": "firefighter",
+   "eit": "The firefighters are on their way.",
+   "eim": "firefighters",
+   "api": "/ˈfaɪəfaɪtə/",
+   "pr": "FAÏ-e-faï-te",
+   "mc": "FAILLE FAÏ-TE",
+   "sc": "Les POMPIERS londoniens arrivent en camion rouge, la pompe à la main, et colmatent une FAILLE d'où jaillit le feu.",
+   "de": "firefighter ≈ « faille-faï-te » ; l'homme à la pompe = le pompier",
+   "fo": "fireman (plus ancien) ; fire brigade (UK) = les pompiers ; fire engine = camion de pompiers",
+   "co": [
+    "fire engine",
+    "fire brigade"
+   ]
+  },
+  {
+   "n": 12,
+   "it": "scar",
+   "eit": "He's got a scar.",
+   "eim": "scar",
+   "api": "/skɑː/",
+   "pr": "SKAA",
+   "mc": "SCARABÉE",
+   "sc": "Une CICATRICE barre la joue d'un pirate dans un pub de Portsmouth, juste là où un SCARABÉE s'est posé.",
+   "de": "scar ≈ « scar(abée) » ; la marque sur la joue = la cicatrice",
+   "fo": "non rhotique : /skɑː/ ; scarred = balafré"
+  },
+  {
+   "n": 13,
+   "it": "sheep",
+   "eit": "The sheep's grazing.",
+   "eim": "sheep",
+   "api": "/ʃiːp/",
+   "pr": "CHIIP",
+   "mc": "CHIPS",
+   "sc": "Un MOUTON broute dans une prairie du Yorkshire… un paquet de CHIPS entre les dents.",
+   "de": "sheep ≈ « chip(s) » ; la bête qui broute = le mouton",
+   "fo": "pl. invariable : one sheep, two sheep ; lamb = agneau ; mutton = viande de mouton ; black sheep = brebis galeuse",
+   "co": [
+    "black sheep",
+    "a flock of sheep"
+   ]
+  },
+  {
+   "n": 14,
+   "it": "bracelet",
+   "eit": "A silver bracelet.",
+   "eim": "bracelet",
+   "api": "/ˈbreɪslət/",
+   "pr": "BRÉÏS-let",
+   "mc": "BRAISE-LAIT",
+   "sc": "Un BRACELET en argent rougeoie au bras d'une lady, posé sur des BRAISES et refroidi dans du LAIT.",
+   "de": "bracelet ≈ « braise-lait » ; l'anneau au bras = le bracelet",
+   "fo": "accent sur BRÉÏ ; bangle = bracelet rigide"
+  },
+  {
+   "n": 15,
+   "it": "cousin",
+   "eit": "My cousin lives in Rome.",
+   "eim": "cousin",
+   "api": "/ˈkʌzən/",
+   "pr": "KA-zenn",
+   "mc": "CAS ZEN",
+   "sc": "Une COUSINE arrive pour Noël avec un pudding, très calme : un vrai CAS ZEN.",
+   "de": "cousin ≈ « ca(s)-zen » ; la parente de Noël = la cousine",
+   "fo": "cousin = cousin ET cousine (invariable)"
+  },
+  {
+   "n": 16,
+   "it": "retail banking",
+   "eit": "He works in retail banking.",
+   "eim": "retail banking",
+   "api": "/ˈriːteɪl ˈbæŋkɪŋ/",
+   "pr": "RII-téïl-BANG-king",
+   "mc": "RÉ-TAILLE + BANQUE",
+   "sc": "Dans une BANQUE de la City, un employé RE-TAILLE chaque billet en petits morceaux : c'est la BANQUE DE DÉTAIL.",
+   "de": "retail ≈ « re-taille » ; la banque qui détaille les comptes = la banque de détail",
+   "fo": "retail = vente au détail ; high-street bank (UK) = banque de réseau ; investment banking = banque d'affaires"
+  },
+  {
+   "n": 17,
+   "it": "franc",
+   "eit": "The Swiss franc.",
+   "eim": "franc",
+   "api": "/fræŋk/",
+   "pr": "FRANNK",
+   "mc": "FRANC",
+   "sc": "Une pièce d'un FRANC roule sur le comptoir d'un bureau de change de Heathrow.",
+   "de": "franc ≈ « franc » ; la pièce = le franc",
+   "fo": "Swiss franc = franc suisse ; pound = livre ; quid (fam.) = livre"
+  },
+  {
+   "n": 18,
+   "it": "cook",
+   "eit": "The cook's making dinner.",
+   "eim": "cook",
+   "api": "/kʊk/",
+   "pr": "KOUK",
+   "mc": "COUCOU",
+   "sc": "Un CUISINIER prépare un coq au vin dans la cuisine d'un manoir ; un COUCOU sort de l'horloge à chaque ingrédient.",
+   "de": "cook ≈ « cou(cou) » ; l'homme au coq au vin = le cuisinier",
+   "fo": "a cook = un cuisinier ; a cooker (UK) = une cuisinière (appareil) ; chef = chef cuisinier"
+  },
+  {
+   "n": 19,
+   "it": "helicopter",
+   "eit": "A helicopter's landing.",
+   "eim": "helicopter",
+   "api": "/ˈhelɪkɒptə/",
+   "pr": "HÈ-li-kop-te",
+   "mc": "HÉLICE COPTE",
+   "sc": "Un HÉLICOPTÈRE survole la Tamise et atterrit sur un toit ; son HÉLICE fait voler la robe d'un moine COPTE.",
+   "de": "helicopter ≈ « hélice copte » ; l'appareil qui atterrit = l'hélicoptère",
+   "fo": "fam. chopper ; accent sur HÈ"
+  },
+  {
+   "n": 20,
+   "it": "false alarm",
+   "eit": "False alarm.",
+   "eim": "False",
+   "api": "/ˌfɔːls əˈlɑːm/",
+   "pr": "FOOLS-e-LAAM",
+   "mc": "FOLLE + LARME",
+   "sc": "Une alarme incendie hurle dans un pub, une FOLLE verse une LARME… mais rien ne brûle : FAUSSE ALERTE.",
+   "de": "false alarm ≈ « folle (a)larme » ; l'alarme sans feu = la fausse alerte",
+   "fo": "false = faux ; alarm = alarme, réveil (alarm clock)"
+  },
+  {
+   "n": 21,
+   "it": "soap",
+   "eit": "Wash with soap.",
+   "eim": "soap",
+   "api": "/səʊp/",
+   "pr": "SEOP",
+   "mc": "SAUPE",
+   "sc": "Un SAVON mousse dans un vieux lavabo victorien ; un poisson, la SAUPE, nage dans la mousse.",
+   "de": "soap ≈ « saupe » ; le pain qui mousse = le savon",
+   "fo": "soap = savon ; soap (opera) = feuilleton ; indénombrable : some soap, a bar of soap",
+   "co": [
+    "soap bubbles",
+    "a bar of soap"
+   ]
+  },
+  {
+   "n": 22,
+   "it": "rubbish",
+   "eit": "Take the rubbish out.",
+   "eim": "rubbish",
+   "api": "/ˈrʌbɪʃ/",
+   "pr": "RA-bich",
+   "mc": "RABBIN",
+   "sc": "Une spatule géante ramasse les ORDURES devant une maison de Londres ; un RABBIN tient le sac poubelle.",
+   "de": "rubbish ≈ « rab(b)i(n) » ; la spatule qui ramasse les déchets = les ordures",
+   "fo": "UK rubbish / US garbage, trash ; indénombrable ; Rubbish! (fam.) = n'importe quoi ! ; bin = poubelle",
+   "co": [
+    "to take the rubbish out",
+    "bin lorry",
+    "to rummage through the rubbish"
+   ]
+  },
+  {
+   "n": 23,
+   "it": "nut",
+   "eit": "A coconut.",
+   "eim": "coconut",
+   "api": "/nʌt/",
+   "pr": "NATT",
+   "mc": "NATTE",
+   "sc": "Une NOIX de coco cassée tombe aux noces d'un couple anglais ; la mariée la ramasse avec sa longue NATTE.",
+   "de": "nut ≈ « natte » ; la noix cassée aux noces = la noix",
+   "fo": "walnut = noix (du noyer) ; coconut = noix de coco ; nut = aussi écrou ; nuts (fam.) = cinglé",
+   "co": [
+    "nut allergy",
+    "walnut"
+   ]
+  },
+  {
+   "n": 24,
+   "it": "jeans",
+   "eit": "He's wearing jeans.",
+   "eim": "jeans",
+   "api": "/dʒiːnz/",
+   "pr": "DJIINZ",
+   "mc": "DJINNS",
+   "sc": "Un JEAN délavé sèche sur une corde à Camden ; deux DJINNS en sortent par les jambes.",
+   "de": "jeans ≈ « djinns » ; le pantalon délavé = le jean",
+   "fo": "toujours pluriel : jeans, a pair of jeans ; denim = toile de jean",
+   "co": [
+    "denim shorts",
+    "a pair of jeans"
+   ]
+  },
+  {
+   "n": 25,
+   "it": "valley",
+   "eit": "The valley's green.",
+   "eim": "valley",
+   "api": "/ˈvæli/",
+   "pr": "VA-li",
+   "mc": "VALISE",
+   "sc": "Un val verdoyant du Pays de Galles : au fond de la VALLÉE, une VALISE abandonnée sous la pluie.",
+   "de": "valley ≈ « vali(se) » ; le val verdoyant = la vallée",
+   "fo": "vale (poétique) ; valley of tears = vallée de larmes",
+   "co": [
+    "a vale of tears",
+    "a river valley"
+   ]
+  },
+  {
+   "n": 26,
+   "it": "trolley",
+   "eit": "Get a trolley.",
+   "eim": "trolley",
+   "api": "/ˈtrɒli/",
+   "pr": "TRO-li",
+   "mc": "TROLL",
+   "sc": "Une carriole, le CHARIOT du supermarché, poussée par un TROLL dans les allées d'un Tesco.",
+   "de": "trolley ≈ « troll(i) » ; la carriole à roulettes = le chariot",
+   "fo": "UK trolley / US cart ; crash trolley (hôpital) = chariot d'urgence",
+   "co": [
+    "shopping trolley",
+    "crash trolley",
+    "luggage trolley"
+   ]
+  },
+  {
+   "n": 27,
+   "it": "biscuit",
+   "eit": "A chocolate biscuit.",
+   "eim": "biscuit",
+   "api": "/ˈbɪskɪt/",
+   "pr": "BIS-kit",
+   "mc": "BISCUIT",
+   "sc": "Un BISCUIT croque à l'heure du thé ; on le trempe dans sa tasse et il fait « BIS ! », QUITte à s'effriter.",
+   "de": "biscuit ≈ « bis-quitte » ; la biscotte qui croque = le biscuit",
+   "fo": "UK biscuit / US cookie ; to dunk a biscuit = tremper un biscuit dans le thé",
+   "co": [
+    "chocolate biscuits",
+    "biscuit tin"
+   ]
+  },
+  {
+   "n": 28,
+   "it": "the Old Bill",
+   "eit": "Watch out, it's the Old Bill!",
+   "eim": "the Old Bill",
+   "api": "/ði ˌəʊld ˈbɪl/",
+   "pr": "thi-EOLD-BILL",
+   "mc": "BILLE",
+   "sc": "Un FLIC en planque boit une bière dans un pub de l'East End ; il joue avec une vieille BILLE.",
+   "de": "Old Bill ≈ « (vieille) bille » ; le policier en planque = les flics",
+   "fo": "the Old Bill (UK fam.) = la police, les flics ; aussi the cops, the coppers"
+  },
+  {
+   "n": 29,
+   "it": "homeland",
+   "eit": "He loves his homeland.",
+   "eim": "homeland",
+   "api": "/ˈhəʊmlænd/",
+   "pr": "HEOM-lannd",
+   "mc": "HOMME LANDES",
+   "sc": "Un drapeau sur le cœur, un HOMME des LANDES chante l'hymne de sa PATRIE, debout dans la lande écossaise.",
+   "de": "homeland ≈ « homme-landes » ; le drapeau sur le cœur = la patrie",
+   "fo": "aussi his country, motherland ; home = chez-soi, foyer"
+  },
+  {
+   "n": 30,
+   "it": "law firm",
+   "eit": "A very big law firm.",
+   "eim": "law firm",
+   "api": "/ˈlɔː fɜːm/",
+   "pr": "LOO-FEUM",
+   "mc": "LORS + FERME",
+   "sc": "Dans une FERME du Sussex, des avocats en perruque tiennent leur CABINET D'AVOCATS au milieu des vaches ; LORS de chaque procès, on trait la vache.",
+   "de": "law firm ≈ « lo(rs) + ferme » ; les avocats en perruque = le cabinet d'avocats",
+   "fo": "law = loi, droit ; firm = entreprise ; solicitor (UK) = avocat-conseil ; barrister = avocat plaidant"
+  },
+  {
+   "n": 31,
+   "it": "private property",
+   "eit": "It's private property.",
+   "eim": "private property",
+   "api": "/ˌpraɪvət ˈprɒpəti/",
+   "pr": "PRAÏ-vet-PRO-pe-ti",
+   "mc": "PRÉVERT PROPRE ET PETIT",
+   "sc": "Un panneau « PRIVATE PROPERTY » devant un manoir anglais : derrière la grille, un jardin PROPRE ET PETIT, PROPRIÉTÉ PRIVÉE.",
+   "de": "private property ≈ « pri-vé + propre et petit » ; la grille fermée = la propriété privée",
+   "fo": "property = propriété, biens ; Keep out! = Défense d'entrer"
+  },
+  {
+   "n": 32,
+   "it": "form",
+   "eit": "Fill in the form.",
+   "eim": "form",
+   "api": "/fɔːm/",
+   "pr": "FOOM",
+   "mc": "FORME",
+   "sc": "Un schéma dessiné sur une FICHE de la poste anglaise : il faut remplir chaque case selon sa FORME.",
+   "de": "form ≈ « forme » ; la feuille à cases = la fiche",
+   "fo": "to fill in a form (UK) / fill out (US) ; form = aussi classe (école)",
+   "co": [
+    "application form",
+    "to fill in a form",
+    "order form"
+   ]
+  },
+  {
+   "n": 33,
+   "it": "potato",
+   "eit": "Roast potatoes.",
+   "eim": "potatoes",
+   "api": "/pəˈteɪtəʊ/",
+   "pr": "pe-TÉÏ-teo",
+   "mc": "PÂTÉ TÔT",
+   "sc": "Une PATATE, la POMME DE TERRE, rôtit dans un four de pub dès le dimanche matin ; on la mange avec du PÂTÉ, TÔT.",
+   "de": "potato ≈ « pâté tôt » ; la patate = la pomme de terre",
+   "fo": "pl. potatoes ; roast potatoes = pommes de terre rôties (Sunday roast) ; chips (UK) = frites ; crisps = chips",
+   "co": [
+    "sweet potatoes",
+    "potato salad",
+    "jacket potato",
+    "roast potatoes"
+   ]
+  },
+  {
+   "n": 34,
+   "it": "whale",
+   "eit": "A blue whale.",
+   "eim": "whale",
+   "api": "/weɪl/",
+   "pr": "OUÉÏL",
+   "mc": "OUAILLE (VOILE)",
+   "sc": "Une BALEINE bleue souffle son jet au large des côtes écossaises, et le jet gonfle la VOILE d'un bateau.",
+   "de": "whale ≈ « (v)oile » ; le jet qui souffle = la baleine",
+   "fo": "h muet : /weɪl/ ; killer whale = orque"
+  },
+  {
+   "n": 35,
+   "it": "leather",
+   "eit": "A leather bag.",
+   "eim": "leather",
+   "api": "/ˈleðə/",
+   "pr": "LÈ-the",
+   "mc": "LÉZARD",
+   "sc": "Une veste en CUIR de motard londonien, toute luisante comme la peau d'un LÉZARD.",
+   "de": "leather ≈ « lé(zard) » ; la veste de motard = le cuir",
+   "fo": "leather = cuir ; a leather jacket = un blouson en cuir"
+  },
+  {
+   "n": 36,
+   "it": "recipe",
+   "eit": "Give me the recipe.",
+   "eim": "recipe",
+   "api": "/ˈresəpi/",
+   "pr": "RÈ-se-pi",
+   "mc": "RÉCÉPISSÉ",
+   "sc": "Un livre de RECETTES s'ouvre dans la cuisine d'une grand-mère anglaise ; chaque page est tamponnée comme un RÉCÉPISSÉ.",
+   "de": "recipe ≈ « récépi(ssé) » ; le livre de cuisine = la recette",
+   "fo": "3 syllabes : RÈ-se-pi ; faux ami : receipt = reçu ; recipe for disaster = recette pour la catastrophe"
+  },
+  {
+   "n": 37,
+   "it": "autumn",
+   "eit": "In autumn, the leaves fall.",
+   "eim": "autumn",
+   "api": "/ˈɔːtəm/",
+   "pr": "OO-temm",
+   "mc": "AUTEL",
+   "sc": "Des feuilles rousses d'AUTOMNE tombent sur l'AUTEL d'une église de campagne anglaise.",
+   "de": "autumn ≈ « au(tel)-temm » ; les feuilles rousses = l'automne",
+   "fo": "n final muet ; UK autumn / US fall ; in autumn = en automne",
+   "co": [
+    "autumn festival",
+    "autumn leaves"
+   ]
+  },
+  {
+   "n": 38,
+   "it": "bollocks",
+   "eit": "That's bollocks.",
+   "eim": "bollocks",
+   "api": "/ˈbɒləks/",
+   "pr": "BO-leks",
+   "mc": "BOL + LEXOMIL",
+   "sc": "Un catcheur à table dans un pub lance les plats et renverse un BOL de LEXOMIL : quelle CONNERIE !",
+   "de": "bollocks ≈ « bol-lex(omil) » ; le catcheur qui lance les plats = la connerie",
+   "fo": "vulgaire UK = conneries, n'importe quoi ; plus poli : rubbish, nonsense ; a stupid thing to do = une connerie (action)"
+  },
+  {
+   "n": 39,
+   "it": "work of art",
+   "eit": "A pretty girl is a work of art.",
+   "eim": "work of art",
+   "api": "/ˌwɜːk əv ˈɑːt/",
+   "pr": "OUEUK-ev-AAT",
+   "mc": "OUEUK + ART",
+   "sc": "Dans un opéra de Covent Garden, un tableau chante sur scène : une ŒUVRE D'ART qui fait OUEUK ! en se dépliant.",
+   "de": "work of art ≈ « (oe)u(vre) + art » ; le tableau sur scène = l'œuvre d'art",
+   "fo": "work = travail, œuvre ; artwork = œuvre d'art ; masterpiece = chef-d'œuvre"
+  },
+  {
+   "n": 40,
+   "it": "diagram",
+   "eit": "It's a simplified diagram.",
+   "eim": "diagram",
+   "api": "/ˈdaɪəɡræm/",
+   "pr": "DAÏ-e-gramm",
+   "mc": "DIA + GRAMME",
+   "sc": "Un SCHÉMA avec des flèches dessiné au tableau d'une salle de cours d'Oxford, comme une DIAPO de quelques GRAMMES.",
+   "de": "diagram ≈ « dia-gramme » ; le dessin à flèches = le schéma",
+   "fo": "diagram = schéma (dessin) ; scheme (UK) = plan, programme (faux ami partiel)"
+  },
+  {
+   "n": 41,
+   "it": "harassment",
+   "eit": "It's sexual harassment.",
+   "eim": "harassment",
+   "api": "/ˈhærəsmənt/",
+   "pr": "HA-res-ment",
+   "mc": "HARASSEMENT",
+   "sc": "Une main insistante sur une épaule dans le métro de Londres : du HARCÈLEMENT, qui mène au HARASSEMENT de la victime.",
+   "de": "harassment ≈ « harassement » ; la main insistante = le harcèlement",
+   "fo": "accent sur HA (aussi he-RASS) ; to harass = harceler ; bullying = harcèlement (école)"
+  },
+  {
+   "n": 42,
+   "it": "fillet",
+   "eit": "A fish fillet.",
+   "eim": "fillet",
+   "api": "/ˈfɪlɪt/",
+   "pr": "FI-lit",
+   "mc": "FILET",
+   "sc": "Un FILET de poisson grésille dans la friteuse d'une baraque de fish and chips, à côté d'un FILET de pêcheur.",
+   "de": "fillet ≈ « filet » ; le morceau de poisson = le filet",
+   "fo": "prononcé FI-lit (t prononcé en UK) ; fillet steak = filet de bœuf ; net = filet (de pêche)",
+   "co": [
+    "fillet steak",
+    "salmon fillet",
+    "fillet of beef"
+   ]
+  },
+  {
+   "n": 43,
+   "it": "platform",
+   "eit": "The train's at the platform.",
+   "eim": "platform",
+   "api": "/ˈplætfɔːm/",
+   "pr": "PLATT-foom",
+   "mc": "PLATE-FORME",
+   "sc": "Une banquette sur le QUAI de la gare de King's Cross ; le train s'arrête pile devant la PLATE-FORME.",
+   "de": "platform ≈ « plate-forme » ; la banquette au bord des rails = le quai",
+   "fo": "platform 9 ¾ ; quay /kiː/ = quai (port) ; embankment = quai (fleuve)"
+  },
+  {
+   "n": 44,
+   "it": "storm",
+   "eit": "There's a storm coming.",
+   "eim": "storm",
+   "api": "/stɔːm/",
+   "pr": "STOOM",
+   "mc": "STORE",
+   "sc": "Un ORAGE éclate au-dessus de la Tamise ; tous les STORES des pubs claquent au vent.",
+   "de": "storm ≈ « store » ; l'éclair et le tonnerre = l'orage",
+   "fo": "thunderstorm = orage ; storm = tempête aussi ; stormy = orageux"
+  },
+  {
+   "n": 45,
+   "it": "pigeon",
+   "eit": "A pigeon in the square.",
+   "eim": "pigeon",
+   "api": "/ˈpɪdʒɪn/",
+   "pr": "PI-djinn",
+   "mc": "PIGEON",
+   "sc": "Un PIGEON perché sur un pichet au milieu de Trafalgar Square, entouré de touristes.",
+   "de": "pigeon ≈ « pigeon » ; l'oiseau de la place = le pigeon",
+   "fo": "pigeon = pigeon ; to pigeonhole = cataloguer"
+  },
+  {
+   "n": 46,
+   "it": "strategy",
+   "eit": "It's a good strategy.",
+   "eim": "strategy",
+   "api": "/ˈstrætədʒi/",
+   "pr": "STRA-te-dji",
+   "mc": "STRATÈGE",
+   "sc": "Un général en uniforme rouge trace sa STRATÉGIE sur une carte, comme un vrai STRATÈGE de Waterloo.",
+   "de": "strategy ≈ « stratège » ; le général et sa carte = la stratégie",
+   "fo": "accent sur STRA ; strategic /strəˈtiːdʒɪk/"
+  },
+  {
+   "n": 47,
+   "it": "quant",
+   "eit": "He works as a quant.",
+   "eim": "quant",
+   "api": "/kwɒnt/",
+   "pr": "KOUONT",
+   "mc": "QUANT",
+   "sc": "Un analyste QUANTITATIF calcule dans une tour de la City, des colonnes de chiffres plein les yeux : le QUANT.",
+   "de": "quant ≈ « quant » ; l'analyste aux calculs = le quant",
+   "fo": "quant = quantitative analyst (finance) ; prononcé /kwɒnt/"
+  },
+  {
+   "n": 48,
+   "it": "baking tray",
+   "eit": "Grease the baking tray.",
+   "eim": "baking tray",
+   "api": "/ˈbeɪkɪŋ treɪ/",
+   "pr": "BÉÏ-king-TRÉÏ",
+   "mc": "BÉKINE + TRAIT",
+   "sc": "Une tuile chaude, la PLAQUE À GÂTEAU, sort du four d'un cottage ; un TRAIT de beurre la traverse.",
+   "de": "baking tray ≈ « bé-king + trait » ; la tuile chaude = la plaque à gâteau",
+   "fo": "to bake = cuire au four ; baking tray / baking sheet ; cake tin (UK) = moule à gâteau"
+  },
+  {
+   "n": 49,
+   "it": "fear",
+   "eit": "Without fear.",
+   "eim": "fear",
+   "api": "/fɪə/",
+   "pr": "FIE",
+   "mc": "FIER",
+   "sc": "Un TIMORÉ tremble de CRAINTE devant un garde à bonnet en poil d'ours… pendant que son frère, FIER, passe sans un regard.",
+   "de": "fear ≈ « fie(r) » ; le timoré qui tremble = la crainte",
+   "fo": "fear = peur, crainte ; to fear = craindre ; fearless = intrépide"
+  },
+  {
+   "n": 50,
+   "it": "dark",
+   "eit": "I'm scared of the dark.",
+   "eim": "the dark",
+   "api": "/dɑːk/",
+   "pr": "DAAK",
+   "mc": "DAKAR",
+   "sc": "Un bouillon noir comme l'OBSCURITÉ envahit une ruelle de Londres ; on n'y voit pas plus clair qu'en pleine nuit sur la route de DAKAR.",
+   "de": "dark ≈ « Dak(ar) » ; le bouillon noir = l'obscurité",
+   "fo": "the dark = le noir, l'obscurité ; darkness = obscurité (plus soutenu) ; blind date = rendez-vous à l'aveugle",
+   "co": [
+    "in the dark",
+    "after dark",
+    "pitch dark"
+   ]
+  },
+  {
+   "n": 51,
+   "it": "competition",
+   "eit": "He won the competition.",
+   "eim": "competition",
+   "api": "/ˌkɒmpəˈtɪʃən/",
+   "pr": "kom-pe-TI-chenn",
+   "mc": "COMPÈRE TICHÈNE",
+   "sc": "Une course part de la gare de Waterloo : c'est la COMPÉTITION, et ton COMPÈRE TICHÈNE arrive premier.",
+   "de": "competition ≈ « compé(re)-ti-chène » ; la course au départ de la gare = la compétition",
+   "fo": "to compete = concourir ; competitor = concurrent ; contest = concours",
+   "co": [
+    "to win the competition",
+    "to enter a competition"
+   ]
+  },
+  {
+   "n": 52,
+   "it": "blood sample",
+   "eit": "We've got two blood samples.",
+   "eim": "blood samples",
+   "api": "/ˈblʌd ˌsɑːmpəl/",
+   "pr": "BLADD-SAAM-pel",
+   "mc": "BLADE + SAMPLE",
+   "sc": "Un champion de Wimbledon tend son bras : on lui fait deux PRISES DE SANG, et le SANG coule en BLADE (lame) dans un SAMPLE de tube.",
+   "de": "blood sample ≈ « blade + sample » ; le tube de sang du champion = l'échantillon de sang",
+   "fo": "blood /blʌd/ (oo = a) ; sample = échantillon ; blood test = prise de sang (analyse)"
+  },
+  {
+   "n": 53,
+   "it": "front door",
+   "eit": "That's not the front door.",
+   "eim": "front door",
+   "api": "/ˌfrʌnt ˈdɔː/",
+   "pr": "FRANNT-DOO",
+   "mc": "FRONT D'OR",
+   "sc": "Une grande porte rouge au FRONT D'OR sur une maison de Londres : l'ENTRÉE PRINCIPALE, avec son heurtoir en laiton.",
+   "de": "front door ≈ « front d'or » ; la porte rouge = l'entrée principale",
+   "fo": "front door = porte d'entrée ; main entrance = entrée principale (bâtiment public) ; back door = porte de derrière"
+  },
+  {
+   "n": 54,
+   "it": "aerial",
+   "eit": "The aerial's sending out a signal.",
+   "eim": "aerial",
+   "api": "/ˈeəriəl/",
+   "pr": "È-ri-el",
+   "mc": "AÉRIEL",
+   "sc": "Une ANTENNE sur le toit d'un cottage capte un signal AÉRIEN venu de la BBC.",
+   "de": "aerial ≈ « aérie(n) » ; la tige sur le toit = l'antenne",
+   "fo": "UK aerial / US antenna ; antennae = antennes (insectes) ; on air = à l'antenne"
+  },
+  {
+   "n": 55,
+   "it": "outpost",
+   "eit": "A red outpost.",
+   "eim": "outpost",
+   "api": "/ˈaʊtpəʊst/",
+   "pr": "AOUT-peost",
+   "mc": "AOÛT + POSTE",
+   "sc": "Une petite cabane de garde rouge, l'AVANT-POSTE, perdue dans la neige des Highlands au mois d'AOÛT ; la POSTE n'y arrive jamais.",
+   "de": "outpost ≈ « août-poste » ; la cabane dans la neige = l'avant-poste",
+   "fo": "out = dehors ; post = poste, courrier"
+  },
+  {
+   "n": 56,
+   "it": "ankle",
+   "eit": "I've twisted my ankle.",
+   "eim": "ankle",
+   "api": "/ˈæŋkəl/",
+   "pr": "ANG-kel",
+   "mc": "ANCRE",
+   "sc": "Une CHEVILLE foulée, prise dans la chaîne d'une ANCRE de bateau, sur le port de Douvres.",
+   "de": "ankle ≈ « an(c)kre » ; la cheville foulée = la cheville",
+   "fo": "to twist / sprain one's ankle = se tordre / se fouler la cheville ; uncle /ˈʌŋkəl/ = oncle (≠)"
+  },
+  {
+   "n": 57,
+   "it": "maths",
+   "eit": "He's good at maths.",
+   "eim": "maths",
+   "api": "/mæθs/",
+   "pr": "MATHS",
+   "mc": "MATHS",
+   "sc": "Un tableau noir couvert de MATHS dans une école anglaise ; le prof en toge les tape de la craie.",
+   "de": "maths ≈ « maths » ; le tableau couvert d'équations = les maths",
+   "fo": "UK maths / US math ; good at maths = fort en maths",
+   "co": [
+    "maths homework",
+    "maths teacher"
+   ]
+  },
+  {
+   "n": 58,
+   "it": "goat",
+   "eit": "The goat gives milk.",
+   "eim": "goat",
+   "api": "/ɡəʊt/",
+   "pr": "GEOT",
+   "mc": "GOUTTE",
+   "sc": "Une CHÈVRE mange des câpres dans une ferme galloise ; chaque GOUTTE de son lait est précieuse.",
+   "de": "goat ≈ « gou(tte) » ; la bête aux câpres = la chèvre",
+   "fo": "goat = chèvre ; kid = chevreau ; goat's cheese = fromage de chèvre",
+   "co": [
+    "goat's cheese",
+    "goat's milk"
+   ]
+  },
+  {
+   "n": 59,
+   "it": "chaos",
+   "eit": "It's total chaos.",
+   "eim": "chaos",
+   "api": "/ˈkeɪɒs/",
+   "pr": "KÉÏ-oss",
+   "mc": "K.-O.",
+   "sc": "Une salle de classe anglaise en plein CHAOS, papiers qui volent ; le prof est K.-O. sur son bureau.",
+   "de": "chaos ≈ « K.-O. » ; la salle de classe en folie = le chaos",
+   "fo": "prononcé KÉÏ-oss ; chaotic /keɪˈɒtɪk/"
+  },
+  {
+   "n": 60,
+   "it": "dinner menu",
+   "eit": "The dinner menu's up.",
+   "eim": "dinner menu",
+   "api": "/ˈdɪnə ˌmenjuː/",
+   "pr": "DI-ne-MÈ-niou",
+   "mc": "DÎNER MENU",
+   "sc": "Le menu de la Cène, affiché sur l'ardoise d'un pub : c'est le MENU DU SOIR, pour le DÎNER.",
+   "de": "dinner ≈ « dîner » ; le menu de la Cène = le menu du soir",
+   "fo": "dinner = repas du soir (dans le Nord de l'Angleterre aussi tea, et dinner = déjeuner !)"
+  },
+  {
+   "n": 61,
+   "it": "tourist",
+   "eit": "There are a lot of tourists.",
+   "eim": "tourists",
+   "api": "/ˈtʊərɪst/",
+   "pr": "TOUE-rist",
+   "mc": "TOURISTE",
+   "sc": "Un TOURISTE photographie Trafalgar Square sous la pluie, chaussettes dans les sandales.",
+   "de": "tourist ≈ « touriste » ; le photographe en sandales = le touriste",
+   "fo": "tourism = tourisme ; tourist trap = attrape-touristes"
+  },
+  {
+   "n": 62,
+   "it": "butterfly",
+   "eit": "A yellow butterfly.",
+   "eim": "butterfly",
+   "api": "/ˈbʌtəflaɪ/",
+   "pr": "BA-te-flaï",
+   "mc": "BATTEUR FLÉAU",
+   "sc": "Un farfadet poursuit un PAPILLON jaune dans un jardin anglais ; le BATTEUR de cricket le chasse à coups de FLÉAU.",
+   "de": "butterfly ≈ « batte(ur)-flaï » ; le papillon jaune = le papillon",
+   "fo": "butterfly = papillon ; moth = papillon de nuit ; butterflies in my stomach = le trac"
+  },
+  {
+   "n": 63,
+   "it": "calculation",
+   "eit": "The calculation's wrong.",
+   "eim": "calculation",
+   "api": "/ˌkælkjəˈleɪʃən/",
+   "pr": "kal-kiou-LÉÏ-chenn",
+   "mc": "CALCUL ET CHAÎNE",
+   "sc": "Une calculette fait un CALCUL dans une banque de la City ; les résultats sortent en CHAÎNE de papier.",
+   "de": "calculation ≈ « calcul-é-chaîne » ; la calculette = le calcul",
+   "fo": "to calculate = calculer ; sum = calcul simple (à l'école) ; maths = calcul (matière)"
+  },
+  {
+   "n": 64,
+   "it": "tobacco",
+   "eit": "The smell of tobacco.",
+   "eim": "tobacco",
+   "api": "/təˈbækəʊ/",
+   "pr": "te-BA-keo",
+   "mc": "TABAC",
+   "sc": "Une pipe bourrée de TABAC fume dans le salon d'un club de gentlemen à Londres.",
+   "de": "tobacco ≈ « tabac » ; la pipe bourrée = le tabac",
+   "fo": "accent sur BA ; tobacconist's = bureau de tabac ; chewing tobacco = tabac à chiquer",
+   "co": [
+    "chewing tobacco",
+    "pipe tobacco"
+   ]
+  },
+  {
+   "n": 65,
+   "it": "envelope",
+   "eit": "Put the letter in the envelope.",
+   "eim": "envelope",
+   "api": "/ˈenvələʊp/",
+   "pr": "ÈNN-ve-leop",
+   "mc": "ENVELOPPE",
+   "sc": "Un buste de la reine glissé dans une ENVELOPPE rouge, prête pour la boîte aux lettres d'un village anglais.",
+   "de": "envelope ≈ « enveloppe » ; le buste glissé dedans = l'enveloppe",
+   "fo": "accent sur ÈNN ; un seul p en anglais ; to envelop = envelopper"
+  },
+  {
+   "n": 66,
+   "it": "breed",
+   "eit": "What breed is your dog?",
+   "eim": "breed",
+   "api": "/briːd/",
+   "pr": "BRIID",
+   "mc": "BRIDE",
+   "sc": "Au concours canin de Crufts, un chien de RACE défile, ruban bleu au cou, tenu par une BRIDE dorée.",
+   "de": "breed ≈ « bride » ; le chien au concours = la race",
+   "fo": "breed = race (animaux) ; race = race (humaine ; aussi course) ; to breed = élever"
+  },
+  {
+   "n": 67,
+   "it": "you …!",
+   "fr": "espèce de… ! (insulte)",
+   "eit": "You idiot!",
+   "eim": "You idiot",
+   "api": "/juː/",
+   "pr": "YOU",
+   "mc": "YOU-YOU",
+   "sc": "Un rat furieux pointe le chat du doigt dans une ruelle de Londres : « ESPÈCE d'idiot ! », et fait claquer son YOU-YOU.",
+   "de": "you ≈ « you(-you) » ; le rat qui insulte = espèce de…",
+   "fo": "espèce de… ! = you… ! (You idiot! You fool!) ; what kind of… = quelle espèce de…"
+  },
+  {
+   "n": 68,
+   "it": "children's menu",
+   "eit": "A children's menu, please.",
+   "eim": "children's menu",
+   "api": "/ˈtʃɪldrənz ˌmenjuː/",
+   "pr": "TCHIL-drennz-MÈ-niou",
+   "mc": "CHILD + MENU",
+   "sc": "Un bambin en culotte courte commande le MENU ENFANT dans un pub, en pointant le petit dessin de CHILD (enfant) sur la carte.",
+   "de": "children's menu ≈ « child + menu » ; le bambin qui commande = le menu enfant",
+   "fo": "child, pl. children ; fam. kids' menu"
+  },
+  {
+   "n": 69,
+   "it": "shopping centre",
+   "eit": "We're going to the shopping centre.",
+   "eim": "shopping centre",
+   "api": "/ˈʃɒpɪŋ ˌsentə/",
+   "pr": "CHO-ping-SÈNN-te",
+   "mc": "CHOPINE + CENTRE",
+   "sc": "Des escalators géants dans un CENTRE COMMERCIAL de Londres ; tout en haut, on boit une CHOPINE au CENTRE.",
+   "de": "shopping centre ≈ « chopin(e) + centre » ; les escalators = le centre commercial",
+   "fo": "orthographe UK centre (US center) ; US mall ; to go shopping = faire les magasins"
+  },
+  {
+   "n": 70,
+   "it": "heel",
+   "eit": "My heel hurts.",
+   "eim": "heel",
+   "api": "/hiːl/",
+   "pr": "HIIL",
+   "mc": "« HI, IL ! »",
+   "sc": "Un TALON couvert de calcaire dépasse d'une vieille baignoire victorienne ; on le chatouille : « HI ! », rit-IL.",
+   "de": "heel ≈ « hi-il » ; le talon calcaire = le talon",
+   "fo": "heel = talon (pied ET chaussure) ; high heels = talons hauts ; heal = guérir (même son)"
+  },
+  {
+   "n": 71,
+   "it": "lamb",
+   "eit": "A leg of lamb.",
+   "eim": "lamb",
+   "api": "/læm/",
+   "pr": "LAMM",
+   "mc": "LAME",
+   "sc": "Un petit AGNEAU bêle dans un champ gallois, juste avant qu'on n'aiguise la LAME pour le gigot.",
+   "de": "lamb ≈ « lam(e) » ; le petit qui bêle = l'agneau",
+   "fo": "b muet ; leg of lamb = gigot d'agneau ; lamb chops = côtelettes d'agneau",
+   "co": [
+    "lamb chops",
+    "lamb stew",
+    "leg of lamb"
+   ]
+  },
+  {
+   "n": 72,
+   "it": "orchestra",
+   "eit": "The orchestra's playing.",
+   "eim": "orchestra",
+   "api": "/ˈɔːkɪstrə/",
+   "pr": "OO-kis-tre",
+   "mc": "ORCHESTRE",
+   "sc": "Un chef en queue-de-pie dirige l'ORCHESTRE au Royal Albert Hall.",
+   "de": "orchestra ≈ « orchestre » ; le chef qui dirige = l'orchestre",
+   "fo": "accent sur OO ; ch = k ; conductor = chef d'orchestre",
+   "co": [
+    "orchestra conductor",
+    "symphony orchestra"
+   ]
+  },
+  {
+   "n": 73,
+   "it": "root",
+   "eit": "The root of the tree.",
+   "eim": "root",
+   "api": "/ruːt/",
+   "pr": "ROUT",
+   "mc": "ROUTE",
+   "sc": "Un radis géant montre sa RACINE en travers d'une ROUTE de campagne anglaise.",
+   "de": "root ≈ « route » ; le radis et sa racine = la racine",
+   "fo": "roots = racines (origine) ; to take root = prendre racine"
+  },
+  {
+   "n": 74,
+   "it": "safe",
+   "eit": "He's opening the safe.",
+   "eim": "safe",
+   "api": "/seɪf/",
+   "pr": "SÉÏF",
+   "mc": "SÈVE",
+   "sc": "Un cambrioleur tente une casse très forte sur un COFFRE-FORT de la Banque d'Angleterre ; de la SÈVE coule de la serrure.",
+   "de": "safe ≈ « sè(ve) » ; la casse très forte = le coffre-fort",
+   "fo": "a safe = un coffre-fort ; safe (adj.) = en sécurité"
+  },
+  {
+   "n": 75,
+   "it": "receipt",
+   "eit": "Keep the receipt.",
+   "eim": "receipt",
+   "api": "/rɪˈsiːt/",
+   "pr": "ri-SIIT",
+   "mc": "RÉCIT",
+   "sc": "Un REÇU interminable sort de la caisse d'un Tesco, long comme un RÉCIT d'aventures.",
+   "de": "receipt ≈ « récit » ; le ticket qui sort de la caisse = le reçu",
+   "fo": "p muet : /rɪˈsiːt/ ; faux ami : recipe = recette"
+  },
+  {
+   "n": 76,
+   "it": "cocktail",
+   "eit": "A cocktail by the pool.",
+   "eim": "cocktail",
+   "api": "/ˈkɒkteɪl/",
+   "pr": "KOK-téïl",
+   "mc": "COCKTAIL",
+   "sc": "Un COCKTAIL coloré à paille, au bord d'une piscine d'hôtel à Brighton, avec un petit parapluie Union Jack.",
+   "de": "cocktail ≈ « cocktail » ; le verre à paille = le cocktail",
+   "fo": "prawn cocktail = cocktail de crevettes (classique UK)",
+   "co": [
+    "prawn cocktail",
+    "cocktail party"
+   ]
+  },
+  {
+   "n": 77,
+   "it": "fur",
+   "eit": "The dog's losing its fur.",
+   "eim": "fur",
+   "api": "/fɜː/",
+   "pr": "FEU",
+   "mc": "FEU",
+   "sc": "Un chien au pelage épais perd ses POILS devant la cheminée d'un cottage ; les touffes s'envolent vers le FEU.",
+   "de": "fur ≈ « feu » ; le pelage épais = les poils",
+   "fo": "fur = poils, fourrure (animal) ; hair = cheveux, poils (humains, aussi animaux) ; to moult = muer"
+  },
+  {
+   "n": 78,
+   "it": "steak",
+   "eit": "A well-done steak.",
+   "eim": "steak",
+   "api": "/steɪk/",
+   "pr": "STÉÏK",
+   "mc": "STÈQUE (bifteck)",
+   "sc": "Un bifteck, le STEAK bien cuit, grésille sur le grill d'un pub, à côté d'une pinte.",
+   "de": "steak ≈ « (bif)teck » ; le bifteck = le steak",
+   "fo": "prononcé STÉÏK ; rare / medium / well-done = saignant / à point / bien cuit ; beef steak",
+   "co": [
+    "a beef steak",
+    "steak and chips"
+   ]
+  },
+  {
+   "n": 79,
+   "it": "moustache",
+   "eit": "He's got a moustache.",
+   "eim": "moustache",
+   "api": "/məˈstɑːʃ/",
+   "pr": "me-STAACH",
+   "mc": "MOUSTACHE",
+   "sc": "Une baffe atterrit sur la MOUSTACHE en guidon de vélo d'un colonel anglais.",
+   "de": "moustache ≈ « moustache » ; la moustache giflée = la moustache",
+   "fo": "UK moustache / US mustache ; accent sur STAACH"
+  },
+  {
+   "n": 80,
+   "it": "margin call",
+   "eit": "He got a margin call.",
+   "eim": "margin call",
+   "api": "/ˈmɑːdʒɪn kɔːl/",
+   "pr": "MAA-djinn-KOOL",
+   "mc": "MARGE + COL",
+   "sc": "Un courtier de la City reçoit un APPEL DE MARGE sur son mobile et desserre son COL de chemise, pris dans la MARGE.",
+   "de": "margin call ≈ « marge + col » ; l'appel du courtier = l'appel de marge",
+   "fo": "margin = marge ; call = appel ; mobile (UK) = portable"
+  },
+  {
+   "n": 81,
+   "it": "exhibition",
+   "eit": "We're going to an exhibition.",
+   "eim": "exhibition",
+   "api": "/ˌeksɪˈbɪʃən/",
+   "pr": "èk-si-BI-chenn",
+   "mc": "EXHIBITION",
+   "sc": "On montre des tableaux au British Museum : une EXPOSITION, et un visiteur en fait une EXHIBITION.",
+   "de": "exhibition ≈ « exhibition » ; les tableaux montrés = l'exposition",
+   "fo": "h muet ; faux ami : exposition = exposé ; exhibit = œuvre exposée"
+  },
+  {
+   "n": 82,
+   "it": "aspect",
+   "eit": "This aspect's important.",
+   "eim": "aspect",
+   "api": "/ˈæspekt/",
+   "pr": "ASS-pèkt",
+   "mc": "ASPECT",
+   "sc": "Une loupe de Sherlock Holmes examine chaque ASPECT d'un indice sur Baker Street.",
+   "de": "aspect ≈ « aspect » ; la loupe qui examine = l'aspect",
+   "fo": "aspect = aspect (facette) ; appearance = aspect (apparence)",
+   "co": [
+    "an important aspect",
+    "every aspect of"
+   ]
+  },
+  {
+   "n": 83,
+   "it": "postman",
+   "eit": "The postman's been.",
+   "eim": "postman",
+   "api": "/ˈpəʊstmən/",
+   "pr": "PEOST-menn",
+   "mc": "POSTE + MAINE",
+   "sc": "Un FACTEUR anglais à vélo, sacoche rouge de la Royal Mail, file vers la POSTE de MAINE-et-Loire.",
+   "de": "postman ≈ « poste-main(e) » ; le cycliste à sacoche = le facteur",
+   "fo": "pl. postmen ; UK post / US mail ; The postman's been = le facteur est passé"
+  },
+  {
+   "n": 84,
+   "it": "quantity",
+   "eit": "A large quantity of water.",
+   "eim": "quantity",
+   "api": "/ˈkwɒntəti/",
+   "pr": "KOUONN-te-ti",
+   "mc": "QUANTITÉ",
+   "sc": "Une montagne d'eau en QUANTITÉ dévale les rues de Bath après l'orage.",
+   "de": "quantity ≈ « quantité » ; la montagne d'eau = la quantité",
+   "fo": "plus courant à l'oral : amount (a large amount of)",
+   "co": [
+    "a huge quantity",
+    "a large quantity of"
+   ]
+  },
+  {
+   "n": 85,
+   "it": "trait",
+   "eit": "A character trait.",
+   "eim": "trait",
+   "api": "/treɪt/",
+   "pr": "TRÉÏT",
+   "mc": "TRAIT",
+   "sc": "Un crayon trace un TRAIT de caractère sur le portrait d'un lord ; la moustache devient sévère.",
+   "de": "trait ≈ « trait » ; le crayon qui trace = le trait",
+   "fo": "prononcé TRÉÏT (t final prononcé) ; line = trait (dessin) ; feature = trait (visage)"
+  },
+  {
+   "n": 86,
+   "it": "shoot",
+   "eit": "The shoot lasted ten hours.",
+   "eim": "shoot",
+   "api": "/ʃuːt/",
+   "pr": "CHOUT",
+   "mc": "CHUTE",
+   "sc": "Sur un plateau de tournage londonien, on refait la scène encore et encore : nouvelle PRISE DE VUE… et nouvelle CHUTE de l'acteur.",
+   "de": "shoot ≈ « chute » ; la reprise de la scène = la prise de vue",
+   "fo": "a shoot = un tournage, une séance photo ; to shoot = tourner, filmer, tirer ; take = prise (une prise)"
+  },
+  {
+   "n": 87,
+   "it": "make-up",
+   "eit": "She's putting on make-up.",
+   "eim": "make-up",
+   "api": "/ˈmeɪkʌp/",
+   "pr": "MÉÏK-ap",
+   "mc": "MÈQUE À PAPA",
+   "sc": "Dans une loge du West End, une actrice étale son MAQUILLAGE avec tous ses trucs, sous l'œil du MEC À PAPA venu l'applaudir.",
+   "de": "make-up ≈ « mec (à pa)pa » ; les trucs de loge = le maquillage",
+   "fo": "indénombrable : make-up ; to put on make-up = se maquiller ; tricks of the trade = ficelles du métier",
+   "co": [
+    "to put on make-up",
+    "to wear make-up",
+    "make-up bag"
+   ]
+  },
+  {
+   "n": 88,
+   "it": "heir",
+   "eit": "He's the only heir.",
+   "eim": "heir",
+   "api": "/eə/",
+   "pr": "ÈE",
+   "mc": "AIR",
+   "sc": "Un prince HÉRITIER, couronne trop grande, flotte dans l'AIR au-dessus de Buckingham : l'HÉRITIER.",
+   "de": "heir ≈ « air » ; le prince couronné = l'héritier",
+   "fo": "h muet : /eə/ (comme air) ; heiress = héritière ; heritage = patrimoine"
+  },
+  {
+   "n": 89,
+   "it": "sock",
+   "eit": "Put your socks on.",
+   "eim": "socks",
+   "api": "/sɒk/",
+   "pr": "SOK",
+   "mc": "SOC",
+   "sc": "Un caleçon et des CHAUSSETTES pendent au SOC d'une charrue dans une ferme anglaise.",
+   "de": "sock ≈ « soc » ; les chaussettes près du caleçon = les chaussettes",
+   "fo": "a pair of socks ; to put on = mettre (vêtement)",
+   "co": [
+    "sock drawer",
+    "to darn socks",
+    "a pair of socks"
+   ]
+  },
+  {
+   "n": 90,
+   "it": "grandson",
+   "eit": "My grandson's three.",
+   "eim": "grandson",
+   "api": "/ˈɡrænsʌn/",
+   "pr": "GRANN-sann",
+   "mc": "GRAND SONNE",
+   "sc": "Un PETIT-FILS embrasse sa grand-mère devant un cottage ; la GRANDE cloche de l'église SONNE.",
+   "de": "grandson ≈ « grand sonne » ; le petit qui embrasse sa grand-mère = le petit-fils",
+   "fo": "granddaughter = petite-fille ; grandchildren = petits-enfants ; nephew = neveu"
+  },
+  {
+   "n": 91,
+   "it": "donkey",
+   "eit": "The donkey's carrying bags.",
+   "eim": "donkey",
+   "api": "/ˈdɒŋki/",
+   "pr": "DONG-ki",
+   "mc": "DONQUICHOTTE",
+   "sc": "Un ÂNE têtu refuse d'avancer sur la plage de Blackpool ; DON QUICHOTTE, en armure, tire sur sa bride.",
+   "de": "donkey ≈ « Don Qui(chotte) » ; l'animal têtu = l'âne",
+   "fo": "ass = âne (vieilli, aussi insulte) ; donkey rides = promenades à dos d'âne (plages UK)"
+  },
+  {
+   "n": 92,
+   "it": "fizzy drink",
+   "eit": "A nice cold fizzy drink.",
+   "eim": "fizzy drink",
+   "api": "/ˈfɪzi drɪŋk/",
+   "pr": "FI-zi-DRINK",
+   "mc": "FIZZ + DRINK",
+   "sc": "Un biberon gazeux FIZZE et pétille dans une main d'enfant sur la plage de Brighton : un SODA bien frais.",
+   "de": "fizzy drink ≈ « fizz + drink » ; le biberon gazeux = le soda",
+   "fo": "UK fizzy drink / US soda, pop ; fizzy = gazeux ; still = plat"
+  },
+  {
+   "n": 93,
+   "it": "pathologist",
+   "eit": "Call the pathologist.",
+   "eim": "pathologist",
+   "api": "/pəˈθɒlədʒɪst/",
+   "pr": "pe-THO-le-djist",
+   "mc": "PATHOLOGISTE",
+   "sc": "Dans une morgue de Scotland Yard, un MÉDECIN LÉGISTE en blouse blanche examine un corps : le PATHOLOGISTE.",
+   "de": "pathologist ≈ « pathologiste » ; la blouse à la morgue = le médecin légiste",
+   "fo": "UK : (forensic) pathologist ; coroner = coroner (juge des décès)"
+  },
+  {
+   "n": 94,
+   "it": "banana",
+   "eit": "A ripe banana.",
+   "eim": "banana",
+   "api": "/bəˈnɑːnə/",
+   "pr": "be-NAA-ne",
+   "mc": "BANANE",
+   "sc": "Un singe du zoo de Londres épluche une BANANE mûre en prenant le thé.",
+   "de": "banana ≈ « banane » ; le singe qui épluche = la banane",
+   "fo": "accent sur NAA ; to go bananas (fam.) = devenir dingue"
+  },
+  {
+   "n": 95,
+   "it": "creation",
+   "eit": "The creation of the world.",
+   "eim": "creation",
+   "api": "/kriˈeɪʃən/",
+   "pr": "kri-ÉÏ-chenn",
+   "mc": "CRÉATION",
+   "sc": "Un artiste admire sa CRÉATION dans un atelier de Chelsea, un monde entier en pâte à modeler.",
+   "de": "creation ≈ « création » ; l'artiste et son œuvre = la création",
+   "fo": "to create = créer ; creative = créatif"
+  },
+  {
+   "n": 96,
+   "it": "brother-in-law",
+   "eit": "My brother-in-law's coming.",
+   "eim": "brother-in-law",
+   "api": "/ˈbrʌðər ɪn lɔː/",
+   "pr": "BRA-the-rinn-loo",
+   "mc": "BRAS D'HEUR + LOI",
+   "sc": "Un BEAU-FRÈRE cogne à la porte d'un cottage, son BRAS levé à l'HEURE pile de la LOI familiale.",
+   "de": "brother-in-law ≈ « bras-d'heur-in-loi » ; celui qui cogne à la porte = le beau-frère",
+   "fo": "pl. brothers-in-law ; sister-in-law = belle-sœur ; in-laws = belle-famille"
+  },
+  {
+   "n": 97,
+   "it": "copper",
+   "eit": "The copper nicked me.",
+   "eim": "copper",
+   "api": "/ˈkɒpə/",
+   "pr": "KO-pe",
+   "mc": "COPAIN",
+   "sc": "Un FLIC en casque de bobby joue au yo-yo devant le commissariat ; il m'arrête, et dit que c'est pour mon bien, comme un COPAIN.",
+   "de": "copper ≈ « cop(ain) » ; le bobby au yo-yo = le flic",
+   "fo": "UK fam. copper / cop = flic ; to nick (UK fam.) = arrêter, aussi piquer, voler ; copper = aussi cuivre",
+   "co": [
+    "bad cop",
+    "good cop, bad cop"
+   ]
+  },
+  {
+   "n": 98,
+   "it": "wrist",
+   "eit": "A watch on his wrist.",
+   "eim": "wrist",
+   "api": "/rɪst/",
+   "pr": "RIST",
+   "mc": "RISTOURNE",
+   "sc": "On prend le pouls au POIGNET d'un gentleman ; sa montre en or, achetée avec une RISTOURNE, brille.",
+   "de": "wrist ≈ « rist(ourne) » ; le pouls qu'on prend = le poignet",
+   "fo": "w muet : /rɪst/ ; wristwatch = montre-bracelet"
+  },
+  {
+   "n": 99,
+   "it": "bath",
+   "eit": "The bath's overflowing.",
+   "eim": "bath",
+   "api": "/bɑːθ/",
+   "pr": "BAATH",
+   "mc": "BAS",
+   "sc": "Une vasque géante, la BAIGNOIRE victorienne à pieds de lion, déborde ; l'eau ruisselle jusqu'en BAS de l'escalier.",
+   "de": "bath ≈ « ba(s) » ; la vasque géante = la baignoire",
+   "fo": "UK bath / US bathtub ; to have a bath = prendre un bain ; Bath (ville thermale)",
+   "co": [
+    "to run a bath",
+    "bath towel",
+    "to have a bath"
+   ]
+  }
+ ]
+}

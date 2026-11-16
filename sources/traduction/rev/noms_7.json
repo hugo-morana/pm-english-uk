@@ -1,0 +1,132 @@
+{
+ "fix": {
+  "4": {
+   "eim": "a long journey"
+  },
+  "25": {
+   "eim": "A series of"
+  },
+  "29": {
+   "eim": "a long story"
+  },
+  "31": {
+   "eim": "The human body"
+  },
+  "46": {
+   "eim": "a big mistake"
+  },
+  "47": {
+   "eim": "left"
+  },
+  "63": {
+   "eim": "home"
+  },
+  "73": {
+   "eim": "long"
+  },
+  "83": {
+   "eim": "the top of his foot"
+  }
+ },
+ "li": {
+  "0": "Le vent de Hyde Park arrache la CAPE du COUPLE, qui s'envole et recouvre le MÔME qui BÂILLE sur l'impériale.",
+  "1": "Le PORTABLE vibrant du MÔME saute de sa poche et tombe sur le bureau du juge, en plein PROCÈS.",
+  "2": "Le marteau du juge du PROCÈS s'envole et frappe le DÉMON rouge, qui DÉVALE les marches de Saint-Paul.",
+  "3": "Le DÉMON roule jusqu'à la gare victorienne et s'emmêle dans la LONGE du JEUNE oiseau.",
+  "4": "Le JEUNE oiseau tire sa LONGE jusqu'à Douvres et l'accroche à la lanterne du SEUL ESPOIR.",
+  "5": "La lanterne du phare éclaire le sourire de la lady aux DENTS bleues, où l'araignée TISSE sa toile.",
+  "6": "L'araignée descend de ses DENTS sur sa toile jusqu'à la table du pub, juste avant que la FOUDRE frappe la NOURRITURE.",
+  "7": "La FOUDRE fait sauter une saucisse grillée dans la SOUTE du bateau, sur le COSTUME du banquier.",
+  "8": "Le banquier en COSTUME remonte de la SOUTE et trace avec une CRAIE la courbe de la CRISE.",
+  "9": "La CRAIE de la CRISE roule jusqu'à Piccadilly, dans la main DROITE du chevalier.",
+  "10": "Le chevalier pointe sa main DROITE vers Greenwich, où le GENRE HUMAIN fait la COURSE autour du globe.",
+  "11": "Un coureur du GENRE HUMAIN trébuche sur le fil du cottage, où sèchent les cœurs des SENTIMENTS.",
+  "12": "La voisine lance un cœur des SENTIMENTS dans le salon de thé de Bath, sur le STORE de la prof de yoga.",
+  "13": "Le STORE tombe sur le bol de RIZ, qui gicle jusqu'au club d'Oxford et allume les ampoules des IDÉES.",
+  "14": "Ramona arrache le DIÈSE de ses fesses et le jette dans le vieil APPAREIL à cadrans du pub.",
+  "15": "La MACHINE à sous crache ses pièces jusqu'à la galerie, sur l'aspirateur de l'artiste d'AVANT-GARDE.",
+  "16": "L'aspirateur d'AVANT-GARDE aspire KATINE et EDGAR et les recrache sur le RESTE du TRONC devant le RESTAURANT.",
+  "17": "Le chef du RESTAURANT lance son assiette fumante dans le CINÉMA, où NÉMO la découpe avec sa SCIE.",
+  "18": "NÉMO saute de l'écran du CINÉMA jusqu'au JARDIN du cottage, dans l'arrosoir du jardinier.",
+  "19": "Le garde du JARDIN frappe son fusil sur le GONG du lord en ROBE DE CHAMBRE.",
+  "20": "Le lord glisse une clé dans la POCHE du garde, qui en sort son POT de confiture et son KIT de clés.",
+  "21": "Le POT de confiture tombe de la POCHE et roule sur le perron du Devon, entre les MILLE bouteilles de LAIT.",
+  "22": "Une bouteille de LAIT roule jusqu'à la Tamise et éclabousse la statue du penseur à la belle PENSÉE.",
+  "23": "La SOTTE idée de pique-nique s'envole par-dessus la haie, entre les deux voisins de la CONVERSATION.",
+  "24": "Le CONVOI de linge qui SÈCHE tombe sur le premier domino de la SÉRIE, qui s'écroule le long de la rue.",
+  "25": "Le dernier domino de la SÉRIE heurte l'étoile SIRIUS, qui pivote comme l'aiguille de la boussole vers le NORD.",
+  "26": "La NOCE en kilt du NORD danse jusqu'au château écossais et soulève le drap du FANTÔME.",
+  "27": "Le GOSSE sous le FANTÔME s'enfuit en courant et s'assoit sur les marches du LYCÉE, sous le SIX doré.",
+  "28": "Le SIX doré en FORME de cygne s'envole du LYCÉE et se pose sur le LONG STORE du vieux marin.",
+  "29": "Le vieux marin déroule son LONG STORE jusqu'à la ligne du marathon, sous la POINTE des pieds de la STAR.",
+  "30": "La STAR fait TINTER sa cloche si fort que le squelette HUMAIN tombe de son BAUDET au musée.",
+  "31": "Le BAUDET s'enfuit du musée jusqu'à Anfield et grimpe dans le KOP derrière les FLICS.",
+  "32": "Les FLICS sifflent et lâchent la meute de CHIENS et de DOGUES dans Regent's Park.",
+  "33": "Les DOGUES sautent la haie et arrachent le chapeau melon du VOISIN, sous le NEZ de sa fille BÉE.",
+  "34": "La fille du VOISIN suit le bus jusqu'à Blackpool et ouvre le bal de la DANSE avec le SINGE.",
+  "35": "Le SINGE de la DANSE lance son nœud papillon sur le CHAPEAU noir du gentleman pressé sur le pont.",
+  "36": "Le CHAPEAU noir s'envole du pont et tombe sur la cloche d'ÉMILE, qui sonne le REPAS.",
+  "37": "ÉMILE fait rouler le rôti du REPAS jusqu'au black cab, où il bute contre le tonneau de RHUM.",
+  "38": "Le tonneau de RHUM jaillit du cab et roule jusqu'à Mayfair, aux pieds d'ARTHUR en plein APRÈS-MIDI.",
+  "39": "ARTHUR et sa NOUNOU poussent le piano dans l'escalier jusqu'à l'ÉTAGE fleuri de FLORE.",
+  "40": "FLORE lance un pot de fleurs qui tombe sur le clavier de l'ORDINATEUR, faisant « PIOU » le poussin.",
+  "41": "Le poussin renverse son THÉ sur l'ORDINATEUR, dont la fumée allume la CIGARETTE du vieux lord.",
+  "42": "Le lord jette son CIGARE sur l'UNITÉ de gardes, qui le piétine devant Buckingham.",
+  "43": "Le sergent de l'UNITÉ crie si fort que le NID de pigeons tombe dans la HOULE de dossiers du BIZNESS.",
+  "44": "La HOULE de dossiers déborde de la City jusqu'à la Tamise et recouvre la SCÈNE DE CRIME.",
+  "45": "L'inspecteur repêche dans la SEINE un STEAK énorme et le tend à MISS Marple : GROSSE ERREUR !",
+  "46": "MISS Marple lance son STEAK au rugbyman affamé, qui ne laisse que des miettes au buffet.",
+  "47": "Le rugbyman, rassasié, part aux JEUX des Highlands et lance un tronc par-dessus le GUÉ.",
+  "48": "Le tronc des JEUX atterrit devant Buckingham, sous le SAULE où les SOLDATS jouent du JAZZ.",
+  "49": "Une trompette des SOLDATS file jusqu'à Waterloo et frappe le chapeau du GOSSE déguisé en KIDD.",
+  "50": "Le GOSSE KIDD saute dans le BUS rouge juste derrière la contreBASSE.",
+  "51": "La contreBASSE tombe du BUS sur le terrain de cricket et écrase le GENOU du batteur.",
+  "52": "Le merle s'envole du NID de la genouillère et file jusqu'à la ligne d'ARRIVÉE du Derby d'Epsom.",
+  "53": "Le RIVAL du jockey galope hors d'Epsom et percute la pile géante d'ÉNERGIE de la centrale.",
+  "54": "NADJI recharge la pile, dont l'ÉNERGIE illumine la cathédrale de Canterbury où prie le fidèle plein de FOI.",
+  "55": "La FÊTE de village sort de la cathédrale et danse jusqu'à Stonehenge, autour de la FÉE du DESTIN.",
+  "56": "L'étoile filante de la FÉE tombe dans le verre de whisky à Scotland Yard et révèle l'EMPREINTE.",
+  "57": "Le détective lance son FINGER au chocolat à Ascot, sur les cornes de la BÊTE du PARI.",
+  "58": "La BÊTE à cornes du PARI galope jusqu'aux THERMES de Bath et plonge dans l'eau tiède.",
+  "59": "L'eau des THERMES éclabousse le contrat des CONDITIONS, qui s'envole sur la carte des MEURTRES.",
+  "60": "Une croix rouge des MEURTRES tombe de la carte sur la main tendue d'un des deux POTES devant le pub.",
+  "61": "Le POTE passe son THÉ bien fort au FRANGIN de Brixton, qui lui tend sa BROSSE.",
+  "62": "La BROSSE glisse des mains du FRÈRE dans le carton du livreur de pizza qui sonne au DOMICILE.",
+  "63": "L'HOMME en pantoufles lance la pizza par-dessus les toits jusqu'à la CAMPAGNE, sur la CANNE du fermier.",
+  "64": "Le fermier de la CAMPAGNE lance un œuf qui s'écrase sur la CORNE de brume du vendeur, au COIN DE LA RUE.",
+  "65": "La CORNE de brume sonne le vendredi soir : les employés lancent leurs cravates du WEEK-END dans la Tamise.",
+  "66": "Une cravate du WEEK-END flotte jusqu'à Portobello et s'enroule autour du bijou de VALEUR dans la VALLÉE.",
+  "67": "Le bijou de VALEUR roule jusqu'au British Museum, dans la vitrine de l'OBJET que le HOBBIT DICTE.",
+  "68": "L'OBJET mystérieux s'envole de sa vitrine et atterrit sur l'ARTICHAUT géant de l'ARTICLE.",
+  "69": "Le journaliste lance l'ARTICHAUT dans la fontaine, qui crache la SAUCE à la menthe de la SOURCE.",
+  "70": "La SAUCE à la menthe coule jusqu'au paillasson BIENVENUE du cottage gallois.",
+  "71": "Le Gallois de la BIENVENUE lance son paillasson sur le champ d'Hastings, sur la BLESSURE du chevalier.",
+  "72": "L'ONDE de douleur du chevalier fait trembler Big Ben et affole le poney au bout de sa LONGE.",
+  "73": "Le poney rompt sa LONGE et galope jusqu'à Brighton, où il avale l'anneau de la DERNIÈRE OCCASION.",
+  "74": "Le joueur LASSE lance l'ours en peluche sur le paquet CADEAU du gâteau d'ANNIVERSAIRE.",
+  "75": "Le BEURRE du CADEAU glisse jusqu'au commissariat et graisse les doigts du PRINCE des EMPREINTES.",
+  "76": "Le PRINCE secoue ses doigts pleins d'encre sur l'électrocardiogramme de RIZ et de SALSA des RÉSULTATS.",
+  "77": "Les grains de RIZ des RÉSULTATS roulent jusqu'à Baker Street, sous la loupe de Sherlock qui scrute le DÉTAIL.",
+  "78": "Sherlock lance sa loupe sur le tas de MATÉRIEL déversé par le camion de l'ÉQUIPE.",
+  "79": "Une pelle du MATÉRIEL vole jusqu'à la danseuse et heurte sa boucle-boussole, qui pivote vers l'OUEST.",
+  "80": "La danseuse à la TAILLE fine pirouette jusqu'à Oxford et plonge dans la tasse de THÉ de l'UNIVERSITÉ.",
+  "81": "L'UNIVERS de la tasse déborde jusqu'au Lake District et fait tourner la boussole de la DIRECTION.",
+  "82": "Le randonneur suit la DIRECTION jusqu'au terrain de FOOT et marche sur le DOS DU PIED du joueur.",
+  "83": "Le joueur de FOOT shoote dans une plume qui vole jusqu'à Eton et crisse « ZAMM ! » sur la copie d'EXAMEN.",
+  "84": "La copie d'EXAMEN s'envole jusqu'à l'église et se colle sur le MIROIR du MIRACLE.",
+  "85": "Le MIROIR du MIRACLE renvoie un éclair qui fait dérailler le CADDIE de CARTES DE VISITE.",
+  "86": "Les CARTES DE VISITE volent jusqu'aux Highlands et se coincent entre les ARMES du colosse aux gros BRAS.",
+  "87": "Le colosse lance une ARME qui crève le pneu de l'ambulance de l'URGENCE.",
+  "88": "L'ambulance de l'URGENCE freine devant l'école, où les ÉLÈVES font « PIOU-PIOU ».",
+  "89": "Un ÉLÈVE lance sa PELLE contre le TABLEAU noir, que l'agneau lave d'un BORD à l'autre.",
+  "90": "L'agneau lance son éponge du TABLEAU par la fenêtre sur le TOIT de chaume où glisse le chat.",
+  "91": "Le chat du TOIT se rattrape à la cheminée et arrache la SOCQUETTE qui sèche sur la PRISE.",
+  "92": "La PRISE crépitante électrise le LYNX, qui noue en sursautant le LIEN entre les deux rois.",
+  "93": "Le LYNX tire le ruban du LIEN jusqu'à la M25 et l'accroche au haut-de-forme du CONNARD façon WONKA.",
+  "94": "Le CONNARD dérape et fonce jusqu'en Cornouailles, dans le coffre du TRÉSOR des pirates.",
+  "95": "Une pièce d'or du TRÉSOR roule jusqu'à Whitechapel, aux pieds de l'ombre au poignard de l'ASSASSIN.",
+  "96": "L'ASSASSIN brise de son poignard la bouteille d'ALCOOL dans le HALL du pub d'AL.",
+  "97": "AL jette l'ALCOOL dans la cour de l'école, sur les deux MÔMES qui MENTENT au surveillant.",
+  "98": "Les deux MÔMES s'enfuient à l'hôpital et serrent les DOIGTS bandés de FINES GAZES du patient."
+ }
+}

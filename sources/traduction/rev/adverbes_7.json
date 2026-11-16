@@ -1,0 +1,133 @@
+{
+ "fix": {
+  "12": {
+   "it": "not ... in the least",
+   "eim": "doesn't|in the least"
+  },
+  "20": {
+   "eim": "excessively"
+  },
+  "21": {
+   "eim": "not|at all"
+  },
+  "29": {
+   "eim": "remarkably"
+  },
+  "33": {
+   "eit": "He's working flat out."
+  },
+  "36": {
+   "eim": "madly"
+  },
+  "46": {
+   "eim": "fake"
+  },
+  "71": {
+   "eim": "attached"
+  },
+  "86": {
+   "eim": "bound to",
+   "api": "/biː ˈbaʊnd tə/"
+  }
+ },
+ "li": {
+  "0": "Le LION FIER saute de la PROUE D'UN LIT et atterrit sur la première marche, juste aux pieds de l'homme au GRAS DE JOUE.",
+  "1": "Arrivé au sommet de Big Ben, l'homme au GRAS DE JOUE glisse sur la rampe et plonge droit dans le seau du PÊCHEUR.",
+  "2": "Le PÊCHEUR ferre une tasse de thé et la lance au GENTIL majordome, qui la rattrape près du vase délicat.",
+  "3": "Le GENTIL majordome souffle sur le vase, qui roule jusqu'au bonnet en poil d'ours du VEILLEUR VIGILANT.",
+  "4": "Le VIGILE LENT, en s'endormant, laisse tomber sa boîte à vis qui roule jusqu'à l'établi de l'ARTISAN COMPÉTENT.",
+  "5": "L'ARTISAN COMPÉTENT visse une aiguille sur une des HORLOGES SIMULTANÉES de Big Ben, qui se met à sonner.",
+  "6": "Les deux dames à la SAINE TAILLE, assourdies par les HORLOGES, s'enfuient et sautent sur le CHAUD LIT devant le cinéma.",
+  "7": "L'affiche « PROCHAINEMENT » s'envole du CHAUD LIT et se colle sur le visage du TYRAN CRUEL qui vide les poches DES PRÊTRES.",
+  "8": "Les PRÊTRES fauchés vendent leur sébile au pub, où elle sert de couverture au RÉCIT VRAISEMBLABLE.",
+  "9": "Les MOTS LAÏQUES du RÉCIT s'envolent du pub et se glissent dans un black cab, provoquant un ÉCLAT DE RIRE SPONTANÉ.",
+  "10": "Le black cab, emporté par le fou rire, renverse l'AVEUGLE en uniforme qui tombe sur le BLINDÉ LIT de fer.",
+  "11": "Le BLINDÉ LIT de fer roule dans la rue et s'arrête sous le parapluie du DANDY qui lit sa LISTE.",
+  "12": "Le DANDY plie sa LISTE en forme de cœur et la glisse dans la veste du PACHA NET, où le CŒUR EN PASSION bat.",
+  "13": "Le PACHA NET, fou d'amour, jette son CŒUR EN PASSION qui atterrit sur le LIT DE PÂTE de l'EXAMEN PARTIEL.",
+  "14": "La copie de l'EXAMEN PARTIEL s'envole d'Oxford et se plaque sur le SIGNE PLUS géant du bus rouge.",
+  "15": "Le bus rouge au SIGNE PLUS freine devant le shop, où les prix grimpent comme une MONTAGNE CONSIDÉRABLE.",
+  "16": "De la MONTAGNE CONSIDÉRABLE de prix dégringole une théière qui atterrit au milieu du RÉSEAU SOCIAL de gentlemen.",
+  "17": "Un gentleman renverse sa SAUCE AU LIT sur la toge du HIBOU INTELLIGENT, qui s'envole d'indignation.",
+  "18": "Le HIBOU INTELLIGENT se pose dans la LOGE de théâtre, sur la tête du ROBOT LOGIQUE qui CLIQUE.",
+  "19": "Le ROBOT LOGIQUE éjecte de sa LOGE un VERRE EN EXCÈS qui file jusqu'au comptoir du pub de Mayfair.",
+  "20": "Le VERRE EN EXCÈS déborde et éclabousse la TÔLE du bus rouge où le supporter griffonne sa NOTE.",
+  "21": "Le supporter lance sa NOTE, qui se colle sur le BUS FRÉQUENT passant devant la fontaine d'EAU FINE.",
+  "23": "Le BUS FRÉQUENT asperge d'EAU FINE la fenêtre du cottage, où l'ENFANT PLEIN DE JOIE chante.",
+  "24": "Le HAPPE-LIT aspire l'ENFANT joyeux et le recrache à Ascot, droit dans les bras de RONNIE au SOURIRE IRONIQUE.",
+  "25": "RONNIE, surpris de gagner, lance son ticket de pari sur le dos du MOUTON NOIR EXCEPTIONNEL nommé IVANOV.",
+  "26": "Le MOUTON NOIR IVANOV galope hors de Camden jusqu'à la jetée de Brighton, juste sous la VAGUE INÉVITABLE.",
+  "27": "La VAGUE INÉVITABLE emporte un NEZ et le fracasse contre la cabine téléphonique rouge « MOMENTANÉMENT fermé ».",
+  "28": "Le MOT qui MENT sort de la cabine rouge et se pose sur la copie du PROF qui NOTE « REMARQUABLE ».",
+  "29": "Le PROF lance l'épi de BLÉ en forme de Big Ben, que le CHIEN FIDÈLE rapporte en courant.",
+  "30": "Le CHIEN FIDÈLE, sorti de la FÊTE FOLLE, poursuit dans Hyde Park le joggeur d'ÉVRY et son JOURNAL QUOTIDIEN.",
+  "31": "Le joggeur d'ÉVRY perd son JOURNAL QUOTIDIEN, qui s'ouvre et devient le JOURNAL INTIME de SAÏD.",
+  "32": "SAÏD jette son JOURNAL INTIME au FEU INTENSE du forgeron, qui s'embrase d'un coup.",
+  "33": "Le forgeron, flatté, martèle une NOISETTE géante qui roule jusqu'au pub de la RUMEUR BRUYANTE.",
+  "34": "Le gars bruyant crache ses NOISETTES, qui tombent sur la BALANCE DE LA RAISON et la font pencher.",
+  "35": "La BALANCE DE LA RAISON bascule et projette le fish and chips sur le pont, aux pieds de l'AMOUREUX PERDU.",
+  "36": "L'AMOUREUX PERDU lâche sa MADELEINE, qui roule jusqu'à la Tour de Londres et heurte le DIAMANT BRILLANT.",
+  "37": "Le DIAMANT BRILLANT ricoche sur le BRIE LIANT et frappe l'OUTIL EFFICACE du menuisier.",
+  "38": "Le menuisier pousse le LIT qu'IL FICHE jusqu'au pub, où il heurte la pinte à l'étiquette « OCCASION ».",
+  "39": "JEANNOT renverse sa pinte « OCCASION » dans les rouages de Big Ben, sous la loupe de l'HORLOGER MINUTIEUX.",
+  "40": "L'HORLOGER MINUTIEUX resserre un rouage, et Big Ben sonne son premier coup au nez du gentleman STRESSÉ.",
+  "41": "Le gentleman STRESSÉ s'enfuit et se réfugie près du POÊLE PLEIN DE CALORIES de MOLLY.",
+  "42": "MOLLY tend une bouillotte brûlante au PATIENT EN DOULEUR, qui serre son PAIN de mie à la FOLIE.",
+  "43": "Le PATIENT EN DOULEUR lâche son PAIN de mie, que la MOUETTE emporte vers le touriste BOUCHE BÉE.",
+  "44": "La MOUETTE lâche le PAIN sur le quai de la gare, juste devant le PIED QUI TAPE impatiemment.",
+  "45": "Le PIED QUI TAPE donne un coup dans un BILLET FAUX de 20 £, qui s'envole jusqu'à la FÉE en forme de K.",
+  "46": "La FÉE agite sa baguette et transforme le BILLET FAUX en épée pour le CHEVALIER PLEIN DE COURAGE.",
+  "47": "Le CHEVALIER s'endort pour sa BRÈVE sieste et tombe sur le PLAISANT LIT du cottage, près du scone.",
+  "48": "Le scone roule du PLAISANT LIT jusqu'au majordome, qui trébuche dans un GESTE SANS VOLONTÉ.",
+  "49": "La théière cassée par le majordome éclabousse le GÂTEAU DÉLICIEUX, le Victoria sponge du thé de 17 h.",
+  "50": "Une LICHETTE du Victoria sponge vole jusqu'au Royal Albert Hall et colle à l'archet de la STATUE ADMIRABLE.",
+  "51": "La STATUE ADMIRABLE joue si fort que le panneau de la COMMUNE ORDINAIRE du Kent se décroche.",
+  "52": "Le panneau de la COMMUNE roule jusqu'à Greenwich et cogne le GLOBE TERRESTRE du lord.",
+  "53": "Le GLOBE TERRESTRE dévale Greenwich et bloque l'escalier de St Paul's devant l'ALPINISTE FATIGUÉ.",
+  "54": "L'ALPINISTE FATIGUÉ lance ses DIX FICELLES de sachets de THÉ au JONGLEUR HABILE de Covent Garden.",
+  "55": "Une SQUILLE FOLLE échappe au JONGLEUR HABILE et atterrit sur une cerise PAR-DESSUS LE MARCHÉ de Borough.",
+  "56": "Le retardataire du marché lance sa cerise dans la robe de chambre du SUSPECT PRÉSUMÉ.",
+  "57": "Le SUSPECT PRÉSUMÉ, en robe de chambre, tousse si fort qu'il pousse la porte noire du 10 Downing Street.",
+  "58": "Une DOSE de thé s'échappe de la séance À HUIS CLOS et coule entre les deux FLÈCHES OPPOSÉES du métro.",
+  "59": "Le VAISSEAU du métro remonte jusqu'aux docks et se renverse sur le marin qui boit son AMARETTO AMER.",
+  "60": "Le marin crache son AMARETTO AMER sur le drap EX-PLISSÉ du PANNEAU EXPLICITE de Big Ben.",
+  "61": "Un pigeon arrache le PANNEAU EXPLICITE et le laisse tomber sur l'agenda à l'OCCURRENCE SURLIGNÉE.",
+  "62": "La BICHE bondit hors de son NID et galope jusqu'au marché de Camden, sur l'ATTRACTION À LA MODE.",
+  "63": "Le TRACTEUR de Camden renverse ses scones devant la Tour de Londres, aux pieds du JALOUX QUI GARDE.",
+  "64": "Le JALOUX QUI GARDE jette son secret dans le TRAIN EXPRESS qui fonce vers Édimbourg.",
+  "65": "Le TRAIN EXPRESS freine brutalement et projette l'HOMME NERVEUX dans le lift bloqué.",
+  "66": "L'HOMME NERVEUX lâche sa bouillotte en forme de VESSIE, qui rebondit sur le RAT de CHENIL.",
+  "67": "Le RAT de CHENIL grignote le mouchoir à l'INITIALE BRODÉE tendu À FAUST.",
+  "68": "FAUST agite le mouchoir à l'INITIALE BRODÉE pour héler un black cab, dans un EFFORT VAIN.",
+  "69": "Le black cab qui ne s'arrête pas éclabousse le DANDY DÉSINVOLTE accoudé à la CAGE JOLIE.",
+  "70": "Le DANDY DÉSINVOLTE glisse une grosse ATTACHE dans la CAGE JOLIE, qui agrafe le DOSSIER JOINT.",
+  "71": "La lettre royale au DOSSIER JOINT s'envole dans les mains du TYRAN SANS PITIÉ.",
+  "72": "Les punis glissent sur la ROUTE LISSE jusqu'au STADE de Wembley, contre l'ÂNE OBSTINÉ.",
+  "73": "L'ÂNE OBSTINÉ rue et renverse la BENNE, d'où roule une PILE PLEINE D'ÉNERGIE vers le valet de Buckingham.",
+  "74": "Le valet frotte si fort qu'une botte s'envole jusqu'au fond de la MINE de Cornouailles, près du THYM.",
+  "75": "Le mineur lance son brin de THYM vers les deux MAINS RÉCIPROQUES des CHATS sur le bus rouge.",
+  "76": "Les deux CHATS sautent du bus rouge et atterrissent dans la voiture du CONDUCTEUR IMPRUDENT sur la M25.",
+  "77": "REX tire sur sa LAISSE et entraîne la voiture jusqu'à la barrière de Tower Bridge, sous laquelle passe ANDY DE NICE.",
+  "78": "ANDY DE NICE rampe par-dessous et ressort dans le LIT de CONSTANTIN, qui se plaint du MOUVEMENT PERPÉTUEL.",
+  "79": "CONSTANTIN se retourne si fort que son LIT roule jusqu'au guichet du théâtre, contre le lingot d'OR RAIDI.",
+  "80": "Le lingot d'OR RAIDI glisse du guichet et dévale l'ESCALIER PARADOXAL façon Escher du métro.",
+  "81": "En bas de l'ESCALIER PARADOXAL, le lingot tombe dans le beurre des SOLDATS EN UNIFORME.",
+  "82": "Un toast beurré des SOLDATS EN UNIFORME s'envole et frappe la cape du HÉROS sur London Bridge.",
+  "83": "Le HIC du HÉROS projette sa cape sur le pare-brise du black cab du CHIEN AGRESSIF.",
+  "84": "Le CHIEN AGRESSIF klaxonne si fort que l'AMPOULE D'INTUITION s'allume au-dessus du TUTU.",
+  "85": "L'AMPOULE D'INTUITION tombe du Royal Opera House et roule dans la Tamise, où la marée gonfle d'un BOND.",
+  "86": "La marée de la Tamise d'un BOND emporte l'ENFANT TIMIDE, qui serre son CHAÏ au fond de son LIT.",
+  "87": "L'ENFANT TIMIDE renverse son CHAÏ sur le TAUREAU, qui fonce furieux dans le HANGAR du Yorkshire.",
+  "88": "Le TAUREAU furieux encorne le fermier et l'envoie sous la pluie de Manchester, au REGARD QUI FAIT PITIÉ.",
+  "89": "Le MISÉRABLE de Manchester tend son chapeau à PAUL, qui y lit sa NOTE MÉDIOCRE.",
+  "90": "PAUL jette sa partition, qui atterrit sur le pupitre du JUGE qui STATUE APRÈS COUP à l'Old Bailey.",
+  "91": "Le JUGE frappe son marteau, qui s'envole jusqu'à Heathrow et rebondit sur l'ANCRE du VISAGE ANXIEUX.",
+  "92": "L'ANCRE tombe de Heathrow sur le BILLOT du boucher de Smithfield, sous le CORTÈGE QUI SUIT.",
+  "93": "Le CORTÈGE QUI SUIT grimpe dans la DILIGENCE de l'ÉLÈVE ASSIDU, en route vers Cambridge.",
+  "94": "La DILIGENCE s'arrête au thé de 17 h et l'ÉLÈVE tend le SABRE de la STATUE à l'AVANTAGE GAGNÉ.",
+  "95": "Le SABRE remue le sucre et éclabousse l'EMPLOYÉ NÉGLIGENT qui LAISSE son LIT sur le QUAI.",
+  "96": "Le LIT laissé sur le QUAI glisse jusqu'à la SURFACE LISSE de glace, où l'ESKIMO le prend comme luge.",
+  "97": "L'ESKIMO, en glissant, lâche son Times qu'attrape le RENARD ASTUCIEUX, la CLÉ du VÉLO dans la gueule.",
+  "98": "Le RENARD ASTUCIEUX jette la CLÉ du VÉLO dans la poche du PROFESSEUR DISTRAIT d'Oxford, qui ne remarque rien."
+ }
+}

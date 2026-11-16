@@ -1,0 +1,24 @@
+{
+ "fix": {
+  "4": {
+   "eit": "For under ten euros."
+  },
+  "5": {
+   "it": "pro rata",
+   "eit": "Pro rata, based on the time spent.",
+   "eim": "Pro rata",
+   "api": "/ˌprəʊ ˈrɑːtə/"
+  }
+ },
+ "li": {
+  "0": "L'étudiant qui court sur son RAIL lance ses livres trop loin ; ils retombent sur le QUAI et s'écrasent sur le BILLOT du boucher.",
+  "1": "Le hachoir du boucher fend le BILLOT, et une tranche de viande s'envole jusque sur la BALANCE PROPORTIONNELLE du marchand de fish and chips.",
+  "2": "La BALANCE bascule et catapulte une PORTION de frites par-dessus les toits jusqu'au cadran de BIG BEN, où les membres du conseil récitent leur PRIÈRE.",
+  "3": "Un conseiller lâche son ENVELOPPE depuis BIG BEN ; elle plane jusqu'à Camden et se colle sur l'étiquette « MOINS DE DIX ».",
+  "4": "Le billet de dix livres glisse des ANDES en carton, sort de la vitrine et s'envole jusqu'au jardin du cottage, se plantant dans le GÂTEAU.",
+  "5": "Le jardinier PRO lance son RÂTEAU par-dessus la haie, droit dans les bras du facteur qui tend son colis « À MARCO ! ».",
+  "6": "Marco, secoué par sa TOUX, éternue si fort que le colis s'envole et va percuter le panneau routier « À ROME, 20 km ».",
+  "7": "Le chauffeur du BLACK CAB stupéfait fait demi-tour et fonce jusqu'au quai de Douvres, où il emboutit la BOTTE géante de l'Italie.",
+  "8": "La BOTTE géante décoche un coup de pied qui envoie le touriste voler jusqu'au MONT FUJI, sur le JET EN PANNE."
+ }
+}

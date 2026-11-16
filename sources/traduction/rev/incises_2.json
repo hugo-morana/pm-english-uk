@@ -1,0 +1,141 @@
+{
+"fix": {
+"10": {
+"it": "sb, you know, does sth"
+},
+"20": {
+"eim": "The thing is"
+},
+"28": {
+"it": "sb, for once, does sth"
+},
+"35": {
+"it": "sb, on the whole, does sth"
+},
+"39": {
+"it": "sb partly does sth"
+},
+"40": {
+"it": "sb, little by little, does sth"
+},
+"49": {
+"it": "Nor do I want sb to do sth",
+"eit": "Nor do I want him to know.",
+"eim": "Nor do I want him to know",
+"api": "/ˈnɔː du aɪ ˈwɒnt/"
+},
+"52": {
+"it": "sb, I find, does sth"
+},
+"65": {
+"it": "sb, if possible, does sth"
+},
+"82": {
+"it": "sb, I believe, does sth"
+},
+"83": {
+"it": "sb, for now, does sth"
+}
+},
+"li": {
+"0": "Le bus rouge arrive enfin, et le PENSEUR y lance son billet pour OSLO, qui atterrit sur un pot de RILLETTES au pub.",
+"1": "Le poing du PENSEUR fait gicler les RILLETTES sur la cabine rouge, dont la porte CÈDE dans un grand bruit.",
+"2": "La porte de la cabine CÈDE et tombe sur le plateau de la balance, sous les REGARDS sévères du garde à bonnet d'ours.",
+"3": "Le garde envoie le colis de la balance sur la liste de l'âne, qui le frappe du tampon « FAIT ».",
+"4": "L'âne lâche son tampon « FAIT » sur la LISTE de courses, où ne reste qu'une pomme collée sur un Union Jack.",
+"5": "La pomme roule de la LISTE jusqu'au pub enfumé, entre les fronts des deux lords en veste de TWEED.",
+"6": "Un lord en TWEED pousse la boîte du secret sur la borne postale rouge, que désigne l'AS de cœur FORT.",
+"7": "L'AS de cœur FORT jette la boîte dans le sac du RESTE du repas, que le chef charge dans un black cab.",
+"8": "Le black cab éclabousse le garde royal au garde-à-vous sous l'averse de MAI, pendant que la foule crie « BIS ! ».",
+"9": "La foule hisse le garde royal sur l'épaule du général JUNOT, qui fait visiter le quartier.",
+"10": "Le général JUNOT tend sa longue-vue au vieux marin au REGARD LAS qui rame sur la Tamise.",
+"11": "La rame du marin éclabousse les amoureux enlacés sous Big Ben, qu'un nuage de OUATE HAPPE.",
+"12": "Le nuage de OUATE s'envole de Big Ben et se pose sur le dictionnaire de Cambridge, où une MINE trace un « ? ».",
+"13": "Le « ? » de la MINE s'échappe du dictionnaire jusqu'au quai de gare, où un nuage de OUATE HAPPE l'ami fidèle.",
+"14": "Un flocon de OUATE se prend dans la grosse MOUSTACHE du gentleman agacé.",
+"15": "Le gentleman tire si fort sur sa MOUSTACHE qu'elle se lisse toute seule, et il ajoute, pincé : « SI TU VEUX SAVOIR ».",
+"16": "La MOUSTACHE lissée tombe dans le SEAU du chanteur YÉ-YÉ, qui regarde le bus rouge s'éloigner.",
+"17": "Le chanteur YÉ-YÉ jette son SEAU, qui renverse l'enfant aux DIX DENTS et sa MINE de crayon.",
+"18": "La MINE de crayon roule sur la pelouse du cottage et s'emmêle dans la LAISSE du chien MORT de fatigue.",
+"19": "Le chien MORT de fatigue traîne sa LAISSE jusqu'au SINGE en chapeau melon, qui montre son TRUC.",
+"20": "Le SINGE lance son TRUC au majordome STRICT en tweed, qui ferme la porte à double tour.",
+"21": "La clé du majordome STRICT tombe dans le pavillon du saxophone du club de JAZZ de Soho.",
+"22": "Le saxo de JAZZ souffle une note jusqu'à Camden Market, renversant UN DES STANDS du marchand pressé.",
+"23": "Le STAND renversé fait pivoter le panneau SENS interdit du rond-point, qui tourne tout seul.",
+"24": "Le panneau SENS tournoyant fauche un ovni qui atterrit dans un champ de petits pois du Kent, près d'une COSSE ouverte.",
+"25": "L'extraterrestre lance une COSSE dans un SEAU d'eau, qui se renverse sur le pas de la porte.",
+"26": "L'eau du SEAU coule jusqu'aux pieds du ténor, dont la tempe tourne avec une chaîne de MAILLONS dorés.",
+"27": "La chaîne de MAILLONS du ténor s'échappe jusqu'au zoo de Londres, où une ONCE fait volte-face.",
+"28": "L'ONCE bondit sur le ténor et lui tapote la tempe pleine de MAILLONS.",
+"29": "Un MAILLON tombe de la tempe du ténor dans la COSSE de petits pois que l'extraterrestre écosse.",
+"30": "L'extraterrestre jette la COSSE dans le SEAU tenu par son ANSE, qui gicle sur le pique-nique.",
+"31": "L'eau du SEAU détrempe la PÂTE à scone, dont le ténor prend sa PART.",
+"32": "Le ténor serre si fort sa PART de PÂTE qu'elle déborde de ses bras, et il ajoute : « POUR MA PART ».",
+"33": "La PÂTE à scone du ténor devient une fournée de scones que le curé distribue à ses OUAILLES.",
+"34": "Une OUAILLE lance un scone par la fenêtre d'avion, qui tombe sur le ferry dans la HOULE de la Manche.",
+"35": "La HOULE ramène sur la jetée une boîte de biscuits, que le curé tend à ses OUAILLES.",
+"36": "Le curé pose la boîte de biscuits sur la CAISSE qui bloque l'entrée du pub, à côté d'un SEAU.",
+"37": "Le SEAU tombe de la CAISSE sur l'orateur sous la pluie, qui crie « BIS ! » et donne la CAUSE de tout.",
+"38": "L'orateur lance sa CAUSE en l'air, qui atterrit dans un lit couvert de PÂTE AU LIT et d'une part de gâteau.",
+"39": "La PÂTE AU LIT colle aux draps, et ELLE se lève du LIT dans chaque cottage.",
+"40": "Une des femmes sortie du LIT croise la petite ANNIE en uniforme, qui répond « OUAIS ».",
+"41": "La petite ANNIE tend son parapluie plein D'EAU au passant qui refuse d'aller au pub.",
+"42": "Le parapluie D'EAU se renverse sur le pote costaud qui lève la main à la Chambre des communes, un jour de MAI.",
+"43": "Le pote costaud baisse la main et pointe le SINGE qui lève UN seul doigt dans la file d'attente.",
+"44": "Le SINGE glisse un brin de muguet de MAI à la boutonnière du pote costaud.",
+"45": "Le pote costaud offre son muguet de MAI à la petite ANNIE, qui repose sa tasse de thé.",
+"46": "La tasse d'ANNIE se renverse sur le pain et le vin que renifle le garçon NAÏF.",
+"47": "Le garçon NAÏF lâche le vin dans le bocal de WANDA, le poisson, qui tourne en rond.",
+"48": "WANDA saute de son bocal et file vers le NORD, jusqu'au quai gelé de Douvres.",
+"49": "Sur le quai de Douvres, le nez gelé renifle un pot de moutarde de DIJON tendu par un savant bien sapé.",
+"50": "Le savant lance son pot de DIJON au milieu de la fête de village, où l'ovni atterrit devant les GOSSES.",
+"51": "Les GOSSES tendent un cornet de fish and chips au trouvère FAINÉANT allongé dans le pub.",
+"52": "Le trouvère FAINÉANT lance sa frite au touriste aux autocollants, qui grignote une MANGUE.",
+"53": "Le noyau de la MANGUE tombe dans la barque du pêcheur, qui met son APPÂT de côté sur la Tamise.",
+"54": "Le pêcheur lance son APPÂT dans la cabine rouge, d'où le ténor appelle l'INDE.",
+"55": "Le combiné du ténor qui appelle l'INDE tombe dans les BOTTES WELLINGTON de l'homme qui se mesure.",
+"56": "L'homme en BOTTES WELLINGTON piétine le GOUDRON frais où démarre le black cab du voisin bruyant.",
+"57": "Le black cab lance une gerbe de GOUDRON sur l'OURS À SELLE qui chuchote sur la trappe de Windsor.",
+"58": "L'OURS À SELLE ouvre la trappe et une grosse louche de pesto au BASILIC tombe dans l'assiette.",
+"59": "La grosse louche de BASILIC replonge dans la marmite et la vide jusqu'au fond.",
+"60": "La louche de BASILIC renverse le plateau de thé, d'où roule la dernière DATTE.",
+"61": "La DATTE roule jusqu'au FORT HALL du château écossais et tombe dans la boule de cristal du mage.",
+"62": "La boule de cristal du mage révèle un fantôme en manteau de LUXE qui regarde le ciel de Londres.",
+"63": "Le fantôme en manteau de LUXE secoue sa manche, et une MITE s'envole avec son panneau « POSSIBLE ».",
+"64": "La MITE lâche son panneau « POSSIBLE », qui se plante dans un POT DE SABLE sur la plage de Brighton.",
+"65": "Le POT DE SABLE se renverse à Piccadilly sur le panneau STOP, qui signe un blanc-SEING.",
+"66": "Le panneau STOP s'envole jusqu'à une BAIE de Cornouailles, où l'orateur lève le doigt en criant « OUAIS ! ».",
+"67": "Le doigt de l'orateur fait sauter une TRUITE de la BAIE jusqu'à la rivière écossaise du miroir de vérité.",
+"68": "La TRUITE saute du miroir dans le HALL de gare, où la calculatrice géante fait la somme.",
+"69": "La calculatrice du HALL roule jusqu'à Westminster, où HAENDEL tend l'AUTRE main à l'orgue.",
+"70": "HAENDEL tend sa part de gâteau au SPEAKER de la Chambre des communes, qui pointe un objet.",
+"71": "Le SPEAKER pointe une DATTE posée sur les ŒUVRES complètes, que le prêtre bénit.",
+"72": "Le prêtre lance sa DATTE bénite sur le bonnet en poil d'ours de la sentinelle, qui HEURTE l'oreille d'un sot.",
+"73": "Le sot, HEURTÉ, tombe sur la CAISSE de vote que la commune cloue et jette dans la Tamise.",
+"74": "La CAISSE de vote dérive jusqu'au pied de Big Ben, où le fou à entonnoir avale son REMÈDE.",
+"75": "Le fou recrache son REMÈDE dans la Tamise, où la CAISSE de vote coule déjà.",
+"76": "La CAISSE de vote coulée remonte au pied d'un BEL IF de cimetière, où le croyant lâche son CREDO.",
+"77": "Le BEL IF grandit d'un coup et le garçon qui pousse à ses côtés dépasse le toit de sa MAISON.",
+"78": "Le garçon géant cueille une DATTE au-dessus de la MAISON et la tend aux deux pêcheurs de Cornouailles.",
+"79": "Les pêcheurs lancent la DATTE vers la vitrine du pub, où flotte un fantôme tissé de FIL DE LIN.",
+"80": "Le FIL DE LIN du fantôme s'enroule autour d'une bulle de BD, qui se cogne contre un bus rouge.",
+"81": "La bulle de BD rebondit sur le bus rouge et se colle au miroir posé contre un BEL IF.",
+"82": "Le miroir du BEL IF reflète un acteur de théâtre NÔ figé sous l'horloge en or de Westminster.",
+"83": "L'horloge de Westminster sonne et l'acteur NÔ s'envole dans la TEMPÊTE de la lande, sur un dada.",
+"84": "La TEMPÊTE de la lande arrache le STEAK de l'assiette du ténor, sur la nappe d'un club londonien.",
+"85": "Le STEAK du ténor tombe dans le vieux sac MITEUX à pépite, qui coule dans la Tamise.",
+"86": "Le sac MITEUX remonte et tombe sur le COUDE du père, appuyé au comptoir du pub.",
+"87": "D'un coup de COUDE, le père renverse la tasse du PENSEUR, qui lève le doigt « COMME ça ! ».",
+"88": "Le PENSEUR lance sa tasse dans le SEAU du père, qui tape dessus avec son SPIC de bois.",
+"89": "Le SPIC de bois du père fait jaillir la pépite, qui s'enfonce dans le GOUDRON chaud de la route.",
+"90": "Le GOUDRON chaud coule jusqu'à Portobello et colle les piou-pious sur la planche de TECK.",
+"91": "Un piou-piou s'envole de la planche de TECK et éteint le cigare HAVANE du lord.",
+"92": "Le lord écrase son cigare HAVANE sur le calendrier D'AOÛT, que le tampon « SANS DOUTE » aplatit.",
+"93": "Le tampon « SANS DOUTE » rebondit sur le bidon tout doux qu'on soupèse sous la pluie D'AOÛT.",
+"94": "Le bidon tout doux roule jusqu'au ténor en béret BASQUE, qui chronomètre une seconde.",
+"95": "Le béret BASQUE du ténor tombe dans la soupe que l'orang-outan renifle puis repose.",
+"96": "L'orang-outan repose sa soupe devant le juge en perruque, au milieu d'une SÉRIE d'horloges qui sonnent.",
+"97": "Les horloges de la SÉRIE poussent le juge sur le podium de la Fashion Week, où il dit « OUAIS ».",
+"98": "Le juge cède le podium de la Fashion Week au mannequin, qui répond « OUAIS » au photographe."
+}
+}

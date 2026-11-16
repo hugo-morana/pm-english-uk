@@ -1,0 +1,133 @@
+{
+ "fix": {
+  "17": {
+   "eit": "Just so you know, service isn't included.",
+   "eim": "service isn't included"
+  },
+  "42": {
+   "eim": "not bad"
+  },
+  "49": {
+   "eim": "Haven't we met|before"
+  },
+  "62": {
+   "it": "I'd like to buy that"
+  },
+  "71": {
+   "eim": "May I ask how old you are"
+  },
+  "75": {
+   "eim": "I'd never have thought it of him"
+  },
+  "80": {
+   "eim": "This is the first I've heard of it"
+  },
+  "91": {
+   "eim": "It's simply brilliant"
+  },
+  "94": {
+   "eim": "It's a lot cheaper than I thought"
+  }
+ },
+ "li": {
+  "0": "Le drapeau de l'exploratrice LASSE tombe dans la Tamise et dérive jusqu'au cinéma, sur le SEAU du SINGE face au PENSEUR.",
+  "1": "Le SINGE renverse son SEAU, qui roule jusqu'à l'hôpital du NHS et fait se LEVER l'INFIRMIÈRE.",
+  "2": "L'INFIRMIÈRE lance son DÉ si fort qu'il traverse l'écran de la VIDÉO DE DEMAIN et heurte la SCIE.",
+  "3": "La SCIE découpe le MOT « tomorrow », qui s'envole jusqu'au PHARE ÉBLOUISSANT de Cornouailles.",
+  "4": "Le PHARE ÉBLOUISSANT braque son faisceau sur le marché de Portobello, sur le CRIEUR qui DÉSIGNE UN OBJET.",
+  "5": "Le CRIEUR lance le COL de chemise étrange, qui tombe sur le thé LAITEUX du PIOU-PIOU TARDIF.",
+  "6": "Le PIOU-PIOU TARDIF renverse son thé LAITEUX sur la NOTE que déchire le ROI ABSOLU.",
+  "7": "Le ROI ABSOLU jette les morceaux de NOTE dans le sac de TRIPES tendu au voyageur de Victoria Station.",
+  "8": "Le sac de TRIPES s'envole et atterrit au sommet du GLOBE, à côté de la tasse du SINGE en chapeau melon.",
+  "9": "Le SINGE fait rouler le GLOBE jusqu'au cottage, où il percute la VALISE À PATTES dans le LIVING-ROOM.",
+  "10": "La VALISE À PATTES file jusqu'à Wimbledon et heurte la table où frappe le MAILLET du juge.",
+  "11": "Le MAILLET rebondit jusqu'au pub et enfonce le CLOU dans la note du serveur, avec la COMPRESSE.",
+  "12": "La COMPRESSE s'envole de la note jusqu'à Buckingham, sous le bonnet de la SENTINELLE qui N'ENTEND RIEN.",
+  "13": "La SENTINELLE jette son bonnet en poil d'ours sur l'IMPRIMANTE qui IMPRIME UNE IMPRESSION au bout d'un FIL.",
+  "14": "Le FIL de l'IMPRIMANTE se prend dans la LAMPE de la cabine rouge, qui s'allume d'un CLIC.",
+  "15": "La LAMPE tombe de la cabine dans la Tamise, où flotte la ROBE PORTÉE PAR DES FOUS venue de la SEINE.",
+  "16": "La ROBE s'échoue dans le pub et s'accroche au CLOU que la NONNE arrache de la note.",
+  "17": "La NONNE lance la COMPRESSE refusée sur l'ACCORDÉON qui joue sur les AGRÈS du gymnase.",
+  "18": "L'ACCORDÉON s'ouvre comme un soufflet et propulse le fish and chips sous le nez du voyageur de HONGRIE.",
+  "19": "Le voyageur de HONGRIE affamé court jusqu'au PARLOIR et arrache le brin de lavande SPIC du saint au HALO.",
+  "20": "Le combiné de la cabine rouge tombe sur le QUAI de King's Cross, aux pieds de la MÈRE et du FILS TRAÎNARD.",
+  "21": "Le FILS TRAÎNARD lance la CAMÉRA jusqu'au Pays de Galles, où elle frappe la PÉPITE du chercheur d'or.",
+  "22": "La PÉPITE s'envole jusqu'à Harrods et brise la vitrine devant la RAIE VOLANTE qui DÉSIGNE UN OBJET.",
+  "23": "La RAIE VOLANTE file jusqu'à la maison de retraite du Kent et renverse les PÂTES de la NONNE.",
+  "24": "Les PÂTES de la NONNE volent jusqu'au pré du Yorkshire, sur la BARRIÈRE que le BERGER ouvre aux MOUTONS.",
+  "25": "Les MOUTONS foncent jusqu'à Madame Tussauds et font vaciller la FIGURE DE CIRE QU'ON REMERCIE.",
+  "26": "La FIGURE DE CIRE tombe dans le salon de thé, sur le MENTON du SERVEUR REMERCIÉ.",
+  "27": "Le SERVEUR lance son plateau jusqu'à la Manche, contre la FIGURE DE PROUE QUI ÉCLATE DE RIRE.",
+  "28": "Le gros (FAT) marin glisse de la proue et s'écrase sur le pont de Londres, à côté de l'homme BÈGUE qui SUPPLIE.",
+  "29": "L'homme qui SUPPLIE tombe à genoux sur la ligne du marathon, juste devant l'ENFANT AGRIPPÉ AU COUREUR.",
+  "30": "Le COUREUR secoue sa jambe ; l'ENFANT est projeté sur le capot de la VOITURE NEUVE conduite par le GNOU.",
+  "31": "Le GNOU klaxonne et fait sonner le TÉLÉPHONE de la cabine rouge, où le saint au HALO décroche.",
+  "32": "Le saint au HALO lâche le combiné, qui tombe sur le quai de Paddington où LA MAIN LÂCHE LE VOYAGEUR.",
+  "33": "Le GROS pot de LAIT renversé coule jusqu'au pub et trempe la STAR écroulée sur le fauteuil mou.",
+  "34": "La STAR affamée rampe jusqu'au JURY qui COMPARE DEUX VOITURES et lui vole sa QUICHE.",
+  "35": "Un black cab du JURY démarre et dépose le SOSIE en chapeau melon devant l'école LAÏQUE.",
+  "36": "Le SOSIE ouvre son parapluie, qui s'envole derrière la Mini que SUIT LA COLOMBE.",
+  "37": "La Mini fait « OFF » et cale au carrefour de Piccadilly, contre le STOP qui S'ARRÊTE pour DEMANDER.",
+  "38": "Le STOP pivote et renvoie le faisceau du PHARE de Douvres sur le contrebandier qu'il HAPPE.",
+  "39": "Le contrebandier lâche son butin dans le CHAUDRON BOUILLANT sous la HOTTE du pub de Soho.",
+  "40": "La fumée de la HOTTE monte jusqu'au HAMAC suspendu au-dessus du GOUDRON de la rue.",
+  "41": "Le HAMAC se décroche et atterrit dans le jardin anglais, sous le volant de BADminton.",
+  "42": "Le volant de BADminton file jusqu'à Wembley et frappe le MEMBRE de l'ATHLÈTE qui OUBLIE SON RECORD.",
+  "43": "L'ATHLÈTE lance son javelot jusqu'au CASINO, où il renverse les JETONS ET TABLES autour de la MESSE.",
+  "44": "Un JETON du CASINO roule jusqu'à Trafalgar Square et se prend dans la TRAÎNE de la STAR.",
+  "45": "La TRAÎNE de la STAR balaie le jardin anglais et renverse le CHAUDRON SOUS LE SOLEIL.",
+  "46": "L'eau du CHAUDRON gicle jusqu'à Londres et trempe FREDDY, qui remonte son COL sous la pluie.",
+  "47": "FREDDY court se réchauffer devant le pub et se fait HAPPER par le bras par le STOP.",
+  "48": "Le STOP pousse FREDDY dans le pub, où la NONNE ET LA VIS DÉJÀ VUES À ROME se mettent à table.",
+  "49": "La VIS roule hors du pub jusqu'au BUREAU DE POSTE, sous le genou de l'ADORATEUR qui LAVE la PLACE.",
+  "50": "Le seau de l'ADORATEUR se renverse et coule jusqu'à Tower Bridge, gelant les pieds de FREDDY qui GRELOTTE.",
+  "51": "FREDDY remonte son COL et grimpe dans le bus rouge où la SCIE engloutit sa SOUPE devant le MAJORDOME arrêté AU STOP.",
+  "52": "Le MAJORDOME lance son plateau de thé dans le bus rouge, renversant la SOUPE de la SCIE.",
+  "53": "La SCIE s'envole du bus jusqu'à CANNES et tranche le ruban de la PRIME de l'ACTEUR.",
+  "54": "L'ACTEUR brandit sa PRIME et court la déposer sur le tapis rouge du 10 Downing Street, filmé par la CAMÉRA.",
+  "55": "La CAMÉRA roule dans le métro de Londres, jusqu'au piano où la CHOSE JOUE UN FA tout DOUX.",
+  "56": "Le piano dévale le quai et s'enfonce dans le brouillard, vers le DOS QUI VA s'éloigner.",
+  "57": "Le bobby court après le DOS jusqu'en Cornouailles et trébuche sur l'OUVRIER AU LAVOIR qui serre son DOUDOU.",
+  "58": "Le DOUDOU s'envole du LAVOIR et tombe dans le cockpit du PILOTE qui crie « AÏE ! ».",
+  "59": "Le PILOTE atterrit sur le quai de Douvres et percute le plat au THYM du CAPITAINE qui ARRIVE À PROPOS.",
+  "60": "Le plat au THYM vole jusqu'à Blackpool, sur le livre de SADE du CLOWN TRISTE.",
+  "61": "Le CLOWN TRISTE jette son livre au marché de Borough, entre les DEUX MELONS de la RAIE VOLANTE.",
+  "62": "Un MELON roule jusqu'au bord de la Manche et renverse la tasse de thé face à l'expresso, les DEUX OBJETS DIVERS.",
+  "63": "L'expresso traverse la Manche et éclabousse le CADEAU en papier Union Jack que TEND la MAIN.",
+  "64": "Le CADEAU s'ouvre et libère les jumelles du GARDE AUX JUMELLES, qui les tend à LUC.",
+  "65": "LUC lance les jumelles dans les coulisses du Royal Albert Hall, sur la SCIE du FAN qui COURT.",
+  "66": "Le FAN trébuche avec sa SCIE sur la CARTE du monde où la COLOMBE POINTE la QUICHE et le FROMAGE.",
+  "67": "Le FROMAGE roule jusqu'à Whitechapel, dans le BROUILLARD où guette le CHAT À TROIS YEUX.",
+  "68": "Le CHAT À TROIS YEUX bondit dans le LAVOIR du manoir, sur le linge du LIVING-ROOM que tient le MAJORDOME.",
+  "69": "Le MAJORDOME essore si fort qu'une goutte s'envole jusqu'au Pays de Galles, sur la PÉPITE du mineur.",
+  "70": "Le mineur lance sa PÉPITE contre le vieux chêne OLD, dont la BALANCE PÈSE LES ANNEAUX DES ANNÉES.",
+  "71": "Un ANNEAU du chêne roule jusqu'au ruisseau gallois et bute contre le NEZ QUI FLAIRE UNE PÉPITE.",
+  "72": "Le NEZ éternue et projette la PÉPITE sur la table du JURY, entre les deux parts de QUICHE.",
+  "73": "Le JURY jette une part de QUICHE sur le trottoir, sous la CRAIE du FOU qui TOURNE EN ROND.",
+  "74": "Le FOU lance sa CRAIE dans le pub, où le NEVEU de la NONNE saute sur la table.",
+  "75": "Le NEVEU saute de la table jusqu'à Sherwood, sur la BALANCE qui PÈSE LES ANNEAUX du vieux chêne OLD.",
+  "76": "Une branche du chêne OLD casse et tombe à Bath : c'est le BÂTON TORDU du gentleman.",
+  "77": "Le gentleman lance son BÂTON TORDU sur le QUAI de Southampton, contre la caisse de thé du DOUANIER.",
+  "78": "Le DOUANIER renverse la caisse de thé sur le DIPLÔME que GRATTE l'étudiant d'Oxford devant le CONGRÈS.",
+  "79": "Le DIPLÔME s'envole jusqu'à Buckingham et se colle sur la guérite de la SENTINELLE qui ENTEND PARLER D'UNE PRIME.",
+  "80": "La SENTINELLE se HEURTE à sa guérite et la renverse sur le SAC ENTIER DE PLAISIR près de la cheminée qui CHAUFFE.",
+  "81": "Le SAC ENTIER DE PLAISIR roule hors du pub jusqu'au vieux CHÊNE abattu où l'on avoue un PÉCHÉ.",
+  "82": "Une branche du CHÊNE s'envole jusqu'au sommet (CIME) de la tour, dans le verre du CONNAISSEUR.",
+  "83": "Le CONNAISSEUR lâche son verre, qui s'écrase à Abbey Road sur le pied du POTE qui crie « AÏE ! ».",
+  "84": "Le POTE lance sa guitare dans le BUREAU DE CHANGE POUR IDÉES, qui la troque contre une MINE de crayon.",
+  "85": "La MINE de crayon s'envole jusqu'à Big Ben et tombe dans la SEILLE de la BOUCHE qui CHANTE UN RÉ.",
+  "86": "La SEILLE bascule dans la Tamise glacée et éclabousse le NAGEUR qui crie « AÏE ! ».",
+  "87": "Le NAGEUR, emporté par le courant, s'échoue à Brighton aux pieds du SAUVETEUR et de la DAINE.",
+  "88": "La DAINE s'enfuit dans le train de Brighton et piétine le CHÈQUE que VÉRIFIE le CONTRÔLEUR.",
+  "89": "Le CONTRÔLEUR lance son CHÈQUE dans le gymnase, sur l'ACCORDÉON que REFUSE la NONNE.",
+  "90": "L'ACCORDÉON tombe des AGRÈS et heurte la théière d'où sort le GÉNIE SIMPLE qui fait BRILLER la cuisine.",
+  "91": "Le GÉNIE SIMPLE s'envole par la fenêtre jusqu'à l'église anglaise, devant le pasteur plein de PITIÉ.",
+  "92": "Le pasteur sort de l'église et hèle le TAXI « LIBRE » qui transporte un cornet de FRITES.",
+  "93": "Le cornet de FRITES tombe du TAXI au marché de Camden, sur les MENOTTES MOLLES de la CHIPIE.",
+  "94": "La CHIPIE lance ses MENOTTES jusqu'à Southampton, autour du STAND où se tient le CAPITAINE.",
+  "95": "Le CAPITAINE saute du STAND et tend sa facture au DÉBITEUR AU DOS VERT qui prend la POSE.",
+  "96": "Le DÉBITEUR AU DOS VERT tend la facture à l'INFIRMIÈRE DÉBORDÉE, qui la repousse en refusant un BISOU.",
+  "97": "L'INFIRMIÈRE fait voler ses dossiers jusqu'à Covent Garden, sur les balles de l'ACTEUR qui FAIT SEMBLANT de jongler devant LUC.",
+  "98": "Une balle de l'ACTEUR file dans le train de banlieue et frappe le MOUSTIQUE FASTIDIEUX à la MINE de crayon."
+ }
+}

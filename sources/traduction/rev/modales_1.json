@@ -1,0 +1,165 @@
+{
+ "fix": {
+  "0": {
+   "it": "he's + adj"
+  },
+  "1": {
+   "it": "we're + adj"
+  },
+  "8": {
+   "it": "she's + adj"
+  },
+  "10": {
+   "it": "I'm + adj"
+  },
+  "13": {
+   "it": "he's not …"
+  },
+  "14": {
+   "it": "we're not …"
+  },
+  "18": {
+   "it": "he was + adj"
+  },
+  "22": {
+   "it": "I'm not + adj"
+  },
+  "23": {
+   "it": "we've been + participe (passif)"
+  },
+  "24": {
+   "it": "we were …"
+  },
+  "26": {
+   "it": "she doesn't agree",
+   "api": "/ʃiː ˈdʌznt əˈɡriː/"
+  },
+  "39": {
+   "it": "you're + adj"
+  },
+  "56": {
+   "it": "you're not …"
+  },
+  "61": {
+   "it": "they're + adj"
+  },
+  "64": {
+   "it": "are you + adj?",
+   "api": "/ɑː juː/"
+  },
+  "66": {
+   "it": "they're not …"
+  },
+  "75": {
+   "it": "you're not …"
+  },
+  "78": {
+   "it": "you have to do sth",
+   "api": "/juː ˈhæf tə/"
+  },
+  "86": {
+   "it": "where were you?",
+   "api": "/ˈweə wɜː juː/"
+  }
+ },
+ "li": {
+  "0": "L'Union Jack hissé s'envole du mât du cottage et s'enroule autour de Big Ben, vers qui la foule tend l'OUÏE.",
+  "1": "Big Ben sonne si fort que la foule lâche ses montres, qui roulent jusqu'au GOTHIQUE de Camden Market et son coffre d'avare.",
+  "2": "Le GOTHIQUE tend son coffre d'avare à l'homme, qui crie « oh HISSE ! » pour le soulever sous un flash photo.",
+  "3": "Aveuglé par le flash, l'homme lâche son coffre d'avare dans les bras de la foule GOTHIQUE, sous l'horloge de gare arrêtée.",
+  "4": "L'horloge de gare arrêtée tombe sur la pelouse de Wembley, où la foule entonne « AVE ! » en brandissant son coffre.",
+  "5": "La foule de Wembley lance son coffre d'avare vide jusqu'à la friterie fermée, où mon reflet GOTHIQUE crie « AÏE ! »",
+  "6": "Mon reflet affamé referme le coffre d'avare sur ses doigts : « AÏE ! AVE ! », et le flash photo crépite.",
+  "7": "Le flash photo propulse le coffre d'avare jusqu'au B&B, sur le lit où flotte la femme épuisée : « CHICHE ! »",
+  "8": "La femme épuisée tombe du lit sur le SAUMON géant que la foule pousse dans la cabine téléphonique rouge.",
+  "9": "Le SAUMON géant bondit hors de la cabine et percute mon reflet, qui crie « AÏE ! » et rend l'ÂME sur sa valise.",
+  "10": "Ma valise pour l'Eurostar s'ouvre et lâche deux frères en kilt dans le coffre d'avare de la femme GOTHIQUE.",
+  "11": "Un frère en kilt s'échappe du coffre et décroche le combiné de la cabine rouge, que la femme saisit : « CHICHE ! »",
+  "12": "Le combiné de la cabine rouge s'envole et s'accroche au mât du cottage, où l'homme hisse une NOTE de musique.",
+  "13": "La NOTE de musique glisse du mât jusqu'au piano du pub, vers lequel la foule tend l'OUÏE.",
+  "14": "Le piano du pub crache un cigare de LA HAVANE qui tombe dans le coffre d'avare de mon reflet : « AÏE ! »",
+  "15": "Mon reflet jette le cigare de LA HAVANE à mon ami GOTHIQUE de Camden, qui l'attrape en criant « YO ! »",
+  "16": "Mon ami lance son coffre d'avare devant le cottage ; il s'ouvre et réveille la HASE qui y dormait.",
+  "17": "La HASE bondit du coffre jusqu'à l'OASIS de la vieille photo sépia, sur le lit où flotte l'homme malade.",
+  "18": "La vieille photo sépia s'envole et se colle sur le coffre d'avare que mon ami brandit en criant « YO ! AVE ! »",
+  "19": "Mon ami jette son coffre d'avare dans la Tamise, où mon reflet le repêche d'un coup de CANNE en nageant.",
+  "20": "Ma CANNE de gentleman jaillit de la Tamise et se plante parmi les BINETTES que la foule agite devant Buckingham.",
+  "21": "Une BINETTE vole de Buckingham et fait tomber une NOTE de musique sur la tête de mon reflet : « AÏE ! »",
+  "22": "La NOTE de musique rebondit dans le coffre d'avare de la foule, où roule déjà un cigare de LA HAVANE.",
+  "23": "La fumée du cigare de LA HAVANE monte jusqu'au lit de la photo sépia, où la foule crie « OUH ! L'HEURE ! »",
+  "24": "La foule tombe du lit de la photo sépia, droit dans le black cab que mon ami conduit avec sa CANNE.",
+  "25": "Le black cab pile et sa CANNE crève la NOTE de frais que la femme déchire au-dessus du lit : « CHICHE ! »",
+  "26": "Les morceaux de la NOTE de frais volent jusqu'à la Tamise, devant l'objectif du SAUMON photographe.",
+  "27": "Le SAUMON lâche son appareil, qui fait voler la bouteille de lait du perron : mon reflet crie « OUAH, HONTE ! »",
+  "28": "La bouteille de lait du café roule jusqu'au métro et mon reflet la refait voler vers la sortie : « OUAH, HONTE ! »",
+  "29": "La bouteille de lait sort du métro et atterrit au Globe, derrière le rideau où mon reflet joue du théâtre NÔ.",
+  "30": "Le masque de NÔ tombe de la scène sur le vélo du SAUMON, qui file avec mon sac.",
+  "31": "Le SAUMON jette mon sac sur la carafe, au-dessus de laquelle mon ami fait voler sa bouteille de lait : « YO ! »",
+  "32": "La carafe se renverse et la bouteille de lait de mon ami file vers le bus rouge qui part.",
+  "33": "Le bus rouge fonce à King's Cross et percute le point d'interrogation géant du quai, qui lâche « AH ! »",
+  "34": "Le point d'interrogation géant se plante sur la scène du théâtre NÔ de Covent Garden, devant mon ami : « YO ! »",
+  "35": "Mon ami lance son masque de NÔ jusqu'au cottage, où mon reflet fait voler la bouteille de lait en retenant la porte.",
+  "36": "La porte du cottage claque sur le coffre d'avare de la femme, d'où s'échappe la HASE au trèfle.",
+  "37": "La HASE au trèfle file dans l'OASIS de la photo sépia et se blottit sur le lit où flotte la femme.",
+  "38": "La femme de la photo sépia lance une théière qui coiffe mon ami, flottant au-dessus du lit : « YO ! »",
+  "39": "La théière de mon ami se vide sur le quai de gare, où il fait voler la bouteille de lait vers moi.",
+  "40": "La bouteille de lait rebondit du quai jusqu'au pub, où mon reflet frappe à la porte avec sa CANNE.",
+  "41": "Ma CANNE fait sauter le couvercle du coffre d'avare de mon ami, où traîne un cigare de LA HAVANE.",
+  "42": "Le cigare de LA HAVANE roule sous la voiture que mon ami soulève en faisant levier avec sa CANNE.",
+  "43": "La voiture retombe et projette une bouteille de lait sous le DÔME de St Paul's : « OUAH, HONTE ! »",
+  "44": "La bouteille lâchée sous le DÔME tombe sur la DINDE de Noël avec laquelle mon reflet joue du théâtre NÔ.",
+  "45": "La DINDE de Noël s'envole jusqu'au pub du Sunday roast, devant la bande GOTHIQUE au coffre d'avare vide.",
+  "46": "La bande GOTHIQUE lance son coffre vide sous le DÔME de St Paul's, où mon ami lâche sa bouteille de lait.",
+  "47": "La bouteille de mon ami se brise sur le coffre d'avare de la bande, plein de miettes de scones : « AVE ! »",
+  "48": "Les miettes de scones volent sous le DÔME de St Paul's et collent au masque de NÔ de mon ami.",
+  "50": "Mon ami jette son masque de NÔ dans la tasse de THÉ que la foule verse à l'homme figé par le flash.",
+  "51": "La foule renverse le THÉ sous le DÔME de St Paul's, où mon reflet rattrape au vol la bouteille de lait.",
+  "52": "Mon reflet tend la bouteille de lait au laitier, qui la dépose devant ma porte : j'en PLISSE les yeux de plaisir.",
+  "53": "Le laitier fait rouler une autre bouteille sous le DÔME de St Paul's, vers mon ami qui la repousse.",
+  "54": "Mon ami repousse la bouteille de lait si fort qu'elle frappe la voiture sur laquelle KANT est assis.",
+  "55": "KANT saute de la voiture pour attraper la NOTE de musique qui flotte avec mon ami au-dessus du lit.",
+  "56": "La NOTE de musique retombe sur la voiture, où KANT, rassis, lève l'index vers mon ami.",
+  "57": "KANT descend de la voiture et frappe le GONG de l'arrêt du bus rouge où attend mon reflet.",
+  "58": "Le son du GONG affole le ZÈBRE, qui vide la dernière bouteille de lait sur le perron.",
+  "59": "Le ZÈBRE s'enfuit sur le terrain de cricket détrempé et trébuche sur la BINETTE agitée au-dessus.",
+  "60": "La BINETTE s'envole du terrain et fait déborder le THÉ de 17 h des hommes qui flottent au-dessus du lit.",
+  "61": "Les hommes renversent leur THÉ dans le coffre d'avare de la bande, où ne reste qu'un cigare de LA HAVANE.",
+  "62": "La bande lance le cigare de LA HAVANE sur l'homme qui soulève une voiture avec sa CANNE de gentleman.",
+  "63": "L'homme pose la voiture devant l'Eurostar, sous la bande qui flotte au-dessus d'un lit, sac au dos : « YO ! »",
+  "64": "La bande lâche ses sacs sur les hommes GOTHIQUES, dont le coffre d'avare s'ouvre sur un chat.",
+  "65": "Le chat saute du coffre et renverse le THÉ des hommes sur une NOTE de musique.",
+  "66": "La NOTE trempée de THÉ tombe dans le coffre d'avare que les hommes saluent d'un « AVE ! » sous le flash.",
+  "67": "Le flash fait jaillir du coffre une bouteille de lait qui vole au-dessus de la LOUVE : « AIDE ! »",
+  "68": "La LOUVE s'enfuit et bouscule la femme qui soulève une voiture avec une CANNE : « CHICHE ! »",
+  "69": "La femme lâche sa voiture sur celle de l'homme, où KANT lui pose un doigt sur la bouche.",
+  "70": "KANT colle une dette sur le dos vert de mon reflet, qui se HÂTE vers le quai de Paddington.",
+  "71": "Mon reflet se HÂTE si vite qu'il bouscule l'homme au coffre d'avare que poursuit HADÈS dans l'OASIS.",
+  "72": "HADÈS sort de la photo sépia et allume le grand panneau « IL FAUT » du quai de Paddington.",
+  "73": "Le panneau « IL FAUT » tombe sur un banc de Hyde Park, que le point d'interrogation dégage avec sa CANNE.",
+  "74": "Le point d'interrogation lance sa CANNE vers le lit où la bande flotte avec une NOTE de cornemuse.",
+  "75": "La NOTE de cornemuse vole jusqu'au cottage et réveille le MOUSTIQUE, qui pique mon ami au dos vert.",
+  "76": "Le MOUSTIQUE file piquer HADÈS, qui crie « OUH ! L'HEURE ! » devant la foule au coffre d'avare.",
+  "77": "Le cri d'HADÈS allume le grand panneau « IL FAUT » du quai de Victoria.",
+  "78": "Le panneau « IL FAUT » s'envole jusqu'à un toit de Londres et tombe dans le NID de pie, sur l'homme.",
+  "79": "L'homme saute du NID sur la voiture où KANT est assis, sous le « CHICHE ! » de la femme.",
+  "80": "KANT tend des cigares de LA HAVANE aux hommes qui boivent leur THÉ à côté.",
+  "81": "Un cigare de LA HAVANE tombe dans le NID vide que la foule te montre sous Tower Bridge.",
+  "82": "Le NID vide glisse sous la neige de Londres jusqu'au coffre d'avare que la femme serre face à HADÈS.",
+  "83": "HADÈS envoie un gnon à mon reflet, qui crie « AÏE ! » et roule en boule dans un NID.",
+  "84": "Mon reflet lance son NID dans le coffre d'avare des hommes, où ne dort qu'un cigare de LA HAVANE.",
+  "85": "Le cigare de LA HAVANE roule sur la photo sépia où flotte mon ami, sous Big Ben : « OUH ! L'HEURE ! »",
+  "86": "Mon ami tombe de la photo sur le calendrier, page « DEMAIN », que mon reflet éclaire au phare : « AÏE, OUILLE ! »",
+  "87": "Le calendrier s'envole et colle sa page « DEMAIN » sur le pare-brise du black cab où mon reflet est À BOUT.",
+  "88": "Le black cab démarre en trombe et fait fuir le ZÈBRE de son socle de Regent's Park.",
+  "89": "Le ZÈBRE galope jusqu'au West End et entre dans l'ARÈNE pleine à craquer pour y chercher un siège.",
+  "90": "Le ZÈBRE renverse un spectateur de l'ARÈNE, dont le cigare de LA HAVANE tombe dans le coffre d'avare de mon reflet.",
+  "91": "Mon reflet lance le cigare de LA HAVANE dans le NID douillet du cottage où la femme s'endort.",
+  "92": "La femme réveillée lance son NID à mon ami, qui serre son coffre d'avare devant HADÈS.",
+  "93": "HADÈS tend une DOSE de sirop à l'homme, qui la jette aussitôt dans un NID.",
+  "94": "Le NID au sirop roule sous le DÔME de St Paul's, où mon reflet s'y réfugie en esquivant le gnon.",
+  "95": "Mon reflet sort du NID et court à Piccadilly Circus prendre la pose du Penseur sous le CINQ géant en néon.",
+  "96": "Le CINQ géant en néon se décroche et se colle sur le panneau « CREDO » que brandit mon ami.",
+  "97": "Mon ami lance son panneau « CREDO » jusqu'au match, où le prêtre LAÏQUE en écharpe d'Arsenal savoure un gâteau.",
+  "98": "Le prêtre LAÏQUE lance son gâteau jusqu'au NID perché sur la cabine rouge, d'où mon ami crie « YO ! »"
+ }
+}

@@ -1,0 +1,1951 @@
+{
+"room": {
+"id": "noms_4",
+"fr": "Les noms · étage 4",
+"it": "I nomi · terzo piano",
+"decor": "marché italien, étage",
+"fam": "noms",
+"blocs": null
+},
+"niches": [
+{
+"n": 0,
+"fr": "une belle journée",
+"it": "una bella giornata",
+"mc": "bella + giornata",
+"sc": "On réunit « bella » et « giornata » (journal) : une belle journée.",
+"de": "a bella giornata ≈ « bella + giornata »",
+"efr": "Journée réussie, hein ?",
+"efm": "Journée",
+"eit": "Gran bella giornata, eh?",
+"eim": "bella giornata",
+"k": "col",
+"th": "corps"
+},
+{
+"n": 1,
+"fr": "le meilleur ami",
+"it": "il migliore amico",
+"fo": "aussi : il miglior amico",
+"mc": "million + ami",
+"sc": "Mon meilleur ami me tend un chèque d'un million.",
+"de": "migliore = meilleur ; souvent avec le possessif : il mio migliore amico",
+"efr": "C'est mon meilleur ami.",
+"efm": "meilleur ami",
+"eit": "È il mio migliore amico.",
+"eim": "migliore amico",
+"th": "famille"
+},
+{
+"n": 2,
+"fr": "le journal",
+"it": "il giornale",
+"fo": "anglais : newspaper",
+"mc": "journal",
+"sc": "Un journal ouvert à la page du jour.",
+"de": "giornale ≈ « journal »",
+"efr": "T'as lu le journal ?",
+"efm": "journal",
+"eit": "Hai letto il giornale?",
+"eim": "giornale",
+"th": "temps",
+"px": [
+[
+"Je viens de le lire dans le journal.",
+"L'ho appena letto sul giornale."
+]
+],
+"co": [
+"leggere il giornale",
+"giornale locale",
+"articoli di giornale"
+]
+},
+{
+"n": 3,
+"fr": "le rendez-vous",
+"it": "l'appuntamento",
+"fo": "anglais : appointment",
+"mc": "appointement",
+"sc": "Un agenda pointé : rendez-vous à midi.",
+"de": "appuntamento ≈ « appointement »",
+"efr": "J'ai rendez-vous chez le médecin.",
+"efm": "rendez-vous",
+"eit": "Ho un appuntamento dal medico.",
+"eim": "appuntamento",
+"th": "famille",
+"px": [
+[
+"Apparement, il a oublié le rendez-vous.",
+"A quanto pare, ha dimenticato l'appuntamento."
+],
+[
+"Impossible, j’ai rendez-vous avec un ami.",
+"Impossibile, ho appuntamento con un amico."
+],
+[
+"Tu devrais téléphoner pour prendre rendez-vous.",
+"Dovresti telefonare per prendere un appuntamento."
+]
+],
+"co": [
+"appuntamento al buio"
+]
+},
+{
+"n": 4,
+"fr": "la petite amie",
+"it": "la fidanzata",
+"fo": "anglais : girlfriend",
+"mc": "fiancée",
+"sc": "Une fiancée sourit : c'est la petite amie.",
+"de": "fidanzata ≈ « fiancée »",
+"efr": "C'est ta petite amie ?",
+"efm": "petite amie",
+"eit": "È la tua fidanzata?",
+"eim": "fidanzata",
+"th": "famille"
+},
+{
+"n": 5,
+"fr": "le soleil",
+"it": "il sole",
+"fo": "anglais : sun",
+"mc": "sole (poisson)",
+"sc": "Une sole bronze au soleil.",
+"de": "sole ≈ « sole (poisson) »",
+"efr": "Il y a du soleil.",
+"efm": "soleil",
+"eit": "C'è il sole.",
+"eim": "sole",
+"th": "temps",
+"px": [
+[
+"Aujourd'hui, il y a du soleil.",
+"Oggi c'è il sole."
+],
+[
+"J’aime regarder le coucher du soleil.",
+"Mi piace guardare il tramonto."
+],
+[
+"J’ai cassé mes lunettes de soleil l’an dernier.",
+"Ho rotto gli occhiali da sole l'anno scorso."
+]
+],
+"co": [
+"luce del sole",
+"occhiali da sole"
+]
+},
+{
+"n": 6,
+"fr": "le point de vue",
+"it": "il punto di vista",
+"fo": "anglais : point of view standpoint",
+"mc": "point + vista",
+"sc": "Un point d'observation avec vista sur la baie.",
+"de": "punto di vista ≈ « point + vista »",
+"efr": "De mon point de vue, c'est faux.",
+"efm": "point de vue",
+"eit": "Dal mio punto di vista, è falso.",
+"eim": "punto di vista",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "autres",
+"px": [
+[
+"Je partage le même point de vue.",
+"Condivido lo stesso punto di vista."
+],
+[
+"Je ne partage pas le même point de vue.",
+"Non condivido lo stesso punto di vista."
+],
+[
+"Je ne partage pas ton point de vue.",
+"Non condivido il tuo punto di vista."
+],
+[
+"J'aimerais bien connaître ton point de vue.",
+"Mi piacerebbe conoscere il tuo punto di vista."
+]
+]
+},
+{
+"n": 7,
+"fr": "le camp",
+"it": "il campo",
+"mc": "camp",
+"sc": "Des tentes dans un champ : un camp.",
+"de": "campo ≈ « camp »",
+"efr": "Le camp est loin.",
+"efm": "camp",
+"eit": "Il campo è lontano.",
+"eim": "campo",
+"th": "autres",
+"co": [
+"campo di battaglia",
+"restringere il campo"
+]
+},
+{
+"n": 8,
+"fr": "le seul moyen",
+"it": "l'unico modo",
+"mc": "unico + modo",
+"sc": "On réunit « unico » (unique) et « modo » (mode) : le seul moyen.",
+"de": "unico modo ≈ « unico + modo »",
+"efr": "C'est son seul espoir !",
+"efm": "seul",
+"eit": "È l'unico modo per salvarlo!",
+"eim": "unico modo",
+"k": "col",
+"th": "autres"
+},
+{
+"n": 9,
+"fr": "la jambe",
+"it": "la gamba",
+"fo": "anglais : leg",
+"mc": "gambader",
+"sc": "Une jambe gambade toute seule.",
+"de": "gamba ≈ « gambader »",
+"efr": "J'ai mal à la jambe.",
+"efm": "jambe",
+"eit": "Mi fa male la gamba.",
+"eim": "gamba",
+"th": "corps",
+"px": [
+[
+"Je me suis cassé la jambe en skiant.",
+"Mi sono rotto la gamba sciando."
+],
+[
+"Je ne sens plus mes jambes.",
+"Non mi sento più le gambe."
+],
+[
+"Ne le laisse pas te tenir la jambe.",
+"Non lasciare che ti attacchi un bottone."
+]
+],
+"co": [
+"gamba rotta",
+"gamba di legno"
+]
+},
+{
+"n": 10,
+"fr": "une bonne soirée",
+"it": "una bella serata",
+"mc": "bella + serata",
+"sc": "On réunit « bella » et « serata » (sérénade) : une bonne soirée.",
+"de": "a bella serata ≈ « bella + serata »",
+"efr": "Charmante soirée!",
+"efm": "soirée",
+"eit": "Bella serata, vero ?",
+"eim": "Bella serata",
+"k": "col",
+"th": "temps"
+},
+{
+"n": 11,
+"fr": "l'air frais",
+"it": "l'aria fresca",
+"mc": "aria + fresca",
+"sc": "Une soprano chante une aria fenêtre grande ouverte, et l'air frais s'engouffre.",
+"de": "aria fresca ≈ « aria + fresca »",
+"efr": "J'ai besoin d'air frais.",
+"efm": "air frais",
+"eit": "Ho bisogno di aria fresca.",
+"eim": "aria fresca",
+"k": "col",
+"th": "nature"
+},
+{
+"n": 12,
+"fr": "le grand air (au grand air)",
+"it": "l'aria aperta",
+"fo": "all'aria aperta = au grand air, en plein air",
+"mc": "aria + aperta (ouverte)",
+"sc": "Une cantatrice chante son aria au milieu d'un champ, bras ouverts, au grand air.",
+"de": "aria aperta = « air ouvert »",
+"efr": "Les enfants jouent au grand air.",
+"efm": "au grand air",
+"eit": "I bambini giocano all'aria aperta.",
+"eim": "all'aria aperta",
+"k": "col",
+"th": "nature"
+},
+{
+"n": 13,
+"fr": "le dos",
+"it": "la schiena",
+"fo": "anglais : back",
+"mc": "ski + chaîne",
+"sc": "Un skieur porte une chaîne sur le dos.",
+"de": "schiena ≈ « ski + chaîne »",
+"efr": "J'ai mal au dos.",
+"efm": "dos",
+"eit": "Ho mal di schiena.",
+"eim": "schiena",
+"th": "corps",
+"px": [
+[
+"Elle l’a poignardé dans le dos.",
+"L'ha pugnalato alla schiena."
+]
+],
+"co": [
+"pugnalare alla schiena"
+]
+},
+{
+"n": 14,
+"fr": "le fond",
+"it": "il fondo",
+"mc": "fond",
+"sc": "Une pièce brille au fond d'un puits.",
+"de": "fondo ≈ « fond »",
+"efr": "Au fond, t'as raison.",
+"efm": "fond",
+"eit": "In fondo, hai ragione.",
+"eim": "fondo",
+"th": "travail",
+"co": [
+"fondo alla strada",
+"fondo al corridoio",
+"toccare il fondo"
+]
+},
+{
+"n": 15,
+"fr": "la dame",
+"it": "la signora",
+"mc": "seigneur (féminin)",
+"sc": "Une dame en chapeau salue.",
+"de": "signora ≈ « seigneur (féminin) »",
+"efr": "Cette dame est gentille.",
+"efm": "dame",
+"eit": "Questa signora è gentile.",
+"eim": "signora",
+"th": "famille"
+},
+{
+"n": 16,
+"fr": "la ligne",
+"it": "la linea",
+"fo": "anglais : line",
+"mc": "linéaire",
+"sc": "Une règle trace une ligne linéaire.",
+"de": "linea ≈ « linéaire »",
+"efr": "Reste en ligne.",
+"efm": "ligne",
+"eit": "Resta in linea.",
+"eim": "linea",
+"th": "autres",
+"px": [
+[
+"Il s’est effondré juste avant la ligne d’arrivée.",
+"È crollato appena prima del traguardo."
+]
+],
+"co": [
+"linea di difesa",
+"linea diretta"
+]
+},
+{
+"n": 17,
+"fr": "l'habitude",
+"it": "l'abitudine",
+"mc": "habit + tutu",
+"sc": "Chaque matin, un habit tutu : une habitude.",
+"de": "abitudine ≈ « habit + tutu »",
+"efr": "C'est une mauvaise habitude.",
+"efm": "habitude",
+"eit": "È una cattiva abitudine.",
+"eim": "abitudine",
+"th": "autres",
+"co": [
+"cattive abitudini"
+]
+},
+{
+"n": 18,
+"fr": "le soldat",
+"it": "il soldato",
+"mc": "soldat",
+"sc": "Un soldat au garde-à-vous.",
+"de": "soldato ≈ « soldat »",
+"efr": "Le soldat est rentré chez lui.",
+"efm": "soldat",
+"eit": "Il soldato è tornato a casa.",
+"eim": "soldato",
+"th": "societe",
+"co": [
+"soldato semplice",
+"soldati americani",
+"soldati tedeschi"
+]
+},
+{
+"n": 19,
+"fr": "le garde du corps",
+"it": "la guardia del corpo",
+"mc": "guardia + corpo",
+"sc": "On réunit « guardia » (garde) et « corpo » (corporel) : le garde du corps.",
+"de": "guardia del corpo ≈ « guardia + corpo »",
+"efr": "Nous sommes vos gardes du corps !",
+"efm": "gardes",
+"eit": "Siamo le sue guardie del corpo!",
+"eim": "guardie del corpo",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "corps"
+},
+{
+"n": 20,
+"fr": "le bureau (meuble)",
+"it": "la scrivania",
+"mc": "écrivain",
+"sc": "Un écrivain penché sur son bureau couvert de papiers.",
+"de": "scrivania ≈ « écrivain »",
+"efr": "Le livre est sur le bureau.",
+"efm": "bureau",
+"eit": "Il libro è sulla scrivania.",
+"eim": "scrivania",
+"th": "maison"
+},
+{
+"n": 21,
+"fr": "le gamin",
+"it": "il ragazzino",
+"fo": "anglais : kid",
+"mc": "ragazzo + mini",
+"sc": "Un gamin en culottes courtes tire la langue.",
+"de": "ragazzino ≈ « ragazzo + mini »",
+"efr": "Arrête de faire le gamin.",
+"efm": "gamin",
+"eit": "Smettila di fare il ragazzino.",
+"eim": "ragazzino",
+"th": "autres"
+},
+{
+"n": 22,
+"fr": "le conseil",
+"it": "il consiglio",
+"mc": "concile",
+"sc": "Un concile d'anciens donne un conseil.",
+"de": "consiglio ≈ « concile »",
+"efr": "Je te donne un conseil.",
+"efm": "conseil",
+"eit": "Ti do un consiglio.",
+"eim": "consiglio",
+"th": "autres",
+"px": [
+[
+"La nuit porte conseil.",
+"La notte porta consiglio."
+],
+[
+"Tu peux garder tes conseils pour toi !",
+"Puoi tenerti i tuoi consigli!"
+],
+[
+"Je te suis très reconnaissant de tes conseils.",
+"Ti sono molto grato per i tuoi consigli."
+]
+],
+"co": [
+"membri del consiglio",
+"riunione del consiglio"
+]
+},
+{
+"n": 23,
+"fr": "l'intérieur",
+"it": "l'interno",
+"mc": "interne",
+"sc": "Un interne visite l'intérieur d'un château.",
+"de": "interno ≈ « interne »",
+"efr": "À l'intérieur, il fait chaud.",
+"efm": "intérieur",
+"eit": "All'interno, fa caldo.",
+"eim": "interno",
+"th": "autres",
+"co": [
+"ministro degli interni"
+]
+},
+{
+"n": 24,
+"fr": "le prince",
+"it": "il principe",
+"mc": "prince",
+"sc": "Un prince sur un cheval blanc.",
+"de": "principe ≈ « prince »",
+"efr": "Le prince a épousé la bergère.",
+"efm": "prince",
+"eit": "Il principe ha sposato la pastorella.",
+"eim": "principe",
+"th": "societe",
+"co": [
+"principe azzurro"
+]
+},
+{
+"n": 25,
+"fr": "l'armée",
+"it": "l'esercito",
+"mc": "exercice",
+"sc": "Une armée fait l'exercice au pas.",
+"de": "esercito ≈ « exercice »",
+"efr": "Il est entré dans l'armée.",
+"efm": "l'armée",
+"eit": "È entrato nell'esercito.",
+"eim": "esercito",
+"th": "societe",
+"co": [
+"esercito americano"
+]
+},
+{
+"n": 26,
+"fr": "le chef de la sécurité",
+"it": "il capo della sicurezza",
+"mc": "capo + sicurezza",
+"sc": "On réunit « capo » (capot) et « sicurezza » (sûreté) : le chef de la sécurité.",
+"de": "capo della sicurezza ≈ « capo + sicurezza »",
+"efr": "Le chef de la sécurité.",
+"efm": "chef",
+"eit": "Il signor Conway, il mio capo della sicurezza.",
+"eim": "capo della sicurezza",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "travail"
+},
+{
+"n": 27,
+"fr": "mon chéri",
+"it": "tesoro",
+"fo": "amore, tesoro = mon amour, mon chéri",
+"mc": "trésor",
+"sc": "Un coffre au trésor s'ouvre : « Mon chéri, c'est pour toi ! ».",
+"de": "tesoro = trésor, et « mon chéri »",
+"efr": "Tu viens, chéri ?",
+"efm": "chéri",
+"eit": "Vieni, tesoro?",
+"eim": "tesoro",
+"th": "famille"
+},
+{
+"n": 28,
+"fr": "ma chérie",
+"it": "tesoro",
+"fo": "tesoro reste masculin, même adressé à une femme",
+"mc": "trésor",
+"sc": "Un pirate couvre sa fiancée de pièces d'or : « Ma chérie, tout ce trésor est à toi ! ».",
+"de": "tesoro = trésor, et « mon chéri »",
+"efr": "Bonne nuit, ma chérie.",
+"efm": "ma chérie",
+"eit": "Buonanotte, tesoro.",
+"eim": "tesoro",
+"th": "famille"
+},
+{
+"n": 29,
+"fr": "un endroit sûr",
+"it": "un posto sicuro",
+"mc": "posto + sicuro",
+"sc": "Un poste de garde blindé en pleine forêt : un endroit sûr pour la nuit.",
+"de": "posto sicuro ≈ « posto + sicuro »",
+"efr": "Je connais un endroit sûr.",
+"efm": "endroit sûr",
+"eit": "Conosco un posto sicuro.",
+"eim": "posto sicuro",
+"k": "col",
+"th": "lieux"
+},
+{
+"n": 30,
+"fr": "en lieu sûr",
+"it": "in un posto sicuro",
+"fo": "aussi : al sicuro (mettere al sicuro = mettre en lieu sûr)",
+"mc": "poste + sécurité",
+"sc": "Un postier enferme un colis précieux dans le coffre-fort de la poste : en lieu sûr.",
+"de": "in un posto sicuro = « dans un endroit sûr »",
+"efr": "Garde ces papiers en lieu sûr.",
+"efm": "en lieu sûr",
+"eit": "Tieni questi documenti in un posto sicuro.",
+"eim": "in un posto sicuro",
+"k": "col",
+"th": "lieux"
+},
+{
+"n": 31,
+"fr": "la pièce (de monnaie)",
+"it": "la moneta",
+"mc": "monnaie",
+"sc": "Une pièce de monnaie lancée dans une fontaine.",
+"de": "moneta ≈ « monnaie »",
+"efr": "On jette une pièce dans la fontaine.",
+"efm": "pièce",
+"eit": "Gettiamo una moneta nella fontana.",
+"eim": "moneta",
+"th": "nombres"
+},
+{
+"n": 32,
+"fr": "la carte (de membre)",
+"it": "la tessera",
+"mc": "tes serres",
+"sc": "Un aigle tient ta carte de membre dans ses serres.",
+"de": "tessera ≈ « tes serres »",
+"efr": "J'ai la carte de la bibliothèque.",
+"efm": "carte",
+"eit": "Ho la tessera della biblioteca.",
+"eim": "tessera",
+"th": "societe"
+},
+{
+"n": 33,
+"fr": "la vue",
+"it": "la vista",
+"fo": "anglais : sight view",
+"mc": "vista",
+"sc": "Une fenêtre avec vista sur la mer.",
+"de": "vista ≈ « vista »",
+"efr": "Quelle vue !",
+"efm": "vue",
+"eit": "Che vista!",
+"eim": "vista",
+"th": "autres",
+"px": [
+[
+"Il ne faut pas perdre cela de vue.",
+"Bisogna ricordarselo."
+],
+[
+"Nous nous sommes perdus de vue.",
+"Ci siamo persi di vista."
+]
+],
+"co": [
+"punto di vista"
+]
+},
+{
+"n": 34,
+"fr": "l'impression",
+"it": "l'impressione",
+"mc": "impression",
+"sc": "Une imprimante imprime une impression.",
+"de": "impressione ≈ « impression »",
+"efr": "J'ai l'impression que…",
+"efm": "impression",
+"eit": "Ho l'impressione che…",
+"eim": "impressione",
+"th": "autres",
+"px": [
+[
+"J'ai l'impression de perdre mon temps.",
+"Ho il sentimento di perdere il mio tempo."
+]
+]
+},
+{
+"n": 35,
+"fr": "le coin",
+"it": "l'angolo",
+"mc": "angle",
+"sc": "Un angle de pièce : le coin.",
+"de": "angolo ≈ « angle »",
+"efr": "Au coin de la rue.",
+"efm": "coin",
+"eit": "All'angolo della strada.",
+"eim": "angolo",
+"th": "autres",
+"px": [
+[
+"Vous êtes du coin ?",
+"Sei di queste parti?"
+],
+[
+"Je connais le coin comme ma poche.",
+"Conosco il posto come le mie tasche."
+],
+[
+"Y a-t-il une cabine téléphonique dans le coin ?",
+"C'è una cabina telefonica qui vicino?"
+]
+],
+"co": [
+"girare l'angolo"
+]
+},
+{
+"n": 36,
+"fr": "le gros plan",
+"it": "il primo piano",
+"mc": "piano en premier",
+"sc": "Un piano au premier plan, filmé de tout près : gros plan.",
+"de": "primo piano ≈ « piano en premier »",
+"efr": "Un gros plan sur ses yeux.",
+"efm": "gros plan",
+"eit": "Un primo piano sui suoi occhi.",
+"eim": "primo piano",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "cinema"
+},
+{
+"n": 37,
+"fr": "la finale",
+"it": "la finale",
+"mc": "finale",
+"sc": "Deux équipes se serrent la main avant la finale.",
+"de": "finale ≈ « finale »",
+"efr": "Les huitièmes de finale.",
+"efm": "finale",
+"eit": "Gli ottavi di finale.",
+"eim": "finale",
+"th": "loisirs"
+},
+{
+"n": 38,
+"fr": "le professeur",
+"it": "il professore",
+"fo": "anglais : teacher",
+"mc": "professeur",
+"sc": "Un professeur au tableau.",
+"de": "professore ≈ « professeur »",
+"efr": "Le professeur est malade.",
+"efm": "professeur",
+"eit": "Il professore è malato.",
+"eim": "professore",
+"th": "travail"
+},
+{
+"n": 39,
+"fr": "la recherche",
+"it": "la ricerca",
+"mc": "cercle",
+"sc": "Un chercheur tourne en cercle : la recherche.",
+"de": "ricerca ≈ « cercle »",
+"efr": "Il fait de la recherche.",
+"efm": "recherche",
+"eit": "Fa ricerca.",
+"eim": "ricerca",
+"th": "autres",
+"co": [
+"squadra di ricerca"
+]
+},
+{
+"n": 40,
+"fr": "la visite",
+"it": "la visita",
+"mc": "visite",
+"sc": "Un guide mène la visite.",
+"de": "visita ≈ « visite »",
+"efr": "Merci de ta visite.",
+"efm": "visite",
+"eit": "Grazie della visita.",
+"eim": "visita",
+"th": "autres",
+"co": [
+"biglietto da visita",
+"ricevere visita",
+"visita medica"
+]
+},
+{
+"n": 41,
+"fr": "le dossier (administratif)",
+"it": "la pratica",
+"mc": "pratique",
+"sc": "Un dossier pratique sur le bureau.",
+"de": "pratica ≈ « pratique »",
+"efr": "Ton dossier est complet.",
+"efm": "dossier",
+"eit": "La tua pratica è completa.",
+"eim": "pratica",
+"th": "travail"
+},
+{
+"n": 42,
+"fr": "une meilleure idée",
+"it": "un'idea migliore",
+"mc": "idea + migliore",
+"sc": "On réunit « idea » (idée) et « migliore » (« mi-llion ») : une meilleure idée.",
+"de": "'idea migliore ≈ « idea + migliore »",
+"efr": "J'ai une autre idée.",
+"efm": "idée",
+"eit": "Ho un'idea migliore.",
+"eim": "idea migliore",
+"k": "col",
+"th": "nombres"
+},
+{
+"n": 43,
+"fr": "le faux nom",
+"it": "il nome falso",
+"mc": "nome + falso",
+"sc": "On réunit « nome » (nommé) et « falso » (falsifier) : le faux nom.",
+"de": "nome falso ≈ « nome + falso »",
+"efr": "Il a utilisé un faux nom.",
+"efm": "faux",
+"eit": "Ha usato un nome falso.",
+"eim": "nome falso",
+"k": "col",
+"th": "communication"
+},
+{
+"n": 44,
+"fr": "la relation",
+"it": "il rapporto",
+"mc": "rapport",
+"sc": "Deux personnes liées par un fil : une relation, un rapport.",
+"de": "rapporto ≈ « rapport »",
+"efr": "On a une bonne relation.",
+"efm": "relation",
+"eit": "Abbiamo un buon rapporto.",
+"eim": "rapporto",
+"th": "autres",
+"px": [
+[
+"Chacun sait que son père a des relations influentes.",
+"Tutti sanno che suo padre ha conoscenze influenti."
+]
+],
+"co": [
+"rapporti sessuali",
+"rapporto completo"
+]
+},
+{
+"n": 45,
+"fr": "la parole",
+"it": "la parola",
+"fo": "anglais : word (mot, promesse) speaking (expression, droit)",
+"mc": "parole",
+"sc": "Une bulle de parole sort d'une bouche.",
+"de": "parola ≈ « parole »",
+"efr": "Je te donne ma parole.",
+"efm": "parole",
+"eit": "Ti do la mia parola.",
+"eim": "parola",
+"th": "communication",
+"px": [
+[
+"Es-tu conscient de la portée de tes paroles ?",
+"Sei consapevole della portata delle tue parole?"
+],
+[
+"Ses paroles ont dépassé sa pensée.",
+"Le sue parole sono andate oltre il suo pensiero."
+],
+[
+"Tu as mal interprété mes paroles.",
+"Hai interpretato male le mie parole."
+],
+[
+"Je te donne ma parole.",
+"Ti do la mia parola."
+]
+],
+"co": [
+"usare la parola",
+"ultime parole",
+"gioco di parole",
+"parola d'ordine"
+]
+},
+{
+"n": 46,
+"fr": "la forme",
+"it": "la forma",
+"fo": "anglais : shape form",
+"mc": "forme",
+"sc": "Un moule donne sa forme à une pâte.",
+"de": "forma ≈ « forme »",
+"efr": "Je suis en forme.",
+"efm": "forme",
+"eit": "Sono in forma.",
+"eim": "forma",
+"th": "autres",
+"co": [
+"forme di vita",
+"forma d'arte"
+]
+},
+{
+"n": 47,
+"fr": "le système",
+"it": "il sistema",
+"mc": "système",
+"sc": "Des engrenages : un système.",
+"de": "sistema ≈ « système »",
+"efr": "Le système marche bien.",
+"efm": "système",
+"eit": "Il sistema funziona bene.",
+"eim": "sistema",
+"th": "autres",
+"co": [
+"sistema di sicurezza",
+"sistema nervoso",
+"intero sistema",
+"sistema d'allarme"
+]
+},
+{
+"n": 48,
+"fr": "le passé",
+"it": "il passato",
+"mc": "passé",
+"sc": "Une vieille photo du passé.",
+"de": "passato ≈ « passé »",
+"efr": "C'est du passé.",
+"efm": "passé",
+"eit": "È passato.",
+"eim": "passato",
+"th": "autres"
+},
+{
+"n": 49,
+"fr": "la chanson",
+"it": "la canzone",
+"mc": "canzonette",
+"sc": "Un chanteur fredonne une canzonette.",
+"de": "canzone ≈ « canzonette »",
+"efr": "J'adore cette chanson.",
+"efm": "chanson",
+"eit": "Adoro questa canzone.",
+"eim": "canzone",
+"th": "loisirs",
+"co": [
+"cantare una canzone",
+"scrivere una canzone",
+"canzone preferita"
+]
+},
+{
+"n": 50,
+"fr": "le numéro de téléphone",
+"it": "il numero di telefono",
+"mc": "numéro + téléphone",
+"sc": "Un numéro géant écrit sur un téléphone.",
+"de": "numero di telefono ≈ « numéro + téléphone »",
+"efr": "Tu me donnes ton numéro de téléphone ?",
+"efm": "numéro de téléphone",
+"eit": "Mi dai il tuo numero di telefono?",
+"eim": "numero di telefono",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "maison",
+"px": [
+[
+"Quel est votre numéro de téléphone ?",
+"Qual è il suo numero di telefono?"
+],
+[
+"Quel est ton numéro de téléphone ?",
+"Qual è il tuo numero di telefono?"
+]
+]
+},
+{
+"n": 51,
+"fr": "la boîte",
+"it": "la scatola",
+"fo": "anglais : box",
+"mc": "scatologique",
+"sc": "Une boîte qui sent mauvais, scatologique.",
+"de": "scatola ≈ « scatologique »",
+"efr": "Mets ça dans la boîte.",
+"efm": "boîte",
+"eit": "Mettilo nella scatola.",
+"eim": "scatola",
+"th": "maison",
+"co": [
+"scatola nera",
+"rompere le scatole",
+"scatola magica",
+"scatola di cereali"
+]
+},
+{
+"n": 52,
+"fr": "l’été",
+"it": "l'estate",
+"fo": "anglais : summer",
+"mc": "estrade",
+"sc": "Sur une estrade brûlante, on fête l'été.",
+"de": "estate ≈ « estrade »",
+"efr": "Cet été, on va à la mer.",
+"efm": "été",
+"eit": "Quest'estate andiamo al mare.",
+"eim": "estate",
+"th": "temps"
+},
+{
+"n": 53,
+"fr": "la pute",
+"it": "la puttana",
+"mc": "poutine",
+"sc": "Une pute mange une poutine sous un réverbère.",
+"de": "puttana ≈ « poutine »",
+"efr": "Il a traité sa femme de pute.",
+"efm": "pute",
+"eit": "Ha dato della puttana a sua moglie.",
+"eim": "puttana",
+"th": "vulgaire",
+"co": [
+"figlio di puttana"
+]
+},
+{
+"n": 54,
+"fr": "la mission",
+"it": "la missione",
+"mc": "mission",
+"sc": "Un agent secret reçoit sa mission.",
+"de": "missione ≈ « mission »",
+"efr": "La mission est terminée.",
+"efm": "mission",
+"eit": "La missione è finita.",
+"eim": "missione",
+"th": "autres"
+},
+{
+"n": 55,
+"fr": "les épaules (spalla, pluriel)",
+"it": "spalle",
+"mc": "→ spalla",
+"sc": "Forme accordée de « spalla » (l'épaule) : pluriel.",
+"de": "spalle ≈ « → spalla »",
+"efr": "C'est un poids trop lourd pour mes épaules.",
+"efm": "épaules",
+"eit": "Mi mettete sulle spalle un fardello troppo grande.",
+"eim": "spalle",
+"th": "corps"
+},
+{
+"n": 56,
+"fr": "la bande, la rayure",
+"it": "la striscia",
+"mc": "strie",
+"sc": "Un zèbre couvert de stries noires et blanches.",
+"de": "striscia ≈ « strie »",
+"efr": "Le zèbre a des rayures.",
+"efm": "rayures",
+"eit": "La zebra ha le strisce.",
+"eim": "strisce",
+"th": "nature"
+},
+{
+"n": 57,
+"fr": "le bon sens, la raison",
+"it": "il senno",
+"mc": "sénile",
+"sc": "Un vieillard sénile qui cherche sa raison sous le tapis.",
+"de": "senno ≈ « sénile »",
+"efr": "Il a perdu la raison.",
+"efm": "raison",
+"eit": "Ha perso il senno.",
+"eim": "senno",
+"th": "pensee"
+},
+{
+"n": 58,
+"fr": "le mur",
+"it": "il muro",
+"fo": "anglais : wall",
+"mc": "mur",
+"sc": "Un mur de briques.",
+"de": "muro ≈ « mur »",
+"efr": "Le mur est blanc.",
+"efm": "mur",
+"eit": "Il muro è bianco.",
+"eim": "muro",
+"th": "maison",
+"co": [
+"spalle al muro"
+]
+},
+{
+"n": 59,
+"fr": "le chat",
+"it": "il gatto",
+"fo": "anglais : cat",
+"mc": "gâteau",
+"sc": "Un chat dévore un gâteau.",
+"de": "gatto ≈ « gâteau »",
+"efr": "Le chat dort.",
+"efm": "chat",
+"eit": "Il gatto dorme.",
+"eim": "gatto",
+"th": "nature",
+"px": [
+[
+"Il faut appeler un chat un chat.",
+"Bisogna dire pane al pane e vino al vino."
+],
+[
+"Le chat parti, les souris dansent.",
+"Quando il gatto non c'è, i topi ballano."
+],
+[
+"Il a d’autres chats à fouetter.",
+"Ha altre gatte da pelare."
+]
+]
+},
+{
+"n": 60,
+"fr": "le peuple",
+"it": "il popolo",
+"mc": "populaire",
+"sc": "Une foule populaire : le peuple.",
+"de": "popolo ≈ « populaire »",
+"efr": "Le peuple a voté.",
+"efm": "peuple",
+"eit": "Il popolo ha votato.",
+"eim": "popolo",
+"th": "societe",
+"co": [
+"popolo americano",
+"popolo tedesco"
+]
+},
+{
+"n": 61,
+"fr": "la règle",
+"it": "la regola",
+"mc": "règle",
+"sc": "Une règle d'écolier trace une ligne.",
+"de": "regola ≈ « règle »",
+"efr": "C'est la règle.",
+"efm": "règle",
+"eit": "È la regola.",
+"eim": "regola",
+"th": "autres",
+"px": [
+[
+"L'exception confirme la règle.",
+"L'eccezione conferma la regola."
+],
+[
+"Bande à part, c'est sa règle.",
+"Fare gruppo a parte, è la sua regola."
+]
+],
+"co": [
+"conoscere le regole",
+"seguire le regole",
+"rispettare le regole"
+]
+},
+{
+"n": 62,
+"fr": "le trou",
+"it": "il buco",
+"mc": "bouc",
+"sc": "Un bouc creuse un trou.",
+"de": "buco ≈ « bouc »",
+"efr": "Il y a un trou dans mon pull.",
+"efm": "trou",
+"eit": "C'è un buco nel mio maglione.",
+"eim": "buco",
+"th": "autres",
+"px": [
+[
+"Le trou dans la couche d’ozone s’est agrandi.",
+"Il buco nello strato di ozono si è allargato."
+],
+[
+"J’étais coincé dans un trou perdu.",
+"Ero bloccato in un posto sperduto."
+],
+[
+"Il habitait un véritable trou.",
+"Abitava in un vero buco."
+],
+[
+"Il boit comme un trou.",
+"Beve come una spugna."
+]
+],
+"co": [
+"buco nero",
+"buco del culo",
+"buco della serratura"
+]
+},
+{
+"n": 63,
+"fr": "l'ennemi",
+"it": "il nemico",
+"mc": "némésis",
+"sc": "Une némésis : l'ennemi juré.",
+"de": "nemico ≈ « némésis »",
+"efr": "C'est notre ennemi.",
+"efm": "ennemi",
+"eit": "È il nostro nemico.",
+"eim": "nemico",
+"th": "societe"
+},
+{
+"n": 64,
+"fr": "l'arme à feu",
+"it": "l'arma da fuoco",
+"mc": "arma + fuoco",
+"sc": "On réunit « arma » (armure) et « fuoco » (fou aux cocos) : l'arme à feu.",
+"de": "arma da fuoco ≈ « arma + fuoco »",
+"efr": "J'ai pas d'arme à feu.",
+"efm": "arme",
+"eit": "Non ho armi da fuoco.",
+"eim": "armi da fuoco",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "nature"
+},
+{
+"n": 65,
+"fr": "deux ou trois questions",
+"it": "un paio di domande",
+"mc": "paio + domande",
+"sc": "On réunit « paio » (paille) et « domande » : deux ou trois questions.",
+"de": "paio di domande ≈ « paio + domande »",
+"efr": "J'ai quelques questions...",
+"efm": "questions",
+"eit": "Voglio farle solo un paio di domande.",
+"eim": "paio di domande",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "communication"
+},
+{
+"n": 66,
+"fr": "les temps (tempo, pluriel)",
+"it": "tempi",
+"mc": "→ tempo",
+"sc": "Forme accordée de « tempo » (le temps) : pluriel.",
+"de": "tempi ≈ « → tempo »",
+"efr": "En ces temps, c'était chacun pour soi.",
+"efm": "temps",
+"eit": "In tempi come questi, ognuno pensi per sé.",
+"eim": "tempi",
+"th": "temps"
+},
+{
+"n": 67,
+"fr": "mon garçon",
+"it": "figliolo",
+"mc": "fils, yoyo",
+"sc": "Un vieux prêtre pose la main sur l'épaule d'un jeune homme : « Mon garçon… » et lui tend un yoyo.",
+"de": "figliolo ≈ « fils, yoyo »",
+"efr": "Écoute-moi bien, mon garçon.",
+"efm": "mon garçon",
+"eit": "Ascoltami bene, figliolo.",
+"eim": "figliolo",
+"th": "famille"
+},
+{
+"n": 68,
+"fr": "la poste",
+"it": "l'ufficio postale",
+"fo": "anglais : post office",
+"mc": "office postal",
+"sc": "Un office postal tamponne des lettres.",
+"de": "ufficio postale ≈ « office postal »",
+"efr": "Je vais à la poste.",
+"efm": "poste",
+"eit": "Vado all'ufficio postale.",
+"eim": "ufficio postale",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "lieux",
+"px": [
+[
+"Comment aller à la poste ?",
+"Come si arriva all'ufficio postale?"
+]
+]
+},
+{
+"n": 69,
+"fr": "la fleur",
+"it": "il fiore",
+"fo": "anglais : flower",
+"mc": "fiorette",
+"sc": "Une fleur fière se dresse.",
+"de": "fiore ≈ « fiorette »",
+"efr": "Je t'offre une fleur.",
+"efm": "fleur",
+"eit": "Ti regalo un fiore.",
+"eim": "fiore",
+"th": "nature",
+"px": [
+[
+"Elle m’a fait une fleur.",
+"Mi ha fatto un favore."
+]
+],
+"co": [
+"mazzo di fiori",
+"vaso di fiori"
+]
+},
+{
+"n": 70,
+"fr": "le dîner",
+"it": "la cena",
+"fo": "anglais : dinner",
+"mc": "cène",
+"sc": "La Cène : un grand dîner.",
+"de": "cena ≈ « cène »",
+"efr": "Le dîner est prêt.",
+"efm": "dîner",
+"eit": "La cena è pronta.",
+"eim": "cena",
+"th": "nourriture",
+"px": [
+[
+"Nous avons dîné en ville.",
+"Abbiamo cenato in città."
+]
+],
+"co": [
+"preparare la cena",
+"invitare a cena"
+]
+},
+{
+"n": 71,
+"fr": "la mer",
+"it": "il mare",
+"mc": "mare",
+"sc": "Une mare devient la mer.",
+"de": "mare ≈ « mare »",
+"efr": "On va à la mer ?",
+"efm": "mer",
+"eit": "Andiamo al mare?",
+"eim": "mare",
+"th": "nature",
+"px": [
+[
+"Il dit que l’Elbe se jette dans la mer du Nord.",
+"Dice che l'Elba sfocia nel mare del Nord."
+]
+],
+"co": [
+"mare aperto",
+"frutti di mare"
+]
+},
+{
+"n": 72,
+"fr": "le silence",
+"it": "il silenzio",
+"fo": "anglais : silence",
+"mc": "silence",
+"sc": "Un doigt sur les lèvres : silence.",
+"de": "silenzio ≈ « silence »",
+"efr": "Silence, s'il vous plaît.",
+"efm": "silence",
+"eit": "Silenzio, per favore.",
+"eim": "silenzio",
+"th": "communication",
+"px": [
+[
+"Il m’a écouté en silence.",
+"Mi ha ascoltato in silenzio."
+]
+],
+"co": [
+"silenzio assoluto"
+]
+},
+{
+"n": 73,
+"fr": "la honte",
+"it": "la vergogna",
+"mc": "vergogne",
+"sc": "Sans vergogne, il n'a pas honte.",
+"de": "vergogna ≈ « vergogne »",
+"efr": "Quelle honte !",
+"efm": "honte",
+"eit": "Che vergogna!",
+"eim": "vergogna",
+"th": "emotions"
+},
+{
+"n": 74,
+"fr": "le vaisseau",
+"it": "la nave spaziale",
+"mc": "navette",
+"sc": "Un vaisseau spatial traverse les étoiles.",
+"de": "nave spaziale ≈ « navette »",
+"efr": "Le vaisseau a atterri.",
+"efm": "vaisseau",
+"eit": "La nave spaziale è atterrata.",
+"eim": "nave spaziale",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "autres"
+},
+{
+"n": 75,
+"fr": "le régime",
+"it": "il regime",
+"mc": "régime",
+"sc": "Un dictateur sur un balcon : le régime opprime la foule.",
+"de": "regime ≈ « régime »",
+"efr": "Le régime opprime le peuple.",
+"efm": "régime",
+"eit": "Il regime opprime il popolo.",
+"eim": "regime",
+"th": "societe"
+},
+{
+"n": 76,
+"fr": "l'intérêt",
+"it": "l'interesse",
+"mc": "intéressé",
+"sc": "Un banquier intéressé compte ses intérêts.",
+"de": "interesse ≈ « intéressé »",
+"efr": "Ça n'a aucun intérêt.",
+"efm": "intérêt",
+"eit": "Non ha nessun interesse.",
+"eim": "interesse",
+"th": "travail",
+"co": [
+"interesse comune",
+"tassi di interesse"
+]
+},
+{
+"n": 77,
+"fr": "le signe",
+"it": "il segno",
+"fo": "anglais : sign (marque, événement annonciateur, astro) wave (geste) signal (geste, marque) symbol (maths)",
+"mc": "signe",
+"sc": "Une main fait un signe.",
+"de": "segno ≈ « signe »",
+"efr": "C'est bon signe.",
+"efm": "signe",
+"eit": "È un buon segno.",
+"eim": "segno",
+"th": "autres",
+"co": [
+"segni di lotta",
+"mostrare segno",
+"segno di debolezza"
+]
+},
+{
+"n": 78,
+"fr": "le danger",
+"it": "il pericolo",
+"mc": "péril",
+"sc": "Un panneau « PÉRIL » : danger.",
+"de": "pericolo ≈ « péril »",
+"efr": "Attention, danger !",
+"efm": "danger",
+"eit": "Attenzione, pericolo!",
+"eim": "pericolo",
+"th": "societe",
+"co": [
+"mettere in pericolo",
+"grave pericolo"
+]
+},
+{
+"n": 79,
+"fr": "la liste",
+"it": "la lista",
+"mc": "liste",
+"sc": "Une liste de courses.",
+"de": "lista ≈ « liste »",
+"efr": "Fais une liste.",
+"efm": "liste",
+"eit": "Fai una lista.",
+"eim": "lista",
+"th": "autres",
+"co": [
+"lista nera",
+"lista d'attesa"
+]
+},
+{
+"n": 80,
+"fr": "le témoin",
+"it": "il testimone",
+"mc": "testimonial",
+"sc": "Un témoin lève la main au tribunal.",
+"de": "testimone ≈ « testimonial »",
+"efr": "Il y a un témoin.",
+"efm": "témoin",
+"eit": "C'è un testimone.",
+"eim": "testimone",
+"th": "autres",
+"co": [
+"banco dei testimoni"
+]
+},
+{
+"n": 81,
+"fr": "l'anniversaire",
+"it": "il compleanno",
+"fo": "anglais : birthday",
+"mc": "complet + année",
+"sc": "Une année complète : bougies d'anniversaire.",
+"de": "compleanno ≈ « complet + année »",
+"efr": "Joyeux anniversaire !",
+"efm": "anniversaire",
+"eit": "Buon compleanno!",
+"eim": "compleanno",
+"th": "temps",
+"px": [
+[
+"Qu'est-ce que tu veux pour ton anniversaire ?",
+"Che cosa vuoi per il tuo compleanno ?"
+],
+[
+"Demain c'est mon anniversaire.",
+"Domani è il mio compleanno."
+],
+[
+"Cette année je ne veux pas fêter mon anniversaire.",
+"Quest'anno non voglio festeggiare il mio compleanno."
+],
+[
+"Je te souhaite un bon anniversaire.",
+"Ti auguro buon compleanno."
+],
+[
+"Demain, c’est mon anniversaire; j’ai invité des amis.",
+"Domani è il mio compleanno; ho invitato degli amici."
+]
+],
+"co": [
+"festa di compleanno",
+"regalo di compleanno",
+"torta di compleanno",
+"festeggiare il compleanno"
+]
+},
+{
+"n": 82,
+"fr": "un verre d'eau",
+"it": "un bicchiere d'acqua",
+"mc": "bicchiere + acqua",
+"sc": "On réunit « bicchiere » (bique + bière) et « acqua » (aquarium) : un verre d'eau.",
+"de": "bicchiere d'acqua ≈ « bicchiere + acqua »",
+"efr": "Un verre d'eau.",
+"efm": "verre",
+"eit": "Un bicchiere d'acqua.",
+"eim": "bicchiere d'acqua",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "nourriture"
+},
+{
+"n": 83,
+"fr": "la cuisine",
+"it": "la cucina",
+"fo": "anglais : kitchen",
+"mc": "cuisine",
+"sc": "Une cuisine avec casseroles.",
+"de": "cucina ≈ « cuisine »",
+"efr": "On mange dans la cuisine.",
+"efm": "cuisine",
+"eit": "Mangiamo in cucina.",
+"eim": "cucina",
+"th": "nourriture",
+"px": [
+[
+"Mon père cuisine presque aussi bien que ma mère.",
+"Mio padre cucina quasi bene come mia madre."
+],
+[
+"Le courrier est sur la table de la cuisine.",
+"La posta è sul tavolo della cucina."
+]
+]
+},
+{
+"n": 84,
+"fr": "le marché",
+"it": "il mercato",
+"fo": "anglais : market",
+"mc": "mercantile",
+"sc": "Des étals de fruits : le marché.",
+"de": "mercato ≈ « mercantile »",
+"efr": "Je vais au marché.",
+"efm": "marché",
+"eit": "Vado al mercato.",
+"eim": "mercato",
+"th": "lieux",
+"px": [
+[
+"Avec des dollars on trouve tout au marché noir.",
+"Con i dollari si trova di tutto al mercato nero."
+]
+],
+"co": [
+"mercato nero",
+"mercato delle pulci"
+]
+},
+{
+"n": 85,
+"fr": "la fenêtre",
+"it": "la finestra",
+"fo": "anglais : window",
+"mc": "fenestré",
+"sc": "Une fenêtre s'ouvre.",
+"de": "finestra ≈ « fenestré »",
+"efr": "Ferme la fenêtre.",
+"efm": "fenêtre",
+"eit": "Chiudi la finestra.",
+"eim": "finestra",
+"th": "maison",
+"px": [
+[
+"Puis-je ouvrir la fenêtre ?",
+"Posso aprire la finestra?"
+],
+[
+"Ils sont entrés dans l’appartement par la fenêtre.",
+"Sono entrati nell'appartamento dalla finestra."
+]
+],
+"co": [
+"aprire la finestra",
+"finestra aperta"
+]
+},
+{
+"n": 86,
+"fr": "le doigt",
+"it": "il dito",
+"fo": "anglais : finger",
+"mc": "dicter",
+"sc": "Un doigt dicte des ordres.",
+"de": "dito ≈ « dicter »",
+"efr": "Je me suis coupé le doigt.",
+"efm": "doigt",
+"eit": "Mi sono tagliato il dito.",
+"eim": "dito",
+"th": "corps",
+"px": [
+[
+"Juste un doigt, s’il vous plaît.",
+"Solo un dito, per favore."
+],
+[
+"Il n’a pas levé le petit doigt pour nous aider.",
+"Non ha alzato un dito per aiutarci."
+]
+],
+"co": [
+"puntare il dito",
+"alzare un dito",
+"muovere un dito",
+"anello al dito",
+"dito medio"
+]
+},
+{
+"n": 87,
+"fr": "la santé",
+"it": "la salute",
+"fo": "anglais : health",
+"mc": "salut",
+"sc": "On trinque : « Salut ! À ta santé ! ».",
+"de": "salute ≈ « salut »",
+"efr": "À ta santé !",
+"efm": "santé",
+"eit": "Alla salute!",
+"eim": "salute",
+"th": "corps",
+"px": [
+[
+"Santé !",
+"Salute!"
+],
+[
+"Je n’ai pas envie de me détruire la santé.",
+"Non ho voglia di rovinarmi la salute."
+],
+[
+"Il pète de santé !",
+"Scoppia di salute!"
+],
+[
+"Je me fais du souci pour sa santé.",
+"Mi preoccupo per la sua salute."
+]
+],
+"co": [
+"buona salute"
+]
+},
+{
+"n": 88,
+"fr": "le bruit",
+"it": "il rumore",
+"fo": "anglais : noise",
+"mc": "rumeur",
+"sc": "Une rumeur sourde, du bruit partout.",
+"de": "rumore ≈ « rumeur »",
+"efr": "Arrête de faire du bruit.",
+"efm": "bruit",
+"eit": "Smetti di fare rumore.",
+"eim": "rumore",
+"th": "autres",
+"px": [
+[
+"Avec ce bruit, je ne peux pas me concentrer.",
+"Con questo rumore non riesco a concentrarmi."
+]
+],
+"co": [
+"rumore di vetri"
+]
+},
+{
+"n": 89,
+"fr": "l'enfer",
+"it": "l'inferno",
+"mc": "enfer",
+"sc": "Des flammes et un diable : l'enfer.",
+"de": "inferno ≈ « enfer »",
+"efr": "Va au diable ! (va en enfer)",
+"efm": "enfer",
+"eit": "Va' all'inferno!",
+"eim": "inferno",
+"th": "autres",
+"co": [
+"bruciare all'inferno",
+"scatenare l'inferno",
+"fiamme dell'inferno",
+"marcire all'inferno"
+]
+},
+{
+"n": 90,
+"fr": "le colonel",
+"it": "il colonnello",
+"mc": "colonel",
+"sc": "Un colonel moustachu salue.",
+"de": "colonnello ≈ « colonel »",
+"efr": "Mes respects, colonel.",
+"efm": "colonel",
+"eit": "I miei rispetti, colonnello.",
+"eim": "colonnello",
+"th": "autres"
+},
+{
+"n": 91,
+"fr": "l'inspecteur",
+"it": "l'ispettore",
+"mc": "inspecteur",
+"sc": "Un inspecteur à la loupe.",
+"de": "ispettore ≈ « inspecteur »",
+"efr": "L'inspecteur pose des questions.",
+"efm": "inspecteur",
+"eit": "L'ispettore fa domande.",
+"eim": "ispettore",
+"th": "autres"
+},
+{
+"n": 92,
+"fr": "l'accident de voiture",
+"it": "l'incidente d'auto",
+"mc": "incidente + auto",
+"sc": "On réunit « incidente » (incident) et « auto » (auto) : l'accident de voiture.",
+"de": "incidente d'auto ≈ « incidente + auto »",
+"efr": "(accident de voiture)",
+"efm": "accident",
+"eit": "Un incidente d'auto\".",
+"eim": "incidente d'auto",
+"k": "loc",
+"scat": "locutions_nominales",
+"th": "lieux"
+},
+{
+"n": 93,
+"fr": "la bouche",
+"it": "la bocca",
+"fo": "anglais : mouth",
+"mc": "bocal",
+"sc": "Une bouche avale un bocal.",
+"de": "bocca ≈ « bocal »",
+"efr": "Ouvre la bouche.",
+"efm": "bouche",
+"eit": "Apri la bocca.",
+"eim": "bocca",
+"th": "corps",
+"px": [
+[
+"Je l’ai gardé pour la bonne bouche.",
+"L'ho tenuto per la fine."
+],
+[
+"J’en ai l’eau à la bouche.",
+"Mi viene l'acquolina in bocca."
+]
+],
+"co": [
+"chiudere la bocca",
+"bocca chiusa",
+"tenere la bocca",
+"aprire la bocca",
+"bocca al lupo",
+"bocca aperta"
+]
+},
+{
+"n": 94,
+"fr": "la bière",
+"it": "la birra",
+"fo": "anglais : beer",
+"mc": "bière",
+"sc": "Une bière mousseuse.",
+"de": "birra ≈ « bière »",
+"efr": "Une bière, s'il vous plaît.",
+"efm": "bière",
+"eit": "Una birra, per favore.",
+"eim": "birra",
+"th": "nourriture",
+"px": [
+[
+"Une bière ne me ferait pas de mal.",
+"Una birra non mi farebbe male."
+]
+],
+"co": [
+"bere birra",
+"paio di birre",
+"bottiglia di birra"
+]
+},
+{
+"n": 95,
+"fr": "le bord",
+"it": "il bordo",
+"fo": "anglais : edge brink fringe",
+"mc": "bord",
+"sc": "Un verre plein jusqu'au bord.",
+"de": "bordo ≈ « bord »",
+"efr": "Remplis jusqu'au bord.",
+"efm": "bord",
+"eit": "Riempi fino al bordo.",
+"eim": "bordo",
+"th": "autres",
+"px": [
+[
+"Il l’a rempli à ras bord.",
+"L'ha riempito fino all'orlo."
+]
+],
+"co": [
+"salire a bordo",
+"benvenuto a bordo",
+"bordo della nave"
+]
+},
+{
+"n": 96,
+"fr": "la manière",
+"it": "il modo",
+"fo": "anglais : way manner fashion",
+"mc": "mode",
+"sc": "Un styliste montre la manière, la mode.",
+"de": "modo ≈ « mode »",
+"efr": "De quelle manière ?",
+"efm": "manière",
+"eit": "In che modo?",
+"eim": "modo",
+"th": "autres",
+"px": [
+[
+"Il est partisan de la manière forte.",
+"È favorevole alle maniere forti."
+],
+[
+"Pourquoi faire tant de manières ?",
+"Perché fare tante storie?"
+]
+],
+"co": [
+"trovare un modo",
+"unico modo",
+"modo migliore",
+"comportare in modo",
+"modo strano",
+"modo diverso"
+]
+},
+{
+"n": 97,
+"fr": "l'exemple",
+"it": "l'esempio",
+"fo": "anglais : example instance",
+"mc": "exemple",
+"sc": "Un prof écrit un exemple au tableau.",
+"de": "esempio ≈ « exemple »",
+"efr": "Par exemple…",
+"efm": "exemple",
+"eit": "Per esempio…",
+"eim": "esempio",
+"th": "pensee",
+"px": [
+[
+"Prends donc exemple sur ton ami Bob.",
+"Prendi esempio dal tuo amico Bob."
+],
+[
+"Est-ce que je peux citer un exemple?",
+"Posso citare un esempio ?"
+]
+]
+},
+{
+"n": 98,
+"fr": "la classe",
+"it": "la classe",
+"mc": "classe",
+"sc": "Une salle de classe.",
+"de": "classe ≈ « classe »",
+"efr": "Il est en classe.",
+"efm": "classe",
+"eit": "È in classe.",
+"eim": "classe",
+"th": "pensee",
+"co": [
+"compagni di classe",
+"classe media",
+"classe sociale"
+]
+},
+{
+"n": 99,
+"fr": "les petits enfants",
+"it": "i nipoti",
+"mc": "nids + pots",
+"sc": "Des petits-enfants dans des nids et des pots.",
+"de": "nipoti ≈ « nids + pots »",
+"efr": "Elle garde ses petits-enfants.",
+"efm": "petits-enfants",
+"eit": "Tiene i suoi nipoti.",
+"eim": "nipoti",
+"th": "famille"
+}
+]
+}

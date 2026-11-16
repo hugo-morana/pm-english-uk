@@ -1,0 +1,143 @@
+{
+ "fix": {
+  "0": {
+   "eim": "can't tell|from"
+  },
+  "10": {
+   "eim": "pulled a gun on"
+  },
+  "12": {
+   "eim": "hunting|down"
+  },
+  "15": {
+   "it": "to get by"
+  },
+  "20": {
+   "eit": "He ripped me off for a hundred euros."
+  },
+  "21": {
+   "eit": "We were well and truly had."
+  },
+  "32": {
+   "it": "to use first names",
+   "eit": "Shall we use first names?",
+   "eim": "use first names",
+   "api": "/juːz ˈfɜːst neɪmz/"
+  },
+  "40": {
+   "it": "to rise up"
+  },
+  "52": {
+   "eim": "matches"
+  },
+  "64": {
+   "eim": "cut|by"
+  },
+  "84": {
+   "it": "to win back"
+  },
+  "88": {
+   "it": "to stammer"
+  }
+ },
+ "li": {
+  "0": "Le monsieur distingué jette le faux cheddar par-dessus son épaule ; le FROMAGE roule jusqu'au trône OVALE du roi.",
+  "1": "La REINE renverse son thé sur le trader de la City, qui crie « HOP ! » et tire la CHAÎNE de la cloche.",
+  "2": "La cloche de la Bourse sonne si fort que Sherlock Holmes, à Baker Street, en lâche son CAMÉ de pipe.",
+  "3": "La pipe de Sherlock tombe dans le BOL d'eau posé sur la BOÎTE, qui se met aussitôt à BOUILLIR.",
+  "4": "L'eau bouillante déborde du BOL et coule jusqu'au gâteau victorien, entre les DIX assiettes VIDES.",
+  "5": "Le pâtissier lance une assiette VIDE comme un frisbee ; le coureur crie « GO ! » et la poursuit jusqu'au PHARE.",
+  "6": "Le coureur ressort de l'eau et s'ébroue sur la haie des deux voisins qui se traitent de FOLLE en plein AOÛT.",
+  "7": "Une branche de la haie se détache et tombe sur la bougie de l'étudiant d'Oxford qui RÊVE À YS.",
+  "8": "L'étudiant, brûlé par la bougie, court au NHS et s'emmêle dans la CHAÎNE de rubans blancs à l'ABORD de la salle.",
+  "9": "Un ruban blanc s'envole jusqu'à l'épicerie de Soho et s'enroule autour du GANT d'où le braqueur sort son pistolet.",
+  "10": "Le braqueur tire en l'air ; la POULE effrayée s'envole jusqu'au Royal Albert Hall, sur la baguette qui DIRIGE les RENNES.",
+  "11": "Un RENNE s'enfuit du concert jusqu'aux docks, où les policiers qui les HANTENT le prennent pour le fugitif.",
+  "12": "Le fugitif saute des docks et retombe à la campagne, sur la CHAISE que franchit la meute lancée à la CHASSE au renard.",
+  "13": "Le renard bondit par-dessus la CHAISE et atterrit sur la SELLE du capitaine qui NAVIGUE sur la Manche.",
+  "14": "Une vague de la Manche projette le voilier dans la cave inondée, où le Cockney nage dans sa BAILLE.",
+  "15": "Le Cockney sort par la lucarne et se retrouve sous le toit du HANGAR, nez à nez avec le PENDU.",
+  "16": "La corde du PENDU cède, et le corps tombe sur le père enragé, dont le visage GAI vire au gris.",
+  "17": "Le père enragé donne un coup de pied dans la statue de bronze de Trafalgar Square, qui GROGNE de plus belle.",
+  "18": "La statue qui GROGNE bascule de son socle et roule jusqu'à la grotte de SPÉLÉO où l'élève ÉPELLE son nom.",
+  "19": "L'élève remonte de la grotte et tombe dans le fauteuil où l'escroc lui RIPE son portefeuille.",
+  "20": "Le black cab de l'escroc fonce sur le quai et s'engouffre dans le ferry du vendeur du HAVRE.",
+  "21": "Le vendeur du HAVRE débarque à Westminster et coiffe le roi d'un bonnet d'âne : le voilà HUMILIÉ.",
+  "22": "Le roi HUMILIÉ jette son bonnet d'âne, qui fait pencher le tableau du cottage aux STRATES de papier peint.",
+  "23": "Le tableau qu'on REDRESSE tombe quand même et assomme le corbeau qui surveille le prisonnier ENCHAÎNÉ.",
+  "24": "Le prisonnier brise sa CHAÎNE et la lance sur le bus à impériale, où le bavard RIT en DIVULGUANT le secret.",
+  "25": "Le bus à impériale frôle le taxi noir et arrache le micro de la journaliste de la BBC qui INTERVIEWE l'acteur.",
+  "26": "Le micro roule dans le pub jusqu'au myope, qui le prend pour un os et le sert avec un MI-STEAK.",
+  "27": "Le chat lance le MI-STEAK au loin ; il atterrit sur une piste des Highlands, sous les skis du SKIEUR en kilt.",
+  "28": "Le SKIEUR en kilt dévale jusqu'à Londres et atterrit sur le toit de la limousine STRETCH où le chat S'ÉTIRE.",
+  "29": "La limousine STRETCH percute le générateur de la centrale galloise, qui lance des RAIES lumineuses dans le ciel.",
+  "30": "Une RAIE lumineuse du générateur frappe la PILE de pommes de terre qu'on ÉPLUCHE pour le fish and chips.",
+  "31": "Une pomme de terre épluchée roule dans le FEU de camp des deux amis qui se TUTOIENT.",
+  "32": "Une braise du FEU de camp saute sur le SLIP du pirate, qui fait TROTTER le cheval sur le quai de la Tamise.",
+  "33": "Le pirate lance son sabre, qui tranche la corde que le marin NOUE autour de sa TAILLE.",
+  "34": "La corde du marin claque comme un fouet et renverse les pintes du public autour de la PISTE du catcheur.",
+  "35": "Le catcheur en rogne quitte la PISTE et fonce dans le jardin anglais, où la star nue ÉTERNUE : « ATCHOUM ! »",
+  "36": "L'éternuement de la star souffle jusqu'en Cornouailles et fait voler la LINGUE que le volontaire tend en criant « OUI ! ».",
+  "37": "La LINGUE s'envole et se colle sur la porte de l'appartement BI-LONG, juste sous la couronne du roi.",
+  "38": "Le roi sort de l'appartement BI-LONG et tend une corde de draps au prisonnier de Dartmoor qui S'ÉVADE.",
+  "39": "Le prisonnier saute des toits sur la place du Parlement, juste au pied du rebelle qui lance son RAISIN.",
+  "40": "Le RAISIN du rebelle atterrit dans le bol de RIZ de l'enfant qui fait « OUAH ! ».",
+  "41": "La mère renverse le bol de RIZ dans la machine de la laverie, où le STRING RÉTRÉCIT.",
+  "42": "Le STRING miniature s'envole jusqu'à Brighton et se pose sur la glace que LÈCHE le chien sur son LIT de galets.",
+  "43": "Le chien fait tomber la boule de glace, qui roule jusqu'à Buckingham, sur le MÊME RAISIN rangé dans chaque pièce.",
+  "44": "L'étudiant lance un MÊME RAISIN dans le café de Bloomsbury, sur la strophe que le poète FROISSE en pleine CRISE.",
+  "45": "Le poète jette sa boule de papier FROISSÉ dans Hyde Park ; le WOMBAT saute « HOP ! » pour l'attraper.",
+  "46": "Le WOMBAT bondit par la fenêtre du cottage et atterrit dans le fauteuil-NID de la grand-mère qui TRICOTE.",
+  "47": "La pelote de la grand-mère roule jusqu'à la rivière POLLUÉE où nage l'Inca, et s'échoue sur la PELOUSE.",
+  "48": "La rivière POLLUÉE déborde sur la PELOUSE jusqu'à la kermesse, dans les seaux où l'on RECUEILLE la pluie.",
+  "49": "Un seau plein bascule du balcon victorien, et une FOLLE pluie RETOMBE SUR le cadet.",
+  "50": "Le cadet trempé fuit jusqu'à Wembley et glisse sous le footballeur, qui SE FOULE la cheville.",
+  "51": "Le footballeur blessé lance la clé de son casier, qui CORRESPOND À la serrure du vieux cottage où l'on regarde le MATCH.",
+  "52": "La porte du cottage s'ouvre sur la cuisine, où le cuisinier ROSSE le rôti qui RÔTIT à la broche.",
+  "53": "Le rôti s'échappe de la broche et rebondit sur les jumelles du commentateur de la BBC : « COMMENT ? »",
+  "54": "Le commentateur lâche ses jumelles, qui tombent sur le piano en TECK que le déménageur EMPORTE.",
+  "55": "Le déménageur laisse tomber le piano en TECK sur la télécommande du téléspectateur qui ZAPPE : « HOP ! »",
+  "56": "La télé change de CHENAL et affiche le menu du pub, où une VERRINE différente VARIE sur l'ardoise.",
+  "57": "La VERRINE tombe de l'ardoise dans un carton du fonctionnaire MUTÉ à Milan, qui entre en TRANSE.",
+  "58": "La fumée du bureau en FEU emporte le chapeau melon de la fille, qui SE BROSSE LES CHEVEUX dans le bus.",
+  "59": "La BROSSE oubliée tombe du bus sur la pelouse du commissariat, où l'oiseau CHOPE un ver : « NICKEL ! »",
+  "60": "L'oiseau s'envole avec son ver jusqu'au salon de Notting Hill et se pose sur le fauteuil en DAIM.",
+  "61": "Le coiffeur renverse sa teinture dans le parc d'Oxford, sur la piste où les deux rivaux RIVALISENT.",
+  "62": "L'arbitre qui COMPTE les tours glisse sur la teinture et se retrouve sous le scalpel du chirurgien, prêt à PROCÉDER.",
+  "63": "Le scalpel échappe au chirurgien et file jusqu'à Camden, où le marchand en pleine CATA s'en sert pour COUPER ses prix.",
+  "64": "Le marchand de Camden s'enfuit jusqu'au cap de la HAGUE et ÉTREINT le premier venu.",
+  "65": "Le vent de la HAGUE souffle jusqu'à Savile Row et fait voler le pantalon que le tailleur RACCOURCIT en SHORT.",
+  "66": "Le SHORT raccourci tombe sur la serviette du catcheur qui GLANDE, pendant que passe la FANFARE.",
+  "67": "La FANFARE effraie le cheval du maçon de Bath, qui tire de toutes ses forces sur les RÊNES.",
+  "68": "Le cheval aux RÊNES s'enfuit dans le manoir, et l'on ENTREVOIT sa silhouette qui GLISSE dans le couloir.",
+  "69": "La silhouette qui GLISSE finit dans le pub, devant la cible où le tireur lance son dard vers le visage BLÊME.",
+  "70": "Le dard rebondit sur le visage BLÊME et épingle la pancarte « coupable » dans le dos de l'innocent, avec une aiguille de PIN.",
+  "71": "L'innocent à la pancarte s'assied au pupitre de l'élève en uniforme qui REDOUBLE.",
+  "72": "L'élève qui REDOUBLE lance son cartable au zoo de Londres, sur la branche du singe qui SANGLOTE.",
+  "73": "Le singe jette sa boisson SOBRE, qui tombe au pied des falaises de Douvres, devant le rêveur qui compte CINQ bateaux.",
+  "74": "Le rêveur SONGE si fort qu'il tombe des falaises sur la récamier de la dame qui BRODE EN BROYANT des noisettes.",
+  "75": "La dame lance son mouchoir brodé à l'orateur perché sur sa caisse, qui y verse une PRISE de tabac.",
+  "76": "L'orateur éternue sa PRISE de tabac jusqu'à la lande du Yorkshire, en plein museau du loup qui DÉCHIQUETTE la brebis.",
+  "77": "Le loup arrache une touffe de laine, qui s'envole jusqu'à Chelsea et se colle sur la cire de la dame : « OUAH ! »",
+  "78": "La bande de cire arrachée vole jusqu'au Parlement et se colle sur le soldat en tunique rouge qui PRESSE la foule.",
+  "79": "Le soldat repousse la foule et renverse sur la terrasse de Cornouailles la tasse de thé qui S'ÉVAPORE.",
+  "80": "La vapeur du thé monte jusqu'à Trafalgar Square et embue le sapin qu'on DÉCORE de guirlandes à RAIES.",
+  "81": "Une boule du sapin tombe dans le bocal du salon de thé, qui DÉBORDE en un FLOT de thé.",
+  "83": "Le FLOT de thé dévale jusqu'au loch écossais et soulève le BAC d'où le roi crie vers son château RECONQUIS.",
+  "84": "Le roi plante si fort son drapeau qu'il propulse le château dans l'espace, sur le ROC où joue le groupe de ROCK.",
+  "85": "Un éclat de la scène du ROCK file dans l'espace et frappe la guitare de l'astronaute, qui la fracasse en SMASH.",
+  "86": "Un morceau de guitare retombe sur Regent Street et entaille le menteur : une énorme PLAIE sous un minuscule pansement.",
+  "87": "Le menteur arrache son pansement et le colle sur le micro du STADE de Brighton, où le timide BÉGAIE.",
+  "88": "Le micro du timide grésille jusqu'à Wimbledon, où la foule qui ACCLAME le champion lève son Pimm's : « TCHIN ! »",
+  "89": "Une coupe de Pimm's s'envole jusqu'au jardin anglais et éclabousse la BANDE de jardiniers qui retiennent l'arbre COURBÉ.",
+  "90": "Une branche de l'arbre COURBÉ casse et traverse une fenêtre de Soho, droit sur les ciseaux du CENSEUR.",
+  "91": "Le CENSEUR lance ses ciseaux jusqu'au verger du Kent, où ils frôlent le fruit qui PEND à sa branche.",
+  "92": "Le fruit qui PEND tombe enfin, roule jusqu'à Portsmouth et cogne le doigt qui DÉSIGNE le capitaine.",
+  "93": "Le capitaine désigné plonge depuis le plongeoir de Bath et éclabousse l'Indien qui RECULE vers le BAC.",
+  "94": "L'Indien sort de son BAC et rejoint le duel, où il SE DÉFILE en CHIQUANT du tabac.",
+  "95": "L'Indien qui SE DÉFILE crache son tabac sur les marches du bus, où un danseur de TWIST se TORD la cheville.",
+  "96": "Le danseur de TWIST tombe du bus, roule jusqu'à la colline écossaise et heurte la CHÈVRE du randonneur qui FRISSONNE.",
+  "97": "La CHÈVRE s'échappe jusqu'à Brighton et renverse le théâtre de Punch and Judy, où le guignol RICANE.",
+  "98": "Le guignol lance son bâton jusqu'au Savoy et fait tomber la cuillère en TECK qui SUCRE le café."
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "fix": {
+  "33": {
+   "eim": "not particularly clever"
+  },
+  "45": {
+   "it": "it was hard to do sth",
+   "api": "/ɪt wəz ˈhɑːd tə/"
+  }
+ },
+ "li": {
+  "0": "La PIE s'envole du bus rouge avec son verre d'eau et le lâche sur la BESTIOLE juchée sur le SINGE devant Buckingham.",
+  "1": "Le SINGE lance la chose à un million jusqu'au pub, où elle coince le doigt du pote dans la SCIE : « AÏE ! »",
+  "2": "La SCIE glisse du comptoir et file sous Big Ben, où OBI-WAN la tranche d'un sabre lumineux devant ADA.",
+  "3": "ADA lance un sabre lumineux qui brise la vitrine de Harrods, devant mon EX PENSIF et son diamant.",
+  "4": "Le diamant roule de Harrods jusqu'à la côte anglaise, où la FOURMI le hisse vers le PHARE doré.",
+  "5": "Le PHARE doré éclaire Londres sous la pluie, droit sur le PRO tout BLÊME et sa mie de pain.",
+  "6": "Le PRO tout BLÊME jette sa mie de pain dans le thé de 17 h, où CAÏN la remplace par une part de gâteau.",
+  "7": "CAÏN tend sa part de gâteau à mon EX PENSIF, qui la tartine des RILLETTES à 30 £.",
+  "8": "Le pot de RILLETTES roule jusqu'à Borough Market et tombe sur l'étal de la SOTTE, sur sa bête mi-cheddar.",
+  "9": "La bête mi-chien mi-cheddar s'enfuit dans le curry londonien et plonge dans ma RAÏTA sous Big Ben.",
+  "10": "Je lance mon naan trempé de RAÏTA jusqu'à Portobello Road, où le vendeur crie « OLÉ ! » en l'attrapant.",
+  "11": "Le vendeur tend son lait béni jusqu'à une SUITE du Ritz, où il arrose mon gâteau DOUX ET DÉLICIEUX.",
+  "12": "Le gâteau fondant coule jusqu'à la cabine téléphonique rouge et colle ma veste serrée à la TAILLE.",
+  "13": "La cabine rouge bascule et écrase les BIGOUDIS du géant coincé dans la porte du cottage.",
+  "14": "Un BIGOUDI tombe du géant et s'enfonce dans la PRISE anglaise à trois broches où est branché le diamant.",
+  "15": "La PRISE fait des étincelles et allume l'ampoule au-dessus de la tête de GRETEL, dans le pub.",
+  "16": "GRETEL dévisse l'ampoule et la lance à Speakers' Corner, où elle éclaire l'orateur qui parle des TROPIQUES.",
+  "17": "L'orateur des TROPIQUES jette son parapluie dans le black cab, où il renverse mon DÉ sur le coussin de OUATE.",
+  "18": "Le DÉ saute du black cab et tombe dans la Tamise, qui déborde en EAU FOLLE sur les quais.",
+  "19": "L'EAU FOLLE emporte ma quête jusqu'à Big Ben, où la MÈCHE de OUATE s'enflamme toute seule.",
+  "20": "La MÈCHE enflammée tombe sur le LIT où le général en tunique rouge pose son JOUJOU.",
+  "21": "Le général lance son JOUJOU devant Buckingham, et le garde HARDI le jongle avec l'OLIVE géante.",
+  "22": "L'OLIVE géante roule jusqu'au toit du bus rouge et fait glisser la MADEMOISELLE en tutu.",
+  "23": "La MADEMOISELLE tombe du bus sur Baker Street, juste dans la loupe que Sherlock braque sur le SUSPECT.",
+  "24": "Le SUSPECT s'enfuit et plonge SOUS L'EAU de la Tamise, où il m'arrache mon jus amer.",
+  "25": "Le jus amer remonte et éclabousse, à Bond Street, la peau de LÉZARD qui devient un sac.",
+  "26": "Le sac en LÉZARD file au marché de Camden et renverse le STAND derrière lequel tremble ANNE.",
+  "27": "ANNE lance une pièce de 1 £ qui va se coincer dans le COIN du comptoir, côté revers.",
+  "28": "La pièce s'échappe du COIN et roule jusqu'à Westminster, aux pieds de la HYÈNE qui MÈNE les béni-oui-oui.",
+  "29": "La HYÈNE MÈNE ses béni-oui-oui à l'OUEST de Londres, où ils sautent dans la benne de fish and chips.",
+  "30": "Un fish and chips vole de la benne jusqu'à Brick Lane et atterrit dans la SCIE du chef couvert d'ÉPICES.",
+  "31": "La SCIE du chef tranche le CÂBLE de Tower Bridge, où se balance le SINGE en tutu.",
+  "32": "Le SINGE en tutu tombe du CÂBLE sur la nonne maladroite et fait voler sa CLÉ VERTE.",
+  "33": "La CLÉ VERTE tombe dans le dernier métro, que LISE rate en criant « HOP ! » sous la pluie.",
+  "34": "LISE se console au salon de thé, où elle souffle si fort sur mon thé à la MENTHE qu'il déborde.",
+  "35": "Le thé à la MENTHE coule jusqu'à Westminster Abbey et éclabousse les OUAILLES qui quittent l'église.",
+  "36": "Les OUAILLES fuient jusqu'au salon de thé du Devon et piétinent nos CHAUSSES ôtées près du scone.",
+  "37": "Une CHAUSSE vole jusqu'au cottage et touche l'âne, qui s'arrache un CIL en sautant sur le LIT.",
+  "38": "L'âne bondit du LIT jusqu'à Big Ben et se colle, gelé, à la FRISE de glace des bonshommes.",
+  "39": "Un bonhomme congelé se détache de la FRISE et glisse jusqu'au guichet de la Royal Mail, sur la DAME ÂGÉE.",
+  "40": "La DAME ÂGÉE lance son vase endommagé sur le pont, où TOINE plante les deux drapeaux.",
+  "41": "TOINE lâche l'Union Jack, qui glisse dans le métro jusqu'à l'escalier de Penrose et sa CALE.",
+  "42": "La CALE saute de l'escalier et va caler la TABLE de DÉBAT des avocats de l'Old Bailey.",
+  "43": "Les avocats renversent la TABLE de DÉBAT, qui atterrit dans le cottage cosy, pile à côté du LIT EXACTEMENT en place.",
+  "44": "Le LIT glisse jusqu'aux falaises de Douvres et embarque sur le ferry pour l'OASIS lointaine.",
+  "45": "Le ferry pour l'OASIS rentre sous l'averse prévue, où mon EX gonfle ses PECTORAUX sur le quai.",
+  "46": "Mon EX bombe tant ses PECTORAUX qu'il renverse la TABLE de la voyante de la jetée de Brighton.",
+  "47": "La TABLE de la voyante roule jusqu'au jardin du cottage, sous le paon qui fait la roue sur le LIT qu'on LAVE.",
+  "48": "Le jet qui LAVE le LIT propulse ma valise, qui saute dans le OUIGO vers l'Eurostar.",
+  "49": "Le OUIGO dépose la valise sur le CAMION rouge qui démarre devant le pub, sous un point d'interrogation."
+ }
+}
