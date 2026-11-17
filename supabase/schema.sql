@@ -18,3 +18,21 @@ create policy "modifier sa progression" on public.progress
   for update to authenticated using (auth.uid() = user_id) with check (auth.uid() = user_id);
 create policy "supprimer sa progression" on public.progress
   for delete to authenticated using (auth.uid() = user_id);
+
+-- Suppression de son propre compte depuis l'appli (Réglages → Compte → Supprimer mon compte).
+-- La ligne de auth.users est supprimée ; la progression suit grâce à « on delete cascade ».
+create or replace function public.delete_own_account()
+returns void
+language plpgsql
+security definer
+set search_path = ''
+as $$
+begin
+  if auth.uid() is null then
+    raise exception 'non connecté';
+  end if;
+  delete from auth.users where id = auth.uid();
+end;
+$$;
+revoke all on function public.delete_own_account() from public, anon;
+grant execute on function public.delete_own_account() to authenticated;

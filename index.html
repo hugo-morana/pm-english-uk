@@ -332,10 +332,6 @@ body:not([data-view="palais"]) #joy, body:not([data-view="palais"]) #cross, body
   <div class="btns"><button class="btn alt" type="button" data-close>Annuler</button><button class="btn danger" type="button" id="resetGo">Oui, tout effacer</button></div>
 </div></div>
 
-<div class="sheet" id="accountSheet" hidden><div>
-  <div class="shead"><h2>Mon compte</h2><span class="spacer"></span><button class="chip" type="button" data-close>Fermer</button></div>
-  <div id="accountBody" style="display:flex;flex-direction:column;gap:12px"></div>
-</div></div>
 
 <section class="view" id="lib" hidden aria-label="Bibliothèque"><div class="in">
   <h1>Bibliothèque <small id="libCount"></small></h1>
@@ -354,7 +350,9 @@ body:not([data-view="palais"]) #joy, body:not([data-view="palais"]) #cross, body
 
 <section class="view" id="reglages" hidden aria-label="Réglages"><div class="in">
   <h1>Réglages</h1>
-  <h2 style="margin:4px 0 0">Palais</h2>
+  <h2 style="margin:4px 0 0" id="compte">Compte</h2>
+  <div id="acctBody" style="display:flex;flex-direction:column;gap:10px"></div>
+  <h2 style="margin:18px 0 0">Palais</h2>
   <h3>Lecture pendant la visite</h3>
   <div class="pills" role="group" aria-label="Lecture audio pendant la visite du palais"><button class="pill" type="button" data-sayopt="vF">🔊 Mot FR</button><button class="pill" type="button" data-sayopt="vI">🔊 Mot EN</button><button class="pill" type="button" data-sayopt="vEF">🔊 Exemple FR</button><button class="pill" type="button" data-sayopt="vEI">🔊 Exemple EN</button></div>
   <p class="pr" style="margin:0">À chaque niche atteinte (visite guidée ou libre), les sons cochés sont lus l'un après l'autre, dans cet ordre.</p>
@@ -1278,7 +1276,7 @@ prefs.approach = AP_OF[PAL];   // l'approche d'apprentissage et la version du pa
 function save() { ls.set(PK("pos"), { r: st.r, n: st.n, zoom: st.zoom, zv: 2 }); }   // zv : cadrage choisi après le passage au « panneau » par défaut
 /* Deux comptes possibles : le compte Claude (capacité db) quand la page tourne dans Claude,
    ou un compte e-mail Supabase (code à 6 chiffres) sur la version GitHub Pages. Sinon : navigateur seulement. */
-const SBCFG = window.PM_CONFIG || {};
+const SBCFG = (() => { const c = Object.assign({}, window.PM_CONFIG || {}); try { const o = JSON.parse(localStorage.getItem("pmen:sbcfg") || "null"); if (o && o.supabaseUrl && o.supabaseKey) { c.supabaseUrl = o.supabaseUrl; c.supabaseKey = o.supabaseKey; c.local = true; } } catch (e) {} return c; })();
 const store = { kind: null, db: null, sb: null, uid: null, email: "", cache: {}, timers: {} };
 const mergeCards = (a, b) => { const o = Object.assign({}, a); for (const k in b) { const x = o[k], y = b[k]; if (!x || (y.seen || 0) > (x.seen || 0) || (y.d || 0) > (x.d || 0) || ((y.d || 0) === (x.d || 0) && (y.b || 0) > (x.b || 0))) o[k] = y; } return o; };
 async function remoteGet(key) {
@@ -1308,12 +1306,13 @@ async function initStore() {
       $("#accountBtn").hidden = false;
       const { data } = await store.sb.auth.getSession();
       if (data && data.session) await useSession(data.session); else renderAccount();
+      store.sb.auth.onAuthStateChange((ev, s) => { if (ev === "USER_UPDATED" && s) { store.user = s.user; store.email = s.user.email || store.email; renderAccount(); } });
     }
   } catch (e) { console.warn("stockage", e); }
 }
 function loadScript(src) { return new Promise((ok, ko) => { const sc = document.createElement("script"); sc.src = src; sc.onload = ok; sc.onerror = ko; document.head.appendChild(sc); }); }
 async function useSession(session) {
-  store.kind = "sb"; store.uid = session.user.id; store.email = session.user.email || "";
+  store.kind = "sb"; store.uid = session.user.id; store.user = session.user; store.email = session.user.email || "";
   const owner = ls.get("owner", null);
   if (owner && owner !== store.uid) { for (const r of CR()) ls.set("srs_" + r.id, {}); ls.set("hist", []); HIST = []; }
   ls.set("owner", store.uid); store.cache = {};
@@ -1422,30 +1421,132 @@ async function doReset() {
   }
   toast("Progression effacée : on repart de zéro"); setTimeout(() => location.reload(), 700);
 }
-/* Fenêtre « Compte » (version GitHub Pages) */
+/* Compte (section « Compte » des Réglages) : inscription / connexion par code e-mail (Supabase), réglages du compte,
+   export et suppression. La version publiée dans Claude utilise le compte Claude et n'affiche que l'état. */
+const acct = { step: "", confirm: "" };
+const inputCss = "font:inherit;font-size:16px;flex:1;min-width:12em;padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg)";
+const fmtDate = s => { try { return new Date(s).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" }); } catch (e) { return ""; } };
+function localProgress() { const o = { palais: "Palace of English", exporte: new Date().toISOString(), srs: {}, hist: ls.get("hist", []), notes: ls.get("notes", {}) }; for (const id of allRoomIds()) { const c = ls.get("srs_" + id, {}); if (Object.keys(c).length) o.srs[id] = c; } return o; }
+function cardCount() { let n = 0; for (const id of allRoomIds()) n += Object.keys(ls.get("srs_" + id, {})).length; return n; }
+function serverBlock() {
+  const open = acct.step === "server";
+  return `<details ${open ? "open" : ""} style="margin-top:4px"><summary class="pr" style="cursor:pointer">Paramètres du serveur Supabase</summary>
+    <p class="pr" style="margin:8px 0">Le palais se synchronise avec un projet Supabase (table « progress », voir <span class="mono">supabase/schema.sql</span>). ${SBCFG.supabaseUrl ? `Serveur actuel : <span class="mono">${esc(SBCFG.supabaseUrl.replace(/^https?:\/\//, ""))}</span>${SBCFG.local ? " (réglé sur cet appareil)" : " (config.js)"}.` : "Aucun serveur n'est réglé : la progression reste sur cet appareil."}</p>
+    <div class="frow"><label for="sbUrl">URL du projet</label><input id="sbUrl" type="url" placeholder="https://xxxx.supabase.co" style="${inputCss}" value="${esc(SBCFG.local ? SBCFG.supabaseUrl : "")}"></div>
+    <div class="frow"><label for="sbKey">Clé « anon public »</label><input id="sbKey" type="text" autocomplete="off" spellcheck="false" placeholder="eyJ…" style="${inputCss}" value="${esc(SBCFG.local ? SBCFG.supabaseKey : "")}"></div>
+    <div class="btns"><button class="btn alt" type="button" data-acct="srvSave">Enregistrer et recharger</button>${SBCFG.local ? `<button class="btn alt" type="button" data-acct="srvReset">Revenir à config.js</button>` : ""}</div>
+    <p class="pr" style="margin:0">La clé « anon public » est faite pour être publique (Supabase → Project Settings → API). Ce réglage ne vaut que pour ce navigateur.</p></details>`;
+}
 function renderAccount(step) {
-  const b = $("#accountBody"); if (!b) return;
-  if (store.kind === "sb") { b.innerHTML = `<p style="margin:0">Connecté avec <b>${esc(store.email)}</b>. Ta progression est enregistrée sur ton compte et suit tes appareils.</p><div class="btns"><button class="btn alt" type="button" id="sbOut">Se déconnecter</button></div>`; return; }
-  if (step === "code") { b.innerHTML = `<p style="margin:0">Un code à 6 chiffres a été envoyé à <b>${esc(store.email)}</b>. Il peut mettre une minute à arriver ; pense aux courriers indésirables.</p>
+  if (step !== undefined) acct.step = step;
+  const b = $("#acctBody"); if (!b) return;
+  const msg = `<p class="pr" id="sbMsg" style="margin:0"></p>`;
+  if (store.kind === "claude") { b.innerHTML = `<p style="margin:0">Ta progression est enregistrée sur ton compte Claude et te suit sur tous tes appareils. Rien à régler ici.</p>`; return; }
+  if (!store.sb) {
+    b.innerHTML = `<p style="margin:0">Pas de compte : ta progression (${cardCount()} cartes) est enregistrée dans ce navigateur seulement.</p>
+      <div class="btns"><button class="btn alt" type="button" data-acct="export">Exporter ma progression</button></div>${serverBlock()}${msg}`; return;
+  }
+  if (store.kind === "sb") {
+    const u = store.user || {}, name = (u.user_metadata && u.user_metadata.name) || "";
+    if (acct.step === "email") { b.innerHTML = `<p style="margin:0">Nouvelle adresse e-mail. Un lien de confirmation sera envoyé aux deux adresses ; le changement prend effet une fois confirmé.</p>
+      <div class="frow"><label for="sbNewEmail">Nouvelle adresse</label><input id="sbNewEmail" type="email" autocomplete="email" style="${inputCss}"></div>
+      <div class="btns"><button class="btn" type="button" data-acct="emailGo">Changer d'adresse</button><button class="btn alt" type="button" data-acct="back">Annuler</button></div>${msg}`; setTimeout(() => $("#sbNewEmail") && $("#sbNewEmail").focus(), 50); return; }
+    if (acct.step === "name") { b.innerHTML = `<div class="frow"><label for="sbName">Prénom ou pseudo</label><input id="sbName" type="text" autocomplete="nickname" maxlength="40" style="${inputCss}" value="${esc(name)}"></div>
+      <div class="btns"><button class="btn" type="button" data-acct="nameGo">Enregistrer</button><button class="btn alt" type="button" data-acct="back">Annuler</button></div>${msg}`; setTimeout(() => $("#sbName") && $("#sbName").focus(), 50); return; }
+    if (acct.step === "delData" || acct.step === "delAcct") {
+      const all = acct.step === "delAcct";
+      b.innerHTML = `<p style="margin:0"><b>${all ? "Supprimer définitivement ton compte" : "Effacer ta progression enregistrée sur le compte"}</b></p>
+        <p class="pr" style="margin:0">${all ? "Ton compte, ton adresse e-mail et toute ta progression sur le serveur (tous les palais liés à ce compte) seront supprimés. Une copie reste dans ce navigateur, que tu peux exporter avant." : "La progression du Palace of English enregistrée sur le serveur est effacée ; ton compte et la copie de ce navigateur sont conservés."} Action irréversible.</p>
+        <div class="frow"><label for="sbConfirm">Tape <b>${all ? "SUPPRIMER" : "EFFACER"}</b> pour confirmer</label><input id="sbConfirm" type="text" autocomplete="off" style="${inputCss};max-width:10em"></div>
+        <div class="btns"><button class="btn danger" type="button" data-acct="${all ? "delAcctGo" : "delDataGo"}">${all ? "Supprimer mon compte" : "Effacer la progression du serveur"}</button><button class="btn alt" type="button" data-acct="back">Annuler</button></div>${msg}`; return;
+    }
+    b.innerHTML = `<p style="margin:0">Connecté avec <b>${esc(store.email)}</b>${name ? ` · ${esc(name)}` : ""}. Ta progression est enregistrée sur ton compte et suit tes appareils.</p>
+      ${u.created_at ? `<p class="pr" style="margin:0">Compte créé le ${fmtDate(u.created_at)}${u.last_sign_in_at ? ` · dernière connexion le ${fmtDate(u.last_sign_in_at)}` : ""}.</p>` : ""}
+      <h3 style="margin:6px 0 0">Profil</h3>
+      <div class="btns"><button class="btn alt" type="button" data-acct="name">${name ? "Changer de pseudo" : "Ajouter un pseudo"}</button><button class="btn alt" type="button" data-acct="email">Changer d'adresse e-mail</button></div>
+      <h3 style="margin:6px 0 0">Progression</h3>
+      <div class="btns"><button class="btn alt" type="button" data-acct="sync">Synchroniser maintenant</button><button class="btn alt" type="button" data-acct="export">Exporter (fichier JSON)</button></div>
+      <h3 style="margin:6px 0 0">Session</h3>
+      <div class="btns"><button class="btn alt" type="button" data-acct="out">Se déconnecter</button><button class="btn alt" type="button" data-acct="outAll">Se déconnecter partout</button></div>
+      <h3 style="margin:6px 0 0">Zone sensible</h3>
+      <div class="btns"><button class="btn danger" type="button" data-acct="delData">Effacer ma progression du serveur…</button><button class="btn danger" type="button" data-acct="delAcct">Supprimer mon compte…</button></div>
+      ${serverBlock()}${msg}`; return;
+  }
+  if (acct.step === "code") { b.innerHTML = `<p style="margin:0">Un code à 6 chiffres a été envoyé à <b>${esc(store.email)}</b>. Il peut mettre une minute à arriver ; pense aux courriers indésirables.</p>
       <div class="frow"><label for="sbCode">Code</label><input id="sbCode" type="text" inputmode="numeric" autocomplete="one-time-code" maxlength="6" style="font:inherit;font-size:20px;letter-spacing:.3em;width:7em;padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg)"></div>
-      <div class="btns"><button class="btn" type="button" id="sbVerify">Se connecter</button><button class="btn alt" type="button" id="sbBack">Changer d'adresse</button></div><p class="pr" id="sbMsg" style="margin:0"></p>`; setTimeout(() => $("#sbCode") && $("#sbCode").focus(), 50); return; }
-  b.innerHTML = `<p style="margin:0">Connecte-toi pour retrouver ta progression sur tous tes appareils. Pas de mot de passe : tu reçois un code par e-mail.</p>
-    <div class="frow"><label for="sbEmail">E-mail</label><input id="sbEmail" type="email" autocomplete="email" placeholder="prenom@exemple.fr" style="font:inherit;font-size:16px;flex:1;min-width:12em;padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg)" value="${esc(store.email)}"></div>
-    <div class="btns"><button class="btn" type="button" id="sbSend">Recevoir un code</button></div><p class="pr" id="sbMsg" style="margin:0"></p>`;
+      <div class="btns"><button class="btn" type="button" data-acct="verify">Valider</button><button class="btn alt" type="button" data-acct="resend">Renvoyer le code</button><button class="btn alt" type="button" data-acct="back">Changer d'adresse</button></div>${msg}`; setTimeout(() => $("#sbCode") && $("#sbCode").focus(), 50); return; }
+  const signup = acct.mode !== "login";
+  b.innerHTML = `<div class="pills" role="group" aria-label="Inscription ou connexion"><button class="pill" type="button" data-acct="modeSignup" aria-pressed="${signup}">Créer un compte</button><button class="pill" type="button" data-acct="modeLogin" aria-pressed="${!signup}">J'ai déjà un compte</button></div>
+    <p style="margin:0">${signup ? "Crée un compte gratuit pour retrouver ta progression sur tous tes appareils. Ta progression actuelle (" + cardCount() + " cartes) y sera ajoutée." : "Connecte-toi pour retrouver ta progression."} Pas de mot de passe : tu reçois un code par e-mail.</p>
+    <div class="frow"><label for="sbEmail">E-mail</label><input id="sbEmail" type="email" autocomplete="email" placeholder="prenom@exemple.fr" style="${inputCss}" value="${esc(store.email)}"></div>
+    ${signup ? `<label class="pr" style="display:flex;gap:8px;align-items:flex-start;margin:0"><input type="checkbox" id="sbOk" style="margin-top:3px"> J'accepte que mon adresse e-mail et ma progression soient enregistrées pour synchroniser le palais ; je peux supprimer mon compte à tout moment ici.</label>` : ""}
+    <div class="btns"><button class="btn" type="button" data-acct="send">${signup ? "Créer mon compte" : "Recevoir un code"}</button><button class="btn alt" type="button" data-acct="export">Exporter ma progression</button></div>${serverBlock()}${msg}`;
 }
-async function sbSend() {
-  const email = ($("#sbEmail").value || "").trim(); if (!/^\S+@\S+\.\S+$/.test(email)) { $("#sbMsg").textContent = "Adresse e-mail invalide."; return; }
-  $("#sbMsg").textContent = "Envoi…"; const { error } = await store.sb.auth.signInWithOtp({ email, options: { shouldCreateUser: true } });
-  if (error) { $("#sbMsg").textContent = error.status === 429 ? "Trop d'envois rapprochés : réessaie dans quelques minutes." : "Envoi impossible : " + error.message; return; }
-  store.email = email; renderAccount("code");
+const say = t => { const m = $("#sbMsg"); if (m) m.textContent = t; };
+function sbErr(error) { return error.status === 429 ? "Trop d'essais rapprochés : réessaie dans quelques minutes." : /signups? not allowed|user not found|otp_disabled/i.test(error.message || "") ? "Aucun compte avec cette adresse. Choisis « Créer un compte »." : error.message; }
+async function acctAction(a) {
+  try {
+    if (a === "modeSignup" || a === "modeLogin") { acct.mode = a === "modeLogin" ? "login" : "signup"; return renderAccount(""); }
+    if (a === "back") { acct.step = ""; return renderAccount(""); }
+    if (a === "export") {
+      const blob = new Blob([JSON.stringify(localProgress(), null, 1)], { type: "application/json" }), url = URL.createObjectURL(blob), el = document.createElement("a");
+      el.href = url; el.download = `palace-of-english-progression-${new Date().toISOString().slice(0, 10)}.json`; document.body.appendChild(el); el.click(); el.remove(); setTimeout(() => URL.revokeObjectURL(url), 2000);
+      return say("Fichier de progression téléchargé.");
+    }
+    if (a === "srvSave") {
+      const url = ($("#sbUrl").value || "").trim().replace(/\/+$/, ""), key = ($("#sbKey").value || "").trim();
+      if (!/^https:\/\/[\w.-]+$/.test(url) || key.length < 20) return say("URL (https://…supabase.co) ou clé invalide.");
+      localStorage.setItem("pmen:sbcfg", JSON.stringify({ supabaseUrl: url, supabaseKey: key })); return location.reload();
+    }
+    if (a === "srvReset") { localStorage.removeItem("pmen:sbcfg"); return location.reload(); }
+    if (a === "send" || a === "resend") {
+      const email = a === "resend" ? store.email : ($("#sbEmail").value || "").trim();
+      if (!/^\S+@\S+\.\S+$/.test(email)) return say("Adresse e-mail invalide.");
+      const signup = acct.mode !== "login";
+      if (a === "send" && signup && !($("#sbOk") && $("#sbOk").checked)) return say("Coche la case d'accord pour créer ton compte.");
+      say("Envoi…"); const { error } = await store.sb.auth.signInWithOtp({ email, options: { shouldCreateUser: signup } });
+      if (error) return say("Envoi impossible : " + sbErr(error));
+      store.email = email; renderAccount("code"); if (a === "resend") say("Nouveau code envoyé."); return;
+    }
+    if (a === "verify") {
+      const token = ($("#sbCode").value || "").replace(/\D/g, ""); if (token.length < 6) return say("Le code fait 6 chiffres.");
+      say("Vérification…"); const { data, error } = await store.sb.auth.verifyOtp({ email: store.email, token, type: "email" });
+      if (error || !data.session) return say("Code incorrect ou expiré. Renvoie un code.");
+      acct.step = ""; await useSession(data.session); return;
+    }
+    if (a === "name" || a === "email" || a === "delData" || a === "delAcct") return renderAccount(a);
+    if (a === "nameGo") {
+      const name = ($("#sbName").value || "").trim().slice(0, 40); say("Enregistrement…");
+      const { data, error } = await store.sb.auth.updateUser({ data: { name } }); if (error) return say(sbErr(error));
+      store.user = data.user; acct.step = ""; renderAccount(); return toast("Pseudo enregistré");
+    }
+    if (a === "emailGo") {
+      const email = ($("#sbNewEmail").value || "").trim(); if (!/^\S+@\S+\.\S+$/.test(email)) return say("Adresse e-mail invalide.");
+      say("Envoi…"); const { error } = await store.sb.auth.updateUser({ email }); if (error) return say(sbErr(error));
+      acct.step = ""; renderAccount(); return say(`Lien de confirmation envoyé à ${email} (et à l'ancienne adresse). Le changement prendra effet une fois confirmé.`);
+    }
+    if (a === "sync") { say("Synchronisation…"); await afterLogin(); return say("Progression synchronisée."); }
+    if (a === "out" || a === "outAll") {
+      await store.sb.auth.signOut(a === "outAll" ? { scope: "global" } : undefined);
+      store.kind = null; store.uid = null; store.user = null; store.cache = {}; acct.step = ""; $("#accountBtn").textContent = "Compte"; renderAccount();
+      return toast(a === "outAll" ? "Déconnecté de tous les appareils" : "Déconnecté : la progression reste aussi sur cet appareil");
+    }
+    if (a === "delDataGo") {
+      if (($("#sbConfirm").value || "").trim().toUpperCase() !== "EFFACER") return say("Tape EFFACER pour confirmer.");
+      say("Effacement…"); const { error } = await store.sb.from("progress").delete().like("key", "en:%"); if (error) return say(sbErr(error));
+      acct.step = ""; renderAccount(); return toast("Progression effacée du serveur (copie locale conservée)");
+    }
+    if (a === "delAcctGo") {
+      if (($("#sbConfirm").value || "").trim().toUpperCase() !== "SUPPRIMER") return say("Tape SUPPRIMER pour confirmer.");
+      say("Suppression…"); const { error } = await store.sb.rpc("delete_own_account");
+      if (error) return say(/function|not found|404/i.test(error.message || "") ? "La suppression n'est pas encore activée sur le serveur (fonction delete_own_account de supabase/schema.sql)." : sbErr(error));
+      try { await store.sb.auth.signOut({ scope: "local" }); } catch (e) {}
+      store.kind = null; store.uid = null; store.user = null; store.email = ""; store.cache = {}; ls.set("owner", null); acct.step = ""; $("#accountBtn").textContent = "Compte"; renderAccount();
+      return toast("Compte supprimé");
+    }
+  } catch (e) { console.warn("compte", a, e); say("Erreur : " + (e && e.message || e)); }
 }
-async function sbVerify() {
-  const token = ($("#sbCode").value || "").replace(/\D/g, ""); if (token.length < 6) { $("#sbMsg").textContent = "Le code fait 6 chiffres."; return; }
-  $("#sbMsg").textContent = "Vérification…"; const { data, error } = await store.sb.auth.verifyOtp({ email: store.email, token, type: "email" });
-  if (error || !data.session) { $("#sbMsg").textContent = "Code incorrect ou expiré. Redemande un code."; return; }
-  await useSession(data.session); closeSheets();
-}
-async function sbOut() { await store.sb.auth.signOut(); store.kind = null; store.uid = null; store.cache = {}; $("#accountBtn").textContent = "Compte"; renderAccount(); toast("Déconnecté : la progression reste aussi sur cet appareil"); }
+
 async function grade(ri, key, ok) {
   const c = await srsRoom(ri), cur = c[key] || { b: 0, d: today() };
   const b = ok ? Math.min(5, (cur.seen ? cur.b : 0) + 1) : 0;
@@ -1995,9 +2096,9 @@ function bindUI() {
   $("#dhead").onclick = () => setDrawer(!st.drawerOpen);
   $("#planBtn").onclick = () => { $("#planSheet").hidden = false; renderPlan(); };
   $("#resetBtn").onclick = openReset; $("#resetGo").onclick = doReset;
-  $("#accountBtn").onclick = () => { $("#accountSheet").hidden = false; renderAccount(); };
-  $("#accountSheet").addEventListener("click", e => { const id = e.target.id; if (id === "sbSend") sbSend(); if (id === "sbVerify") sbVerify(); if (id === "sbBack") renderAccount(); if (id === "sbOut") sbOut(); });
-  $("#accountSheet").addEventListener("keydown", e => { if (e.key !== "Enter") return; if (e.target.id === "sbEmail") sbSend(); if (e.target.id === "sbCode") sbVerify(); });
+  $("#accountBtn").onclick = () => { setView("reglages"); setTimeout(() => { const h = $("#compte"); if (h) h.scrollIntoView({ behavior: "smooth", block: "start" }); }, 60); };
+  $("#acctBody").addEventListener("click", e => { const b = e.target.closest("button"); if (b && b.dataset.acct) acctAction(b.dataset.acct); });
+  $("#acctBody").addEventListener("keydown", e => { if (e.key !== "Enter") return; const id = e.target.id; if (id === "sbEmail") acctAction("send"); if (id === "sbCode") acctAction("verify"); if (id === "sbNewEmail") acctAction("emailGo"); if (id === "sbName") acctAction("nameGo"); });
   document.addEventListener("click", e => {
     const t = e.target;
     if (t.closest("[data-close]")) return closeSheets();
@@ -2173,7 +2274,7 @@ function setView(v) {
   if (v === "palais") { onResize(); renderRooms(); }
   if (v === "lib") renderLib();
   if (v === "carnet") renderCarnet();
-  if (v === "reglages") renderTests();
+  if (v === "reglages") { renderTests(); renderAccount(); }
 }
 async function statusAll() { // par niche : boîte la plus haute atteinte (toutes questions confondues) et révision due
   const out = new Map(), t = today();
